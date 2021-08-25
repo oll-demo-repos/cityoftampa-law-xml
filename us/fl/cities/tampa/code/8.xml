@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>8</num>
+  <heading>CEMETERIES</heading>
+  <annotation type="Editor's Notes" dest="container">1 <strong>Editor's note—</strong> Ord. No. 2012-36, §§ 2, 3, adopted April 5, 2012, repealed the former Ch. 8, §§ 8-1-8-11, and enacted a new Ch. 8 as set out herein. The former Ch. 8 pertained to similar subject matter and derived from Ord. No. 89-232, § 2(12-1-12-10), 9-28-89; Ord. No. 93-150, §§ 1-3, 9-30-93.</annotation>
+  <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Cemeteries, F.S. Ch. 497.</annotation>
+  <section>
+    <num>8-1</num>
+    <heading>Title.</heading>
+    <text>This chapter shall be known and may be cited as the "City of Tampa Cemeteries Ordinance."</text>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-2</num>
+    <heading>City cemeteries.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There are five (5) city cemeteries known as the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Woodlawn;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Oaklawn;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Jackson Heights;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Marti Cemetery; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Centro Austuriano.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The city clerk shall keep an accurate legal description of each city cemetery including the official record book and page numbers, numbers of the instruments conveying each cemetery or part thereof to the city. The city clerk shall also keep an accurate map of each city cemetery.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-3</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of this chapter, certain abbreviations, terms, phrases, words and their derivatives shall have the following meanings:</text>
+    <text><em>Blocks</em> shall mean subdivisions shown on the maps of individual city cemeteries.</text>
+    <text><em>Burial plots/spaces</em> shall mean a single burial space measuring three and one-half (3½) by eight and one-half (8½) feet.</text>
+    <text><em>City cemetery</em> shall mean Woodlawn, Oaklawn, Jackson Heights, Marti and Centro Austuriano Cemeteries, and any other cemetery which may become owned by the city.</text>
+    <text><em>Cemetery coordinator</em> shall refer to the individual responsible for maintaining records of internments and inurnments.</text>
+    <text><em>Columbarium</em> shall mean a vault with niches for urns containing ashes of the deceased.</text>
+    <text><em>Cremains</em> shall mean ashes remaining after the cremation of a human corpse.</text>
+    <text><em>Cremains certificate</em> shall mean the certificate that accompanies the cremains from the crematory.</text>
+    <text><em>Crypt</em> shall mean underground vault used for the burial of human remains.</text>
+    <text><em>Director</em> shall refer to the Director of the City of Tampa Parks and Recreation Department and his or her designee.</text>
+    <text><em>Disinterment</em> shall mean to remove a corpse from a grave or tomb for the purpose of relocation.</text>
+    <text><em>Exhume</em> shall mean to remove a corpse from a grave or tomb.</text>
+    <text><em>Full burial</em> shall mean the burial of human remains in a casket and vault.</text>
+    <text><em>Grave</em> shall mean an excavation for burial of human remains.</text>
+    <text><em>Hermetically sealed</em> shall mean an airtight seal.</text>
+    <text><em>Interment</em> shall mean a burial or entombment of one body into a grave or tomb, which is done at the request of the family and/or legal representative.</text>
+    <text><em>Interment authorization/interment permit</em> shall mean the right, once signed, notarized and returned, for remains to be interred.</text>
+    <text><em>Interment rights</em> shall mean the right of all owners and/or his or her legal heirs to use cemetery grounds for the interment of dead persons. The interment right belongs to the owner of the burial lot, cemetery lot, or grave space and is subject to the rules and regulations contained in this chapter.</text>
+    <text><em>Inurnment</em> shall mean to bury or entomb an urn, as ashes of the deceased.</text>
+    <text><em>Lot</em> shall refer to the numbered divisions as shown on the plats/maps of the city cemeteries.</text>
+    <text><em>Marker/memorial marker</em> shall be identified as one that marks or distinguishes, as a tombstone. Memorial shall be identified as a marker to preserve the memory of a person or event. Marker/memorial shall apply to any marker upon or in any lot placed thereupon or therein or partially therein for the purpose of identification or in memory of the deceased. No marker/memorial or other structure intended for identification will be of any material other than granite, marble or cast bronze, must be located at either the head or foot of the grave and may not cover the entire grave, nor shall it exceed 2′ × 4′ × 1.5′.</text>
+    <text><em>Mausoleum</em> shall mean an above ground assembled or pre-assembled structure, with no adornments, used for interment or inurnment.</text>
+    <text><em>Monument/obelisk</em> shall mean any marker/memorial that is not flush with the ground, including statues and adornments.</text>
+    <text><em>Perpetual care fund</em> shall mean a fund established by the City of Tampa to provide continuing maintenance of the grounds of city owned and operated cemeteries.</text>
+    <text><em>Refuse</em> shall mean garbage, trash, debris and rubbish, including but not limited to, flowers from graves, plant and or tree trimmings, or lawn clippings.</text>
+    <text><em>Sections</em> shall refer to the subdivisions shown on the plat maps of city cemeteries.</text>
+    <text><em>Technical manual</em> shall refer to the official's rules and regulations pertaining to requirements not specifically addressed in the City Code but necessary to the effective pursuit of the purpose of the City Code, and any other information needed for the uniform and orderly administration of the City Code. Such standards are to be published in a technical manual, which manual shall be on file in the office of the city clerk at least seven (7) days prior to adoption thereof and shall be made available to the public for inspection and for duplication at cost.</text>
+    <text><em>Transit permit</em> shall mean the permit issued by the medical examiner or coroner's office, which accompanies the body during transit.</text>
+    <text><em>Vault</em> shall mean an underground chamber made of concrete, granite, marble, or other impermeable material, for the placement of caskets and human cremains.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-4</num>
+    <heading>Use of cemeteries.</heading>
+    <text>The city cemeteries are for the purpose of human remains and shall only be used for cemetery purposes.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-5</num>
+    <heading>Filing of plats.</heading>
+    <text>It shall be the responsibility of the city clerk to keep on file in their office true copies of the plats of the public cemeteries of the city, as adopted, and to keep proper books of record in regard to the cemeteries.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-6</num>
+    <heading>Establishment of policies; regulations.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The director shall provide for the administration and operation of all city cemeteries. The director shall be responsible for the policies, regulations and fees set forth once approved by resolution of the city council.</text>
+      <text>The director shall have the authority to promulgate rules and regulations pertaining to all city cemeteries. Such rules shall be made available to the public at the parks and recreation department office. Any person who violates such rules or regulations or who refuses to comply with a directive from a city official enforcing such rules or regulations shall be asked to leave the facilities; failure to leave shall be considered trespassing.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>
+        <em>Conduct in cemeteries.</em>
+      </text>
+      <para>
+        <num>(1)</num>
+        <text>No person shall remove or injure any tree, shrub, marker/memorial, nor mar any landmark, marker/memorial or in any way deface the grounds of the cemetery.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No person shall be permitted to enter or leave the cemetery except by the public gates, which shall be open from 8:00 a.m. until 6:00 p.m., daily.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Visitors within the cemetery grounds shall use only established roads and walkways.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>No person shall use any form of advertisement in city cemeteries.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>No person shall throw/dispose of any flowers, trash or debris anywhere other than designated litter receptacles.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>No person shall permit any dog or other domesticated animal to enter or remain on cemetery grounds for any purpose.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Any person found on cemetery grounds after 6:00 p.m. will be considered a trespasser.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Alcoholic beverages are prohibited in any city cemetery.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-7</num>
+    <heading>Fee authority and types.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Fees are the responsibility of the lot owner, family member or executor of their estate. The city council has the authority to set fees by resolution. Such fees may include, but shall not be limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Cemetery spaces;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The internment or inurnment of human remains;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The disinterment of human remains;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Staking of gravesites;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Excess dirt which is not removed by a vault company under this chapter;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Recording of burial certificates;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The construction of mausoleums or other above ground structures to be used for the internment of inurnment of human remains;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Grave transfers; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Headstones and/or monument.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Pursuant to F.S. § 497, the fees collected pursuant to section 8-7(a) for perpetual care shall be deposited in a separately designated care and maintenance trust fund. The net income of the care and maintenance trust fund shall be used solely for the care and maintenance of city cemeteries.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-8</num>
+    <heading>Authorization required for interment and/or disinterment; information to be shown.</heading>
+    <text>No interment/disinterment shall be made in any cemetery and no grave shall be opened therein or body removed without prior written authorization obtained from the parks and recreation department, local registrar of vital statistics or such other person as may be authorized by law to issue the appropriate permit, and such work shall be under the direction of the parks and recreation department. A minimum of twenty-four (24) hours notice shall be required prior to interment or disinterment of any human remains. The parks and recreation department must be provided with a transit permit or cremation certificate from such office or person as may be authorized by law to permit the burial of the remains before opening any grave or within ten (10) work days after the burial. The parks and recreation department shall add the date and place of burial of the body to the transit permit or cremation certificate, and to forward such transit permit to the city clerk for notation in the record book.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-9</num>
+    <heading>Marking of graves prior to memorial/marker placement.</heading>
+    <text>In order to secure the recognition of graves and to prevent mistakes, each grave shall be marked by the funeral home in charge of the burial, placing at the head thereof a stake marked with the decedents name and date of death, and such stakes shall remain until permanent marker/memorial are erected by the relatives or the estate of the deceased. Such permanent marker/memorial must be erected within six (6) weeks of the burial of the deceased and must contain thereon the name, date of birth and date of death.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-10</num>
+    <heading>Ownership of burial spaces or rights.</heading>
+    <text>A new deed cannot be issued to replace a deed, which is lost or destroyed. No person shall be considered as the rightful owner of any burial space unless he or she is in possession of a duly executed deed or other legal document. If a deed or other legal document cannot be presented, then the books of the parks and recreation department shall be considered as a final in determining ownership of any block, lot or space.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-11</num>
+    <heading>Transfer of ownership.</heading>
+    <text>It is the owner's responsibility to inform the parks and recreation department of any sale or transfer of ownership of any block, lot, or space. It shall be the responsibility of the (new) owner to provide copies of the legal documents to the parks and recreation department.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-12</num>
+    <heading>Burials; depth of graves; removal of excess dirt; number of interments.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All burials in city-operated cemeteries shall be in concrete vaults with the exception of cremains vaults, which can be either granite, or cement, marble, or other impermeable material. All graves must be dug not less than five (5) feet deep shall be well closed up, even with ground level and the earth in such graves shall be well packed, except cremains vaults shall be dug not less than eighteen (18) inches deep. Such graves shall be staked out and designated in some manner for identification. The funeral home or vault company shall be responsible for the removal, from the cemetery, of all excess dirt the same day as the burial.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The interment or inurnment of human remains in a mausoleum or other above ground structure shall be permitted if there is compliance with all the requirements of section 8-8.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Only three (3) interments will be allowed per space. There may be three (3) cremains or alternatively, one (1) full burial and two (2) cremains interred or inurned in a single space. Interments, inurnments, disinterments and disinurnments into the same space, within a vault(s) shall only be allowed if the following occurs:</text>
+      <para>
+        <num>(1)</num>
+        <text>Copy of deed or other proof of ownership is produced.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A signed interment, disinterment authorization is signed and on file with the parks and recreation department to assume full legal and or financial responsibility for the burial.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Vault/vaults must have the following permanent signage engraved or secured to the outside of said vault:</text>
+        <text>Within this vault lies:</text>
+        <text>Name, date of birth and date of death (in casket).</text>
+        <text>Name, date of birth and date of death (outside of casket).</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>When more than one person is buried in or on top of one (1) space (cremation and or casket interment) a permanent marker/memorial or mausoleum shall be installed, engraved with all names and dates of birth and death, of those buried in that space and all spaces of other family members within the same lot. An original invoice for the marker or mausoleum engraving shall be submitted prior to burial.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-13</num>
+    <heading>Mausoleums and above ground structures.</heading>
+    <text>Mausoleums, columbariums or other above ground structures to be used for the interment or inurnment of human remains may be built within city cemeteries provided that they meet the standards specified in the cemetery technical manual promulgated by the parks and recreation department and appropriate fees collected (based on resolution) be collected. All aforementioned structures must be hermetically sealed.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-14</num>
+    <heading>Markers/monuments and decorations.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No coping, upright marker/memorial, obelisks, plantings, ornamentations, slab(s) or structures other than approved mausoleums and or above ground crypts shall be allowed to be erected within a cemetery. Those structures or enclosures established on any lot, which have, in the judgment of the city, become unsightly by reason of damage, neglect or age shall be removed by the city at its expense.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Decorations and or plantings are strictly prohibited. Decorations such as fresh, silk or plastic floral arrangements are excluded. Silk and or plastic floral arrangements will be removed one (1) time yearly for aesthetic purposes as determined by the city. Fresh floral arrangements will be removed when flowers are considered expired.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Improvements, renovations or repairs to existing structures require prior written approval from the parks and recreation department.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>8-15</num>
+    <heading>Sales of burial rights in city cemeteries.</heading>
+    <text>Sales of burial rights will be conducted through the parks and recreation department, cemetery coordinator office or designee.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
+    </annotations>
+  </section>
+</container>

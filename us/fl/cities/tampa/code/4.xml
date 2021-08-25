@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>4</num>
+  <heading>PUBLIC ART</heading>
+  <annotation type="Editor's Notes" dest="container">1 <strong>Editor's note—</strong> Ord. No. 2000-227, § 1, adopted Aug. 31, 2000 amended the title of Ch. 4 to read as herein set out. Prior to inclusion of said ordinance, Ch. 4 was titled, "Art in Public Places." See the Code Comparative Table.</annotation>
+  <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Building and construction regulations, Ch. 5; landscaping, tree removal and site clearing, Ch. 13; property maintenance and structural standards, Ch. 19; zoning, Ch. 27.</annotation>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>I</num>
+    <heading>IN GENERAL</heading>
+    <section>
+      <num>4-1</num>
+      <heading>Intent.</heading>
+      <text>The intent of this chapter is to establish a policy for the city, in keeping with the vitality for which it is nationally recognized, and in order to enhance its aesthetic environment, to encourage private developers/owners of commercial properties to commission a piece of art for each new development or mall or structure or, in lieu thereof, to donate monies to the city for public art. The private developers/owners should be inspired to invest time, effort and money into the art displayed on their sites, recognizing that the art not only will become integral, lasting components of the cityscape but will be of intrinsic value to their developments. Further, the city, desiring to expand public experience and exposure to culture through various art forms and to enhance the appearance of public facilities and improve the environment of the city on behalf of its citizens, intends to provide for the incorporation of visual art in the design and construction of public facilities within the city.</text>
+      <annotations>
+        <annotation type="History">Code 1971, § 55-1</annotation>
+        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History">Ord. No. 2000-227, § 2, 8-31-00</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4-2</num>
+      <heading>Definitions.</heading>
+      <text>The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:</text>
+      <text><em>Commercial structure</em> means any building or structure, all or part of which is to be used as an auditorium, private convention center, professional or commercial office, bank, private library (other than school), manufacturing plant, factory, assembly plant, processing plant, mill, warehouse, shopping mall, store, shop, market, hotel, storage building, freight depot, and private automobile parking structure which is not connected to or incorporated in other structures.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Commercial structure" shall include that developmental project which involves more than one (1) phase of construction.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Phase" shall mean that portion of a developmental project which represents a completed portion of the entire commercial structure.</text>
+      </para>
+      <text><em>Construction costs</em> means the total value of the construction of, or reconstruction work on, commercial structures as determined by the chief building inspector in issuing a building permit for the construction or reconstruction. Relative to a municipal construction project, construction costs shall include architectural and engineering fees, site work and contingency allowances. It does not include land acquisition or subsequent changes to the construction contract. All construction costs shall be calculated as of the date the contract is executed.</text>
+      <text><em>Municipal construction project</em> means any project to be paid for wholly or in part by the city, regardless of the source of the monies, to construct, remodel or reconstruct any public buildings, decorative or commemorative structures, parking facilities and parks, or any portion of any of such buildings, structures, facilities or parks, belonging to the city within its geographical boundaries as they now exist or shall exist in the future.</text>
+      <text><em>Reconstruction</em> means alterations or repairs made to a commercial or municipal structure within any twelve-month period, which alterations or repairs exceed fifty (50) percent of the value of the existing structure, so that such structure is required to conform to the requirements for new buildings pursuant to chapter 5 of this Code.</text>
+      <text><em>Works of art</em> or <em>artworks</em> means tangible creations by artists exhibiting the highest quality of skill and aesthetic principles, including but not limited to paintings, sculptures, stained glass, statues, bas reliefs, engravings, carvings, frescoes, mobiles, murals, collages, mosaics, tapestries, photographs, drawings, monuments and fountains.</text>
+      <annotations>
+        <annotation type="History">Code 1971, § 55-2</annotation>
+        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History">Ord. No. 89-07, § 1(55-2), 1-5-89</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, § 1-2.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4-3</num>
+      <heading>Public art fund.</heading>
+      <para>
+        <num>(a)</num>
+        <text>There is hereby created a public art fund which shall be a separate account set up by the city to receive monies appropriated for the public art program and shall consist of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>One (1) percent of the construction cost of a municipal building project as bid, contracted and accepted by the city. Unexpended monies in this fund may be used for works of art at existing public properties and facilities as deemed appropriate by the public art committee as established in this chapter.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All funds donated to the city by private developers/owners or by others.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Other funds allocated by the city through the budgetary process.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The public art fund shall be used solely for the selection, commissioning, acquisition, installation, maintenance, administration and insurance of the works of art or in relation thereto; and such funds shall be administered by the mayor.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 89-07, § 2(55-3), 1-5-89</annotation>
+        <annotation type="History">Ord. No. 2000-227, § 3, 8-31-00</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Finance generally, § 2-231 et seq.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4-4</num>
+      <heading>Appropriations of funds.</heading>
+      <para>
+        <num>(a)</num>
+        <text>All appropriations for municipal construction projects shall include an amount of not less than one (1) percent of the construction cost of a municipal building project as bid, contracted and accepted by the city, but not to exceed the sum of two hundred thousand dollars ($200,000.00) for any single municipal building project; provided that the public art committee may recommend to the mayor an increased expenditure for those projects of exceptional size or unique function, however, in no event shall the appropriation exceed one (1) percent.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The public art committee shall recommend to the mayor the amount of monies to be allocated for selection, commissioning, acquisition and installation of individual works of art to be incorporated as a part of the municipal construction project for which the monies were appropriated.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Monies appropriated pursuant to this section as part of one (1) such project but not spent in connection with the project may be utilized to supplement other appropriations for the acquisition of works of art or to place works of art in, on or near either city facilities which have already been constructed or city properties.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Code 1971, § 55-4</annotation>
+        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History">Ord. No. 89-07, § 3(55-4), 1-5-89</annotation>
+        <annotation type="History">Ord. No. 2000-227, § 4, 8-31-00</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Finance generally, § 2-231 et seq.</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4-5</num>
+      <heading>Commercial construction participation.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any private developer/owner who applies to the city for building permits to construct or reconstruct a commercial structure shall be encouraged to commit one (1) percent of construction or reconstruction costs up to but not limited to the sum of two hundred thousand dollars ($200,000.00) to the provision of fine art in conjunction with such commercial structure.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Those private developers/owners constructing commercial structures, to be accomplished in phases, need contribute only one (1) percent of construction or reconstruction costs up to but not limited to two hundred thousand dollars ($200,000.00) for the entire phased project.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the private developer/owner constructing or reconstructing a commercial structure does not wish to have fine art in conjunction therewith, he may donate to the city an amount equal to the percentage of the construction cost of the commercial structure as a charitable donation.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Each building permit issued by the city to any such private developer/owner will include data relative to the private developer/owner participating in the public art program in the city.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Any building permit for construction or reconstruction of a commercial structure shall be reported to the public art committee.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 89-07, § 8(55-11), 1-5-89</annotation>
+        <annotation type="History">Ord. No. 2000-227, § 5, 8-31-00</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4-6</num>
+      <heading>Ownership and maintenance.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Ownership of all works of art acquired by the city shall be vested in the city which shall obtain title to each work of art.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Artists, as a part of any contractual agreement with the city for the provision of a work of art, shall be required to submit to the public arts committee a "Maintenance and Inventory Sheet," including annual cost projections, which details the maintenance and ongoing care of the artwork.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 89-07, § 9(55-12), 1-5-89</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4-7-4-25</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>II</num>
+    <heading>PUBLIC ART COMMITTEE</heading>
+    <annotation type="Editor's Notes" dest="container">2 <strong>Editor's note—</strong> Ord. No. 2000-227, § 6, adopted Aug. 31, 2000, amended the title of Art. II to read as herein set out. Prior to inclusion of said ordinance, Art. II was titled "Public Arts Committee."</annotation>
+    <section>
+      <num>4-26</num>
+      <heading>Created.</heading>
+      <text>There is hereby established a committee to be known as the public art committee.</text>
+      <annotations>
+        <annotation type="History">Code 1971, § 55-6</annotation>
+        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History">Ord. No. 2000-227, § 7, 8-31-00</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4-27</num>
+      <heading>Composition; appointment; term of office.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The public art committee shall be composed of seven (7) members who shall be residents of the city and who shall be appointed by the mayor. Each member of the committee shall be appointed for a term of four (4) years, and no member shall serve for more than two (2) terms. Whenever a vacancy shall occur, a successor shall be appointed in like manner to serve for the remainder of such term. Any member who consistently fails to attend meetings without good cause shown or without prior approval of the chairman of the committee shall be automatically removed; and the vacancy shall be filled as herein prescribed. The committee shall be composed of the following members:</text>
+        <para>
+          <num>(1)</num>
+          <text>One (1) city council member;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>One (1) Arts Council of Hillsborough County member or designee;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>One (1) landscape architect, architect, urban planner, or related design professional;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>One (1) active professional artist; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Three (3) private citizens, knowledgeable in the field of public art, education, or community affairs.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Serving as ex officio members shall be the director of arts and cultural affairs and the Director of the Tampa Museum of Art.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Code 1971, § 55-7</annotation>
+        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History">Ord. No. 89-07, § 5(55-7), 1-5-89</annotation>
+        <annotation type="History">Ord. No. 2000-227, § 8, 8-31-00</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4-28</num>
+      <heading>Compensation.</heading>
+      <text>Members of the public art committee shall not be entitled to compensation; provided that all members shall receive reimbursement for parking in city garages and for mileage for any board-related business except travel to and from regularly scheduled and specially called board meetings. Such reimbursement shall be consistent with city policy.</text>
+      <annotations>
+        <annotation type="History">Code 1971, § 55-8</annotation>
+        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History">Ord. No. 9271-A, § 11, 5-29-86</annotation>
+        <annotation type="History">Ord. No. 2000-227, § 9, 8-31-00</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4-29</num>
+      <heading>Organization; conduct of meetings; legal counsel.</heading>
+      <para>
+        <num>(a)</num>
+        <text><em>Organization.</em> The presence of four (4) or more members of the public art committee shall constitute a quorum.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><em>Conduct of meetings.</em> The public art committee shall adopt rules for governing the conduct of its meetings in accordance with the provisions of this chapter, and specifically:</text>
+        <para>
+          <num>(1)</num>
+          <text>The officials of the committee shall be a chairman, a vice-chairman and a secretary who have been elected by the committee. The only limitation on the number of terms of office to which these officials may be elected is the limitation of the number of terms each member of the committee may serve.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The chairman of the committee may call meetings of the committee. Meetings may also be called by written notice signed by at least three (3) members of the committee.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The committee shall convene no less frequently than once every month, unless deemed unnecessary by the chairman with concurrence, either written, in person, or telephonic, of a majority of the members of the committee. The committee may meet more often, should the demand necessitate.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The committee may, at any meeting, set a future meeting date.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Minutes shall be kept of all meetings, including the vote of each member upon each action by the committee.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The city shall furnish administrative support and office space for the purpose of assisting in the implementation of recommendations and advice of the committee, including the employment of an administrator and other staff members, as required.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Any policy decision requiring approval by the committee shall be by motion and approved by a majority of those members present and voting, except that at least four (4) members must vote for the action to be official.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><em>Legal counsel.</em> The legal department shall provide legal counsel as may be reasonably required by the committee for the performance of its functions.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Code 1971, § 55-9</annotation>
+        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History">Ord. No. 89-07, § 6(55-9), 1-5-89</annotation>
+        <annotation type="History">Ord. No. 2000-227, § 10, 8-31-00</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4-30</num>
+      <heading>Purpose, functions and responsibilities.</heading>
+      <text>The purpose, functions and responsibilities of the public art committee are as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>The committee shall prepare implementation guidelines, selection procedures and organizational policies to facilitate this chapter, subject to the approval of the mayor.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The committee shall be responsible for program planning; designating sites; determining project scope and budget; overseeing the artist selection process; commissioning artworks; reviewing design, execution and placement of artworks; and overseeing maintenance of the artworks and the process for removal of artworks from the city's public art collection.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The committee, acting on behalf of the mayor, shall invite professionals in the visual arts and design fields to serve in the artist selection process in order to ensure works of highest quality, or to assist in the determination or artistic merit of works of art offered to the city as donation or for purchase. The committee shall also ensure appropriate community participation in this process and public education activities as part of the public art projects.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The committee shall coordinate, investigate, review and recommend to the mayor other means by which artworks may be obtained, including donations to the public art fund, gifts of artwork, and grant applications for public art projects.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The committee shall act as liaison with private developers to encourage and facilitate private contributions and private art installations within corporate construction and reconstruction projects.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The committee shall encourage public art throughout the city and shall educate and stimulate the participation of all citizens in a joint public and private effort to promote art in public places.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Prior to the selection and commissioning of artists, reviewing of design and the recommendation of the acceptance of works of art relative to municipal construction projects, the committee shall submit the action proposed to be taken to the mayor for approval.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The committee shall record, over the chairman of the committee's signature, its recommendations on each matter considered.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The committee shall adopt rules and regulations, including the creation of subcommittees, to implement this chapter.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 89-07, § 7(55-10), 1-5-89</annotation>
+        <annotation type="History">Ord. No. 2000-227, § 11, 8-31-00</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,619 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>1</num>
+  <heading>GENERAL PROVISIONS</heading>
+  <section>
+    <num>1-1</num>
+    <heading>How Code designated and cited.</heading>
+    <text>The ordinances embraced in the following chapters and sections shall constitute, be designated and cited as the "City of Tampa Code."</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-1), 9-28-89</annotation>
+      <annotation type="History">Ord. No. 91-150, § 1, 8-29-91</annotation>
+      <annotation type="Cross References" dest="container"><strong>Charter reference— </strong>Codification authority, § 2.12.</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-2</num>
+    <heading>Definitions and rules of construction.</heading>
+    <text>In the construction of this Code and all ordinances, the following definitions and rules shall be observed, unless the context clearly indicates otherwise.</text>
+    <text><em>Charter.</em> The word "Charter" shall mean the Revised Charter of the City of Tampa of 1975, as amended.</text>
+    <text><em>City.</em> The words "the city" or "this city" shall be construed as if the words "of Tampa" follow and shall extend to and include its several officers, agents and employees.</text>
+    <text><em>City council.</em> Whenever the words "city council" are used, they shall be construed to mean the City Council of the City of Tampa.</text>
+    <text><em>Code.</em> The words "Code" or "this Code" shall mean "City of Tampa Code."</text>
+    <text><em>Computation of time.</em> In computing any period of time prescribed or allowed by this Code, the day of the act, event or default from which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included unless it is a Saturday, Sunday or legal holiday, in which event the period shall run until the end of the next day which is neither a Saturday, Sunday or legal holiday. When the period of time prescribed or allowed is less than seven (7) days, intermediate Saturdays, Sundays and legal holidays shall be excluded in the computation.</text>
+    <text><em>Conflict of provisions.</em> In a conflict between the provisions of any chapters or articles of any chapters of this Code, the more stringent ordinance or provision shall prevail. If the conflict of provisions cannot be resolved in this manner, the matter shall be referred to the legal department for resolution in accordance with common law rules of construction.</text>
+    <text><em>Contractor.</em> The word "contractor" shall mean any person, firm, partnership, association, corporation, agency or other organization who in any capacity undertakes, offers to undertake, purports to have the capacity to undertake, or accepts an order or contract to construct, alter, repair, add to, subtract from, or improve any building or other structure, project or improvement, or to do any part thereof, including building, plumbing, electrical, mechanical, gas system work, roadway, and sidewalk construction and maintenance activities; and the word "contractor" shall also include any person who for a fixed salary, fixed fee, wages by the day or for any other compensation agrees with the owner, agent or lessee of any property to do any of the foregoing, or have the same done when any part thereof shall be compensation for the supervision, direction or inspection of any of the foregoing. The word "contractor" does not include a person employed by an owner, agent or lessee to perform labor only under the direction of the owner, agent or lessee, or an authorized representative of the United States Government, the state or any political subdivision thereof.</text>
+    <text><em>County.</em> The words "the county" or "this county" shall mean Hillsborough County, Florida.</text>
+    <text><em>F.S.</em> The abbreviation "F.S." shall mean the Florida Statutes, as revised or amended.</text>
+    <text><em>Gender.</em> A word importing the masculine gender only shall extend and be applied to females and to firms, partnerships and corporations, as well as to males.</text>
+    <text><em>Mayor.</em> The word "mayor" shall mean the official of the City of Tampa.</text>
+    <text><em>Number.</em> A word importing the singular number only may extend and be applied to several persons or things as well as to one (1) person or thing.</text>
+    <text><em>Oath.</em> The word "oath" shall be construed to include an affirmation in all cases in which, by law, an affirmation may be substituted for an oath, and in such cases the words "affirm" and "affirmed" shall be equivalent to the words "swear" and "sworn."</text>
+    <text><em>Officers, employees, departments, boards, commissions and other agencies.</em> Whenever reference is made to officers, employees, departments, boards, commissions or other agencies by title only, such reference shall be read as if followed by the words "of the City of Tampa, Florida." Such reference shall include any authorized subordinate or designee.</text>
+    <text><em>Official.</em> The word "official" shall mean the mayor of the City of Tampa or his designee.</text>
+    <text><em>Or, and.</em> "Or" may be read "and," and "and" may be read "or" if the sense requires it.</text>
+    <text><em>Owner.</em> The word "owner," applied to a building or land, shall include any part owner, tenant in common, tenant in partnership, joint tenant, or tenant by the entirety, of the whole or of a part of such building or land.</text>
+    <text><em>Person.</em> The word "person" includes, but is not limited to any individual, firm, partnership, joint venture, syndicate or other group, or combination acting as a unit, association, corporation, estate, trust, business trust, trustee, executor, administrator, receiver, or other fiduciary, body politic or other local governmental entity, and shall include the plural as well as the singular.</text>
+    <text><em>Registered mail.</em> The words "registered mail" shall include certified mail with return receipt requested.</text>
+    <text><em>State.</em> The words "the state" or "this state" shall be construed to mean the State of Florida.</text>
+    <text><em>Tense.</em> Words used in the present or past tense include the future as well as the present and past.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-2), 9-28-89</annotation>
+      <annotation type="History">Ord. No. 91-150, § 2, 8-29-91</annotation>
+      <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>For statutory definitions, see F.S. § 1.01.</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-3</num>
+    <heading>Definitions; words not defined.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Words not defined in this Code shall have the meaning stated in the documents, standards and/or manuals adopted elsewhere in this Code. Words not so defined shall have the meaning stated in the Webster's Ninth New Collegiate Dictionary, as revised.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The official shall be the final authority as to the meaning and interpretation of any word or term in question.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-3), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-4</num>
+    <heading>Effect of repeal of ordinances.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The repeal of an ordinance shall not revive any ordinances in force before or at the time the ordinance repealed took effect.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The repeal of an ordinance shall not affect any punishment or penalty incurred before the repeal took effect, nor any suit, prosecution or proceeding pending at the time of the repeal for an offense committed or cause of action arising under the ordinance repealed.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-4), 9-28-89</annotation>
+      <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>No bill of attainder, ex post facto law or law impairing the obligation of contracts shall ever be passed, Fla. Const. art. I, § 10.</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-5</num>
+    <heading>Code remedial.</heading>
+    <text>This Code is hereby declared to be remedial and shall be construed to secure the beneficial interests and purposes thereof, which are public safety, health, and general welfare.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-5), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-6</num>
+    <heading>General penalty.</heading>
+    <para>
+      <num>(a)</num>
+      <text><em>Code violations—Fine and/or imprisonment and/or probation.</em> It is unlawful for any person to violate or fail to comply with any provision of this Code and, where no specific penalty is provided therefor, the violation of any provision of this Code shall be punished by a fine not exceeding five hundred dollars ($500.00) and/or imprisonment for a term not exceeding sixty (60) days and/or a term of probation not to exceed six (6) months, as set forth in section 1-6.1 or by both such fine and imprisonment. Each day any violation of any provision of this Code shall continue shall constitute a separate offense.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text><em>Principal in the first degree.</em> Whoever commits a violation of the City Code, or aids, abets, counsels, hires, or otherwise procures such violation to be committed, and such violation is committed or is attempted to be committed, is a principal in the first degree and may be charged, convicted, and punished as such, whether he or she is or is not actually or constructively present at the commission of such violation.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The penalty prescribed in subsection (a) of this section shall be in addition to the abatement of the violating condition, any injunctive relief, or revocation of any permit or license.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>This section shall not apply to the failure of officers and employees of the city to perform municipal duties required by this Code.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-6), 9-28-89</annotation>
+      <annotation type="History">Ord. No. 2002-114, § 1, 5-30-02</annotation>
+      <annotation type="History">Ord. No. 2002-115, § 1, 5-30-02</annotation>
+      <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Fines and forfeitures in county court payable to municipality, F.S. § 34.191; punishment for misdemeanor, F.S. §§ 775.082, 775.083.</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-6.1</num>
+    <heading>Other penalties—Probation for municipal ordinance violations.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any court having jurisdiction of municipal ordinance violations may at a time to be determined by the court, either with or without an adjudication of the guilt of the defendant, hear and determine the question of the probation of a defendant in a municipal ordinance violation case who has been found guilty by the verdict of a jury, has entered a plea of guilty or a plea of nolo contendere, or has been found guilty by the court trying the case without a jury.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If it appears to the court upon a hearing of the matter that the defendant is not likely again to engage in a continued course of conduct in violation of municipal ordinance(s) and that the ends of justice and the welfare of society do not require that the defendant presently suffer the penalty imposed by law, the court, in its discretion, may either adjudge the defendant to be guilty or stay and withhold the adjudication of guilt; and, in either case, it shall stay and withhold the imposition of sentence upon such defendant and shall place the defendant upon probation.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The sanctions imposed by order of the court shall be commensurate with the seriousness of the offense. When a program of public service is ordered by the court, the duration of public service may not be longer than the sentence that could have been imposed if the offender had been committed for the offense. When restitution or public service is ordered by the court, the amount of restitution or public service may not be greater than an amount which the offender could reasonably be expected to pay or perform.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Whenever punishment by imprisonment is prescribed, the court, in its discretion, may, at the time of sentencing, impose a split sentence whereby the defendant is to be placed on probation upon completion of any specified period of such sentence. In such case, the court shall stay and withhold the imposition of the remainder of sentence imposed upon the defendant and direct that the defendant be placed upon probation after serving such period as may be imposed by the court. The period of probation shall commence immediately upon the release of the defendant from incarceration.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Defendants placed on probation may be under supervision for a period up to but not to exceed six (6) months.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>When court may impose fine and place on probation as to imprisonment.</text>
+      <text>When the law authorizes the placing of a defendant on probation, and when the defendant's offense is punishable by both fine and imprisonment, the trial court may, in its discretion, impose a fine upon him or her and place him or her on probation.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Terms and conditions of probation.</text>
+      <para>
+        <num>(1)</num>
+        <text>The court shall determine the terms and conditions of probation. These conditions may include among them the following, that the probationer or offender in community control shall:</text>
+        <para>
+          <num>a.</num>
+          <text>Report to the probation and parole supervisors as directed.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Permit such supervisors to visit him or her at his or her home or elsewhere.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Work faithfully at suitable employment insofar as may be possible.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Remain within a specified place.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Make reparation or restitution to the aggrieved party for the damage or loss caused by his or her offense in an amount to be determined by the court. The court shall make such reparation or restitution a condition of probation, unless it determines that clear and compelling reasons exist to the contrary. If the court does not order restitution, or orders restitution of only a portion of the damages, it shall state on the record in detail the reasons therefor.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Not associate with persons engaged in criminal activities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The above enumeration of specific kinds of terms and conditions shall not prevent the court from adding thereto such others as it considers proper.</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>Condition of probation public service. Any person who is placed on probation may be required as a condition of supervision to perform some type of public service for a tax-supported or tax-exempt entity, with the consent of such entity. Such public service shall be performed at a time other than during such person's regular hours of employment.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>Court to admonish or commend probationer. A court may at any time cause a probationer to appear before it to be admonished or commended, and, when satisfied that its action will be for the best interests of justice and the welfare of society, it may discharge the probationer from further supervision.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>Violation of probation; revocation; modification; continuance; failure to pay restitution or cost of supervision.</text>
+      <para>
+        <num>(1)</num>
+        <text>Whenever within the period of probation there are reasonable grounds to believe that a probationer has violated his or her probation in a material respect, any law enforcement officer who is aware of the probationary or community control status of the probationer any probation supervisor may arrest or request any county or municipal law enforcement officer to arrest such probationer without warrant wherever found and forthwith return him or her to the court granting such probation. Any committing magistrate may issue a warrant, upon the facts being made known to him or her by affidavit of one having knowledge of such facts, for the arrest of the probationer or offender, returnable forthwith before the court granting such probation or community control. Any parole or probation supervisor, any officer authorized to serve criminal process, or any peace officer of this state is authorized to serve and execute such warrant. Upon the filing of an affidavit alleging a violation of probation and following issuance of a warrant under § 901.02, the probationary period is tolled until the court enters a ruling on the violation. Notwithstanding the tolling of probation as provided in this subsection, the court shall retain jurisdiction over the offender for any violation of the conditions of probation that is alleged to have occurred during the tolling period. The probation officer is permitted to continue to supervise any offender who remains available to the officer for supervision until the supervision expires pursuant to the order of probation or until the court revokes or terminates the probation, whichever comes first. The court, upon the probationer being brought before it, shall advise him or her of such charge of violation and, if such charge is admitted to be true, may forthwith revoke, modify, or continue the probation. If probation is revoked, the court shall adjudge the probationer guilty of the offense charged and proven or admitted, unless he or she has previously been adjudged guilty, and impose any sentence which it might have originally imposed before placing the probationer on probation. If such violation of probation is not admitted by the probationer, the court may commit him or her or release him or her with or without bail to await further hearing, or it may dismiss the charge of probation. If such charge is not at that time admitted by the probationer and if it is not dismissed, the court, as soon as may be practicable, shall give the probationer an opportunity to be fully heard on his or her behalf in person or by counsel. After such hearing, the court may revoke, modify, or continue the probation or community control or place the probationer into community control. If such probation is revoked, the court shall adjudge the probationer guilty of the offense charged and proven or admitted, unless he or she has previously been adjudged guilty, and impose any sentence which it might have originally imposed before placing the probationer on probation. If the court dismisses an affidavit alleging a violation of probation, the offender's probation shall continue as previously imposed, and the offender shall receive credit for all tolled time against his or her term of probation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>When the court imposes a subsequent term of supervision following a revocation of probation, it shall not provide credit for time served while on probation toward any subsequent term of probation. However, the court may not impose a subsequent term of probation which, when combined with any amount of time served on preceding terms of probation for offenses before the court for sentencing, would exceed the maximum penalty allowable under this section 1-6. No part of the time that the defendant is on probation shall be considered as any part of the time that he or she shall be sentenced to serve.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Notwithstanding any other provision of this section, a probationer who is arrested for violating his or her probation in a material respect may be taken before the court in the county or circuit in which the probationer was arrested. That court shall advise him or her of such charge of a violation and, if such charge is admitted, shall cause him or her to be brought before the court which granted the probation. If such violation is not admitted by the probationer, the court may commit him or her or release him or her with or without bail to await further hearing. The court, as soon as is practicable, shall give the probationer an opportunity to be fully heard on his or her behalf in person or by counsel. After such hearing, the court shall make findings of fact and forward the findings to the court which granted the probation and to the probationer or his or her attorney. The findings of fact by the hearing court are binding on the court which granted the probation. Upon the probationer being brought before it, the court which granted the probation may revoke, modify, or continue the probation.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In any hearing in which the failure of a probationer to pay restitution or the cost of supervision, as directed, is established by the city or state, if the probationer asserts his or her inability to pay restitution or the cost of supervision, it is incumbent upon the probationer to prove by clear and convincing evidence that he or she does not have the present resources available to pay restitution or the cost of supervision despite sufficient bona fide efforts legally to acquire the resources to do so. If the probationer cannot pay restitution or the cost of supervision despite sufficient bona fide efforts, the court shall consider alternate measures of punishment other than imprisonment. Only if alternate measures are not adequate to meet the city's or state's interests in punishment and deterrence may the court imprison a probationer who has demonstrated sufficient bona fide efforts to pay restitution or the cost of supervision.</text>
+      </para>
+    </para>
+    <para>
+      <num>(k)</num>
+      <text>Ordinance to be interpreted in harmony with Florida Statutes Chapter 948. The provisions of this section are to be applied in conformity with the decisions interpreting Florida Statutes Chapter 948.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 2002-116, § 1, 5-30-02</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-7</num>
+    <heading>Catchlines and headings.</heading>
+    <text>The catchlines of the several sections of this Code, printed in boldface type, and the chapter, article, division and subdivision headings are intended as mere catchwords to indicate the contents of the section, chapter, article, division or subdivision and shall not be deemed or taken to be titles of such section, chapter, article, division or subdivision or as any part of the section, chapter, article, division or subdivision, nor, unless expressly so provided, shall they be so deemed when any such section, chapter, article, division or subdivision, including the catchlines, are amended or reenacted.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-7), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-8</num>
+    <heading>History notes and references.</heading>
+    <text>The history notes appearing in parentheses after each section and the editor's notes, Charter references, cross references, state law references, county law references and related law references scattered throughout the Code are for the benefit of the user of the Code and shall have no legal effect.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-8), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-9</num>
+    <heading>Amendments to Code.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All ordinances passed subsequent to this Code which amend, repeal or in any way affect this Code may be numbered in accordance with the numbering system of this Code and printed for inclusion therein. When subsequent ordinances repeal any chapter or any portion thereof, such repealed portions may be excluded from the Code by omission from reprinted pages.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Amendments to any of the provisions of this Code may be made by amending such provisions by specific reference to the section number of this Code in substantially the following language: "That section _______ of the City of Tampa Code is hereby amended to read as follows: …." The new provisions shall then be set out in full as desired.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Amendments to any of the provisions of this Code may be made by reenacting a provision which was repealed.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>If a new section not heretofore existing in the Code is to be added, the addition may be made in substantially the following language: "That the City of Tampa Code is hereby amended by adding a section to be numbered _______, which section reads as follows: …." The new section may then be set out in full as desired.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>All chapters, articles, divisions, subdivisions, sections or provisions desired to be repealed must be specifically repealed by chapter, article, division, subdivision or section number, as the case may be.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-9), 9-28-89</annotation>
+      <annotation type="History">Ord. No. 97-42, § 1, 2-20-97</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-10</num>
+    <heading>Supplementation of Code.</heading>
+    <para>
+      <num>(a)</num>
+      <text>By contract or by city personnel, supplements to this Code shall be prepared and printed whenever authorized or directed by the city council. A supplement to the Code shall include all substantive permanent and general parts of ordinances passed by the city council or adopted by initiative and referendum during the period covered by the supplement and all changes made thereby in the Code, and shall also include all amendments to the Charter or related laws during the period. The pages of a supplement shall be so numbered that they will fit properly into the Code and will, where necessary, replace pages which have become obsolete or partially obsolete, and the new pages shall be so prepared that, when they have been inserted, the Code will be current through the date of the adoption of the latest ordinance included in the supplement.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In preparing a supplement to this Code, all portions of the Code which have been repealed shall be excluded from the Code by the omission thereof from reprinted pages.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>When preparing a supplement to this Code, the codifier (meaning the person, agency or organization authorized to prepare the supplement) may make formal, nonsubstantive changes in ordinances and parts of ordinances included in the supplement, insofar as it is necessary to do so to embody them into a unified Code. For example, the codifier may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Organize the ordinance material into appropriate classifications;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide appropriate catchlines, headings and titles for sections and other subdivisions of the Code printed in the supplement, and make changes in such catchlines, headings and titles;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Assign appropriate numbers to sections and other subdivisions to be inserted in the Code and, where necessary to accommodate new material, change existing section or other subdivision numbers;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Change the words "this ordinance" or words of the same meaning to "this chapter," "this article," "this division," etc., as the case may be, or to "sections _____ to _____" (inserting section numbers to indicate the sections of the Code which embody the substantive sections of the ordinance incorporated into the Code);</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Make other nonsubstantive changes necessary to preserve the original meaning of ordinance sections inserted into the Code; but, in no case, shall the codifier make any change in the meaning or effect of ordinance material included in the supplement or already embodied in the Code; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Correct misspelled or mistyped words and correct punctuation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-10), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-11</num>
+    <heading>Severability of parts of Code.</heading>
+    <text>The sections, paragraphs, sentences, clauses and phrases of this Code are severable, and if any phrase, clause, sentence, paragraph or section of this Code shall be declared unconstitutional by the valid judgment or decree of a court of competent jurisdiction, such unconstitutionality shall not affect any of the remaining phrases, clauses, sentences, paragraphs and sections of this Code.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-11), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-12</num>
+    <heading>Ordinances saved from repeal.</heading>
+    <text>Nothing in this Code or the ordinance adopting this Code shall affect any ordinance or other action of the city which:</text>
+    <para>
+      <num>(1)</num>
+      <text>Promises or guarantees the payment of money for the city, authorizes the issuance of any bonds of the city or any indebtedness of the city or any contract or obligation assumed by the city;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Grants any right or franchise or approves any contract;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Dedicates, names, establishes, locates, relocates, opens, paves, widens or vacates any street or public way in the city;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Pertains to the annual budget or any appropriation;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Prescribes traffic regulations for specific locations, prescribes through streets, parking prohibitions, parking limitations, one-way traffic, limitations on load of vehicles, or loading zones;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Amends the zoning map on file in the office of the city clerk;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Establishes and prescribes the street grades of any street in the city;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Provides for local improvements and the assessment of taxes therefor;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Dedicates or accepts any plat or subdivision in the city;</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>Grants to railroad companies the right to construct spur railroad tracks in the city;</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>Authorizes any encroachment on any city or public property;</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>Was converted to ordinance status by the Charter or the Municipal Home Rule Powers Act (F.S. Ch. 166);</text>
+    </para>
+    <text>all of which ordinances shall continue in full force and effect in the city as if set out fully in this Code.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-12), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-13</num>
+    <heading>Administrative authority.</heading>
+    <text>The provisions of this Code shall be administered and enforced by the official.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-13), 9-28-89</annotation>
+      <annotation type="Cross References" dest="container"><strong>Charter reference— </strong>Mayor's powers and duties, § 4.01.</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-14</num>
+    <heading>Delegation of administrative authority.</heading>
+    <text>The official may appoint officers, inspectors and assistant inspectors to assist in the administration and enforcement of the provisions of this Code. Any duty or act in this Code authorized or required of the official may be performed by any of his assistants or employees when authorized by the official. The official may designate representatives who shall have the power, duty and responsibility to administer and enforce the provisions of this Code.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-14), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-15</num>
+    <heading>Actions of the official considered cumulative.</heading>
+    <text>Any action to be taken by the official pursuant to this Code in regard to the enforcement of any section hereof shall be considered cumulative and in addition to penalties and other remedies provided elsewhere.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-15), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-16</num>
+    <heading>Right of entry.</heading>
+    <text>The official, in enforcing the provisions of this Code, shall have the right of entry upon real property and shall be immune from civil or criminal prosecution for trespass upon real property while in the discharge of his duties of enforcing the provisions of this Code. The same immunity shall inure to his authorized agents, assistants, employees, and contractors employed on behalf of the city in connection with such enforcement as provided by law.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-16), 9-28-89</annotation>
+      <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Inspection warrants, F.S. § 933.20 et seq.</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-17</num>
+    <heading>Requirements not covered by Code.</heading>
+    <text>Any actions necessary to accomplish the purpose or intent of any of the provisions of this Code and not specifically covered by this Code may be required by the official.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-17), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-18</num>
+    <heading>Hearings by code enforcement board on violations.</heading>
+    <text>Notwithstanding the provisions elsewhere in this Code, the official shall notify the secretary of the code enforcement board to cause an alleged violation to be heard by the code enforcement board as set forth in this Code.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-18), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-19</num>
+    <heading>Review.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Unless provided for elsewhere in this Code, or in the City Charter, any person who is conducting official business with the City of Tampa ("city") who receives an official ruling or order may, no later than fifteen (15) days after such official ruling or order is issued in writing, ask that person's immediate superior ("the reviewing official") to review the official ruling or order.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The reviewing official shall within thirty (30) days of such request for review render his or her opinion. The opinion of the reviewing official shall be final.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>For purposes of this section, ruling or order shall mean a final decision or resolution of a specific request or matter in controversy made by a duly authorized or empowered city official. Generalized decisions, billing statements, assessments, or policy adoptions, including but not limited to legal opinions by the city attorney's office, utility billings, and assessments of fines, costs or fees shall not be deemed rulings or orders as defined herein, and as such, are not subject to review under this provision of the City Code of Ordinances.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-19), 9-28-89</annotation>
+      <annotation type="History">Ord. No. 2008-196, § 1, 11-20-08</annotation>
+      <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2008-196, § 1, adopted Nov. 20, 2008, changed the title of § 1-19 from "Appeals; administrative hearing" to read as herein set out.</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-20</num>
+    <heading>Abatement of violation by city forces; lien to recover costs.</heading>
+    <para>
+      <num>(a)</num>
+      <text>
+        <em>Notice to abate violation; service of notice.</em>
+      </text>
+      <para>
+        <num>(1)</num>
+        <text>Unless otherwise provided in this Code, whenever the official finds that a violation of any one (1) or more sections of this Code exists, the official may cause a notice to be posted on the property or any parcels thereof upon which the violation exists. Such posted notice shall state the name and address of the record owner thereof as shown upon the records of the county tax assessor; the address and/or the legal description of the real property involved; the time period allowed for a written petition for appeal; that, if the condition is not corrected and terminated within the time specified, the same shall be accomplished by the city with its forces or by an independent contractor at the direction of the city, the costs thereof to be assessed and made a lien against the real property involved; and that the owner, agent, custodian, lessee or occupant of the property is subject to prosecution for violation of the provisions of this Code.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In addition to the posting of the property as provided in this subsection, the official shall cause a written notice to be mailed by certified mail or to be delivered or served upon the owner, agent, custodian, lessee or occupant of the property, directing such person to remove, terminate and abate such violation within fifteen (15) days of the date of the mailing, delivery or service of such written notice, or, if an appeal is made within the time period established at the appeal hearing, if the official orders removal, termination and abatement of such violation. The written notice shall include a sufficient description by address and/or legal description to identify the property upon which the violation exists; a description of the violation to be terminated; a statement that if the described violation is not terminated within fifteen (15) days after notice as provided in this subsection, or, if an appeal is made within the time established by the official, it may be terminated or caused to be terminated by the official; a statement that any such person as described in this subsection has fifteen (15) days from the date of notice as provided in this subsection to petition in writing for a hearing before the official; that the total cost expended by the city to abate the violation, including administrative costs as set out in this section, shall become a lien upon the property; and that any such person is subject to prosecution for violation of the provisions of this Code. The mailing of such notice shall be sufficient proof thereof, and the service shall be deemed complete and sufficient when deposited in the United States mail with proper postage prepaid. If such notice is returned by postal authorities, the official shall cause a copy of the notice to be served by his agent upon any such person as described in this subsection. If the mailing address of any such person is not known or subject to discovery by the official or if personal service upon such person cannot be performed after a reasonable search by the agent of the official and the offending property is unoccupied, the posted notice on the property as provided in subsection (a)(1) of this section shall constitute sufficient notice to the owner, agent, custodian, lessee or missing occupant thereof; and no additional notice shall be required for any action under the provisions of this subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>
+        <em>Appeal.</em>
+      </text>
+      <para>
+        <num>(1)</num>
+        <text><em>Right to appeal.</em> Within fifteen (15) days after the date of mailing the notice as provided in this section or after notice is served upon him by the official's agent or after the first date of physical posting of the property, the owner, agent, custodian, lessee or occupant of the property involved shall have the right to file with the official a petition for appeal in writing, on forms to be made available by the official.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text><em>Evidence.</em> The petitioner, at the hearing provided, may show that no violation exists on the property involved or that, if such violation does exist, it does not threaten or endanger the public health, welfare or safety or that such violation cannot be terminated within the fifteen (15) days specified or that such violation should not be removed, terminated and abated by the official, either with his forces or by an independent contractor, and a lien for the costs thereof should not be placed on record against the property involved. At the hearing, both the city and the petitioner may introduce such witnesses and evidence as deemed necessary.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text><em>Effect of appeal.</em> The filing of a written petition for appeal with the official shall operate to stay any requirement, order, finding, ruling or other action of the official until a final decision has been rendered by the official. Once a final decision has been rendered by the official, the petitioner will have exhausted his administrative remedies.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text><em>Effect of failure to appeal.</em> Any requirement, order, finding, ruling or other action of the official shall be final upon the sixteenth day after service of notice upon the party affected, as provided in this section, unless stayed by the filing of a notice of appeal to the official.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text><em>Termination of violation.</em> If the violation is not terminated by the owner, agent, custodian, lessee or occupant of the property involved within fifteen (15) days from the date of effective service, whether it be the date of mailing of notice, the date of personal service or the first date of the physical posting of the property or if an appeal has been taken to the official within the time period established by the official and the official orders removal, termination or abatement of the violation, the official shall cause any such condition to be terminated by the city with its own forces or an independent contractor on behalf of the city.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>
+        <em>Cost of abatement; assessment against property; lien foreclosure.</em>
+      </text>
+      <para>
+        <num>(1)</num>
+        <text>Within fifteen (15) days from the completion of any work by the city or an independent contractor to effect necessary correction of any violations, the official shall submit a resolution to the city council naming the legal owner of and describing by address and legal description the real property upon which a lien is claimed, the date of completion of the work, and the actual cost of the abatement, which actual cost shall include the cost of serving notice as required by this section and the cost of obtaining title information, lien recording fees, and all other related costs and shall be based upon the following charges:</text>
+        <para>
+          <num>a.</num>
+          <text>Violation abatement: Actual contract amount as invoiced by the independent contractor or the labor and material costs expended by the city.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Nuisance abatement surcharge:</text>
+          <para>
+            <num>1.</num>
+            <text>Notice, title information, recording, advertising, and processing: Actual cost.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Administrative processing fee: As established by city council resolution.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Within fifteen (15) days of receipt of the resolution, the city council shall determine the total cost of correcting the violation on the real property described therein and adopt the resolution assessing such costs against each such parcel by address and legal description. Such assessment shall constitute a lien upon the real property for the work accomplished.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Within fifteen (15) days from the adoption of such resolution by the city council, the official shall cause a certified copy of same to be filed for record in the office of the clerk of the circuit court of the county, and the resolution, when recorded, shall have the force and effect of a notice of assessment of lien. Simultaneously with the filing of such resolution, the official shall cause to be published a notice of the completion of such work and the fact that such lien has been recorded as stated in this paragraph, which notice shall be published one (1) time in a newspaper of general circulation published in the city, giving the lien held by the city against each piece of real property by lot and block number or other proper legal description.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any person owning or having any interest, legal or equitable, in the real property shall have the right, within thirty (30) days after the publication of notice by the official, to present to the city council a sworn petition stating his interest in the property and alleging that, in the opinion of the petitioner, the cost of such work as shown in the notice of lien exceeds the actual cost thereof or is otherwise erroneously entered, and shall be heard upon such petition. If it shall appear to the satisfaction of the city council that the cost is erroneously stated, then the city council, by resolution, shall so declare and shall fix such amount to be charged against the real property as shall be just and proper, and the official shall have the corrected notice of lien for such amount recorded in the office of the clerk of the circuit court.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Where no petition is filed as provided for in this section, the cost of such work as shown in the recorded notice of lien shall become a fixed lien on the real property from the time of recordation of the notice of lien.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Such liens may be paid within ninety (90) days after the publication of notice provided for in this section without interest, and thereafter the amount so fixed, with interest at the rate of twelve (12) percent per annum from the date of the recordation of such lien, and all costs of collection, including all publication and title information costs, shall continue to be a lien against such real property until paid, and collection thereof shall be enforced as provided by law.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-20), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-21</num>
+    <heading>Damage to city property.</heading>
+    <text>It is unlawful for any person to maliciously, willfully or negligently break, damage, destroy or deface, tamper with or remove any city property.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-21), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-22</num>
+    <heading>Expenses incurred by city.</heading>
+    <text>In addition to fees established elsewhere in this Code, any person who, as a result of any act or omission by that person, whether deliberate or otherwise, causes damage to any city equipment, material or property shall be responsible and make payment to the city for all expenses incurred to repair or replace such equipment, material or property.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-22), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-23</num>
+    <heading>Precaution against injury to children by contractors.</heading>
+    <text>Contractors are under a duty to take such precautions as reasonably prudent persons would take to prevent injury to children.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-23), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-24</num>
+    <heading>Liens for nonpayment of charges.</heading>
+    <text>If a person has failed to pay any charge levied by the city, the city shall have as security for the collection of such charge a lien upon such building and upon any premises, lot, piece, or parcel of land upon which such building may be situated. The unpaid amount shall constitute a lien when the payment becomes past due and shall remain a lien until paid in full. A notice of lien shall be recorded among the public records of the county which shall show the nature of the lien, the amount thereof, and an accurate description of the real property affected thereby. The city may proceed to foreclose such lien pursuant to the manner prescribed by law and shall be entitled to interest and all costs of collection, including attorneys' fees. Further, any attempt to collect fees by any other process shall not invalidate or waive the lien imposed hereby.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-24), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-25</num>
+    <heading>Civil court order.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The city may commence actions in the appropriate courts for abatement of nuisances, injunctive relief, collection of sums due for fees or penalties, enforcement of penalties, prosecution of violators, enforcement of liens, or other relief to which the city is entitled in the administration of this Code.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The city may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Rescind or modify any order issued by it;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Extend the time for compliance with any order issued by it;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Stipulate to the dismissal of any action commenced by or against it.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-25), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-26</num>
+    <heading>Federal and state authority.</heading>
+    <text>The provisions of this chapter shall not be held to deprive any federal, state or county agency or any applicable governing body having jurisdiction of any power or authority which it legally possesses.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-26), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-27</num>
+    <heading>Inspections.</heading>
+    <text>All installations, work, maintenance and improvements regulated by this Code shall be subject to inspection by the city. The official may require documents, drawings or certificates necessary to effect approval of such work.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-27), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-28</num>
+    <heading>Collection charges; interest.</heading>
+    <text>Unless otherwise provided for in this Code or other applicable laws, whenever monies are legally due the city and such monies remain unpaid on the specified due date, the city may charge interest for each day of delinquency at the rate of eighteen (18) percent per annum or the maximum allowed by law, whichever is the lesser, for each day of delinquency, and a fee equal to the reasonable administrative costs associated with collecting such monies.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-28), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>1-29</num>
+    <heading>Conflict of provisions.</heading>
+    <text>In a conflict between the provisions of this chapter and any other ordinance of the city which pertains to the same subject matter, the more stringent ordinance or provision shall prevail. In a conflict between the provisions of this chapter and any other ordinance of the city which pertains to different subject matter, the city attorney's office shall determine, in accordance with the common law rules of construction, which provisions shall prevail.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 89-221, § 2(1-29), 9-28-89</annotation>
+    </annotations>
+  </section>
+</container>

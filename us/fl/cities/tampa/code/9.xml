@@ -1,0 +1,790 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>9</num>
+  <heading>CODE ENFORCEMENT</heading>
+  <annotation type="Editor's Notes" dest="container">1 <strong>Editor's note—</strong> Ord. No. 2015-50, §§ 1-29, adopted April 16, 2015, repealed the former Ch. 9, §§ 9-1-9-20, and enacted a new Ch. 9 as set out herein. The former Ch. 9 pertained to similar subject matter. See Code Comparative Table for complete derivation.</annotation>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>I</num>
+    <heading>DEFINITIONS, NOTICE, AND OTHER GENERAL PROVISIONS</heading>
+    <section>
+      <num>9-1</num>
+      <heading>Applicability.</heading>
+      <text>This chapter applies to code enforcement officers acting pursuant to the authority provided under Florida State Statutes, as well as Tampa City Code and city ordinances. Nothing in this chapter shall limit the authority of sworn law enforcement officers to arrest and/or issue notices to appear as provided for under Florida Statutes, Florida Criminal Rules of Procedure, or provided for under City Code. As provided for by law, this chapter provides for alternative enforcement of City Codes, and nothing herein shall limit the authority of a code enforcement officer or sworn law enforcement officer in seeking alternative enforcement. This chapter is intended to provide for a cost effective and expedient alternative to enforcement of the City Code and city ordinances.</text>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 4, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-2</num>
+      <heading>Definitions.</heading>
+      <text>The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:</text>
+      <text><em>Aggrieved party</em> means:</text>
+      <para>
+        <num>(1)</num>
+        <text>Any person that is named or otherwise directly subject to an order issued by a city official under City Code sections 5-115.3 or 19-5 that negatively affects them by requiring the performance of or the forbearance from performing an act, or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person that is the non-prevailing party in an action for administrative review by the CESM of an order of a city official under City Code sections 5-115.3 or 19-5, and may include the city.</text>
+      </para>
+      <text><em>Chronic violator</em> is a violator who has, within three hundred sixty-five (365) days, been issued either three (3) violations or three (3) notices of violations without correcting the violations within period specified by notice, or any combination thereof, for the same code violation on the same property. An overgrowth violation pursuant to section 19-50 of this Code will not be included in the determination of a chronic violator.</text>
+      <text><em>City</em> means the City of Tampa, as well as any of its departments or divisions, offices or officials acting in the course and scope of their employment.</text>
+      <text><em>City Code</em> means any of the several chapters of this City of Tampa Code of Ordinances, City of Tampa ordinances, or any other codes or technical codes of the city.</text>
+      <text><em>Code enforcement board (CEB)</em> means the city code enforcement board or boards, appointed by the mayor and approved by the city council. The CEB's authority shall be coextensive with the grant of authority in F.S. Ch. 162, Pt. I, as it may be amended from time to time.</text>
+      <text><em>Code enforcement special magistrate (CESM)</em> means the special magistrate or magistrates appointed by the mayor and approved by the city council. The special magistrate's (or magistrates') authority shall be coextensive with the grant of authority in F.S. Ch. 162, Pt. I, as it may be amended from time to time.</text>
+      <text><em>Code enforcement officer</em> means any designated employee or agent of the city whose duty it is to enforce codes and ordinances enacted by the city and may include, but may not be limited to, code inspectors, law enforcement officers, animal control officers, or fire safety inspectors.</text>
+      <text><em>Irreparable</em> or <em>irreversible violation</em> means a violation that is incapable of correction, repair or return to an original condition.</text>
+      <text><em>Itinerant</em> or <em>transient in nature violation</em> means that a violation which may be moved from place to place or which stays in place for a short time.</text>
+      <text><em>Local governing body attorney</em> means the legal counselor for the city, to wit, the city attorney or his or her designated assistant city attorney.</text>
+      <text><em>Person</em> includes, but is not limited to any individual, firm, partnership, joint venture, syndicate or other group, or combination acting as a unit, association, corporation, estate, trust, business trust, trustee, executor, administrator, receiver, or other fiduciary, body politic or other local governmental entity, and shall include the plural as well as the singular.</text>
+      <text><em>Repeat violation</em> means a violation of a provision of a code or ordinance on the same property by a violator who, within the three (3) years prior to a present violation, has:</text>
+      <para>
+        <num>(a)</num>
+        <text>Been found to have violated the same provision of the City Code by the CEB, a CESM, or any other quasi-judicial or judicial process;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Admitted to violating the same provision of the City Code; or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Received a civil citation for violating the same provision of the City Code and either (1) paid the fine; (2) contested the citation and was found in violation; or (3) was found in violation by reason of default</text>
+      </para>
+      <text><em>Secretary</em> means the city clerk, or his/her designees assigned to act as the secretary to the CEB and CESMs.</text>
+      <text><em>Violator</em> means the person responsible or believed to be responsible for a violation.</text>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 5, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-3</num>
+      <heading>Notice of violation.</heading>
+      <para>
+        <num>(a)</num>
+        <text><em>Form of notice.</em> Pursuant to this chapter, notice of a violation shall be provided to a violator whenever a code enforcement officer has reason to believe that a violation of one (1) or more provision(s) of the City Code or city ordinance exists.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The notice shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Identify the name and address of the violator;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If applicable, identify the name and address of the record owner of the property as shown in the records of the property appraiser;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>State the address or the legal description of the real property where the alleged violation(s) or condition(s) is located;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Identify the violation(s) or unlawful condition(s);</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Direct the violator to correct the violation(s) or condition(s) within a time period of no more than twenty-one (21) calendar days; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Advise the violator that if the violation(s) is not corrected within the time allotted, then the violator is subject to enforcement for the violation(s) using any of the methods of this chapter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><em>Notice not required.</em> Whenever it is determined that a violation poses a serious threat to public health, safety, or welfare; is a repeat violation; is an irreparable or irreversible violation; or is an itinerant or transient in nature violation; then the code enforcement officer may immediately:</text>
+        <para>
+          <num>(1)</num>
+          <text>Issue a notice of hearing pursuant to article II of this chapter,</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Issue a civil citation pursuant to Chapter 23.5 of the City Code, or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Pursue a violation in accordance with section 1-6(a) of the City Code without first issuing a notice of violation and providing a time to correct the violation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A notice of violation provided to a violator pursuant to any of the city's code enforcement methods will be considered as notice for any other code enforcement method, including the determination of a Repeat Violation.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text><em>Landlord courtesy notice.</em> If a violation, other than a violation of section 19-231 of this Code, is observed on rental property and it is determined that the tenant is the violator, a courtesy notice will be provided to the landlord. This courtesy notice will not be considered in the determination of a chronic violator.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><em>Hardship.</em> If a violator has a hardship that prevents the correction of the violation(s) in the time period allotted, then the violator should notify the code enforcement officer of the hardship within the time period provided to correct the violation(s). If the city determines that the hardship is valid, then the code enforcement officer may extend the time period within which to correct the violation(s).</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 6, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-4</num>
+      <heading>Chronic violator.</heading>
+      <text>If, upon investigation of the code enforcement officer, a violator meets the criteria of a chronic violator, then the code enforcement officer shall pursue the violation in accordance with section 1-6(a) of the City Code.</text>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 7, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-5</num>
+      <heading>Fines and costs of abatement.</heading>
+      <text>Any fine imposed pursuant to this chapter shall be in addition to reimbursement of any costs of abatement expended by the city.</text>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 8, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-6</num>
+      <heading>Special settlements for liens imposed by code enforcement board/special magistrates.</heading>
+      <text>The city attorney's office is authorized to settle liens imposed by the code enforcement board or code enforcement special magistrates to a two hundred fifty dollar ($250.00) administration fee for each lien on properties when the property with the violations is used as a community garden as long as the following conditions are met:</text>
+      <para>
+        <num>(a)</num>
+        <text>All active violations on the property must be corrected;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The property must meet the community garden requirements found in Chapter 27 of this Code;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The property owner and any lessee of the property must execute the city's community garden agreement that will be submitted to the city attorney's office and the neighborhood enhancement department. A lease between the property owner and lessee shall be attached to the agreement;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The group managing and maintaining the land muse be (1) an Officially Registered Neighborhood Association with the City of Tampa Neighborhood and Community Relations office or (2) an incorporated not for profit entity as evidenced by a valid certificate of status issued by the Department of State;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The property must be used as a community garden for the minimum of one year; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The use of the property as a community garden must be verified by the neighborhood enhancement department.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2018-71, § 1, 5-17-2018</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-7-9-100</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>II</num>
+    <heading>CODE ENFORCEMENT BOARD AND SPECIAL MAGISTRATES</heading>
+    <section>
+      <num>9-101</num>
+      <heading>Municipal code enforcement board and special magistrates created; authority of code enforcement board and special magistrates.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It is the intent of this chapter to promote, protect and improve the health, safety, and welfare of the citizens of the City of Tampa.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The operation of one (1) or more code enforcement boards ("CEB") and/or one or more code enforcement special magistrates ("CESM"), is authorized by F.S. Ch. 162, Part I, to provide an equitable, expeditious, effective and inexpensive method of enforcing the City Code.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The CEB and CESMs shall have the authority to impose administrative fines and other non-criminal penalties when violations of the City Code exist, existed, or continue to exist.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The CEB and CESMs shall have the authority to make a determination whether a property condition presents a serious threat to the public health, safety, and welfare so as to warrant the immediate abatement of the condition by directing the appropriate city department to make all reasonable repairs or take all reasonable action necessary to bring said condition into compliance with the City Code and to charge the violator the reasonable cost of the repairs or action along with any fine imposed pursuant to this article.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The CESMs are authorized to hear and review the appeals of orders entered by City of Tampa officials pursuant to City Code sections 19-5(a) or 5.115.3.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 11, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-102</num>
+      <heading>Alternative code enforcement system.</heading>
+      <text>Nothing in this chapter shall be deemed or interpreted to create exclusive jurisdiction in the CEB or CESM for the enforcement of any or all municipal codes or ordinances. The city may also enforce violations of its City Code and city ordinances in any court or forum of competent jurisdiction as provided by law.</text>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 12, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-103</num>
+      <heading>Composition, appointment, terms of members, residency requirements, removal, vacancies, organization, and compensation of code enforcement board.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The CEB shall consist of seven (7) regular members, and with four (4) members to be appointed by the mayor and approved by city council and three (3) members to be appointed by city council.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>CEB member terms shall be three (3) years.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The appointments by the mayor of the four (4) regular members should be made so that, whenever possible, there are board members who reside one (1) each in city council districts 4, 5, 6, and 7 respectively.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The three (3) regular members appointed by city council may reside anywhere within the city.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The CEB shall also consist of two (2) alternate members, one (1) of which is to be appointed by the mayor and approved by the city council and one (1) of which appointed by the city council. The alternate members may reside anywhere within the city.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Appointments shall be made in accordance with applicable law and ordinances on the basis of experience or interest in the subject matter jurisdiction of the respective CEB. Appointments shall be made consistent with the Charter on the basis of demonstrated experience and interest in the fields of zoning, building control and other relevant disciplines. Whenever possible, the membership of the CEB shall include an architect, a person engaged in business, an engineer, a general contractor, a subcontractor and a realtor.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>CEB members shall be residents of the city at the time of appointment and throughout their terms in office. Any member who is no longer a resident of the city shall be automatically removed and that vacancy filled as provided in this article.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>If any CEB member fails to attend any two (2) of three (3) consecutive meetings, without cause and without prior approval of the chair of the CEB, the board may declare the member's office vacant and the vacancy shall be filled as provided in this chapter.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Appointments to fill a vacancy shall be for the remainder of the unexpired term of office.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The CEB shall elect the following officers:</text>
+        <para>
+          <num>(1)</num>
+          <text>The CEB members shall elect a chair from among their members. The chair shall be allowed to vote on all matters appearing before the board.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The CEB members shall also elect a vice-chair from among its members. The vice-chair shall preside over the public hearing in the absence of the chair.</text>
+        </para>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>The presence of four (4) or more CEB members shall constitute a quorum.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>CEB members shall not be entitled to compensation; however, all members shall receive reimbursement for parking in city garages and for mileage for any board-related business, except travel to and from regularly scheduled and specially called CEB meetings. Such reimbursement shall be consistent with city policy.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>The local governing body attorney may represent the city and its departments that bring cases before the CEB. The CEB shall have its own attorney who shall be responsible for providing the CEB with legal counsel.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>Each CEB member shall serve until the appointment and qualification of a successor.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 13, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-104</num>
+      <heading>Appointment, terms, residency requirements, and compensation of the special magistrates.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each CESM is to be appointed by the mayor and approved by the city council for a term of three (3) years.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Appointments shall be made consistent with the Charter on the basis of demonstrated experience and interest in the fields of zoning, building control, or other relevant disciplines.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The CESMs shall be residents of the city at the time of appointment and throughout their terms in office. Any CESM who is no longer a resident of the city shall be automatically removed and that vacancy filled as provided in this chapter.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A CESM may be re-appointed by the mayor with the approval of a majority of city council.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>A CESM shall receive reimbursement for parking in city garages and for mileage for any code enforcement related business, except travel to and from regularly scheduled and specially called hearings. Such reimbursement shall be consistent with city policy.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The local governing body attorney may represent the city and its departments that bring cases before a CESM. The CESMs may have their own attorney who shall be responsible for providing the CESMs with legal counsel.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>A violator whose case has been heard by a CESM and is found guilty shall be precluded from arguing the same case to the CEB.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Each CESM shall serve until appointment and qualification of a successor.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 14, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-105</num>
+      <heading>Oath of office.</heading>
+      <text>Each CEB member and each CESM shall take an oath of office as required by the City Charter, before executing his or her duties of office.</text>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 15, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-106</num>
+      <heading>Procedural powers of the CEB and special magistrates.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The CEB and CESMs shall have the power to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Adopt rules of procedure for the conduct of its hearings which are consistent with the City Code or F.S. Ch. 162;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Subpoena violators and witnesses to its hearings. Subpoenas may be served by the sheriffs office or duly qualified private process server at the expense of the requestor. Issuance and returns of service for CEB or CESM subpoena shall be governed by the rules enacted by the CEB or CESM, respectively, to conduct its hearings;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Subpoena evidence to its hearings;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Take testimony under oath;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Issue an order having the force of law commanding whatever steps are necessary to bring the violation in compliance. However, no order can direct action be taken that violates any provision of the City Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The CEB and CESMs shall not have the power to award attorneys' fees or costs.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 16, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-107</num>
+      <heading>Code enforcement procedures.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall be the duty of the responsible city departments to initiate enforcement proceedings of the City Code and cty ordinances; no member of the CEB nor any CESM shall have the power to initiate such enforcement proceedings.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Except as provided in subsections (c), (d), and (e), if a violation of the City Code or city ordinances is observed, the code enforcement officer shall notify the violator and give time to correct the violation. Should the violation continue beyond the time specified for correction, the code enforcement officer shall notify the secretary to schedule a hearing. The secretary shall schedule a hearing, and written notice of such hearing shall be delivered to the violator as provided by this chapter. Notice may additionally be served by publication or posting as provided by this chapter. If the violation is corrected and then recurs or if the violation is not corrected by the time specified for correction, the case may be presented to the CEB or CESMs even if the violation was corrected prior to the hearing and the notice shall so state.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If a repeat violation is found, the code enforcement officer shall notify the violator of the finding but is not required to give the violator time to correct the repeat violation before scheduling a hearing before the CEB or a CESM. The code enforcement officer, upon notifying the violator of a repeat violation, shall notify the secretary to schedule a hearing. The secretary shall schedule a hearing and shall provide notice as provided by this chapter to the violator. If the repeat violation has been corrected prior to the hearing, the case still may be presented to the CEB or CESM to determine costs and impose reasonable enforcement fees, and the notice shall so state. The repeat violator may choose to waive his or her rights to this hearing and pay said costs and enforcement fees.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If the code enforcement officer has reason to believe a violation presents a serious threat to the public health, safety, and welfare, the code enforcement officer shall make a reasonable effort to notify the violator and may immediately notify the secretary to schedule a hearing.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If the code enforcement officer has reason to believe a violation is an irreparable or irreversible violation, the code enforcement officer shall make a reasonable effort to notify the violator and may immediately notify the secretary to schedule a hearing to determine and impose fines for the violation and the notice shall so state.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 17, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-108</num>
+      <heading>Conduct of CEB and CESM hearings.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The CEB will meet at least once a month unless there are no pending cases, or at other times as may be necessary. The chair of the CEB may call hearings of the CEB at times other than the regularly scheduled sessions, upon the request of a department director or the city attorney's office. Hearings may also be called by written notice signed by at least three (3) members of the CEB.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>CESMs will meet as may be necessary.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Minutes of all CEB shall be kept by the secretary, including the vote of each CEB member upon each question and the outcome of the case.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Minutes of all CESM hearings shall be kept by the secretary, including the determinations made by the CESM.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>All hearings and proceedings shall be open to the public.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>All testimony shall be under oath and mechanically recorded. A violator or the city may cause the proceedings to be recorded by a certified court reporter at the requesting party's expense.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The city shall provide a hearing room and clerical and administrative personnel as may be reasonably required by the CEB or CESMs to conduct hearings and perform their respective duties.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Each case before the CEB or CESM shall be presented by the administrative staff, including code enforcement officers of the city department which is charged with the responsibility for enforcement of the City Code sections or city ordinances alleged to have been violated. Additionally, the local governing body attorney (or designated assistant city attorney) may present cases before the CEB or CESM.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Formal rules of evidence shall not apply to CEB or CESM proceedings, but fundamental due process shall be observed and shall govern the proceedings. Relevant evidence shall be admissible if it is the type of evidence upon which reasonable and responsible persons would normally rely in the conduct of business affairs, regardless of the existence of any common law or statutory rule which might make such evidence inadmissible over objections in a civil action. The chair of the CEB or the CESM may exclude irrelevant or unduly repetitious evidence.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Each party to a CEB or CESM hearing shall have the right to call and examine witnesses, introduce exhibits, cross-examine opposing witnesses, impeach witnesses and rebut evidence. It shall be the responsibility of the violator to create, at his/her own expense a certifiable record of the proceedings in case of appeal or administrative review.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>The violator has the right at his own expense to be represented by an attorney at any CEB or CESM hearing.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>The burden of proof shall be with the city to show by the greater weight of the evidence that a violation of the City Code or city ordinance exists and that the violator committed or was responsible for allowing or maintaining the violation. If the violator raises one or more defenses, then the violator has the burden to prove those defenses by the greater weight of the evidence.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>If notice of the public hearing to a violator has been provided pursuant to this chapter, the hearing may be conducted and an order rendered in the absence of the violator.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>At the conclusion of a CEB hearing, the CEB shall issue an order containing the findings of fact based on the evidence of record, and conclusions of law. The order shall be binding on the violator(s) and afford the proper relief or penalty consistent with the powers granted in this chapter. The findings shall be by a motion approved by a majority of those members present and voting, except that, at least four (4) CEB members must vote in order for the action to be official. A tie vote constitutes no action and the matter remains pending before the CEB. If a tie occurs, the CEB shall continue to vote until there is a majority approving the motion or the CEB may continue the matter to the next regular meeting of the CEB at which time those CEB members who were absent at the time of the original vote shall vote on the motion pending before the CEB. The board members absent at the original vote must review the evidence presented in the evidentiary hearing prior to casting their vote. The order may include a notice that it must be complied with by a specified date and that a fine may be imposed if the order is not complied with by that date. The CEB may also determine and include in its order the rate of the fine to be imposed if the violator fails to comply with the order in a timely fashion.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>At the conclusion of a CESM hearing, the CESM shall issue an order containing the findings of fact based on the evidence of record, and conclusions of law. The order shall be binding on the violator(s) and afford the proper relief or penalty consistent with the powers granted in this chapter. The order may include a notice that it must be complied with by a specified date and that a fine may be imposed if the order is not complied with by that date. The CESM may also determine and include in its order the rate of the fine to be imposed if the violator fails to comply with the order in a timely fashion.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>Under the conditions specified in section 9-107(d), the CEB or CESM may issue a separate order for any costs incurred by the city in performing repairs or taking curative actions if the order imposing fine is not complied with in a timely fashion.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>If the violation concerns real property, a copy of the order imposing fine and any order assessing costs for the city taking curative action that have been certified by the city clerk may be recorded in the public records of the Hillsborough County and shall constitute binding notice of the violations found therein to any subsequent purchasers, successors in interest or assigns.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>If an order is recorded in the public records pursuant to this chapter and the order is complied with by the date specified in the order, the CEB or CESM shall issue an order acknowledging compliance or a release that shall be recorded in the public records. A hearing is not required for issuance of an order acknowledging compliance or release.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 18, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-109</num>
+      <heading>Mandatory disclosures upon the transfer of property.</heading>
+      <para>
+        <num>(a)</num>
+        <text>If the owner of property that is the subject of an enforcement proceeding before the CEB or a CESM transfers ownership of that property between the time that the initial pleading (notice of violation) is served and the time that a hearing has been scheduled, such owner shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Disclose the existence and nature of the proceedings in writing to the prospective transferee;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Deliver to the prospective transferee copies of any and all pleadings, including all notices of violation, affidavits of violation, and notices of any kind, including hearing notices received by the transferor prior to the transfer; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Disclose in writing to the prospective transferee that the new owner will be responsible for compliance with the applicable code provisions and any order(s) issued in the CEB or CESM proceeding.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>File a notice with the secretary of the transfer of the property, identifying the new owner by full name(s) and address and attaching copies of the disclosures made to the new owner no later than five (5) days from the date of transfer or closing.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Failure to make the disclosures required by this section before the transfer of the property shall create a rebuttable presumption of fraud.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If the property is transferred to a bona fide purchaser for value in an arm's length transaction before the hearing, the proceedings will not be dismissed but the new owner will be provided a reasonable time period to correct the violations previously cited before the hearing is held.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 19, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-110</num>
+      <heading>Administrative fines and costs of repair.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The CEB or CESMs, may order a violator that has failed to comply with an order of the CEB or CESM, to pay a fine in an amount within the limits specified in this section for each day the violation continues past the date set by the CEB or CESM for compliance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When the CEB or CESM has found a violation to be a repeat violation, the CEB or CESM may order the violator to pay a fine in an amount within the limits specified in this section for each day the repeat violation continues past the date notice of the repeat violation was provided to the violator.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Whenever the CEB or CESM orders a violator to effect repairs or otherwise correct a City Code or city ordinance violation by a certain date, the code enforcement officer shall inspect the premises or otherwise investigate whether the order of the CEB or CESM has been complied with in a timely manner on the day following the deadline or as soon thereafter as reasonable. Upon a finding of non-compliance, the code enforcement officer shall file with the secretary an inspection report setting forth the facts of such of non-compliance. A copy of the inspection report shall be served on the violator by hand delivery or U.S. Mail.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A fine imposed pursuant to this section shall not exceed one thousand dollars ($1,000.00) per day per violation for a first violation and shall not exceed five thousand dollars ($5,000.00) per day per violation for a repeat violation.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If the CEB or CESMs finds an irreparable or irreversible violation, a fine not to exceed fifteen thousand dollars ($15,000.00) per violation may be imposed.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>In determining the amount of any fine, the CEB or CESMs should consider:</text>
+        <para>
+          <num>(1)</num>
+          <text>The gravity of the violation,</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any actions by a violator to correct the violation, and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any previous violations committed by the violator.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>If the CEB or a CESM makes a finding that a violation presents a serious threat to the public health, safety and welfare, the CEB or CESM may direct the appropriate city department, to make all reasonable repairs or take all reasonable action necessary to bring the property into compliance and charge the violator with the reasonable costs of the repairs or action along with the fine imposed pursuant to this section. Making such repairs or taking such action does not create a continuing obligation on the part of the city to make further repairs, take further action, or maintain the property and does not create any liability against the city for any damages to or loss of property.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Except for irreparable or irreversible violations, the CEB or CESM may reduce a fine imposed pursuant to this section in such amounts and upon such conditions, including time deadlines, as deemed appropriate up to the time that the order is referred to the local governing body attorney for enforcement. Subsequent thereto, requests for fine reductions and lien settlements shall be directed to and handled by the local governing body attorney who shall have the same discretion to negotiate these fines and liens as for matters in litigation.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 20, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-111</num>
+      <heading>Challenges to inspection report.</heading>
+      <text>A violator who disputes an inspection report finding the violations are not in compliance by the deadline given by the CEB or CESM, may seek a hearing before the CEB or the CESM to challenge the report by filing a written motion with the secretary and serving a copy on the city attorney's office no later than ten (10) days from the date of service of the inspection report. The motion will set forth with specificity the grounds for challenging the findings. The secretary will schedule a hearing and notify the violator by U.S. Mail. If the CEB or CESM, after hearing the motion, upholds the finding(s) of the code enforcement officer, all costs arising from the hearing may be assessed against the violator and included in the lien authorized by this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 21, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-112</num>
+      <heading>Liens.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A certified copy of an order imposing a fine or a fine plus costs may be recorded in the public records of Hillsborough County and shall thereafter constitute a lien against the land on which the violation exists and upon any other real or personal property owned by the violator(s). Upon petition to the circuit court, such order shall be enforceable in the same manner as a court judgment by the sheriffs of the state, including execution and levy against personal property, but such order shall not be deemed to be a court judgment except for enforcement purposes.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A fine imposed pursuant to this chapter shall continue to accrue until the violations are corrected or until judgment is rendered in a suit filed pursuant to this chapter, whichever occurs first.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A lien arising from a fine imposed pursuant to this chapter runs in favor of the city and the city may execute a satisfaction or release of such a lien.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The CEB or CESM may authorize the city attorney's office to foreclose any unpaid lien or to sue to recover a money judgment for the amount of the lien plus accrued interest after three (3) months from the filing date of the lien. No lien created pursuant to the provisions of this chapter may be foreclosed on real property that is homestead under Section 4, Article X of the State Constitution. Actions for money judgments under this chapter may be pursued only on fines levied after October 1, 2000, and the money judgment provisions of this chapter shall not apply to personal or real property covered by § 4(a), Art. X, of the Florida Constitution.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>No lien provided under this chapter shall continue for a period of longer than twenty (20) years after the certified copy of an order imposing a fine has been recorded, unless within that time an action is commenced pursuant to section 9-14 in a court of competent jurisdiction.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>In an action to foreclose on a lien or for money damages the prevailing parties are entitled to recover all costs, including a reasonable attorney's fee, incurred in the action. The city shall be entitled to collect all costs incurred in recording and satisfying a valid lien.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The continuation of the lien affected by the commencement of the action shall not be good against creditors or subsequent purchasers for valuable consideration without notice, unless a notice of lis pendens is recorded.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 22, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-113</num>
+      <heading>Appeal.</heading>
+      <text>A party, including the city, may appeal a final administrative order of the CEB or CESM issued pursuant to sections 9-11, 9-12, and 9-17 hereof in the Circuit Court of the Thirteenth Judicial Circuit of Florida. An appeal shall be filed within thirty (30) days of the date of entry of the order to be reviewed. A copy of the notice shall be mailed to the secretary and served upon the city attorney's office but an action must be filed with the circuit court following procedural rules applicable to such proceedings.</text>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 23, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-114</num>
+      <heading>Rehearing.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A party who has been adversely affected by the result of a public hearing before the CEB or CESM may move for a new hearing on the matter upon the grounds enumerated below. A motion for rehearing must be served and filed within ten (10) days after the date of entry of the CEB or CESM order. The time cannot be extended. A motion that is served within the ten-day period may be amended to allege new grounds with leave of the CEB or CESM. On its own initiative, the CEB or CESM may order rehearing within ten (10) days after the entry of the order. After timely service of a motion, the time to file a notice of appeal runs from the date of rendition of the order on the motion, and not from any order that has been entered. If a notice of appeal is filed by the moving party before the motion for rehearing is heard, the motion for rehearing is waived. The ground of a motion for rehearing shall fall into one (1) or more of the following categories:</text>
+        <para>
+          <num>(1)</num>
+          <text>Factual errors on of the record;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Procedural errors committed during the public hearing;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Perjury committed by a person testifying at the hearing;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Newly discovered evidence.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A rehearing cannot be granted if the sole purpose of the rehearing request is to extend the compliance date.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Notwithstanding paragraph (b) above, the city may request a rehearing within or beyond the ten (10) days to seek the modification of an order in the event of extenuating circumstances.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 24, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-115</num>
+      <heading>Setting aside orders.</heading>
+      <text>If within ninety (90) days after the expiration of a deadline to correct violations set by the CEB or CESM, the city has received notice that enforcement action could not be commenced or continued due to the application of statutory law, including but not limited to federal bankruptcy stays or protections available under the Soldier and Sailors Relief Act, then the city will move to have the CEB or CESM set aside the order and remand the case back to the applicable department for further action, as may be applicable.</text>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 25, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-116</num>
+      <heading>Loss of jurisdiction.</heading>
+      <text>The jurisdiction of the CEB and CESM to entertain any action on a case will cease ninety (90) days after the expiration of a deadline to correct violations set by the CEB or CESM, unless the CEB or CESM specifically retains jurisdiction for an additional ninety (90) days. In no event will the CEB or CESM retain jurisdiction for more than one hundred eighty (180) days after the deadline.</text>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 26, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-117</num>
+      <heading>Notices.</heading>
+      <para>
+        <num>(a)</num>
+        <text>All notices to a violator required by this chapter shall be provided as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Certified mail, and at the option of the city return receipt requested, to the address listed in the tax collector's office for tax notices or to the address listed in the county property appraiser's database. The city may also provide an additional notice to any other address it may find for the property owner. For property owned by a corporation, notices may be provided by certified mail to the registered agent of the corporation. If any notice sent by certified mail is not signed as received within thirty (30) days after the postmarked date of mailing, notice may be provided by posting as described in paragraph (b)(2) below;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Hand delivery by the sheriffs office, code enforcement officer or any other person duly designated and authorized by the city;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Leaving the notice at the violator's usual place of residence with any person residing therein who is above fifteen (15) years of age and informing that person of the contents of the notice; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>In the case of commercial premises, leaving the notice with the manager or other person in charge.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition to providing notice as set forth in subsection 9-117(a), at the option of the code enforcement officer as to notices of violation and the CEB or CESM as to notices of hearing, a notice may be served by publication or posting as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Publishing the notice once during each week for four (4) consecutive weeks (four (4) publications being sufficient) in a newspaper of general circulation in Hillsborough County. The newspaper shall meet such requirements as are prescribed under F.S. Ch. 50, for legal and official advertisements. Proof of publication shall be made as provided in F.S. §§ 50.041 and 50.051.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A notice may be posted at least ten (10) days prior to the hearing or to the expiration of any deadline contained in a notice, in at least two (2) locations, one (1) of which shall be on the property at which the violation is alleged to exist and the other of which shall be in the lobby of Tampa City Hall, 315 East Kennedy Boulevard, Tampa, Florida. Proof of posting shall be made by affidavit of the person(s) posting the notice(s) and shall include a copy (which may be in the form of a photograph) of the notice posted and the date and places of its posting.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Notice by publication or posting may run concurrently with, or may follow, an attempt or attempts to provide notice by hand delivery or by mail as provided in paragraph (a) hereof.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Evidence that an attempt has been made to deliver or mail notice as provided in paragraph (a) hereof, together with proof of publication or posting as provided in paragraph (b)(1) and (2), shall be sufficient to show that the notice requirements of this chapter have been met, without regard whether or not the violator received actual notice.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 27, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-118</num>
+      <heading>Powers of CESMs to review orders entered by city officials and procedures therefor.</heading>
+      <para>
+        <num>(a)</num>
+        <text>An aggrieved party may seek de novo review before a CESM of an order entered by the designated city official (hereinafter "city official") under sections 19-5(a) or 5-115.3 of the City Code.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A notice of violation directing a violator to take corrective action as called for under section 9-107 of this chapter is not a reviewable final order for purposes of this section.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Proceedings under this section are not governed by the provisions of F.S. Ch. 162.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>To initiate the review process from an order issued by the director of the department of neighborhood empowerment (the "director"), an aggrieved party must file a written notice with the secretary and serve a copy thereof to the director, no later than thirty (30) days from the date of the order being reviewed, which shall set forth the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name, mailing address and telephone number of the aggrieved party. All further papers and notices shall be mailed to the address provided by the aggrieved party in the notice unless written notice of change of address is filed with the secretary.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Identify the order being challenged. A copy of the challenged order must be attached to the notice.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The legal and factual grounds supporting the aggrieved party's claim for review.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The aggrieved party shall file, together with the notice, any documents and items that it wishes the CESM to consider at the review hearing.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>To initiate the review process from an order issued by the building official, an aggrieved party shall follow and be governed by the procedures and time-frames set out in City Code section 5-115.8.</text>
+        <para>
+          <num>(1)</num>
+          <text>The building official shall forward all properly filed requests for administrative review to the secretary together with copies of such papers or files constituting the record kept by the city in connection with the challenged order and any documents filed by the aggrieved party.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>It shall be the responsibility of the secretary to schedule a hearing before the CESM.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The secretary shall mail a notice of hearing to the aggrieved party and any attorney representing the aggrieved party.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Upon receipt of a timely notice, the secretary will schedule a review hearing before the CESM. A notice of hearing will be mailed to the aggrieved party. The secretary will compile the record which shall consist of the file and papers kept by the city official in connection with the challenged order and any documents filed by the aggrieved party.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>At any hearing of the CESM reviewing an order entered by the city official, fundamental due process will be observed and the parties shall have the right to call or cross-examine witnesses.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The CESM may issue an order affirming or reversing the order of the city official under its review but in no event modify, condition, or change the terms of said order.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 28, 4-16-15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>9-119</num>
+      <heading>Conflict of interest.</heading>
+      <text>Conflict of interest provisions shall apply to members of the CEB and CESM pursuant to F.S. §§ 112.3143 and 286.012.</text>
+      <annotations>
+        <annotation type="History">Ord. No. 2015-50, § 29, 4-16-15</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

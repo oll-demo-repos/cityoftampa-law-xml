@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>3</num>
+  <heading>ALCOHOLIC BEVERAGES</heading>
+  <annotation type="Editor's Notes" dest="container">1 <strong>Editor's note—</strong> Ord. No. 99-229, § 1, adopted Oct. 28, 1999, amended Ch. 3, in its entirety, to read as herein set out. Prior to inclusion of said ordinance, Ch. 3 pertained to similar subject matter. See the Code Comparative Table.</annotation>
+  <annotation type="Cross References" dest="container">Related law references—Alcoholic beverages, Art. III; issuance of a series 11-C club alcoholic beverage license to Grand Lodge of Florida, Arden Caballero de la Luz, Laws of Fla., Ch. 63-1980 (See Part C of Charter and Related Laws); issuance of a series 11-C club alcoholic beverage license to Florida Confederate Army, Inc., Laws of Fla., Ch. 71-677 (See Part C of Charter and Related Laws); issuance of a club liquor license to Veterans of Foreign Wars, Hatton-Gillett Post No. 121, Laws of Fla., Ch. 72-554 (See Part C of Charter and Related Laws); issuance of a club liquor license to Veterans of Foreign Wars, Post No. 424, Laws of Fla., Ch. 72-557 (See Part C of Charter and Related Laws); issuance of a club liquor license to the Cuban Civic Club, Laws of Fla., Ch. 72-558 (See Part C of Charter and Related Laws); authorizes issuance of alcoholic beverage license to Tampa Bay Performing Arts Center, Inc., Laws of Fla., Ch. 86-403 (See Part C of Charter and Related Laws).</annotation>
+  <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Nudity on premises where alcoholic beverages offered for sale, § 14-97; beverage bottles in public parks, § 16-6.</annotation>
+  <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Regulation of sale preempted by the state, Fla. Const. Art. VIII, § 5; liquors and beverages, F.S. Ch. 561 et seq.</annotation>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>I</num>
+    <heading>RESERVED</heading>
+    <annotation type="Editor's Notes" dest="container">2 <strong>Editor's note—</strong> Ord. No. 2012-119, § 1, adopted November 1, 2012, repealed § 3-1, which pertained to title and derived from Ord. No. 99-229, § 1, 10-28-99; Ord. No. 2008-54, § 1, 3-20-08. Similar provisions have been readopted in Chapter 14.</annotation>
+    <section>
+      <num>3-1-3-19</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>II</num>
+    <heading>RESERVED</heading>
+    <annotation type="Editor's Notes" dest="container">3 <strong>Editor's note—</strong> Ord. No. 2012-119, § 2, adopted November 1, 2012, repealed §§ 3-20-3-22, which pertained to general regulation and derived from Ord. No. 99-229, § 1, 10-28-99; Ord. No. 2003-141, § 2, 6-26-03; Ord. No. 2003-218, § 2, 9-4-03; Ord. No. 2003-271, § 2, 10-23-03; Ord. No. 2006-208, § 1, 9-7-06; Ord. No. 2008-54, § 2, 3-20-08; Ord. No. 2011-124, § 1, 10-6-2011. Similar provisions have been readopted in Chapter 14.</annotation>
+    <section>
+      <num>3-20-3-29.1</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>III</num>
+    <heading>CLASSIFICATIONS OF ZONING</heading>
+    <section>
+      <num>3-30</num>
+      <heading>Alcoholic beverage zoning classification.</heading>
+      <text>All places within the city licensed by the state to sell alcoholic beverages shall be zoned under one (1) of the following classifications:</text>
+      <para>
+        <num>(1)</num>
+        <text><em>(1-APS)—Beer.</em> Sale of malt beverages containing alcohol of more than one (1) percent by weight in sealed containers for consumption off the premises only.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text><em>(2-APS)—Beer and wine.</em> Sale of beverages containing alcohol of more than one (1) percent by weight and not more than fourteen (14) percent by weight and wines regardless of alcoholic content in sealed containers for consumption off the premises only.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text><em>(1-COP)—Beer.</em> Sale of malt beverages containing alcohol of more than one (1) percent by weight for consumption on the premises and in sealed containers for consumption off the premises.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text><em>(2-COP)—Beer and wine.</em> Sale of beverages containing alcohol of more than one (1) percent by weight and not more than fourteen (14) percent by weight and wines regardless of alcoholic content for consumption on the premises and in sealed containers for consumption off the premises.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text><em>(3-PS)—Beer, wine and liquor.</em> Sale of beverages regardless of alcoholic content in sealed containers for consumption off the premises only.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text><em>(4-COP)—Beer, wine and liquor.</em> Sale of beverages regardless of alcoholic content for consumption on the premises and in sealed containers for consumption off the premises.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text><em>(1-COP-R)—Beer.</em> Sale of malt beverages containing alcohol of more than one (1) percent by weight for consumption on the premises only in connection with a restaurant business having a minimum indoor, outdoor, or combination thereof in seating capacity of not less than eleven (11) seats and wherein the combined gross sales of the business operation is more than fifty-one (51) percent attributable to the sale of food during any semi-annual period as required in section 3-80. Where outdoor seating is utilized to satisfy the seating requirement, the area of such seating shall be clearly delineated by fences or other barriers, with the exception of outdoor seating located within a public sidewalk.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text><em>(2-COP-R)—Beer and wine.</em> Sale of beverages containing alcohol of more than one (1) percent by weight and not more than fourteen (14) percent by weight and wines regardless of alcoholic content for consumption on the premises only in connection with a restaurant business having a minimum indoor, outdoor, or combination thereof in seating capacity of not less than eleven (11) seats and wherein the combined gross sales of the business operation is more than fifty-one (51) percent attributable to the sale of food during any semi-annual period as required in section 3-80. Where outdoor seating is utilized to satisfy the seating requirement, the area of such seating shall be clearly delineated by fences or other barriers, with the exception of outdoor seating located within a public sidewalk.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text><em>(4-COP-R)—Beer, wine and liquor.</em> Sale of beverages regardless of alcoholic content for consumption on the premises only in connection with a restaurant business having a combined minimum indoor, outdoor, or combination thereof in seating capacity of not less than eleven (11) seats and wherein the combined gross sales of the business operation is more than fifty-one (51) percent attributable to the sale of food and non-alcoholic beverages during any semi-annual period as required in section 3-80. Where outdoor seating is utilized to satisfy the seating requirement, the area of such seating shall be clearly delineated by fences or other barriers, with the exception of outdoor seating located within a public sidewalk.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text><em>(1-COP-X)—Beer.</em> Sale of malt beverages containing alcohol of more than one (1) percent by weight for consumption on the premises only.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text><em>(2-COP-X)—Beer and wine.</em> Sale of beverages containing alcohol of more than one (1) percent by weight and not more than fourteen (14) percent by weight and wines regardless of alcoholic content for consumption on the premises only.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text><em>(4-COP-X)—Beer, wine and liquor.</em> Sale of beverages regardless of alcoholic content for consumption on the premises only.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text><em>(11-C)—Beer, wine and liquor—Nonprofit private clubs.</em> Sale of beverages regardless of alcoholic content for consumption on the premises only to members and guests of members of nonprofit private clubs. For the purpose of this subparagraph, a "nonprofit private club" is defined as any establishment which restricts admissions to individuals who are members of a fraternal order, private organization or other private association, which individuals may be identified by reference to a list kept by the owner or operator of such establishment and which establishment does not in any way operate or solicit a public calling or invite general members of the public to the premises to utilize the establishment and which establishment does not operate for profit. An 11-C alcoholic beverage zoning classification shall be effective only for so long as the subject property of the zoning petition is occupied by the nonprofit private club that initially petitioned for the alcoholic beverage zoning, and the alcoholic beverage zoning shall not be transferable, and, upon the happening of any one (1) of the following events:</text>
+        <para>
+          <num>a.</num>
+          <text>Vacation of the subject property of the alcoholic beverage zoning petition by the nonprofit private club;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Sale of the subject property of the alcoholic beverage zoning petition; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Dissolution of the nonprofit private club;</text>
+          <text>the subject property of the alcoholic beverage zoning petition will automatically revert to a dry status. The foregoing shall be in addition to all other provisions of this chapter dealing with the revocation of alcoholic beverage zoning and the reversion of property zoned for the sale of alcoholic beverages to a dry status, which provisions of this chapter shall apply to an 11-C alcoholic beverage zoning.</text>
+        </para>
+      </para>
+      <para>
+        <num>(14)</num>
+        <annotation><em>(4-PGC)</em>—Beer, wine and liquor for sale or consumption from mobile carts and temporary bars on a public golf course owned and/or operated by a public entity, having at least nine (9) holes and comprised of a minimum of thirty-five (35) acres of land. The 4-PGC is not subject to the provisions of section 3-90 and section 3-70(a).</annotation>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 99-229, § 1, 10-28-99</annotation>
+        <annotation type="History">Ord. No. 2006-208, § 2, 9-7-06</annotation>
+        <annotation type="History">Ord. No. 2006-229, § 1, 9-28-06</annotation>
+        <annotation type="History">Ord. No. 2007-19, § 1, 2-1-07</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>3-31-3-39</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>IV</num>
+    <heading>RESERVED</heading>
+    <annotation type="Editor's Notes" dest="container">4 <strong>Editor's note—</strong> Ord. No. 2012-119, § 3, adopted November 1, 2012, repealed §§ 3-40-3-46, which pertained to regulations and offenses and derived from Ord. No. 99-229, § 1, 10-28-99; Ord. No. 2005-144, § 2, 5-26-05; Ord. No. 2007-19, § 2, 2-1-07; Ord. No. 2009-124, § 1, 8-20-09; Ord. No. 2010-182, §§ 1, 2, 11-18-2010; Ord. No. 2011-122, §§ 1, 2, 10-6-2011; Ord. No. 2012-78, § 1, 7-19-2012. Similar provisions have been readopted in Chapter 14.</annotation>
+    <section>
+      <num>3-40-3-49</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>V</num>
+    <heading>RESERVED</heading>
+    <annotation type="Editor's Notes" dest="container">5 <strong>Editor's note—</strong> Ord. No. 2008-54, § 4, adopted March 20, 2008, repealed Art. V, §§ 3-50-3-54, which pertained to wet zoning. See also the Code Comparative Table.</annotation>
+    <section>
+      <num>3-50-3-59</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>VI</num>
+    <heading>RESERVED</heading>
+    <annotation type="Editor's Notes" dest="container">6 <strong>Editor's note—</strong> Ord. No. 2008-54, § 5, adopted March 20, 2008, effective April 1, 2008, repealed Art. VI, § 3-60, which pertained to notice requirements. See also the Code Comparative Table.</annotation>
+    <section>
+      <num>3-60-3-69</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>VII</num>
+    <heading>RESERVED</heading>
+    <annotation type="Editor's Notes" dest="container">7 <strong>Editor's note—</strong> Ord. No. 2008-54, § 6, adopted March 20, 2008, effective April 1, 2008, repealed Art. VII, §§ 3-70-3-76, which pertained to guidelines. See also the Code Comparative Table.</annotation>
+    <section>
+      <num>3-70-3-79</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>VIII</num>
+    <heading>RESERVED</heading>
+    <annotation type="Editor's Notes" dest="container">8 <strong>Editor's note—</strong> Ord. No. 2008-54, § 7, adopted March 20, 2008, effective April 1, 2008, repealed Art. VIII, § 3-80, which pertained to "R" Classifications; Reporting Requirements. See also the Code Comparative Table.</annotation>
+    <section>
+      <num>3-80-3-89</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>IX</num>
+    <heading>RESERVED</heading>
+    <annotation type="Editor's Notes" dest="container">9 <strong>Editor's note—</strong> Ord. No. 2008-54, § 8, adopted March 20, 2008, effective April 1, 2008, repealed Art. IX, §§ 3-90, 3-91, which pertained to discontinuance of sale of alcoholic beverages for specified periods of time; effect on zoning; exceptions; extensions. See also the Code Comparative Table.</annotation>
+    <section>
+      <num>3-90-3-99</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>X</num>
+    <heading>RESERVED</heading>
+    <annotation type="Editor's Notes" dest="container">10 <strong>Editor's note—</strong> Ord. No. 2008-54, § 9, adopted March 20, 2008, effective April 1, 2008, repealed Art. X, §§ 3-100-3-102, which pertained to revocation of wet zoning. See also the Code Comparative Table.</annotation>
+    <section>
+      <num>3-100-3-109</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XI</num>
+    <heading>RESERVED</heading>
+    <annotation type="Editor's Notes" dest="container">11 <strong>Editor's note—</strong> Ord. No. 2008-54, § 10, adopted March 20, 2008, effective April 1, 2008, repealed Art. XI, §§ 3-110-3-117, which pertained to bottle clubs. See also the Code Comparative Table.</annotation>
+    <section>
+      <num>3-110-3-119</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XII</num>
+    <heading>RESERVED</heading>
+    <annotation type="Editor's Notes" dest="container">12 <strong>Editor's note—</strong> Ord. No. 2008-54, § 11, adopted March 20, 2008, effective April 1, 2008, repealed Art. XII, §§ 3-120-3-128, which pertained to clubhouses. See also the Code Comparative Table.</annotation>
+    <section>
+      <num>3-120-3-129</num>
+      <heading>Reserved.</heading>
+    </section>
+  </container>
+  <container>
+    <prefix>ARTICLE</prefix>
+    <num>XIII</num>
+    <heading>CONVENTION CENTERS</heading>
+    <section>
+      <num>3-130</num>
+      <heading>Temporary display and consumption of alcoholic beverages.</heading>
+      <text>Authority is hereby granted to the director of convention facilities to approve and allow the display of alcoholic beverages by manufacturers or distributors of products licensed under the beverage law of the state in any convention center operated by the city which has an existing beverage license, and further to authorize consumption of such beverages in any such convention center upon the conditions that the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Manufacturer or distributor seeking approval and authorization shall be licensed to do business in the state and does do business throughout the state;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Manufacturer or distributor seeking approval and authorization is licensed by the state;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Consent of any person holding a concession contract in any convention center is obtained;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Consent of any person holding a beverage license in any convention center is obtained;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Display of alcoholic beverages in any convention center shall have a duration of no more than five (5) consecutive days;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Alcoholic beverages dispensed shall be consumed on the premises only and shall be dispensed in small quantities for tasting purposes only. Small quantities shall mean:</text>
+        <para>
+          <num>a.</num>
+          <text><em>Liquor:</em> One-half (½) ounce or less;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text><em>Beer:</em> Seven (7) ounces or less;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text><em>Wine:</em> Three (3) ounces or less;</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Manufacturer or distributor shall obtain a permit from the state, pursuant to F.S. § 561.421, after receiving the approval and authorization provided for in this section and shall furnish a copy of the permit to the convention facilities director prior to the event at which the display and/or consumption shall occur;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Alcoholic beverages dispensed shall be deemed an integral part of the convention or trade show.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. No. 99-229, § 1, 10-28-99</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

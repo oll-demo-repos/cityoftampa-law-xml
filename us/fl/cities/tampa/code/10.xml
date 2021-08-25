@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>10</num>
+  <heading>ELECTIONS</heading>
+  <annotation type="Cross References" dest="container">1 <strong>Charter reference— </strong>Elections and vacancies, § 10.01.</annotation>
+  <annotation type="Cross References" dest="container">Related law reference—Elections, Art. VIII.</annotation>
+  <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Administration, Ch. 2; code of ethics for city officials and employees, § 2-326 et seq.; financial disclosure of elected officials, § 2-332.</annotation>
+  <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>The Florida Election Code, F.S. Ch. 97 et seq.</annotation>
+  <section>
+    <num>10-1</num>
+    <heading>Placing of straw ballots in city elections.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The city council by a two-thirds vote may enact an ordinance placing straw ballot questions or propositions on the ballot at a municipal election so as to obtain an expression of voter sentiment with respect to matters of substantial governmental concern within the city. A question or proposition calling for a straw vote may be placed on the ballot in the regular city election and in any special city election called for other purposes. No special election may be called solely for the purpose of conducting a straw ballot.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The heading "Straw Ballot—Nonbinding," shall be written in boldface letters at the top of each such proposition or question so placed on the election ballot so as to notify voters that it is an unofficial poll of public opinion.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Ord. No. 89-233, § 2(13-1), 9-28-89</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>10-2</num>
+    <heading>City elections for ordinance initiatives and referendums.</heading>
+    <text>The supervisor of elections of Hillsborough County shall place on the ballot of a city election any ordinance as provided in section 10.07 of the Charter. Such ordinance shall be placed on the ballot of a scheduled city election unless it is placed on the ballot of a city election called by the supervisor, as prescribed by an ordinance of city council.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 92-11, § 1, 1-23-92</annotation>
+    </annotations>
+  </section>
+  <section>
+    <num>10-3</num>
+    <heading>[Resignation/removal from office prior to end of term.]</heading>
+    <text>Any member of the city council who resigns or is otherwise removed from said office prior to the end of his or her term of office shall not be eligible to qualify for election to city council in the next regular city election.</text>
+    <annotations>
+      <annotation type="History">Ord. No. 2010-168, § 2, 11-4-2010</annotation>
+    </annotations>
+  </section>
+</container>
