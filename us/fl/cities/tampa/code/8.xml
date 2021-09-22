@@ -3,12 +3,12 @@
   <prefix>Chapter</prefix>
   <num>8</num>
   <heading>CEMETERIES</heading>
-  <annotation type="Editor's Notes" dest="container">1 <strong>Editor's note—</strong> Ord. No. 2012-36, §§ 2, 3, adopted April 5, 2012, repealed the former Ch. 8, §§ 8-1-8-11, and enacted a new Ch. 8 as set out herein. The former Ch. 8 pertained to similar subject matter and derived from Ord. No. 89-232, § 2(12-1-12-10), 9-28-89; Ord. No. 93-150, §§ 1-3, 9-30-93.</annotation>
+  <annotation type="Editor's Notes" dest="container">1 <strong>Editor's note—</strong> Ord. No. 2012-36, §§ 2, 3, adopted April 5, 2012, repealed the former Ch. 8, §<cite path="8-1">§ 8-1</cite>-8-11, and enacted a new Ch. 8 as set out herein. The former Ch. 8 pertained to similar subject matter and derived from Ord. No. 89-232, § 2(12-1-12-10), 9-28-89; Ord. No. 93-150, §<cite path="1-3">§ 1-3</cite>, 9-30-93.</annotation>
   <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Cemeteries, F.S. Ch. 497.</annotation>
   <section>
     <num>8-1</num>
     <heading>Title.</heading>
-    <text>This chapter shall be known and may be cited as the "City of Tampa Cemeteries Ordinance."</text>
+    <text><cite path="8">This chapter</cite> shall be known and may be cited as the "City of Tampa Cemeteries Ordinance."</text>
     <annotations>
       <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
     </annotations>
@@ -51,7 +51,7 @@
   <section>
     <num>8-3</num>
     <heading>Definitions.</heading>
-    <text>For the purpose of this chapter, certain abbreviations, terms, phrases, words and their derivatives shall have the following meanings:</text>
+    <text>For the purpose of <cite path="8">this chapter</cite>, certain abbreviations, terms, phrases, words and their derivatives shall have the following meanings:</text>
     <text><em>Blocks</em> shall mean subdivisions shown on the maps of individual city cemeteries.</text>
     <text><em>Burial plots/spaces</em> shall mean a single burial space measuring three and one-half (3½) by eight and one-half (8½) feet.</text>
     <text><em>City cemetery</em> shall mean Woodlawn, Oaklawn, Jackson Heights, Marti and Centro Austuriano Cemeteries, and any other cemetery which may become owned by the city.</text>
@@ -68,7 +68,7 @@
     <text><em>Hermetically sealed</em> shall mean an airtight seal.</text>
     <text><em>Interment</em> shall mean a burial or entombment of one body into a grave or tomb, which is done at the request of the family and/or legal representative.</text>
     <text><em>Interment authorization/interment permit</em> shall mean the right, once signed, notarized and returned, for remains to be interred.</text>
-    <text><em>Interment rights</em> shall mean the right of all owners and/or his or her legal heirs to use cemetery grounds for the interment of dead persons. The interment right belongs to the owner of the burial lot, cemetery lot, or grave space and is subject to the rules and regulations contained in this chapter.</text>
+    <text><em>Interment rights</em> shall mean the right of all owners and/or his or her legal heirs to use cemetery grounds for the interment of dead persons. The interment right belongs to the owner of the burial lot, cemetery lot, or grave space and is subject to the rules and regulations contained in <cite path="8">this chapter</cite>.</text>
     <text><em>Inurnment</em> shall mean to bury or entomb an urn, as ashes of the deceased.</text>
     <text><em>Lot</em> shall refer to the numbered divisions as shown on the plats/maps of the city cemeteries.</text>
     <text><em>Marker/memorial marker</em> shall be identified as one that marks or distinguishes, as a tombstone. Memorial shall be identified as a marker to preserve the memory of a person or event. Marker/memorial shall apply to any marker upon or in any lot placed thereupon or therein or partially therein for the purpose of identification or in memory of the deceased. No marker/memorial or other structure intended for identification will be of any material other than granite, marble or cast bronze, must be located at either the head or foot of the grave and may not cover the entire grave, nor shall it exceed 2′ × 4′ × 1.5′.</text>
@@ -174,7 +174,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Excess dirt which is not removed by a vault company under this chapter;</text>
+        <text>Excess dirt which is not removed by a vault company under <cite path="8">this chapter</cite>;</text>
       </para>
       <para>
         <num>(6)</num>
@@ -195,7 +195,7 @@
     </para>
     <para>
       <num>(b)</num>
-      <text>Pursuant to F.S. § 497, the fees collected pursuant to section 8-7(a) for perpetual care shall be deposited in a separately designated care and maintenance trust fund. The net income of the care and maintenance trust fund shall be used solely for the care and maintenance of city cemeteries.</text>
+      <text>Pursuant to F.S. § 497, the fees collected pursuant to <cite path="8-7|(a)">section 8-7(a)</cite> for perpetual care shall be deposited in a separately designated care and maintenance trust fund. The net income of the care and maintenance trust fund shall be used solely for the care and maintenance of city cemeteries.</text>
     </para>
     <annotations>
       <annotation type="History">Ord. No. 2012-36, § 3, 4-5-2012</annotation>
@@ -242,7 +242,7 @@
     </para>
     <para>
       <num>(b)</num>
-      <text>The interment or inurnment of human remains in a mausoleum or other above ground structure shall be permitted if there is compliance with all the requirements of section 8-8.</text>
+      <text>The interment or inurnment of human remains in a mausoleum or other above ground structure shall be permitted if there is compliance with all the requirements of <cite path="8-8">section 8-8</cite>.</text>
     </para>
     <para>
       <num>(c)</num>

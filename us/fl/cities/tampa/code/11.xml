@@ -4,21 +4,21 @@
   <num>11</num>
   <heading>FIRE PREVENTION AND PROTECTION</heading>
   <annotation type="Cross References" dest="container">1 Related law references—Fire prevention and protection, Art. X; pension fund for firemen and policemen, Art. XVI.</annotation>
-  <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Building and construction regulations, Ch. 5; alarm systems, § 14-261 et seq.; use of fire hydrants for other than firefighting purposes, § 26-93; private fire protection systems generally, § 26-94; connection of fire protection systems, § 26-95; requirements for fire hydrants, § 26-96.</annotation>
+  <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Building and construction regulations, Ch. 5; alarm systems, <cite path="14-261">§ 14-261</cite> et seq.; use of fire hydrants for other than firefighting purposes, <cite path="26-93">§ 26-93</cite>; private fire protection systems generally, <cite path="26-94">§ 26-94</cite>; connection of fire protection systems, <cite path="26-95">§ 26-95</cite>; requirements for fire hydrants, <cite path="26-96">§ 26-96</cite>.</annotation>
   <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Fire prevention and control, F.S. Ch. 633; local fire chief authorized to enforce laws and rules of state fire marshal, F.S. § 633.121; manufacture, distribution and use of explosives, F.S. Ch. 552; sale of fireworks, F.S. Ch. 791.</annotation>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>I</num>
+    <num path-omit="true">I</num>
     <heading>ADMINISTRATIVE PROVISIONS</heading>
     <annotation type="Cross References" dest="container">2 <strong>Cross reference— </strong>Administration, Ch. 2.</annotation>
     <container>
       <prefix>DIVISION</prefix>
-      <num>1</num>
+      <num path-omit="true">1</num>
       <heading>GENERAL PROVISIONS; ADMINISTRATIVE AUTHORITY; DEFINITIONS</heading>
       <section>
         <num>11-1</num>
         <heading>Title.</heading>
-        <text>This chapter shall be known and may be cited as the "City of Tampa Fire Prevention Ordinance."</text>
+        <text><cite path="11">This chapter</cite> shall be known and may be cited as the "City of Tampa Fire Prevention Ordinance."</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-1), 9-28-89</annotation>
         </annotations>
@@ -26,7 +26,7 @@
       <section>
         <num>11-2</num>
         <heading>Purpose.</heading>
-        <text>The purpose of this chapter is to protect the health, safety and welfare of the general public through the administration of the city's fire prevention and protection program.</text>
+        <text>The purpose of <cite path="11">this chapter</cite> is to protect the health, safety and welfare of the general public through the administration of the city's fire prevention and protection program.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-2), 9-28-89</annotation>
         </annotations>
@@ -36,7 +36,7 @@
         <heading>Applicability; authority to require employment of stand-by emergency services personnel for events held within the city.</heading>
         <para>
           <num>(a)</num>
-          <text><em>Applicability.</em> The provisions of this chapter shall apply to all buildings, improvement, land, events and facilities within the corporate limits of the city.</text>
+          <text><em>Applicability.</em> The provisions of <cite path="11">this chapter</cite> shall apply to all buildings, improvement, land, events and facilities within the corporate limits of the city.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -49,7 +49,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Stand-by emergency, fire suppression and fire prevention services shall be provided exclusively through the city fire rescue division, unless and except, to the extent that assistance by other duly qualified service providers is specifically requested by the fire chief or designee. Such request for assistance shall be pursuant to a fully executed agreement for Mutual Aid, unless the fire chief or designee has made the request for assistance pursuant to emergency. The fire rescue division is authorized to charge for services rendered under this section, based upon the fire rescue division's cost to provide the required level of emergency services including any administrative expenses.</text>
+            <text>Stand-by emergency, fire suppression and fire prevention services shall be provided exclusively through the city fire rescue division, unless and except, to the extent that assistance by other duly qualified service providers is specifically requested by the fire chief or designee. Such request for assistance shall be pursuant to a fully executed agreement for Mutual Aid, unless the fire chief or designee has made the request for assistance pursuant to emergency. The fire rescue division is authorized to charge for services rendered under <cite path="11-3">this section</cite>, based upon the fire rescue division's cost to provide the required level of emergency services including any administrative expenses.</text>
           </para>
         </para>
         <annotations>
@@ -60,7 +60,7 @@
       <section>
         <num>11-4</num>
         <heading>Definitions.</heading>
-        <text>For the purpose of this chapter, certain abbreviations, terms, phrases, words and their derivatives shall have the following meanings:</text>
+        <text>For the purpose of <cite path="11">this chapter</cite>, certain abbreviations, terms, phrases, words and their derivatives shall have the following meanings:</text>
         <text><em>Building system</em> means a functionally related group of elements, components and/or equipment, such as the electrical, plumbing and mechanical systems of a building.</text>
         <text><em>Certificate of occupancy (C.O.)</em> means an official document evidencing that a building satisfies the requirements of the city for the occupancy of a building.</text>
         <text><em>Change of occupancy</em> means a change from one (1) Standard Building Code occupancy class to another.</text>
@@ -82,7 +82,7 @@
         <text><em>Fireworks</em> means the same as defined in F.S. § 791.01.</text>
         <text><em>Governmental or public facilities</em> means capital improvements and/or buildings or structures owned by or leased by and directly related to the operation of city, county, state and federal governments, agencies, authorities or departments including, but not limited to, governmental offices, police and fire stations, airports, waterports, parking facilities, offices, equipment yards, sanitation facilities, schools, parks and similar facilities in or through which general government operations are conducted.</text>
         <text><em>License</em> means a city occupational license tax receipt.</text>
-        <text><em>Permit</em> means an official document authorizing performance of a specific activity regulated by this chapter.</text>
+        <text><em>Permit</em> means an official document authorizing performance of a specific activity regulated by <cite path="11">this chapter</cite>.</text>
         <text><em>Permit card or placard</em> means a document issued by the city evidencing the issuance of a permit.</text>
         <text><em>Physical value</em> means the county property appraiser's assessed value or a certified appraisal by a person appropriately licensed to provide appraisals of real estate.</text>
         <text><em>Remodeling</em> means work which changes the original size, location or material of the components of a building.</text>
@@ -94,22 +94,22 @@
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-4), 9-28-89</annotation>
           <annotation type="History">Ord. No. 90-87, § 1, 3-22-90</annotation>
-          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, § 1-2.</annotation>
+          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
         </annotations>
       </section>
       <section>
         <num>11-5</num>
         <heading>Administrative authority.</heading>
-        <text>The provisions of this chapter shall be administered and enforced by the official. For purposes of administration of the provisions of this chapter, the official's designee shall be the fire marshal.</text>
+        <text>The provisions of <cite path="11">this chapter</cite> shall be administered and enforced by the official. For purposes of administration of the provisions of <cite path="11">this chapter</cite>, the official's designee shall be the fire marshal.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-5), 9-28-89</annotation>
-          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Administrative authority of the official, § 1-13; delegation of administrative authority, § 1-14.</annotation>
+          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Administrative authority of the official, <cite path="1-13">§ 1-13</cite>; delegation of administrative authority, <cite path="1-14">§ 1-14</cite>.</annotation>
         </annotations>
       </section>
       <section>
         <num>11-6</num>
         <heading>Alternate materials and methods of construction.</heading>
-        <text>The provisions of this chapter are not intended to prevent the use of any material or method of construction not specifically prescribed by this chapter, provided any such alternate has been approved by the official. The official shall approve any such alternate, provided he finds that the alternate for the purpose intended is at least the equivalent of that prescribed in this chapter in quality, strength, effectiveness, fire resistance, durability and safety. The official shall require that sufficient evidence or proof be submitted to substantiate any claim made regarding the alternate. If these criteria are not met, the official shall deny the request.</text>
+        <text>The provisions of <cite path="11">this chapter</cite> are not intended to prevent the use of any material or method of construction not specifically prescribed by <cite path="11">this chapter</cite>, provided any such alternate has been approved by the official. The official shall approve any such alternate, provided he finds that the alternate for the purpose intended is at least the equivalent of that prescribed in <cite path="11">this chapter</cite> in quality, strength, effectiveness, fire resistance, durability and safety. The official shall require that sufficient evidence or proof be submitted to substantiate any claim made regarding the alternate. If these criteria are not met, the official shall deny the request.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-6), 9-28-89</annotation>
         </annotations>
@@ -117,7 +117,7 @@
       <section>
         <num>11-7</num>
         <heading>Fire marshal's authority to make arrests.</heading>
-        <text>The Fire Marshal and his designated representatives shall have power to make arrests for the violation of the provisions of this chapter or any city ordinances relating to fire prevention, fire control or the abatement of fire hazards. In the investigation of fires, bombings, or any attempt of fires or bombings or any related offenses, the Fire Marshal and his designated representatives shall have the same authority as police officers, including the right to bear arms. This authority shall be regulated by the Fire Marshal.</text>
+        <text>The Fire Marshal and his designated representatives shall have power to make arrests for the violation of the provisions of <cite path="11">this chapter</cite> or any city ordinances relating to fire prevention, fire control or the abatement of fire hazards. In the investigation of fires, bombings, or any attempt of fires or bombings or any related offenses, the Fire Marshal and his designated representatives shall have the same authority as police officers, including the right to bear arms. This authority shall be regulated by the Fire Marshal.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-7), 9-28-89</annotation>
           <annotation type="History">Ord. No. 2009-68, § 1, 4-30-09</annotation>
@@ -138,14 +138,14 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>2</num>
+      <num path-omit="true">2</num>
       <heading>CERTIFICATES; DOCUMENTS; REQUIREMENTS; ETC.</heading>
       <section>
         <num>11-26</num>
         <heading>Applications; documentation.</heading>
         <para>
           <num>(a)</num>
-          <text>Any person legally entitled to apply for and receive a permit under the provisions of this chapter shall make such application in writing to the city on forms provided for that purpose. Every applicant for a permit shall give a description of the character of the work proposed to be done and the location, ownership, occupancy and use of the premises in connection therewith. The city may require plans, specifications or drawings and such other information as it may deem necessary and pertinent prior to the granting of a permit. If the city determines that the plans, specifications, drawings, descriptions or other information furnished by the applicant is in compliance with this chapter, the rules and regulations of any other department having jurisdiction and any other laws, rules and regulations pertaining to work proposed to be done, it shall issue the permit applied for upon payment of the required fee.</text>
+          <text>Any person legally entitled to apply for and receive a permit under the provisions of <cite path="11">this chapter</cite> shall make such application in writing to the city on forms provided for that purpose. Every applicant for a permit shall give a description of the character of the work proposed to be done and the location, ownership, occupancy and use of the premises in connection therewith. The city may require plans, specifications or drawings and such other information as it may deem necessary and pertinent prior to the granting of a permit. If the city determines that the plans, specifications, drawings, descriptions or other information furnished by the applicant is in compliance with <cite path="11">this chapter</cite>, the rules and regulations of any other department having jurisdiction and any other laws, rules and regulations pertaining to work proposed to be done, it shall issue the permit applied for upon payment of the required fee.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -161,7 +161,7 @@
         <text>All commercial establishments, including residential structures of three (3) or more dwelling units, are subject to periodic fire code compliance inspections. The inspections are to be conducted for the purpose of determining compliance with fire safety codes applicable to the use and location of commercial establishments and facilities. An inspection fee as established by city council resolution is due and payable upon the first inspection of an establishment within any one (1) fiscal-year period of the city, and a reinspection fee as set by city council resolution is due and payable for each reinspection done to verify that required corrections have been made.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-42), 9-28-89</annotation>
-          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Inspections generally, § 1-27.</annotation>
+          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Inspections generally, <cite path="1-27">§ 1-27</cite>.</annotation>
         </annotations>
       </section>
       <section>
@@ -179,7 +179,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>3</num>
+      <num path-omit="true">3</num>
       <heading>FEE AUTHORITY AND TYPES; PERMITS; INSPECTIONS</heading>
       <section>
         <num>11-46</num>
@@ -427,7 +427,7 @@
         <heading>Same—Requirements.</heading>
         <para>
           <num>(a)</num>
-          <text><em>Applications.</em> Applications for permits required by this chapter shall be on forms provided by the official and shall contain the information required by the official.</text>
+          <text><em>Applications.</em> Applications for permits required by <cite path="11">this chapter</cite> shall be on forms provided by the official and shall contain the information required by the official.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -440,14 +440,14 @@
       <section>
         <num>11-50</num>
         <heading>Same—Revocation.</heading>
-        <text>The official may revoke permits required under this chapter and issued by him upon finding that:</text>
+        <text>The official may revoke permits required under <cite path="11">this chapter</cite> and issued by him upon finding that:</text>
         <para>
           <num>(1)</num>
           <text>The permit was issued by mistake of law or fact;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The permit is for work which violates the provisions of this chapter;</text>
+          <text>The permit is for work which violates the provisions of <cite path="11">this chapter</cite>;</text>
         </para>
         <para>
           <num>(3)</num>
@@ -459,7 +459,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The work is not being performed in accordance with the provisions of this chapter;</text>
+          <text>The work is not being performed in accordance with the provisions of <cite path="11">this chapter</cite>;</text>
         </para>
         <para>
           <num>(6)</num>
@@ -484,7 +484,7 @@
       <section>
         <num>11-51</num>
         <heading>Same—Nontransferability.</heading>
-        <text>No permit required by this chapter shall be transferable from the permittee to another, and the issuance of a permit for certain work shall not preclude the issuance of a subsequent permit for the same work or for the completion of the work.</text>
+        <text>No permit required by <cite path="11">this chapter</cite> shall be transferable from the permittee to another, and the issuance of a permit for certain work shall not preclude the issuance of a subsequent permit for the same work or for the completion of the work.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-56), 9-28-89</annotation>
         </annotations>
@@ -492,10 +492,10 @@
       <section>
         <num>11-52</num>
         <heading>Inspections; other approvals.</heading>
-        <text>Activities regulated by this chapter shall be subject at all times to inspection by the city. The official may require documents, drawings or certificates necessary to effect approval of such work.</text>
+        <text>Activities regulated by <cite path="11">this chapter</cite> shall be subject at all times to inspection by the city. The official may require documents, drawings or certificates necessary to effect approval of such work.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-57), 9-28-89</annotation>
-          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Inspections generally, § 1-27.</annotation>
+          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Inspections generally, <cite path="1-27">§ 1-27</cite>.</annotation>
         </annotations>
       </section>
       <section>
@@ -509,7 +509,7 @@
       <section>
         <num>11-54</num>
         <heading>Same—Exceptions.</heading>
-        <text>The approval of the fire marshal, as set forth in section 11-53, shall not be necessary with respect to the location of installations for the storage of flammable liquids for airport and related airport uses at Tampa International Airport, and such installations for the storage of flammable liquids for airport and related airport uses at the airport, including aboveground tanks, are hereby specifically authorized, any other sections or provisions of this Code to the contrary notwithstanding; provided, however, that such installations shall comply with all the requirements set forth in section 902 of the Standard Fire Prevention Code.</text>
+        <text>The approval of the fire marshal, as set forth in <cite path="11-53">section 11-53</cite>, shall not be necessary with respect to the location of installations for the storage of flammable liquids for airport and related airport uses at Tampa International Airport, and such installations for the storage of flammable liquids for airport and related airport uses at the airport, including aboveground tanks, are hereby specifically authorized, any other sections or provisions of <cite>this Code</cite> to the contrary notwithstanding; provided, however, that such installations shall comply with all the requirements set forth in section 902 of the Standard Fire Prevention Code.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-59), 9-28-89</annotation>
         </annotations>
@@ -517,7 +517,7 @@
       <section>
         <num>11-55</num>
         <heading>Failure to obtain permit.</heading>
-        <text>Any person who shall commence any work regulated by this chapter without first obtaining a permit therefor shall, if subsequently permitted to obtain a permit, pay double the permit fee prescribed for the work and any other administrative fees or fines as set forth by this chapter. This section shall not apply to emergency work when failure to commence the same immediately would clearly have placed life or property in imminent danger, but in all such cases a permit must be obtained as soon as it is practicable, and if there is any unreasonable delay in obtaining such permit, a double fee shall be charged. The payment of a double fee shall not preclude nor be deemed a substitute for prosecution for commencing work without first obtaining a permit.</text>
+        <text>Any person who shall commence any work regulated by <cite path="11">this chapter</cite> without first obtaining a permit therefor shall, if subsequently permitted to obtain a permit, pay double the permit fee prescribed for the work and any other administrative fees or fines as set forth by <cite path="11">this chapter</cite>. <cite path="11-55">This section</cite> shall not apply to emergency work when failure to commence the same immediately would clearly have placed life or property in imminent danger, but in all such cases a permit must be obtained as soon as it is practicable, and if there is any unreasonable delay in obtaining such permit, a double fee shall be charged. The payment of a double fee shall not preclude nor be deemed a substitute for prosecution for commencing work without first obtaining a permit.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-60), 9-28-89</annotation>
         </annotations>
@@ -531,7 +531,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>A governmental or public facility will be exempted from the provisions in subsection (a) above, if:</text>
+          <text>A governmental or public facility will be exempted from the provisions in <cite path="11-56|(a)">subsection (a)</cite> above, if:</text>
           <para>
             <num>(1)</num>
             <text>The governmental or public facility is registered with the fire marshal's office. The registration must state a certified individual or company with qualifications to service fire alarm systems;</text>
@@ -544,7 +544,7 @@
             <num>(3)</num>
             <text>The governmental or public facility receives service on its fire alarm system when a false fire alarm occurs and, thereafter, sends all reports of tests and service on the fire alarm system to the fire marshal's office.</text>
           </para>
-          <text>A governmental or public facility which does not comply with the provisions in this subsection will not be exempted from the provisions in subsection (a).</text>
+          <text>A governmental or public facility which does not comply with the provisions in this subsection will not be exempted from the provisions in <cite path="11-56|(a)">subsection (a)</cite>.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-61), 9-28-89</annotation>
@@ -559,11 +559,11 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>II</num>
+    <num path-omit="true">II</num>
     <heading>SANCTIONS; APPEALS; BOARDS</heading>
     <container>
       <prefix>DIVISION</prefix>
-      <num>1</num>
+      <num path-omit="true">1</num>
       <heading>GENERALLY</heading>
       <section>
         <num>11-76-11-90</num>
@@ -572,12 +572,12 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>2</num>
+      <num path-omit="true">2</num>
       <heading>ACTION AUTHORIZED TO MITIGATE VIOLATIONS</heading>
       <section>
         <num>11-91</num>
         <heading>Stop work and emergency orders.</heading>
-        <text>Upon notice from the official, work on any system that is being done contrary to the provisions of this chapter or in a dangerous or unsafe manner shall immediately cease. Such notice shall be in writing and shall be given to the owner of the property, his agent or the person doing the work or posted at the job site and shall state the conditions under which work may be resumed. Where an emergency exists, verbal notice by the official shall be sufficient to require the stoppage of work.</text>
+        <text>Upon notice from the official, work on any system that is being done contrary to the provisions of <cite path="11">this chapter</cite> or in a dangerous or unsafe manner shall immediately cease. Such notice shall be in writing and shall be given to the owner of the property, his agent or the person doing the work or posted at the job site and shall state the conditions under which work may be resumed. Where an emergency exists, verbal notice by the official shall be sufficient to require the stoppage of work.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-71), 9-28-89</annotation>
         </annotations>
@@ -587,19 +587,19 @@
         <heading>Unsafe conditions, work and nonconforming structures.</heading>
         <para>
           <num>(a)</num>
-          <text>Any building or structure which is unsafe, unsanitary, does not provide adequate egress, constitutes a fire hazard, is otherwise dangerous to human life or, in relation to existing use, constitutes a health or safety hazard, is considered an unsafe building. Any such unsafe building is hereby prohibited and shall be abated by repair and rehabilitation or by demolition in accordance with the provisions of this Code.</text>
+          <text>Any building or structure which is unsafe, unsanitary, does not provide adequate egress, constitutes a fire hazard, is otherwise dangerous to human life or, in relation to existing use, constitutes a health or safety hazard, is considered an unsafe building. Any such unsafe building is hereby prohibited and shall be abated by repair and rehabilitation or by demolition in accordance with the provisions of <cite>this Code</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>If it shall come within the ascertainment of the official that any building, structure, building system, building component or work is dangerous, unsafe, unsanitary, a menace to life, health or property or is in violation of this chapter, the official may institute an investigation. If the official determines that such condition does exist, the official shall order and serve written notice to any person, agent, owner or occupant using or maintaining any such condition or who is responsible for the maintenance thereof to discontinue the use or maintenance thereof or to repair, replace, alter, change, remove, demolish or otherwise correct the same as may be considered necessary for the protection of life, health and property. Such written notice shall state precisely which building component or work is in violation of this section, the reasons for the violation and the time prescribed for the correction of the violation. If such order is not complied with in the time prescribed in the written notice, the official may notify the appropriate utility company serving such premises to disconnect the premises from its service lines, and the official may institute an action or proceeding in the appropriate court to prevent, restrain, abate or otherwise correct such condition.</text>
+          <text>If it shall come within the ascertainment of the official that any building, structure, building system, building component or work is dangerous, unsafe, unsanitary, a menace to life, health or property or is in violation of <cite path="11">this chapter</cite>, the official may institute an investigation. If the official determines that such condition does exist, the official shall order and serve written notice to any person, agent, owner or occupant using or maintaining any such condition or who is responsible for the maintenance thereof to discontinue the use or maintenance thereof or to repair, replace, alter, change, remove, demolish or otherwise correct the same as may be considered necessary for the protection of life, health and property. Such written notice shall state precisely which building component or work is in violation of <cite path="11-92">this section</cite>, the reasons for the violation and the time prescribed for the correction of the violation. If such order is not complied with in the time prescribed in the written notice, the official may notify the appropriate utility company serving such premises to disconnect the premises from its service lines, and the official may institute an action or proceeding in the appropriate court to prevent, restrain, abate or otherwise correct such condition.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>If the official shall find any building, structure, building system, building component or work upon or within any premises so dangerous as to place persons or property in imminent danger of injury or damage so that an emergency is created, the official shall forthwith order such work to cease, shall disconnect such component from the service lines or order the appropriate utility company serving such premises to disconnect the same from its service lines or both. The owner, agent, occupant or person responsible for the maintenance thereof shall have the right of appeal in accordance with this chapter, but the dependency of any such appeal shall not stay or supersede the action of the official. It shall be unlawful for any person to reconnect such building system or component until the same has been made safe and written authorization has been obtained from the official or until his action has been reversed by the unified construction trades board.</text>
+          <text>If the official shall find any building, structure, building system, building component or work upon or within any premises so dangerous as to place persons or property in imminent danger of injury or damage so that an emergency is created, the official shall forthwith order such work to cease, shall disconnect such component from the service lines or order the appropriate utility company serving such premises to disconnect the same from its service lines or both. The owner, agent, occupant or person responsible for the maintenance thereof shall have the right of appeal in accordance with <cite path="11">this chapter</cite>, but the dependency of any such appeal shall not stay or supersede the action of the official. It shall be unlawful for any person to reconnect such building system or component until the same has been made safe and written authorization has been obtained from the official or until his action has been reversed by the unified construction trades board.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-72), 9-28-89</annotation>
-          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Unsafe buildings, work and nonconforming structures, § 5-228; certain structures declared public nuisance, § 19-48.</annotation>
+          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Unsafe buildings, work and nonconforming structures, <cite path="5-228">§ 5-228</cite>; certain structures declared public nuisance, <cite path="19-48">§ 19-48</cite>.</annotation>
           <annotation type="Cross References" dest="container"><strong>Related law reference—</strong>Dangerous and unsafe buildings, Art. VI.</annotation>
         </annotations>
       </section>
@@ -619,19 +619,19 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>III</num>
+    <num path-omit="true">III</num>
     <heading>TECHNICAL PROVISIONS</heading>
     <container>
       <prefix>DIVISION</prefix>
-      <num>1</num>
+      <num path-omit="true">1</num>
       <heading>AUTHORITY TO ESTABLISH/PUBLISH TECHNICAL STANDARDS</heading>
       <section>
         <num>11-116</num>
         <heading>Technical standards may be established.</heading>
-        <text>The official may establish technical standards setting forth administrative guidelines governing the enforcement of this chapter, requirements not specifically addressed in this chapter but necessary to the effective pursuit of the purpose of this chapter and any other information needed for the uniform and orderly administration of this chapter. Such standards are to be published in a technical manual, which manual shall be on file in the office of the city clerk at least seven (7) days prior to adoption thereof and shall be made available to the public for inspection and for duplication at cost.</text>
+        <text>The official may establish technical standards setting forth administrative guidelines governing the enforcement of <cite path="11">this chapter</cite>, requirements not specifically addressed in <cite path="11">this chapter</cite> but necessary to the effective pursuit of the purpose of <cite path="11">this chapter</cite> and any other information needed for the uniform and orderly administration of <cite path="11">this chapter</cite>. Such standards are to be published in a technical manual, which manual shall be on file in the office of the city clerk at least seven (7) days prior to adoption thereof and shall be made available to the public for inspection and for duplication at cost.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-111), 9-28-89</annotation>
-          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Requirements not covered by Code may be required by the official, § 1-17.</annotation>
+          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Requirements not covered by Code may be required by the official, <cite path="1-17">§ 1-17</cite>.</annotation>
         </annotations>
       </section>
       <section>
@@ -641,12 +641,12 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>2</num>
+      <num path-omit="true">2</num>
       <heading>ADOPTION OF STANDARDS BY REFERENCE</heading>
       <section>
         <num>11-136</num>
         <heading>Fire limits established.</heading>
-        <text>The fire district limits of the city are hereby established as designated upon the map on file in the office of the city clerk, such map being designated and described as the "Building Code Fire Limits Atlas Map," and such map and all notations, references or other information shown thereon shall be as much a part of this section as if such information set forth on such map were fully described and set out herein.</text>
+        <text>The fire district limits of the city are hereby established as designated upon the map on file in the office of the city clerk, such map being designated and described as the "Building Code Fire Limits Atlas Map," and such map and all notations, references or other information shown thereon shall be as much a part of <cite path="11-136">this section</cite> as if such information set forth on such map were fully described and set out herein.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-121), 9-28-89</annotation>
         </annotations>
@@ -654,13 +654,13 @@
       <section>
         <num>11-137</num>
         <heading>Florida Fire Prevention Code adopted.</heading>
-        <text>The city adopts by reference and incorporates into this Code as though fully set out herein, that certain code, as it may from time to time be amended, known as the Florida Fire Prevention Code. The Florida Fire Prevention Code includes and incorporates by reference, as a part thereof, the National Fire Protection Association Uniform Fire Code, NFPA 1, and the Life Safety Code, NFPA 101.</text>
+        <text>The city adopts by reference and incorporates into <cite>this Code</cite> as though fully set out herein, that certain code, as it may from time to time be amended, known as the Florida Fire Prevention Code. The Florida Fire Prevention Code includes and incorporates by reference, as a part thereof, the National Fire Protection Association Uniform Fire Code, NFPA 1, and the Life Safety Code, NFPA 101.</text>
         <text>Secs. 11-138, 11-139. - Reserved.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-234, § 2(14-122), 9-28-89</annotation>
           <annotation type="History">Ord. No. 95-178, § 1, 9-7-95</annotation>
           <annotation type="History">Ord. No. 2007-246, § 1, 12-6-07</annotation>
-          <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2007-246, § 2, adopted Dec. 6, 2007, repealed §§ 11-138 and 11-139, which pertained to Life Safety Code adopted and Standard Fire Prevention Code adopted; amended. See also the Code Comparative Table.</annotation>
+          <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2007-246, § 2, adopted Dec. 6, 2007, repealed §<cite path="11-138">§ 11-138</cite> and 11-139, which pertained to Life Safety Code adopted and Standard Fire Prevention Code adopted; amended. See also the Code Comparative Table.</annotation>
         </annotations>
       </section>
     </container>

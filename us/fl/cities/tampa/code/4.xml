@@ -7,14 +7,14 @@
   <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Building and construction regulations, Ch. 5; landscaping, tree removal and site clearing, Ch. 13; property maintenance and structural standards, Ch. 19; zoning, Ch. 27.</annotation>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>I</num>
+    <num path-omit="true">I</num>
     <heading>IN GENERAL</heading>
     <section>
       <num>4-1</num>
       <heading>Intent.</heading>
-      <text>The intent of this chapter is to establish a policy for the city, in keeping with the vitality for which it is nationally recognized, and in order to enhance its aesthetic environment, to encourage private developers/owners of commercial properties to commission a piece of art for each new development or mall or structure or, in lieu thereof, to donate monies to the city for public art. The private developers/owners should be inspired to invest time, effort and money into the art displayed on their sites, recognizing that the art not only will become integral, lasting components of the cityscape but will be of intrinsic value to their developments. Further, the city, desiring to expand public experience and exposure to culture through various art forms and to enhance the appearance of public facilities and improve the environment of the city on behalf of its citizens, intends to provide for the incorporation of visual art in the design and construction of public facilities within the city.</text>
+      <text>The intent of <cite path="4">this chapter</cite> is to establish a policy for the city, in keeping with the vitality for which it is nationally recognized, and in order to enhance its aesthetic environment, to encourage private developers/owners of commercial properties to commission a piece of art for each new development or mall or structure or, in lieu thereof, to donate monies to the city for public art. The private developers/owners should be inspired to invest time, effort and money into the art displayed on their sites, recognizing that the art not only will become integral, lasting components of the cityscape but will be of intrinsic value to their developments. Further, the city, desiring to expand public experience and exposure to culture through various art forms and to enhance the appearance of public facilities and improve the environment of the city on behalf of its citizens, intends to provide for the incorporation of visual art in the design and construction of public facilities within the city.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 55-1</annotation>
+        <annotation type="History">Code 1971, <cite path="55-1">§ 55-1</cite></annotation>
         <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
         <annotation type="History">Ord. No. 2000-227, § 2, 8-31-00</annotation>
       </annotations>
@@ -22,7 +22,7 @@
     <section>
       <num>4-2</num>
       <heading>Definitions.</heading>
-      <text>The following words, terms and phrases, when used in this chapter, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:</text>
+      <text>The following words, terms and phrases, when used in <cite path="4">this chapter</cite>, shall have the meanings ascribed to them in <cite path="4-2">this section</cite>, except where the context clearly indicates a different meaning:</text>
       <text><em>Commercial structure</em> means any building or structure, all or part of which is to be used as an auditorium, private convention center, professional or commercial office, bank, private library (other than school), manufacturing plant, factory, assembly plant, processing plant, mill, warehouse, shopping mall, store, shop, market, hotel, storage building, freight depot, and private automobile parking structure which is not connected to or incorporated in other structures.</text>
       <para>
         <num>(1)</num>
@@ -34,13 +34,13 @@
       </para>
       <text><em>Construction costs</em> means the total value of the construction of, or reconstruction work on, commercial structures as determined by the chief building inspector in issuing a building permit for the construction or reconstruction. Relative to a municipal construction project, construction costs shall include architectural and engineering fees, site work and contingency allowances. It does not include land acquisition or subsequent changes to the construction contract. All construction costs shall be calculated as of the date the contract is executed.</text>
       <text><em>Municipal construction project</em> means any project to be paid for wholly or in part by the city, regardless of the source of the monies, to construct, remodel or reconstruct any public buildings, decorative or commemorative structures, parking facilities and parks, or any portion of any of such buildings, structures, facilities or parks, belonging to the city within its geographical boundaries as they now exist or shall exist in the future.</text>
-      <text><em>Reconstruction</em> means alterations or repairs made to a commercial or municipal structure within any twelve-month period, which alterations or repairs exceed fifty (50) percent of the value of the existing structure, so that such structure is required to conform to the requirements for new buildings pursuant to chapter 5 of this Code.</text>
+      <text><em>Reconstruction</em> means alterations or repairs made to a commercial or municipal structure within any twelve-month period, which alterations or repairs exceed fifty (50) percent of the value of the existing structure, so that such structure is required to conform to the requirements for new buildings pursuant to chapter 5 of <cite>this Code</cite>.</text>
       <text><em>Works of art</em> or <em>artworks</em> means tangible creations by artists exhibiting the highest quality of skill and aesthetic principles, including but not limited to paintings, sculptures, stained glass, statues, bas reliefs, engravings, carvings, frescoes, mobiles, murals, collages, mosaics, tapestries, photographs, drawings, monuments and fountains.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 55-2</annotation>
+        <annotation type="History">Code 1971, <cite path="55-2">§ 55-2</cite></annotation>
         <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
         <annotation type="History">Ord. No. 89-07, § 1(55-2), 1-5-89</annotation>
-        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, § 1-2.</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -51,7 +51,7 @@
         <text>There is hereby created a public art fund which shall be a separate account set up by the city to receive monies appropriated for the public art program and shall consist of the following:</text>
         <para>
           <num>(1)</num>
-          <text>One (1) percent of the construction cost of a municipal building project as bid, contracted and accepted by the city. Unexpended monies in this fund may be used for works of art at existing public properties and facilities as deemed appropriate by the public art committee as established in this chapter.</text>
+          <text>One (1) percent of the construction cost of a municipal building project as bid, contracted and accepted by the city. Unexpended monies in this fund may be used for works of art at existing public properties and facilities as deemed appropriate by the public art committee as established in <cite path="4">this chapter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -69,7 +69,7 @@
       <annotations>
         <annotation type="History">Ord. No. 89-07, § 2(55-3), 1-5-89</annotation>
         <annotation type="History">Ord. No. 2000-227, § 3, 8-31-00</annotation>
-        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Finance generally, § 2-231 et seq.</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Finance generally, <cite path="2-231">§ 2-231</cite> et seq.</annotation>
       </annotations>
     </section>
     <section>
@@ -85,14 +85,14 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Monies appropriated pursuant to this section as part of one (1) such project but not spent in connection with the project may be utilized to supplement other appropriations for the acquisition of works of art or to place works of art in, on or near either city facilities which have already been constructed or city properties.</text>
+        <text>Monies appropriated pursuant to <cite path="4-4">this section</cite> as part of one (1) such project but not spent in connection with the project may be utilized to supplement other appropriations for the acquisition of works of art or to place works of art in, on or near either city facilities which have already been constructed or city properties.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 55-4</annotation>
+        <annotation type="History">Code 1971, <cite path="55-4">§ 55-4</cite></annotation>
         <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
         <annotation type="History">Ord. No. 89-07, § 3(55-4), 1-5-89</annotation>
         <annotation type="History">Ord. No. 2000-227, § 4, 8-31-00</annotation>
-        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Finance generally, § 2-231 et seq.</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Finance generally, <cite path="2-231">§ 2-231</cite> et seq.</annotation>
       </annotations>
     </section>
     <section>
@@ -145,7 +145,7 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>II</num>
+    <num path-omit="true">II</num>
     <heading>PUBLIC ART COMMITTEE</heading>
     <annotation type="Editor's Notes" dest="container">2 <strong>Editor's note—</strong> Ord. No. 2000-227, § 6, adopted Aug. 31, 2000, amended the title of Art. II to read as herein set out. Prior to inclusion of said ordinance, Art. II was titled "Public Arts Committee."</annotation>
     <section>
@@ -153,7 +153,7 @@
       <heading>Created.</heading>
       <text>There is hereby established a committee to be known as the public art committee.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 55-6</annotation>
+        <annotation type="History">Code 1971, <cite path="55-6">§ 55-6</cite></annotation>
         <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
         <annotation type="History">Ord. No. 2000-227, § 7, 8-31-00</annotation>
       </annotations>
@@ -190,7 +190,7 @@
         <text>Serving as ex officio members shall be the director of arts and cultural affairs and the Director of the Tampa Museum of Art.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 55-7</annotation>
+        <annotation type="History">Code 1971, <cite path="55-7">§ 55-7</cite></annotation>
         <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
         <annotation type="History">Ord. No. 89-07, § 5(55-7), 1-5-89</annotation>
         <annotation type="History">Ord. No. 2000-227, § 8, 8-31-00</annotation>
@@ -201,7 +201,7 @@
       <heading>Compensation.</heading>
       <text>Members of the public art committee shall not be entitled to compensation; provided that all members shall receive reimbursement for parking in city garages and for mileage for any board-related business except travel to and from regularly scheduled and specially called board meetings. Such reimbursement shall be consistent with city policy.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 55-8</annotation>
+        <annotation type="History">Code 1971, <cite path="55-8">§ 55-8</cite></annotation>
         <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
         <annotation type="History">Ord. No. 9271-A, § 11, 5-29-86</annotation>
         <annotation type="History">Ord. No. 2000-227, § 9, 8-31-00</annotation>
@@ -216,7 +216,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text><em>Conduct of meetings.</em> The public art committee shall adopt rules for governing the conduct of its meetings in accordance with the provisions of this chapter, and specifically:</text>
+        <text><em>Conduct of meetings.</em> The public art committee shall adopt rules for governing the conduct of its meetings in accordance with the provisions of <cite path="4">this chapter</cite>, and specifically:</text>
         <para>
           <num>(1)</num>
           <text>The officials of the committee shall be a chairman, a vice-chairman and a secretary who have been elected by the committee. The only limitation on the number of terms of office to which these officials may be elected is the limitation of the number of terms each member of the committee may serve.</text>
@@ -251,7 +251,7 @@
         <text><em>Legal counsel.</em> The legal department shall provide legal counsel as may be reasonably required by the committee for the performance of its functions.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 55-9</annotation>
+        <annotation type="History">Code 1971, <cite path="55-9">§ 55-9</cite></annotation>
         <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
         <annotation type="History">Ord. No. 89-07, § 6(55-9), 1-5-89</annotation>
         <annotation type="History">Ord. No. 2000-227, § 10, 8-31-00</annotation>
@@ -263,7 +263,7 @@
       <text>The purpose, functions and responsibilities of the public art committee are as follows:</text>
       <para>
         <num>(1)</num>
-        <text>The committee shall prepare implementation guidelines, selection procedures and organizational policies to facilitate this chapter, subject to the approval of the mayor.</text>
+        <text>The committee shall prepare implementation guidelines, selection procedures and organizational policies to facilitate <cite path="4">this chapter</cite>, subject to the approval of the mayor.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -295,7 +295,7 @@
       </para>
       <para>
         <num>(9)</num>
-        <text>The committee shall adopt rules and regulations, including the creation of subcommittees, to implement this chapter.</text>
+        <text>The committee shall adopt rules and regulations, including the creation of subcommittees, to implement <cite path="4">this chapter</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. No. 89-07, § 7(55-10), 1-5-89</annotation>

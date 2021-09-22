@@ -6,21 +6,21 @@
   <annotation type="Cross References" dest="container">1 <strong>Cross reference— </strong>Streets and sidewalks, Ch. 22; utilities, Ch. 26.</annotation>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>I</num>
+    <num path-omit="true">I</num>
     <heading>IN GENERAL</heading>
     <section>
       <num>7-1</num>
       <heading>Short title.</heading>
-      <text>This chapter shall be known as the "Tampa Cable Communications Ordinance."</text>
+      <text><cite path="7">This chapter</cite> shall be known as the "Tampa Cable Communications Ordinance."</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-1</annotation>
+        <annotation type="History">Code 1971, <cite path="52-1">§ 52-1</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. I, § 1), 1-28-82</annotation>
       </annotations>
     </section>
     <section>
       <num>7-2</num>
       <heading>Purposes.</heading>
-      <text>The purpose of this chapter is to:</text>
+      <text>The purpose of <cite path="7">this chapter</cite> is to:</text>
       <para>
         <num>(1)</num>
         <text>Provide for the franchising and regulation of cable television systems within the city;</text>
@@ -39,19 +39,19 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Provide remedies and prescribe penalties for violation of this chapter and the franchise(s) granted hereunder.</text>
+        <text>Provide remedies and prescribe penalties for violation of <cite path="7">this chapter</cite> and the franchise(s) granted hereunder.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-2</annotation>
+        <annotation type="History">Code 1971, <cite path="52-2">§ 52-2</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. I, § 2), 1-28-82</annotation>
       </annotations>
     </section>
     <section>
       <num>7-3</num>
       <heading>Words and terms defined.</heading>
-      <text>For the purpose of this chapter, the following terms, phrases, words and their derivations shall have the meanings given herein, unless the context clearly indicates that another meaning is intended. When not inconsistent with the context, words used in the present tense include the future, words in the plural number include the singular number, and words in the singular number include the plural number. The word "shall" is always mandatory and not merely directory.</text>
+      <text>For the purpose of <cite path="7">this chapter</cite>, the following terms, phrases, words and their derivations shall have the meanings given herein, unless the context clearly indicates that another meaning is intended. When not inconsistent with the context, words used in the present tense include the future, words in the plural number include the singular number, and words in the singular number include the plural number. The word "shall" is always mandatory and not merely directory.</text>
       <text><em>Access channel</em> means a channel, the programming of which is provided by groups or members of the public, educational institutions or the government, and is retransmitted by the grantee without editorial control by the grantee.</text>
-      <text><em>Auxiliary services</em> means any communications services in addition to "regular subscriber services," including, but not limited to, service for which a per-program or per-channel charge is made, pay TV, burglar alarm services, data or other electronic transmission services, facsimile reproduction services, meter reading services and home shopping services, interactive two-way services and any other service utilizing any facility or equipment of a cable television system operating pursuant to a franchise granted under this chapter.</text>
+      <text><em>Auxiliary services</em> means any communications services in addition to "regular subscriber services," including, but not limited to, service for which a per-program or per-channel charge is made, pay TV, burglar alarm services, data or other electronic transmission services, facsimile reproduction services, meter reading services and home shopping services, interactive two-way services and any other service utilizing any facility or equipment of a cable television system operating pursuant to a franchise granted under <cite path="7">this chapter</cite>.</text>
       <text><em>Board</em> or <em>board of county commissioners</em> means the board of county commissioners of the county.</text>
       <text><em>Cable television system</em> or <em>cable communications system</em> or <em>cable television</em> means any nonbroadcast facility consisting of a set of transmission paths and associated signal generation, reception, and control equipment that distributes or is designed to distribute to subscribers audio, video and other forms of electronic or electrical signals, but such terms shall not include any such facility that serves or will serve only subscribers in one (1) or more multiple unit dwellings under common ownership, control or management and that does not use municipal rights-of-way.</text>
       <text><em>Channel</em> means a band of frequencies, six (6) megahertz wide in the electromagnetic spectrum, capable of carrying either one (1) audiovisual television signal and a few nonvideo signals or a large number of nonvideo signals.</text>
@@ -63,9 +63,9 @@
       <text><em>Fair market value</em> means the price that a willing buyer would pay to a willing seller for a going concern.</text>
       <text><em>Federal Communications Commission</em> or <em>FCC</em> means the present federal agency of that name as constituted by the Communications Act of 1934, or any successor agency created by the United States Congress.</text>
       <text><em>Franchise</em> means the nonexclusive rights granted hereunder to construct and operate a cable television system along the public ways in the city or within specified areas in the city and is not intended to include any license or permit required for the privilege of transacting and carrying on a business within the city as may be required by other ordinances and laws of the city.</text>
-      <text><em>Franchise area</em> means that portion of the city for which a franchise is granted under the authority of this chapter. The franchise area shall be the corporate limits of the city as they may from time to time be redrawn.</text>
-      <text><em>Grantee</em> means the natural person, partnership, domestic or foreign corporation, association, joint venture, or organization of any kind granted a franchise by the city under this chapter and its lawful and approved successor.</text>
-      <text><em>Gross revenues</em> means all revenues derived directly or indirectly from the operation or use of all or part of a cable television system franchised pursuant to this chapter by the grantee, its affiliates, subsidiaries, parents, and any person in which the grantee has a financial interest including, but not limited to, revenue from regular subscriber service fees, auxiliary service fees, installation and reconnection fees, leased channel fees, converter rentals, studio rental, production equipment and personnel fees, advertising revenues, sale of promotional items and publications; provided, however, that this shall not include any taxes on services furnished by the grantee herein imposed directly upon any subscriber or user by the state, local or other governmental unit and collected by the grantee on behalf of the governmental unit.</text>
+      <text><em>Franchise area</em> means that portion of the city for which a franchise is granted under the authority of <cite path="7">this chapter</cite>. The franchise area shall be the corporate limits of the city as they may from time to time be redrawn.</text>
+      <text><em>Grantee</em> means the natural person, partnership, domestic or foreign corporation, association, joint venture, or organization of any kind granted a franchise by the city under <cite path="7">this chapter</cite> and its lawful and approved successor.</text>
+      <text><em>Gross revenues</em> means all revenues derived directly or indirectly from the operation or use of all or part of a cable television system franchised pursuant to <cite path="7">this chapter</cite> by the grantee, its affiliates, subsidiaries, parents, and any person in which the grantee has a financial interest including, but not limited to, revenue from regular subscriber service fees, auxiliary service fees, installation and reconnection fees, leased channel fees, converter rentals, studio rental, production equipment and personnel fees, advertising revenues, sale of promotional items and publications; provided, however, that this shall not include any taxes on services furnished by the grantee herein imposed directly upon any subscriber or user by the state, local or other governmental unit and collected by the grantee on behalf of the governmental unit.</text>
       <text><em>Mayor</em> means the chief executive officer of the City of Tampa.</text>
       <text><em>Net profit</em> means the amount remaining after deducting from gross revenues all of the actual, direct and indirect, expenses associated with operating the cable television system including the franchise fee, interest, depreciation, and federal or state income taxes.</text>
       <text><em>Persons</em> means any people, firms, corporations, associations, or other legally recognized entities.</text>
@@ -77,10 +77,10 @@
       <text><em>Two-way service</em> means the subscriber or any other location shall have the capability to choose whether or not to respond immediately or by sequential delay by utilizing any type of terminal equipment whatever, by pushbutton code, dial code, meter, voice, video, including, but not limited to, audio and video, electrical or mechanically produced signal, display and/or interrogation.</text>
       <text><em>User</em> means a person or organization utilizing channel or system equipment and facilities for purposes of production and/or transmission of material, as contrasted with receipt thereof in a subscriber capacity.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-11</annotation>
+        <annotation type="History">Code 1971, <cite path="52-11">§ 52-11</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. II, § 1), 1-28-82</annotation>
         <annotation type="History">Ord. No. 410, §§ 1, 2, 12-1-88</annotation>
-        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, § 1-2.</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -88,15 +88,15 @@
       <heading>Limit on grantee's recourse.</heading>
       <para>
         <num>(a)</num>
-        <text>Except as expressly provided in this chapter and the franchise, the grantee shall have no recourse against the city for any loss, expense or damage resulting from the terms and conditions of this chapter or the franchise because of the city's enforcement thereof nor for the city's failure to have the authority to grant the franchise. The grantee expressly agrees that upon its acceptance of the franchise it does so relying upon its own investigation and understanding of the power and authority of the city to grant the franchise.</text>
+        <text>Except as expressly provided in <cite path="7">this chapter</cite> and the franchise, the grantee shall have no recourse against the city for any loss, expense or damage resulting from the terms and conditions of <cite path="7">this chapter</cite> or the franchise because of the city's enforcement thereof nor for the city's failure to have the authority to grant the franchise. The grantee expressly agrees that upon its acceptance of the franchise it does so relying upon its own investigation and understanding of the power and authority of the city to grant the franchise.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The grantee, by accepting the franchise, acknowledges that it has not been induced to accept same by any promise, verbal or written, by or on behalf of the city or by any third person regarding any term or condition of this chapter or the franchise not expressed therein. The grantee further pledges that no promise or inducement, oral or written, has been made to any city employee or official regarding receipt of the cable television franchise.</text>
+        <text>The grantee, by accepting the franchise, acknowledges that it has not been induced to accept same by any promise, verbal or written, by or on behalf of the city or by any third person regarding any term or condition of <cite path="7">this chapter</cite> or the franchise not expressed therein. The grantee further pledges that no promise or inducement, oral or written, has been made to any city employee or official regarding receipt of the cable television franchise.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>The grantee further acknowledges by acceptance of the franchise that it has carefully read the terms and conditions of this chapter and the franchise and accepts without reservation the obligations imposed by the terms and conditions herein.</text>
+        <text>The grantee further acknowledges by acceptance of the franchise that it has carefully read the terms and conditions of <cite path="7">this chapter</cite> and the franchise and accepts without reservation the obligations imposed by the terms and conditions herein.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -107,7 +107,7 @@
         <text>The grantee shall not apply for any waivers, exceptions or declaratory rulings from the Federal Communications Commission or any other federal or state regulatory agency without prior written notice to the city.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-91</annotation>
+        <annotation type="History">Code 1971, <cite path="52-91">§ 52-91</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VII, § 1), 1-28-82</annotation>
       </annotations>
     </section>
@@ -116,17 +116,17 @@
       <heading>Compliance with state and federal law.</heading>
       <text>The grantee shall, at all times, comply with all laws of the state and federal government and the rules and regulations of any federal or state administrative agency.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-92</annotation>
+        <annotation type="History">Code 1971, <cite path="52-92">§ 52-92</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 2), 1-28-82</annotation>
-        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Federal and state authority, § 1-26.</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Federal and state authority, <cite path="1-26">§ 1-26</cite>.</annotation>
       </annotations>
     </section>
     <section>
       <num>7-6</num>
       <heading>Special license.</heading>
-      <text>The city reserves the right to issue a license, easement, or other permit to anyone other than the grantee to permit that person to traverse any portion of the grantee's franchise area within the city in order to provide service outside the city. Such license or easement, absent a grant of a franchise in accordance with this chapter, shall not authorize nor permit such person to provide a cable television service of any nature to any home or place of business within the city, nor to render any service or connect any subscriber within the city to the grantee's cable television system.</text>
+      <text>The city reserves the right to issue a license, easement, or other permit to anyone other than the grantee to permit that person to traverse any portion of the grantee's franchise area within the city in order to provide service outside the city. Such license or easement, absent a grant of a franchise in accordance with <cite path="7">this chapter</cite>, shall not authorize nor permit such person to provide a cable television service of any nature to any home or place of business within the city, nor to render any service or connect any subscriber within the city to the grantee's cable television system.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-93</annotation>
+        <annotation type="History">Code 1971, <cite path="52-93">§ 52-93</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 3), 1-28-82</annotation>
       </annotations>
     </section>
@@ -135,23 +135,23 @@
       <heading>Franchise validity.</heading>
       <para>
         <num>(a)</num>
-        <text>The grantee agrees, by the acceptance of the franchise, to accept the validity of the terms and conditions of this chapter and the franchise in their entirety and that it will not, at any time, proceed against the city in any claim or proceeding challenging any term or provision of this chapter or the franchise as unreasonable, arbitrary or void, or that the city did not have the authority to impose such term or condition.</text>
+        <text>The grantee agrees, by the acceptance of the franchise, to accept the validity of the terms and conditions of <cite path="7">this chapter</cite> and the franchise in their entirety and that it will not, at any time, proceed against the city in any claim or proceeding challenging any term or provision of <cite path="7">this chapter</cite> or the franchise as unreasonable, arbitrary or void, or that the city did not have the authority to impose such term or condition.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>In case of conflict or ambiguity between this chapter, the franchise, and the grantee's franchise bid, the grantee agrees that the provision which provides the greatest benefit to the city, as determined solely by the city, shall prevail.</text>
+        <text>In case of conflict or ambiguity between <cite path="7">this chapter</cite>, the franchise, and the grantee's franchise bid, the grantee agrees that the provision which provides the greatest benefit to the city, as determined solely by the city, shall prevail.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-94</annotation>
+        <annotation type="History">Code 1971, <cite path="52-94">§ 52-94</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 4), 1-28-82</annotation>
       </annotations>
     </section>
     <section>
       <num>7-8</num>
       <heading>Failure to enforce franchise.</heading>
-      <text>The grantee shall not be excused from complying with any of the terms and conditions of this chapter or the franchise by any failure of the city, upon any one (1) or more occasions, to insist upon the grantee's performance or to seek grantee's compliance with any one (1) or more of such terms or conditions.</text>
+      <text>The grantee shall not be excused from complying with any of the terms and conditions of <cite path="7">this chapter</cite> or the franchise by any failure of the city, upon any one (1) or more occasions, to insist upon the grantee's performance or to seek grantee's compliance with any one (1) or more of such terms or conditions.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-95</annotation>
+        <annotation type="History">Code 1971, <cite path="52-95">§ 52-95</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 5), 1-28-82</annotation>
       </annotations>
     </section>
@@ -169,10 +169,10 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>To renegotiate the franchise granted pursuant to this chapter should substantial sections of the chapter be rendered void by the Federal Communications Commission or by subsequent changes in applicable federal or state laws.</text>
+        <text>To renegotiate the franchise granted pursuant to <cite path="7">this chapter</cite> should substantial sections of the chapter be rendered void by the Federal Communications Commission or by subsequent changes in applicable federal or state laws.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-96</annotation>
+        <annotation type="History">Code 1971, <cite path="52-96">§ 52-96</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 6), 1-28-82</annotation>
       </annotations>
     </section>
@@ -201,7 +201,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>The review and monitoring of the provisions of this section shall be undertaken by the equal employment office division of the city so as to ensure total compliance within a reasonable period of time, not to exceed three (3) years.</text>
+        <text>The review and monitoring of the provisions of <cite path="7-10">this section</cite> shall be undertaken by the equal employment office division of the city so as to ensure total compliance within a reasonable period of time, not to exceed three (3) years.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -209,10 +209,10 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>If any of the provisions of this section are in conflict with the equal employment opportunity regulations of the Federal Communications Commission, the provision which places the greatest responsibility upon the grantee to provide opportunities for women and minorities shall prevail.</text>
+        <text>If any of the provisions of <cite path="7-10">this section</cite> are in conflict with the equal employment opportunity regulations of the Federal Communications Commission, the provision which places the greatest responsibility upon the grantee to provide opportunities for women and minorities shall prevail.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-97</annotation>
+        <annotation type="History">Code 1971, <cite path="52-97">§ 52-97</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 7), 1-28-82</annotation>
         <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Human rights, Ch. 12.</annotation>
       </annotations>
@@ -220,27 +220,27 @@
     <section>
       <num>7-11</num>
       <heading>Time essence of agreement.</heading>
-      <text>Whenever this chapter or the franchise sets forth any time for any act to be performed by or on the behalf of the grantee, such time shall be deemed of the essence and the grantee's failure to perform within the time allotted shall, in all cases, be sufficient grounds for the city to invoke the remedies under the terms and conditions of this chapter and the franchise.</text>
+      <text>Whenever <cite path="7">this chapter</cite> or the franchise sets forth any time for any act to be performed by or on the behalf of the grantee, such time shall be deemed of the essence and the grantee's failure to perform within the time allotted shall, in all cases, be sufficient grounds for the city to invoke the remedies under the terms and conditions of <cite path="7">this chapter</cite> and the franchise.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-98</annotation>
+        <annotation type="History">Code 1971, <cite path="52-98">§ 52-98</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 8), 1-28-82</annotation>
       </annotations>
     </section>
     <section>
       <num>7-12</num>
       <heading>Acceptance.</heading>
-      <text>This chapter and the franchise and their terms and conditions shall be accepted by the grantee by written instrument filed with the city within thirty (30) days after the granting of the franchise, unless the period is extended by the city at its sole discretion. In its acceptance, the grantee shall declare that it has carefully read the terms and conditions of this chapter and the franchise and accepts all of the terms and conditions imposed by this chapter and the franchise and agrees to abide by same.</text>
+      <text><cite path="7">This chapter</cite> and the franchise and their terms and conditions shall be accepted by the grantee by written instrument filed with the city within thirty (30) days after the granting of the franchise, unless the period is extended by the city at its sole discretion. In its acceptance, the grantee shall declare that it has carefully read the terms and conditions of <cite path="7">this chapter</cite> and the franchise and accepts all of the terms and conditions imposed by <cite path="7">this chapter</cite> and the franchise and agrees to abide by same.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-99</annotation>
+        <annotation type="History">Code 1971, <cite path="52-99">§ 52-99</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 9), 1-28-82</annotation>
       </annotations>
     </section>
     <section>
       <num>7-13</num>
       <heading>Publication costs.</heading>
-      <text>The grantee shall assume the cost of publication of this chapter and franchise as such publication is required by law and such is payable upon the grantee's filing of acceptance as in section 7-12.</text>
+      <text>The grantee shall assume the cost of publication of <cite path="7">this chapter</cite> and franchise as such publication is required by law and such is payable upon the grantee's filing of acceptance as in <cite path="7-12">section 7-12</cite>.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-100</annotation>
+        <annotation type="History">Code 1971, <cite path="52-100">§ 52-100</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 10), 1-28-82</annotation>
       </annotations>
     </section>
@@ -257,7 +257,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text><em>Penalties and charges to tenants for service prohibited.</em> Neither the owner of any multiple unit residential dwelling nor his agent or representative shall knowingly penalize, charge or surcharge a tenant or resident, or forfeit or threaten to forfeit any right of a tenant or resident, or discriminate in any way against the tenant or resident who requests or receives cable communications service from a grantee operating under a valid and existing cable communications franchise issued by the city. Any person convicted of violating any provision of this section is subject to a fine of not more than five hundred dollars ($500.00) for each offense.</text>
+        <text><em>Penalties and charges to tenants for service prohibited.</em> Neither the owner of any multiple unit residential dwelling nor his agent or representative shall knowingly penalize, charge or surcharge a tenant or resident, or forfeit or threaten to forfeit any right of a tenant or resident, or discriminate in any way against the tenant or resident who requests or receives cable communications service from a grantee operating under a valid and existing cable communications franchise issued by the city. Any person convicted of violating any provision of <cite path="7-14">this section</cite> is subject to a fine of not more than five hundred dollars ($500.00) for each offense.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -265,14 +265,14 @@
       </para>
       <para>
         <num>(e)</num>
-        <text><em>Protection of property permitted.</em> Nothing in this section shall prohibit a person from requiring that cable television system facilities conform to laws and regulations and reasonable conditions necessary to protect safety, functioning, appearance and value of premises or the convenience and safety of persons or property.</text>
+        <text><em>Protection of property permitted.</em> Nothing in <cite path="7-14">this section</cite> shall prohibit a person from requiring that cable television system facilities conform to laws and regulations and reasonable conditions necessary to protect safety, functioning, appearance and value of premises or the convenience and safety of persons or property.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text><em>Risks assumed by grantee.</em> Nothing in this section shall prohibit a person from requiring a grantee to agree to indemnify the owner or his agents or representatives for damages or from liability for damages caused by the installation, operation, maintenance or removal of cable television facilities.</text>
+        <text><em>Risks assumed by grantee.</em> Nothing in <cite path="7-14">this section</cite> shall prohibit a person from requiring a grantee to agree to indemnify the owner or his agents or representatives for damages or from liability for damages caused by the installation, operation, maintenance or removal of cable television facilities.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-101</annotation>
+        <annotation type="History">Code 1971, <cite path="52-101">§ 52-101</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 11), 1-28-82</annotation>
       </annotations>
     </section>
@@ -281,7 +281,7 @@
       <heading>Theft of cable services.</heading>
       <text>It shall be unlawful for any person to attach or affix or to cause to be attached or affixed any equipment or device which allows access to or use of the cable television service without payment to the grantee for same, and each such equipment or device shall be deemed a separate offense.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-102(b</annotation>
+        <annotation type="History">Code 1971, <cite path="52-102">§ 52-102</cite>(b</annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 12), 1-28-82</annotation>
         <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Trespass and larceny with relation to utility or cable television fixtures, F.S. § 812.14.</annotation>
       </annotations>
@@ -289,30 +289,30 @@
     <section>
       <num>7-16</num>
       <heading>Grantee may promulgate rules.</heading>
-      <text>A grantee shall have the authority to promulgate such rules, regulations, terms and conditions of its business as shall be reasonably necessary to enable it to exercise its rights and perform its services under this chapter and the rules of the FCC, and to assure uninterrupted service to each and all of its subscribers. Such rules and regulations shall not be deemed to have the force of law.</text>
+      <text>A grantee shall have the authority to promulgate such rules, regulations, terms and conditions of its business as shall be reasonably necessary to enable it to exercise its rights and perform its services under <cite path="7">this chapter</cite> and the rules of the FCC, and to assure uninterrupted service to each and all of its subscribers. Such rules and regulations shall not be deemed to have the force of law.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-103</annotation>
+        <annotation type="History">Code 1971, <cite path="52-103">§ 52-103</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 13), 1-28-82</annotation>
       </annotations>
     </section>
     <section>
       <num>7-17</num>
       <heading>Delegation of powers.</heading>
-      <text>Any delegable right, power or duty of the city, the city council, the designee, or any official of the city under this chapter may be transferred or delegated by resolution of the city council to an appropriate officer, employee, or department of the city, or any other legal authority. Notwithstanding the foregoing, whenever a provision appears requiring the mayor to do some act, it is to be construed to authorize the mayor to designate, delegate and authorize subordinates to perform the required act unless the terms of the provision or section require otherwise.</text>
+      <text>Any delegable right, power or duty of the city, the city council, the designee, or any official of the city under <cite path="7">this chapter</cite> may be transferred or delegated by resolution of the city council to an appropriate officer, employee, or department of the city, or any other legal authority. Notwithstanding the foregoing, whenever a provision appears requiring the mayor to do some act, it is to be construed to authorize the mayor to designate, delegate and authorize subordinates to perform the required act unless the terms of the provision or section require otherwise.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-104</annotation>
+        <annotation type="History">Code 1971, <cite path="52-104">§ 52-104</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 14), 1-28-82</annotation>
-        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Delegation of administrative authority of the official, § 1-14.</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Delegation of administrative authority of the official, <cite path="1-14">§ 1-14</cite>.</annotation>
       </annotations>
     </section>
     <section>
       <num>7-18</num>
       <heading>Severability.</heading>
-      <text>If any section of this chapter or the franchise or any portion thereof is held invalid or unconstitutional by any court of competent jurisdiction or administrative agency, such decision shall not affect the validity of the remaining portions hereof, except as otherwise provided for herein.</text>
+      <text>If any section of <cite path="7">this chapter</cite> or the franchise or any portion thereof is held invalid or unconstitutional by any court of competent jurisdiction or administrative agency, such decision shall not affect the validity of the remaining portions hereof, except as otherwise provided for herein.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-105</annotation>
+        <annotation type="History">Code 1971, <cite path="52-105">§ 52-105</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 15), 1-28-82</annotation>
-        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Severability of parts of Code, § 1-11.</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Severability of parts of Code, <cite path="1-11">§ 1-11</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -320,7 +320,7 @@
       <heading>Penalties.</heading>
       <para>
         <num>(a)</num>
-        <text>Notwithstanding any other remedies provided for in this chapter or otherwise available under law, the city shall have the power to impose the following monetary penalties if the grantee violates any provision of this chapter, the franchise, or any rule or regulation lawfully adopted thereunder:</text>
+        <text>Notwithstanding any other remedies provided for in <cite path="7">this chapter</cite> or otherwise available under law, the city shall have the power to impose the following monetary penalties if the grantee violates any provision of <cite path="7">this chapter</cite>, the franchise, or any rule or regulation lawfully adopted thereunder:</text>
         <para>
           <num>(1)</num>
           <text>For failure to submit plans indicating expected dates of installation of various parts of the system: up to five hundred dollars ($500.00) per day;</text>
@@ -339,17 +339,17 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>For failure to comply with reasonable recommendations of the city relating to rates or services and/or interconnection and such other reasonable requests or recommendations as may be made pursuant to authority granted by this chapter or the franchise, or to respond to subscriber complaints within the proper time: up to one hundred dollars ($100.00) per day, as the city may determine.</text>
+          <text>For failure to comply with reasonable recommendations of the city relating to rates or services and/or interconnection and such other reasonable requests or recommendations as may be made pursuant to authority granted by <cite path="7">this chapter</cite> or the franchise, or to respond to subscriber complaints within the proper time: up to one hundred dollars ($100.00) per day, as the city may determine.</text>
         </para>
       </para>
       <para>
         <num>(b)</num>
-        <text>The following acts shall be deemed offenses under this chapter: willful action or inaction by grantee as described in section 7-61(a); arbitrary or capricious action by a grantee as described in section 7-62; willful failure by a grantee to comply with the laws, rules, or regulations described in section 7-109; and transmission by a grantee of a signal from a subscriber's premises in violation of section 7-115. Persons, whether natural or artificial, or commercial entities who commit the offenses described herein shall be subject to a fine not to exceed five hundred dollars ($500.00) for each offense; each day of the violations shall constitute a separate offense.</text>
+        <text>The following acts shall be deemed offenses under <cite path="7">this chapter</cite>: willful action or inaction by grantee as described in <cite path="7-61|(a)">section 7-61(a)</cite>; arbitrary or capricious action by a grantee as described in <cite path="7-62">section 7-62</cite>; willful failure by a grantee to comply with the laws, rules, or regulations described in <cite path="7-109">section 7-109</cite>; and transmission by a grantee of a signal from a subscriber's premises in violation of <cite path="7-115">section 7-115</cite>. Persons, whether natural or artificial, or commercial entities who commit the offenses described herein shall be subject to a fine not to exceed five hundred dollars ($500.00) for each offense; each day of the violations shall constitute a separate offense.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-102(a), (c</annotation>
+        <annotation type="History">Code 1971, <cite path="52-102|(a)">§ 52-102(a)</cite>, (c</annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VIII, § 12), 1-28-82</annotation>
-        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>General penalty, § 1-6.</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>General penalty, <cite path="1-6">§ 1-6</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -359,14 +359,14 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>II</num>
+    <num path-omit="true">II</num>
     <heading>GRANT OF AUTHORITY</heading>
     <section>
       <num>7-36</num>
       <heading>Requirement of a franchise.</heading>
-      <text>It shall be unlawful for any person to construct, install, maintain or operate a cable television system within the city or within any other public property of the city, unless a franchise has first been obtained pursuant to the provisions of this chapter, and unless such franchise is in full force and effect. The franchise shall not take the place of any other license or permit which may be legally required of the grantee in order to conduct such a business.</text>
+      <text>It shall be unlawful for any person to construct, install, maintain or operate a cable television system within the city or within any other public property of the city, unless a franchise has first been obtained pursuant to the provisions of <cite path="7">this chapter</cite>, and unless such franchise is in full force and effect. The franchise shall not take the place of any other license or permit which may be legally required of the grantee in order to conduct such a business.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-21</annotation>
+        <annotation type="History">Code 1971, <cite path="52-21">§ 52-21</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. III, § 1), 1-28-82</annotation>
       </annotations>
     </section>
@@ -375,7 +375,7 @@
       <heading>Franchise bids.</heading>
       <para>
         <num>(a)</num>
-        <text>After receiving bids for a franchise, the city, after considering the legal, financial, technical and character qualifications of the bidders, may grant one (1) or more nonexclusive franchises creating a right to construct and operate a cable television system within the public ways of the city. Franchises may be granted to the bidders which in the city's judgment may best serve the public interest; provided that no provision of this chapter shall be deemed or construed as to require the city to grant a franchise.</text>
+        <text>After receiving bids for a franchise, the city, after considering the legal, financial, technical and character qualifications of the bidders, may grant one (1) or more nonexclusive franchises creating a right to construct and operate a cable television system within the public ways of the city. Franchises may be granted to the bidders which in the city's judgment may best serve the public interest; provided that no provision of <cite path="7">this chapter</cite> shall be deemed or construed as to require the city to grant a franchise.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -383,10 +383,10 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>A bidder (grantee) to whom the mayor, upon the authorization of the city council, grants a nonexclusive franchise shall, in addition to the nonrefundable fee specified hereinabove, pay to the city, at the time the grantee files the written instrument specified in section 7-12, an amount to be determined by the mayor to be used to offset all direct and reasonable costs incurred by the city in granting the franchise not defrayed by fees forthcoming from the provisions of subsection (b).</text>
+        <text>A bidder (grantee) to whom the mayor, upon the authorization of the city council, grants a nonexclusive franchise shall, in addition to the nonrefundable fee specified hereinabove, pay to the city, at the time the grantee files the written instrument specified in <cite path="7-12">section 7-12</cite>, an amount to be determined by the mayor to be used to offset all direct and reasonable costs incurred by the city in granting the franchise not defrayed by fees forthcoming from the provisions of <cite path="7-37|(b)">subsection (b)</cite>.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-22</annotation>
+        <annotation type="History">Code 1971, <cite path="52-22">§ 52-22</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. III, § 2), 1-28-82</annotation>
       </annotations>
     </section>
@@ -397,21 +397,21 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>III</num>
+    <num path-omit="true">III</num>
     <heading>FRANCHISE CONDITIONS</heading>
     <section>
       <num>7-56</num>
       <heading>Franchise term and nonexclusivity.</heading>
-      <text>The term of an original franchise shall be fifteen (15) years from the date the franchise is accepted by the grantee. The term of a renewed franchise shall be no more than fifteen (15) years. No franchise granted pursuant to this chapter shall give any exclusive right to a grantee, and every such franchise shall be deemed to reserve the right to grant other franchises to use and occupy the public ways of the city for cable television or any other purpose on such terms as the city may then deem appropriate.</text>
+      <text>The term of an original franchise shall be fifteen (15) years from the date the franchise is accepted by the grantee. The term of a renewed franchise shall be no more than fifteen (15) years. No franchise granted pursuant to <cite path="7">this chapter</cite> shall give any exclusive right to a grantee, and every such franchise shall be deemed to reserve the right to grant other franchises to use and occupy the public ways of the city for cable television or any other purpose on such terms as the city may then deem appropriate.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-31</annotation>
+        <annotation type="History">Code 1971, <cite path="52-31">§ 52-31</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 1), 1-28-82</annotation>
       </annotations>
     </section>
     <section>
       <num>7-57</num>
       <heading>Notice to the grantee.</heading>
-      <text>Except as otherwise provided in this chapter, the city shall not take any final action involving the review, renewal, revocation or termination of the grantee's franchise unless the city has:</text>
+      <text>Except as otherwise provided in <cite path="7">this chapter</cite>, the city shall not take any final action involving the review, renewal, revocation or termination of the grantee's franchise unless the city has:</text>
       <para>
         <num>(1)</num>
         <text>Advised the grantee in writing, at least thirty (30) days prior to the meeting at which the action shall take place, as to its time, place and purpose; and</text>
@@ -421,7 +421,7 @@
         <text>Published a notice, at least once ten (10) days before the meeting, in a newspaper of general circulation within the city.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-32</annotation>
+        <annotation type="History">Code 1971, <cite path="52-32">§ 52-32</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 2), 1-28-82</annotation>
       </annotations>
     </section>
@@ -430,7 +430,7 @@
       <heading>Franchise review and modification.</heading>
       <para>
         <num>(a)</num>
-        <text>It shall be the policy of the city to amend a franchise, upon application of the grantee, when necessary to enable the grantee to take advantage of advancements in the state of the art which will afford it an opportunity to more effectively, efficiently or economically serve its subscribers; provided that this section shall not be construed to require the city to make any amendment.</text>
+        <text>It shall be the policy of the city to amend a franchise, upon application of the grantee, when necessary to enable the grantee to take advantage of advancements in the state of the art which will afford it an opportunity to more effectively, efficiently or economically serve its subscribers; provided that <cite path="7-58">this section</cite> shall not be construed to require the city to make any amendment.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -473,7 +473,7 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-33</annotation>
+        <annotation type="History">Code 1971, <cite path="52-33">§ 52-33</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 3), 1-28-82</annotation>
       </annotations>
     </section>
@@ -490,11 +490,11 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>All evaluation sessions shall be open to the public and announced by the mayor in a newspaper of general circulation in accordance with the notice requirements of section 7-57. The grantee shall notify subscribers of all evaluation sessions by announcement on at least one (1) of the channels on the cable television system that cablecasts television programs between the hours of 7:00 a.m. and 9:00 p.m. per day for five (5) consecutive days preceding each session.</text>
+        <text>All evaluation sessions shall be open to the public and announced by the mayor in a newspaper of general circulation in accordance with the notice requirements of <cite path="7-57">section 7-57</cite>. The grantee shall notify subscribers of all evaluation sessions by announcement on at least one (1) of the channels on the cable television system that cablecasts television programs between the hours of 7:00 a.m. and 9:00 p.m. per day for five (5) consecutive days preceding each session.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Topics which may be discussed at any scheduled or special evaluation session may include, but not be limited to, service rate structures, franchise fees, penalties, free or discounted services, applications of new technologies, system performance, services provided, programming offered, customer complaints, privacy amendments to this chapter, judicial and FCC rulings, line extension policies and grantee or city rules.</text>
+        <text>Topics which may be discussed at any scheduled or special evaluation session may include, but not be limited to, service rate structures, franchise fees, penalties, free or discounted services, applications of new technologies, system performance, services provided, programming offered, customer complaints, privacy amendments to <cite path="7">this chapter</cite>, judicial and FCC rulings, line extension policies and grantee or city rules.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -530,10 +530,10 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>The city's rights under this section shall be limited to requiring tests, analyses and reports covering specific subjects and characteristics based on the complaints or other evidence when and under such circumstances as the city has reasonable grounds to believe that the complaints or other evidence require that tests be performed to protect the public against substandard cable service.</text>
+        <text>The city's rights under <cite path="7-59">this section</cite> shall be limited to requiring tests, analyses and reports covering specific subjects and characteristics based on the complaints or other evidence when and under such circumstances as the city has reasonable grounds to believe that the complaints or other evidence require that tests be performed to protect the public against substandard cable service.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-34</annotation>
+        <annotation type="History">Code 1971, <cite path="52-34">§ 52-34</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 4), 1-28-82</annotation>
       </annotations>
     </section>
@@ -546,15 +546,15 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The mayor or his designee may hear any interested persons during the special public meeting and may determine whether or not the grantee did reasonably comply with the terms and conditions imposed by this chapter and the franchise.</text>
+        <text>The mayor or his designee may hear any interested persons during the special public meeting and may determine whether or not the grantee did reasonably comply with the terms and conditions imposed by <cite path="7">this chapter</cite> and the franchise.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>If the mayor or his designee determines that the grantee has been in reasonable compliance with the terms and conditions imposed by this chapter and the franchise, the mayor, upon the authorization of the council, may review the grantee's franchise, with any modifications deemed desirable for a period of time not inconsistent with the provisions of section 7-56.</text>
+        <text>If the mayor or his designee determines that the grantee has been in reasonable compliance with the terms and conditions imposed by <cite path="7">this chapter</cite> and the franchise, the mayor, upon the authorization of the council, may review the grantee's franchise, with any modifications deemed desirable for a period of time not inconsistent with the provisions of <cite path="7-56">section 7-56</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Notwithstanding the fact that the mayor may determine that the grantee has been in reasonable compliance with the terms and conditions imposed by this chapter and the franchise, he shall have the right, upon the authorization of the council, not to renew the franchise. If the city does not renew the franchise, the city, to the extent then permitted by existing law, shall have the option to either:</text>
+        <text>Notwithstanding the fact that the mayor may determine that the grantee has been in reasonable compliance with the terms and conditions imposed by <cite path="7">this chapter</cite> and the franchise, he shall have the right, upon the authorization of the council, not to renew the franchise. If the city does not renew the franchise, the city, to the extent then permitted by existing law, shall have the option to either:</text>
         <para>
           <num>(1)</num>
           <text>Acquire at fair market value all the assets of the grantee's operations within the city;</text>
@@ -565,7 +565,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Require the removal of all grantee's property located within the public ways of the city. Furthermore, in removing its plant, structures and equipment, the grantee shall refill, at its own expense, any excavation that shall be made by it and shall leave all public ways and places in as good condition as that prevailing prior to the grantee's removal of its equipment and appliances, without affecting the electric or telephone cables, wires or attachments. The city shall inspect and approve the conditions of the public ways and public places and cables, wires, attachments and poles after removal. The liability insurance, indemnity and performance bond provided in section 7-68 shall continue in full force and effect during the period of removal;</text>
+          <text>Require the removal of all grantee's property located within the public ways of the city. Furthermore, in removing its plant, structures and equipment, the grantee shall refill, at its own expense, any excavation that shall be made by it and shall leave all public ways and places in as good condition as that prevailing prior to the grantee's removal of its equipment and appliances, without affecting the electric or telephone cables, wires or attachments. The city shall inspect and approve the conditions of the public ways and public places and cables, wires, attachments and poles after removal. The liability insurance, indemnity and performance bond provided in <cite path="7-68">section 7-68</cite> shall continue in full force and effect during the period of removal;</text>
         </para>
         <para>
           <num>(4)</num>
@@ -574,14 +574,14 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Except as provided in section 7-63, the city's above-stated options must be exercised within one (1) year from the date of the expiration of the franchise, unless the period is extended with the consent of the grantee.</text>
+        <text>Except as provided in <cite path="7-63">section 7-63</cite>, the city's above-stated options must be exercised within one (1) year from the date of the expiration of the franchise, unless the period is extended with the consent of the grantee.</text>
       </para>
       <para>
         <num>(f)</num>
         <text>The city shall have the right to recoup from the grantee all direct expenses incurred pursuant to renewal of the franchise, whether or not the franchise is ultimately renewed.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-35</annotation>
+        <annotation type="History">Code 1971, <cite path="52-35">§ 52-35</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 5), 1-28-82</annotation>
       </annotations>
     </section>
@@ -590,7 +590,7 @@
       <heading>Revocation procedures.</heading>
       <para>
         <num>(a)</num>
-        <text>Whenever a grantee shall refuse, neglect or willfully fail to construct, operate or maintain its cable television system or to provide service to its subscribers in substantial accordance with the terms of this chapter and the franchise; to comply with the conditions of occupancy of any public ways; to make required extensions of service or in any other way substantially violate the terms and conditions of this chapter, the franchise or any applicable rule or regulation; practices any fraud or deceit upon the city or its subscribers; fails to pay franchise fees when due or if a grantee becomes insolvent or unable to or unwilling to pay its uncontested debts or is adjudged bankrupt or seeks relief under the bankruptcy laws, then the franchise may be revoked.</text>
+        <text>Whenever a grantee shall refuse, neglect or willfully fail to construct, operate or maintain its cable television system or to provide service to its subscribers in substantial accordance with the terms of <cite path="7">this chapter</cite> and the franchise; to comply with the conditions of occupancy of any public ways; to make required extensions of service or in any other way substantially violate the terms and conditions of <cite path="7">this chapter</cite>, the franchise or any applicable rule or regulation; practices any fraud or deceit upon the city or its subscribers; fails to pay franchise fees when due or if a grantee becomes insolvent or unable to or unwilling to pay its uncontested debts or is adjudged bankrupt or seeks relief under the bankruptcy laws, then the franchise may be revoked.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -598,15 +598,15 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Upon referral from the mayor or the designee or by its own motion, the city council, with the approval of the mayor, may revoke a franchise pursuant to subsection (a).</text>
+        <text>Upon referral from the mayor or the designee or by its own motion, the city council, with the approval of the mayor, may revoke a franchise pursuant to <cite path="7-61|(a)">subsection (a)</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>The mayor, with the approval of the city council, shall not revoke a franchise pursuant to subsection (c) until the city has given notice to the grantee that it proposes to take such an action and the grounds therefor. Further, the city shall not revoke a franchise until the grantee or its representative has had reasonable opportunity to be heard before the city council and show that the proposed grounds for revocation did not or do not exist, as the case may be.</text>
+        <text>The mayor, with the approval of the city council, shall not revoke a franchise pursuant to <cite path="7-61|(c)">subsection (c)</cite> until the city has given notice to the grantee that it proposes to take such an action and the grounds therefor. Further, the city shall not revoke a franchise until the grantee or its representative has had reasonable opportunity to be heard before the city council and show that the proposed grounds for revocation did not or do not exist, as the case may be.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>A grantee shall not be subject to the sanctions of this section for any act or omission wherein such act or omission was beyond the grantee's control. An act or omission shall not be deemed to be beyond a grantee's control if committed, omitted or caused by a corporation or other business entity which holds a controlling interest in the grantee, whether held directly or indirectly. Further, the inability of a grantee to obtain financing, for whatever reason, shall not be an act or omission which is "beyond the grantee's control."</text>
+        <text>A grantee shall not be subject to the sanctions of <cite path="7-61">this section</cite> for any act or omission wherein such act or omission was beyond the grantee's control. An act or omission shall not be deemed to be beyond a grantee's control if committed, omitted or caused by a corporation or other business entity which holds a controlling interest in the grantee, whether held directly or indirectly. Further, the inability of a grantee to obtain financing, for whatever reason, shall not be an act or omission which is "beyond the grantee's control."</text>
       </para>
       <para>
         <num>(f)</num>
@@ -617,16 +617,16 @@
         <text>The termination of a grantee's rights under a franchise shall in no way affect any other rights the city may have under the franchise or under any provision of the law.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-36</annotation>
+        <annotation type="History">Code 1971, <cite path="52-36">§ 52-36</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 6), 1-28-82</annotation>
       </annotations>
     </section>
     <section>
       <num>7-62</num>
       <heading>Arbitrary and capricious action by a grantee.</heading>
-      <text>If a grantee arbitrarily and capriciously discontinues service to a substantial number of its subscribers, the grantee's franchise may be revoked by the mayor, upon authorization of the city council, following notice to the grantee and an opportunity to be heard as noted in section 7-61(d). Notwithstanding the provisions of section 7-57, notice to the grantee under this section may be less than thirty (30) days; provided, further, the city may seek appropriate judicial or other relief and/or may proceed to exercise its rights and powers as provided for herein.</text>
+      <text>If a grantee arbitrarily and capriciously discontinues service to a substantial number of its subscribers, the grantee's franchise may be revoked by the mayor, upon authorization of the city council, following notice to the grantee and an opportunity to be heard as noted in <cite path="7-61|(d)">section 7-61(d)</cite>. Notwithstanding the provisions of <cite path="7-57">section 7-57</cite>, notice to the grantee under <cite path="7-62">this section</cite> may be less than thirty (30) days; provided, further, the city may seek appropriate judicial or other relief and/or may proceed to exercise its rights and powers as provided for herein.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-37</annotation>
+        <annotation type="History">Code 1971, <cite path="52-37">§ 52-37</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 7), 1-28-82</annotation>
       </annotations>
     </section>
@@ -635,7 +635,7 @@
       <heading>Provision for appraisal.</heading>
       <text>If the city elects to purchase a grantee's cable television system or any of its assets and the value therefor cannot be agreed upon, the value shall be determined by a panel of professional appraisers. The panel shall be composed of one (1) appraiser chosen by the city, one (1) appraiser chosen by the grantee, and a third appraiser chosen by the first two (2). The expenses of the appraisal, including the fees of the appraisers, shall be borne by the parties in such manner as the appraisers provide in their decision, but in no event will the city be obligated for more than one-half of the expenses. The appraisal hearing shall take place in the city, unless otherwise agreed to by the parties in writing.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-38</annotation>
+        <annotation type="History">Code 1971, <cite path="52-38">§ 52-38</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 8), 1-28-82</annotation>
       </annotations>
     </section>
@@ -644,14 +644,14 @@
       <heading>Transfer of ownership to grantor.</heading>
       <para>
         <num>(a)</num>
-        <text>In those circumstances provided for in this chapter wherein the city shall have the right to purchase ownership of a grantee's cable television system or any of its assets, the city may give notice that it elects to exercise such right and the city may acquire such assets at the time of payment of the value thereof. In those circumstances where the question of value has been submitted to an appraisal, the city may affirmatively accept the decision of the appraisers within ninety (90) days after the rendering of the appraiser's decision. However, if the city fails to accept or reject the appraiser's decision within the aforesaid ninety-day period, the rights of the city to purchase shall expire. If the city rejects the appraisal, then the matter may be taken to a court of competent jurisdiction within the county to resolve the impasse.</text>
+        <text>In those circumstances provided for in <cite path="7">this chapter</cite> wherein the city shall have the right to purchase ownership of a grantee's cable television system or any of its assets, the city may give notice that it elects to exercise such right and the city may acquire such assets at the time of payment of the value thereof. In those circumstances where the question of value has been submitted to an appraisal, the city may affirmatively accept the decision of the appraisers within ninety (90) days after the rendering of the appraiser's decision. However, if the city fails to accept or reject the appraiser's decision within the aforesaid ninety-day period, the rights of the city to purchase shall expire. If the city rejects the appraisal, then the matter may be taken to a court of competent jurisdiction within the county to resolve the impasse.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>In those circumstances provided for in this chapter wherein the city shall have the right to purchase ownership of a grantee's cable television system or any of its assets, no question of value shall be submitted to an appraisal until one hundred twenty (120) days have elapsed from the giving of such notice as cited in subsection (a).</text>
+        <text>In those circumstances provided for in <cite path="7">this chapter</cite> wherein the city shall have the right to purchase ownership of a grantee's cable television system or any of its assets, no question of value shall be submitted to an appraisal until one hundred twenty (120) days have elapsed from the giving of such notice as cited in <cite path="7-64|(a)">subsection (a)</cite>.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-39</annotation>
+        <annotation type="History">Code 1971, <cite path="52-39">§ 52-39</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 9), 1-28-82</annotation>
       </annotations>
     </section>
@@ -660,7 +660,7 @@
       <heading>Grantor's right to assign.</heading>
       <text>A franchise shall not limit the right of the city to assign its rights to acquire any or all of the assets of a grantee's cable television system.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-40</annotation>
+        <annotation type="History">Code 1971, <cite path="52-40">§ 52-40</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 10), 1-28-82</annotation>
       </annotations>
     </section>
@@ -691,11 +691,11 @@
           <num>(3)</num>
           <text>Materially increase expenses without the expressed permission, in writing, of the city or its assigns.</text>
         </para>
-        <text>The grantee shall at all times operate the system in accordance with terms of this chapter and the terms of the franchise as if the franchise had not expired or had not been revoked. If the grantee fails or refuses to operate the system as a trustee, the city shall have the right to apply to a court of competent jurisdiction within the county for permission to name a successor trustee or operate the system itself as a trustee in accordance with the terms of this chapter and the terms of the franchise.</text>
+        <text>The grantee shall at all times operate the system in accordance with terms of <cite path="7">this chapter</cite> and the terms of the franchise as if the franchise had not expired or had not been revoked. If the grantee fails or refuses to operate the system as a trustee, the city shall have the right to apply to a court of competent jurisdiction within the county for permission to name a successor trustee or operate the system itself as a trustee in accordance with the terms of <cite path="7">this chapter</cite> and the terms of the franchise.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>In the event of expiration or revocation of a franchise, this section shall not be construed to give a grantee any vested or other franchise right, but the right of the grantee in such circumstances shall exist only on a day-to-day basis until the transfer is effected.</text>
+        <text>In the event of expiration or revocation of a franchise, <cite path="7-66">this section</cite> shall not be construed to give a grantee any vested or other franchise right, but the right of the grantee in such circumstances shall exist only on a day-to-day basis until the transfer is effected.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -703,10 +703,10 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Further, this section shall in no way limit the power of the city, upon expiration or revocation of a franchise, to require the grantee to cease all operations whatsoever and/or remove its facilities or otherwise exercise any rights the city would otherwise have.</text>
+        <text>Further, <cite path="7-66">this section</cite> shall in no way limit the power of the city, upon expiration or revocation of a franchise, to require the grantee to cease all operations whatsoever and/or remove its facilities or otherwise exercise any rights the city would otherwise have.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-41</annotation>
+        <annotation type="History">Code 1971, <cite path="52-41">§ 52-41</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 11), 1-28-82</annotation>
       </annotations>
     </section>
@@ -715,7 +715,7 @@
       <heading>Franchise fee.</heading>
       <para>
         <num>(a)</num>
-        <text>The grantee, in consideration of the privilege granted under the franchise for the operation of a cable television system within the public ways of the city and the expense of regulation pursuant to the franchise incurred by the city, shall pay to the city five (5) percent of its annual gross revenues during the period of its operation under the franchise or the maximum amount as may be set from time to time by controlling federal or state law, if such maximum is less than five (5) percent. The fee may be subject to renegotiation at such time as applicable laws and regulations permit; provided that the city shall not require a franchise fee greater than five (5) percent of gross revenues to the extent that the fee has a substantial detrimental effect upon the economic feasibility of grantee's cable communications system; provided, further, that the grantee shall be entitled to adjust its rates to recover from subscribers and users any increase in the franchise fee adopted by the city pursuant to this section; alternatively, the grantee shall be required to adjust its rates to reflect the decrease in costs associated with any reduction in the franchise fee adopted by the city.</text>
+        <text>The grantee, in consideration of the privilege granted under the franchise for the operation of a cable television system within the public ways of the city and the expense of regulation pursuant to the franchise incurred by the city, shall pay to the city five (5) percent of its annual gross revenues during the period of its operation under the franchise or the maximum amount as may be set from time to time by controlling federal or state law, if such maximum is less than five (5) percent. The fee may be subject to renegotiation at such time as applicable laws and regulations permit; provided that the city shall not require a franchise fee greater than five (5) percent of gross revenues to the extent that the fee has a substantial detrimental effect upon the economic feasibility of grantee's cable communications system; provided, further, that the grantee shall be entitled to adjust its rates to recover from subscribers and users any increase in the franchise fee adopted by the city pursuant to <cite path="7-67">this section</cite>; alternatively, the grantee shall be required to adjust its rates to reflect the decrease in costs associated with any reduction in the franchise fee adopted by the city.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -723,7 +723,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The city shall have the right, consistent with the provision of section 7-87(d), to inspect during normal business hours the grantee's income records, the right of audit and the recomputation of any amounts determined to be payable under this chapter. Any additional amount due the city as a result of the audit shall be paid within thirty (30) days following written notice to the grantee by the city, which notice shall include a copy of the audit report. The cost of the audit shall be borne by the grantee if it is properly determined that the grantee's annual payment due to the city for the preceding year is increased thereby by more than five (5) percent.</text>
+        <text>The city shall have the right, consistent with the provision of <cite path="7-87|(d)">section 7-87(d)</cite>, to inspect during normal business hours the grantee's income records, the right of audit and the recomputation of any amounts determined to be payable under <cite path="7">this chapter</cite>. Any additional amount due the city as a result of the audit shall be paid within thirty (30) days following written notice to the grantee by the city, which notice shall include a copy of the audit report. The cost of the audit shall be borne by the grantee if it is properly determined that the grantee's annual payment due to the city for the preceding year is increased thereby by more than five (5) percent.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -734,7 +734,7 @@
         <text>If the franchise is terminated prior to its expiration date and the city invokes its rights to purchase the grantee's cable television system, the grantee shall file with the city, within thirty (30) days of the date that ownership and control passes to the city or its assignee, a financial statement clearly showing the gross revenues received by grantee since the end of the previous fiscal year, detailed by fiscal quarter. The grantee shall pay the franchise fee due at the time such statement is filed or within thirty (30) days, whichever is sooner. The fee shall include all expenses due to the city up to the actual date of cessation or transfer of service.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-42</annotation>
+        <annotation type="History">Code 1971, <cite path="52-42">§ 52-42</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 12), 1-28-82</annotation>
       </annotations>
     </section>
@@ -743,7 +743,7 @@
       <heading>Insurance; bonds; indemnity.</heading>
       <para>
         <num>(a)</num>
-        <text>Upon the granting of a franchise and within thirty (30) days following the filing of the acceptance required under section 7-12, and at all times during the terms of the franchise, including the time for removal of facilities or management as a trustee as provided for herein, the grantee shall obtain, pay all premiums for, and file with the city written evidence of payment of premiums and executed duplicate copies of the following:</text>
+        <text>Upon the granting of a franchise and within thirty (30) days following the filing of the acceptance required under <cite path="7-12">section 7-12</cite>, and at all times during the terms of the franchise, including the time for removal of facilities or management as a trustee as provided for herein, the grantee shall obtain, pay all premiums for, and file with the city written evidence of payment of premiums and executed duplicate copies of the following:</text>
         <para>
           <num>(1)</num>
           <text>A general comprehensive liability policy indemnifying, defending and saving harmless the city, its officers, boards, commissions, agents or employees from any and all claims by any person whatsoever on account of injury to or death of a person or persons occasioned by the operations of the grantee under the franchise herein granted or alleged to have been caused or occurred, with a minimum liability of five million dollars ($5,000,000.00) combined single limit for personal injury or death, or such greater amount as shall be specified in the franchise;</text>
@@ -754,7 +754,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>A performance bond running to the city with good and sufficient surety approved by the city in the amount specified in the franchise or, if no amount is specified therein, then in the sum of one million dollars ($1,000,000.00) conditioned upon the faithful performance and discharge of the obligations imposed by the chapter and the franchise awarded hereunder from the date thereof including, but not limited to, faithful compliance with the construction timetable proposed by the grantee in its bid as incorporated into the franchise, unless appropriate extension is approved by the mayor upon authorization of the city council. The city's right to recover under the bond shall be in addition to any other rights retained by the city under this chapter and other applicable law. Any proceeds recovered under the bond may be used to reimburse the city for the loss of expected payments of the franchise fee and other valuable consideration given for the grant of the franchise and such additional expenses as may be incurred by the city as a result of grantee's failure to comply with the obligations imposed by this chapter and the franchise including, but not limited to, attorney's fees and costs of any action or proceeding, the cost of refranchising, and the cost of removal or abandonment of any property, or other costs which may be in default.</text>
+          <text>A performance bond running to the city with good and sufficient surety approved by the city in the amount specified in the franchise or, if no amount is specified therein, then in the sum of one million dollars ($1,000,000.00) conditioned upon the faithful performance and discharge of the obligations imposed by the chapter and the franchise awarded hereunder from the date thereof including, but not limited to, faithful compliance with the construction timetable proposed by the grantee in its bid as incorporated into the franchise, unless appropriate extension is approved by the mayor upon authorization of the city council. The city's right to recover under the bond shall be in addition to any other rights retained by the city under <cite path="7">this chapter</cite> and other applicable law. Any proceeds recovered under the bond may be used to reimburse the city for the loss of expected payments of the franchise fee and other valuable consideration given for the grant of the franchise and such additional expenses as may be incurred by the city as a result of grantee's failure to comply with the obligations imposed by <cite path="7">this chapter</cite> and the franchise including, but not limited to, attorney's fees and costs of any action or proceeding, the cost of refranchising, and the cost of removal or abandonment of any property, or other costs which may be in default.</text>
         </para>
       </para>
       <para>
@@ -766,9 +766,9 @@
         <text>The grantee shall, at its sole cost and expense, indemnify and hold harmless the city, its officials, boards, commissions, consultants, agents and employees against any and all claims, suits, causes of action, proceedings, and judgments for damage arising out of the award of a franchise to the grantee and its operation of the cable television system under the franchise. These damages shall include, but not be limited to, penalties arising out of copyright infringements and damages arising out of any failure by grantee to secure consents from the owners, authorized distributors or licensees of programs to be delivered by the grantee's cable television system, whether or not any act or omission complained of is authorized, allowed or prohibited by the franchise. Indemnified expenses shall include, but not be limited to, all out-of-pocket expenses, such as attorney's fees, and shall also include the reasonable value of any services rendered by the city attorney or his assistants or any consultants, agents and employees of the city.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-43</annotation>
+        <annotation type="History">Code 1971, <cite path="52-43">§ 52-43</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 13), 1-28-82</annotation>
-        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Sureties of persons dealing with city to be licensed by state, § 2-231.</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Sureties of persons dealing with city to be licensed by state, <cite path="2-231">§ 2-231</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -776,15 +776,15 @@
       <heading>Letter of credit.</heading>
       <para>
         <num>(a)</num>
-        <text>Within ten (10) days after the award of a franchise, the grantee shall deposit with the city a letter of credit from a financial institution in the amount of one hundred thousand dollars ($100,000.00). The form and content of the letter of credit shall be approved by the city attorney. The letter of credit shall be used to ensure the faithful performance by the grantee of all provisions of the franchise and this chapter and compliance with all orders, permits and directions of any agency, commission, board, department, division or office of the city having jurisdiction over its acts or defaults under the franchise or this chapter and the payment by the grantee of any penalties, claims, liens and taxes due the city, the designee, or other governmental entities which arise by reason of the construction, operation or maintenance of the system.</text>
+        <text>Within ten (10) days after the award of a franchise, the grantee shall deposit with the city a letter of credit from a financial institution in the amount of one hundred thousand dollars ($100,000.00). The form and content of the letter of credit shall be approved by the city attorney. The letter of credit shall be used to ensure the faithful performance by the grantee of all provisions of the franchise and <cite path="7">this chapter</cite> and compliance with all orders, permits and directions of any agency, commission, board, department, division or office of the city having jurisdiction over its acts or defaults under the franchise or <cite path="7">this chapter</cite> and the payment by the grantee of any penalties, claims, liens and taxes due the city, the designee, or other governmental entities which arise by reason of the construction, operation or maintenance of the system.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>If the grantee fails to pay to the city any compensation due the city within the time fixed herein or fails, after ten (10) days' notice, to pay to the city any taxes due and unpaid or fails to repay the city within ten (10) days any damages, costs or expenses which the city is compelled to pay by reason of any act or default of the grantee in connection with the franchise or fails, after three (3) days' notice of the failure by the grantee, to comply with any provision of the franchise or this chapter which the city reasonably determines can be remedied by demand on the letter of credit, the city may immediately request payment of the amount thereof, with interest and any penalties, from the letter of credit. Upon request for payment, the city shall notify the grantee of the amount and date thereof.</text>
+        <text>If the grantee fails to pay to the city any compensation due the city within the time fixed herein or fails, after ten (10) days' notice, to pay to the city any taxes due and unpaid or fails to repay the city within ten (10) days any damages, costs or expenses which the city is compelled to pay by reason of any act or default of the grantee in connection with the franchise or fails, after three (3) days' notice of the failure by the grantee, to comply with any provision of the franchise or <cite path="7">this chapter</cite> which the city reasonably determines can be remedied by demand on the letter of credit, the city may immediately request payment of the amount thereof, with interest and any penalties, from the letter of credit. Upon request for payment, the city shall notify the grantee of the amount and date thereof.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>The letter of credit shall be maintained at one hundred thousand dollars ($100,000.00) during the entire term of the franchise. If amounts are withdrawn pursuant to subsection (a) or (b), the grantee, if necessary, shall take any action required to maintain the letter of credit at the full amount within three (3) days of the notification by the city of its withdrawal against the letter of credit.</text>
+        <text>The letter of credit shall be maintained at one hundred thousand dollars ($100,000.00) during the entire term of the franchise. If amounts are withdrawn pursuant to <cite path="7-69|(a)">subsection (a)</cite> or (b), the grantee, if necessary, shall take any action required to maintain the letter of credit at the full amount within three (3) days of the notification by the city of its withdrawal against the letter of credit.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -795,7 +795,7 @@
         <text>The letter of credit shall contain the following endorsement: "It is hereby understood and agreed that this letter of credit shall not be canceled by the surety nor the intention not to renew be stated by the surety until thirty (30) days after receipt by the city, by registered mail, of a written notice of such intention to cancel or not to renew."</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-44</annotation>
+        <annotation type="History">Code 1971, <cite path="52-44">§ 52-44</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 14), 1-28-82</annotation>
       </annotations>
     </section>
@@ -804,15 +804,15 @@
       <heading>Transfer.</heading>
       <para>
         <num>(a)</num>
-        <text>A franchise granted under this chapter shall be a privilege to be held in personal trust by the grantee. It shall not be assigned, transferred, sold or disposed of, in whole or in part, by voluntary sale, sale and leaseback, merger, consolidation, or otherwise or by forced or involuntary sale, without prior consent of the mayor, as authorized by resolution of the city council, and then on only such conditions as may be therein prescribed. Any sale, transfer or assignment not made according to the procedures set forth in this chapter shall render the franchise void. The sale, transfer or assignment in bulk of the major part of the tangible assets of the grantee shall be considered an assignment and shall be subject to the provisions of this section.</text>
+        <text>A franchise granted under <cite path="7">this chapter</cite> shall be a privilege to be held in personal trust by the grantee. It shall not be assigned, transferred, sold or disposed of, in whole or in part, by voluntary sale, sale and leaseback, merger, consolidation, or otherwise or by forced or involuntary sale, without prior consent of the mayor, as authorized by resolution of the city council, and then on only such conditions as may be therein prescribed. Any sale, transfer or assignment not made according to the procedures set forth in <cite path="7">this chapter</cite> shall render the franchise void. The sale, transfer or assignment in bulk of the major part of the tangible assets of the grantee shall be considered an assignment and shall be subject to the provisions of <cite path="7-70">this section</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Any sale, transfer or assignment authorized by the city shall be made by a bill of sale or similar document, an executed copy of which shall be filed with the city within thirty (30) days after any such sale, transfer or assignment. The city shall not withhold its consent unreasonably; provided that the proposed assignee agrees to comply with all the provisions of this chapter and the franchise and reasonable amendments thereto, and the assignee must be able to provide proof of legal, technical, financial and character qualifications as determined by the city.</text>
+        <text>Any sale, transfer or assignment authorized by the city shall be made by a bill of sale or similar document, an executed copy of which shall be filed with the city within thirty (30) days after any such sale, transfer or assignment. The city shall not withhold its consent unreasonably; provided that the proposed assignee agrees to comply with all the provisions of <cite path="7">this chapter</cite> and the franchise and reasonable amendments thereto, and the assignee must be able to provide proof of legal, technical, financial and character qualifications as determined by the city.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>No consent shall be required for a transfer in trust, mortgage or other instrument of hypothecation, in whole or in part, to secure an indebtedness except when the hypothecation shall exceed seventy-five (75) percent of the fair market value (as defined in section 7-3) of the property used by the grantee in the operation of its cable television system. Prior consent of the city shall be required for such transfer, and the consent shall not be withheld unreasonably.</text>
+        <text>No consent shall be required for a transfer in trust, mortgage or other instrument of hypothecation, in whole or in part, to secure an indebtedness except when the hypothecation shall exceed seventy-five (75) percent of the fair market value (as defined in <cite path="7-3">section 7-3</cite>) of the property used by the grantee in the operation of its cable television system. Prior consent of the city shall be required for such transfer, and the consent shall not be withheld unreasonably.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -820,10 +820,10 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The consent of the city to any sale, transfer, lease, trust, mortgage or other instrument of hypothecation shall not constitute a waiver or release of any of the rights of the city under this chapter and the franchise.</text>
+        <text>The consent of the city to any sale, transfer, lease, trust, mortgage or other instrument of hypothecation shall not constitute a waiver or release of any of the rights of the city under <cite path="7">this chapter</cite> and the franchise.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-45</annotation>
+        <annotation type="History">Code 1971, <cite path="52-45">§ 52-45</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. IV, § 15), 1-28-82</annotation>
       </annotations>
     </section>
@@ -834,14 +834,14 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>IV</num>
+    <num path-omit="true">IV</num>
     <heading>SUBSCRIBER FEES AND RECORDS</heading>
     <section>
       <num>7-86</num>
       <heading>Subscriber fees.</heading>
       <para>
         <num>(a)</num>
-        <text>By accepting a franchise granted pursuant to the terms and conditions imposed by this chapter, the grantee agrees that the city shall have the authority and right to cause the grantee's fees for regular subscriber service and all other services to the extent permitted by law or FCC rules and regulations to conform to the provisions contained herein. The city shall also have the authority and right to deny increases or order reduction of fees when it determines that in the absence of such action on its part, the grantee's fees or proposed fees do not conform to the stipulations contained herein.</text>
+        <text>By accepting a franchise granted pursuant to the terms and conditions imposed by <cite path="7">this chapter</cite>, the grantee agrees that the city shall have the authority and right to cause the grantee's fees for regular subscriber service and all other services to the extent permitted by law or FCC rules and regulations to conform to the provisions contained herein. The city shall also have the authority and right to deny increases or order reduction of fees when it determines that in the absence of such action on its part, the grantee's fees or proposed fees do not conform to the stipulations contained herein.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -857,7 +857,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>By acceptance of a franchise, the grantee further acknowledges that the city retains the right to fix rates for regular subscriber service and all other services to the extent permitted by law or FCC rules and regulations that are just, reasonable and compensatory. Any time after thirty (30) months from the date service is provided to the first subscriber under the franchise, the city, after proper notice as provided in section 7-57, may hold public hearings to consider the necessity of regulating the subscriber rates charged by this grantee and, by reasonable amendment of this chapter and franchise and/or by adoption of rules and regulations, may establish procedures for the review of subscriber rates; provided that this section shall not permit the city to order the grantee to rebate any fee or portion thereof charged during the period when such fees were not subject to regulation by the city.</text>
+        <text>By acceptance of a franchise, the grantee further acknowledges that the city retains the right to fix rates for regular subscriber service and all other services to the extent permitted by law or FCC rules and regulations that are just, reasonable and compensatory. Any time after thirty (30) months from the date service is provided to the first subscriber under the franchise, the city, after proper notice as provided in <cite path="7-57">section 7-57</cite>, may hold public hearings to consider the necessity of regulating the subscriber rates charged by this grantee and, by reasonable amendment of <cite path="7">this chapter</cite> and franchise and/or by adoption of rules and regulations, may establish procedures for the review of subscriber rates; provided that <cite path="7-86">this section</cite> shall not permit the city to order the grantee to rebate any fee or portion thereof charged during the period when such fees were not subject to regulation by the city.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -869,14 +869,14 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Except as may be otherwise provided in a franchise, a subscriber shall have the right to have service disconnected without charge. The disconnection shall be made as soon as practicable and in no case later than thirty (30) days following notice to the grantee of same. No grantee shall enter into any agreement with a subscriber which imposes any charge following disconnection of service, except for reconnection and subsequent monthly or periodic charges, and those charges shall be no greater than charges for new customers. This section shall not prevent a grantee from refusing service to any person because the grantee's prior accounts with that person remain due and owing.</text>
+        <text>Except as may be otherwise provided in a franchise, a subscriber shall have the right to have service disconnected without charge. The disconnection shall be made as soon as practicable and in no case later than thirty (30) days following notice to the grantee of same. No grantee shall enter into any agreement with a subscriber which imposes any charge following disconnection of service, except for reconnection and subsequent monthly or periodic charges, and those charges shall be no greater than charges for new customers. <cite path="7-86">This section</cite> shall not prevent a grantee from refusing service to any person because the grantee's prior accounts with that person remain due and owing.</text>
       </para>
       <para>
         <num>(i)</num>
         <text>Except as may be otherwise provided in a franchise, a grantee may offer service which requires advance payment of periodic service charges for not more than one (1) year in advance subject to the conditions contained in this paragraph. A subscriber shall have the right, at any time, to have service disconnected without charge and with a refund of unused service charges and converter deposits, if any, paid by the customer within thirty (30) days from the date of termination of service. No converter deposits will be charged for basic services. Rate increases shall not be effective with respect to any subscriber until after the expiration of any period for which advance payment has been accepted by the grantee.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-51</annotation>
+        <annotation type="History">Code 1971, <cite path="52-51">§ 52-51</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. V, § 1), 1-28-82</annotation>
       </annotations>
     </section>
@@ -933,7 +933,7 @@
         <text>Copies of the grantee's schedule of charges, contract or application forms for subscriber service, policy regarding the processing of subscriber complaints, delinquent subscriber disconnect and reconnect procedures, and any other terms and conditions adopted as the grantee's policy in connection with its subscribers shall be filed with the city and shall be made available for inspection by the public in the grantee's local office.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-52</annotation>
+        <annotation type="History">Code 1971, <cite path="52-52">§ 52-52</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. V, § 2), 1-28-82</annotation>
       </annotations>
     </section>
@@ -944,14 +944,14 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>V</num>
+    <num path-omit="true">V</num>
     <heading>SYSTEM OPERATIONS</heading>
     <section>
       <num>7-106</num>
       <heading>Franchise areas.</heading>
       <text>The areas of the city for which bids for franchises will be accepted shall be specified by the city.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-61</annotation>
+        <annotation type="History">Code 1971, <cite path="52-61">§ 52-61</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VI, § 1), 1-28-82</annotation>
       </annotations>
     </section>
@@ -964,7 +964,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The service area shall be subject to approval by the city, and shall be incorporated into a franchise granted pursuant to this chapter. The service area shall be considered to be coterminous with the franchise area.</text>
+        <text>The service area shall be subject to approval by the city, and shall be incorporated into a franchise granted pursuant to <cite path="7">this chapter</cite>. The service area shall be considered to be coterminous with the franchise area.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -975,7 +975,7 @@
         <text>With respect to requests for connection requiring an aerial or buried drop line in excess of one hundred fifty (150) feet, the grantee must extend and make available cable television service to such residents at a connection charge not to exceed the actual installation costs incurred by the grantee for the distance exceeding one hundred fifty (150) feet.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-62</annotation>
+        <annotation type="History">Code 1971, <cite path="52-62">§ 52-62</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VI, § 2), 1-28-82</annotation>
       </annotations>
     </section>
@@ -984,14 +984,14 @@
       <heading>System description and service.</heading>
       <para>
         <num>(a)</num>
-        <text>The cable television system to be installed by the grantee shall comply in all respects with the technical performance requirements set forth in the FCC's Rules for Cable Television, including applicable amendments thereto; provided that nothing contained herein shall be construed to prohibit the grantee from proposing to comply with more rigid technical performance requirements, in which case the grantee's bid shall be incorporated by reference in the franchise and will be binding on the grantee. If the FCC should delete such requirements, the city hereby reserves the right to amend this chapter to incorporate similar standards and every franchise granted pursuant to this chapter shall be subject to such reserved power, whether or not expressly so conditioned.</text>
+        <text>The cable television system to be installed by the grantee shall comply in all respects with the technical performance requirements set forth in the FCC's Rules for Cable Television, including applicable amendments thereto; provided that nothing contained herein shall be construed to prohibit the grantee from proposing to comply with more rigid technical performance requirements, in which case the grantee's bid shall be incorporated by reference in the franchise and will be binding on the grantee. If the FCC should delete such requirements, the city hereby reserves the right to amend <cite path="7">this chapter</cite> to incorporate similar standards and every franchise granted pursuant to <cite path="7">this chapter</cite> shall be subject to such reserved power, whether or not expressly so conditioned.</text>
       </para>
       <para>
         <num>(b)</num>
         <text>Bids for a franchise shall include proposals for the provision of certain specific access channels. Such proposals by a grantee shall be incorporated into the franchise granted, and shall be subject to the following minimum requirements:</text>
         <para>
           <num>(1)</num>
-          <text>A minimum of three (3) channels shall be reserved for public access and a minimum of one (1) channel for educational access. Whenever it occurs that at least eighty (80) percent of the channels shall be used during any consecutive four-hour period for at least four (4) of the weekdays (Monday through Friday) for six (6) consecutive weeks, the grantee shall make available an additional channel for such purposes. For purposes of this section, each access channel shall be considered a separate class and as each threshold is achieved, an additional channel shall be added; provided that the grantee shall not be required to dedicate more than fifteen (15) percent of its available downstream channel capacity for such purposes; provided further that the grantee shall have the right to reduce by one (1) the number of channels devoted to such uses each time it occurs that during any eight (8) consecutive weeks from September to May, use of the channels is less than the eighty-percent level provided herein. Unless otherwise indicated in a franchise, the operation of the public and educational access channels shall be governed by the plan developed by the Tampa Hillsborough County Cable Advisory Committee as described in Article VI herein.</text>
+          <text>A minimum of three (3) channels shall be reserved for public access and a minimum of one (1) channel for educational access. Whenever it occurs that at least eighty (80) percent of the channels shall be used during any consecutive four-hour period for at least four (4) of the weekdays (Monday through Friday) for six (6) consecutive weeks, the grantee shall make available an additional channel for such purposes. For purposes of <cite path="7-108">this section</cite>, each access channel shall be considered a separate class and as each threshold is achieved, an additional channel shall be added; provided that the grantee shall not be required to dedicate more than fifteen (15) percent of its available downstream channel capacity for such purposes; provided further that the grantee shall have the right to reduce by one (1) the number of channels devoted to such uses each time it occurs that during any eight (8) consecutive weeks from September to May, use of the channels is less than the eighty-percent level provided herein. Unless otherwise indicated in a franchise, the operation of the public and educational access channels shall be governed by the plan developed by the Tampa Hillsborough County Cable Advisory Committee as described in Article VI herein.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1019,7 +1019,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>For the purpose of this chapter, "obscene material" shall mean material or work which displays, depicts or exhibits any of the following:</text>
+          <text>For the purpose of <cite path="7">this chapter</cite>, "obscene material" shall mean material or work which displays, depicts or exhibits any of the following:</text>
           <para>
             <num>a.</num>
             <text>Genitals, in a discernibly turgid state;</text>
@@ -1031,7 +1031,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Subsection (d)(2)a. and b. above shall be deemed to be obscene only:</text>
+          <text><cite path="7-108|(d)|(2)">Subsection (d)(2)</cite>a. and b. above shall be deemed to be obscene only:</text>
           <para>
             <num>a.</num>
             <text>Where the average person, applying contemporary community standards, would find that the material or work, taken as a whole, appeals to the prurient interest;</text>
@@ -1051,7 +1051,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Violation of this subsection (d) by the grantee shall be deemed a material breach of any agreement awarding a franchise and shall subject the grantee to all penalties and remedies provided therein as well as all other remedies, both legal and equitable, available to the city. Violation of this subsection by a lessee shall bar a lessee from utilizing the cable system for a period of one (1) year following such violation and shall subject the lessee to all penalties and remedies, both legal and equitable, available to the city.</text>
+          <text>Violation of this <cite path="7-108|(d)">subsection (d)</cite> by the grantee shall be deemed a material breach of any agreement awarding a franchise and shall subject the grantee to all penalties and remedies provided therein as well as all other remedies, both legal and equitable, available to the city. Violation of this subsection by a lessee shall bar a lessee from utilizing the cable system for a period of one (1) year following such violation and shall subject the lessee to all penalties and remedies, both legal and equitable, available to the city.</text>
         </para>
       </para>
       <para>
@@ -1059,16 +1059,16 @@
         <text>At the option of the subscriber, the grantee shall provide, at no cost, a device capable of locking out any premium programming video and audio signals.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-63</annotation>
+        <annotation type="History">Code 1971, <cite path="52-63">§ 52-63</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VI, § 3), 1-28-82</annotation>
       </annotations>
     </section>
     <section>
       <num>7-109</num>
       <heading>Operational requirements and records.</heading>
-      <text>The grantee shall construct, operate and maintain the cable television system in full compliance with the rules and regulations, including applicable amendments, of the Federal Communications Commission and all other applicable federal, state or local laws and regulations, including the latest editions of the National Electrical Safety Code and the National Fire Protection Association National Electrical Code. The director of telecommunication and cable communication or his designated inspectors shall have the authority to formulate, assess and enforce the regulations and requirements of this chapter. All parts of telecommunication and cable communication systems in the city shall be subject to inspection by the director of telecommunication and cable communication or his designated inspectors to ensure compliance with all applicable federal, state and municipal rules and regulations. The city hereby reserves the right to review a grantee's construction plans prior to the commencement of construction to ensure compliance with all applicable federal, state and municipal rules and regulations. In order to facilitate the inspection of the grantee's distribution system by city cable inspectors, the grantee shall provide all necessary indemnity and insurance coverage that may be required by the owners or lessees of the utility poles upon which the distribution system may be attached, and the grantee shall name the city as coinsured on such policies of insurance.</text>
+      <text>The grantee shall construct, operate and maintain the cable television system in full compliance with the rules and regulations, including applicable amendments, of the Federal Communications Commission and all other applicable federal, state or local laws and regulations, including the latest editions of the National Electrical Safety Code and the National Fire Protection Association National Electrical Code. The director of telecommunication and cable communication or his designated inspectors shall have the authority to formulate, assess and enforce the regulations and requirements of <cite path="7">this chapter</cite>. All parts of telecommunication and cable communication systems in the city shall be subject to inspection by the director of telecommunication and cable communication or his designated inspectors to ensure compliance with all applicable federal, state and municipal rules and regulations. The city hereby reserves the right to review a grantee's construction plans prior to the commencement of construction to ensure compliance with all applicable federal, state and municipal rules and regulations. In order to facilitate the inspection of the grantee's distribution system by city cable inspectors, the grantee shall provide all necessary indemnity and insurance coverage that may be required by the owners or lessees of the utility poles upon which the distribution system may be attached, and the grantee shall name the city as coinsured on such policies of insurance.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-64</annotation>
+        <annotation type="History">Code 1971, <cite path="52-64">§ 52-64</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VI, § 4), 1-28-82</annotation>
         <annotation type="History">Ord. No. 8678-A, § 1, 10-11-84</annotation>
       </annotations>
@@ -1078,7 +1078,7 @@
       <heading>Tests and performance monitoring.</heading>
       <para>
         <num>(a)</num>
-        <text>Not later than ninety (90) days after any new or substantially rebuilt portion of the system is made available for service to subscribers, technical performance tests shall be conducted by the grantee to demonstrate full compliance with the technical standards of the Federal Communications Commission and subsection (c) of this section. Such tests shall be performed by or under the supervision of a qualified registered professional engineer or an engineer with proper training and experience. A copy of the report shall be submitted to the city, describing test results, instrumentation, calibration and test procedures, and the qualifications of the engineer responsible for the tests.</text>
+        <text>Not later than ninety (90) days after any new or substantially rebuilt portion of the system is made available for service to subscribers, technical performance tests shall be conducted by the grantee to demonstrate full compliance with the technical standards of the Federal Communications Commission and <cite path="7-110|(c)">subsection (c)</cite> of <cite path="7-110">this section</cite>. Such tests shall be performed by or under the supervision of a qualified registered professional engineer or an engineer with proper training and experience. A copy of the report shall be submitted to the city, describing test results, instrumentation, calibration and test procedures, and the qualifications of the engineer responsible for the tests.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1094,10 +1094,10 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The city shall have the right to employ qualified consultants if necessary or desirable to assist in the administration of this or any other section of this chapter at its own expense.</text>
+        <text>The city shall have the right to employ qualified consultants if necessary or desirable to assist in the administration of this or any other section of <cite path="7">this chapter</cite> at its own expense.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-65</annotation>
+        <annotation type="History">Code 1971, <cite path="52-65">§ 52-65</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VI, § 5), 1-28-82</annotation>
       </annotations>
     </section>
@@ -1125,7 +1125,7 @@
         <text>The grantee shall interrupt system service after 7:00 a.m. and before 1:00 a.m. only with good cause and for the shortest time possible and, except in emergency situations, only after cablecasting notice of service interruption at least twenty-four (24) hours in advance of the service interruption. Service may be interrupted between 1:00 a.m. and 7:00 a.m. for routine testing, maintenance and repair, with reasonable prior notification, on any day except Saturday or Sunday or a holiday.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-66</annotation>
+        <annotation type="History">Code 1971, <cite path="52-66">§ 52-66</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VI, § 6), 1-28-82</annotation>
       </annotations>
     </section>
@@ -1169,7 +1169,7 @@
         <text>The grantee shall have the authority to trim trees on public property at its own expense as may be necessary to protect its wires and facilities, subject to the supervision and direction of the city or other appropriate governmental authority. If the grantee fails to trim trees on public property and the failure causes damage or injury to any property or person, the grantee shall indemnify, hold harmless, and defend the city for any liability resulting from such damage or injury. The grantee may contract for such services; provided that any firm or individual so retained shall receive city approval prior to commencing such activity.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-67</annotation>
+        <annotation type="History">Code 1971, <cite path="52-67">§ 52-67</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VI, § 7), 1-28-82</annotation>
       </annotations>
     </section>
@@ -1178,15 +1178,15 @@
       <heading>Construction schedule and reports.</heading>
       <para>
         <num>(a)</num>
-        <text>Upon accepting the franchise, the grantee shall within sixty (60) days file the documents required to obtain all necessary federal, state and local licenses, permits and authorizations required for the conduct of its business, and shall submit monthly reports to the city on progress in this respect until all such documents are in hand. Failure of the grantee to pursue all necessary steps to secure the aforementioned authorizations with due diligence shall constitute a substantial violation of this chapter.</text>
+        <text>Upon accepting the franchise, the grantee shall within sixty (60) days file the documents required to obtain all necessary federal, state and local licenses, permits and authorizations required for the conduct of its business, and shall submit monthly reports to the city on progress in this respect until all such documents are in hand. Failure of the grantee to pursue all necessary steps to secure the aforementioned authorizations with due diligence shall constitute a substantial violation of <cite path="7">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The grantee shall commence construction of the cable system within eight (8) months after the date of the executed acceptance by the grantee of the franchise and shall complete construction of the system and offer and be capable of delivering cable television service in full accordance with this chapter and the franchise granted hereunder to subscribers in not less than thirty-three and one-third (33 1/3 ) percent of the occupied dwelling units in the city within twelve (12) months after commencing construction, and shall be capable of delivering service to an additional thirty-three and one-third (33 1/3 ) percent of the occupied dwelling units in the city in each succeeding twelve-month period thereafter or such lesser periods as shall be specified in the franchise. Failure of the grantee to commence construction within eight (8) months of the date of acceptance of the franchise shall be grounds for revocation of the franchise. For the purpose of this section, construction shall be deemed to have commenced when the first strand cable has been attached to a pole or the first underground trench has been opened.</text>
+        <text>The grantee shall commence construction of the cable system within eight (8) months after the date of the executed acceptance by the grantee of the franchise and shall complete construction of the system and offer and be capable of delivering cable television service in full accordance with <cite path="7">this chapter</cite> and the franchise granted hereunder to subscribers in not less than thirty-three and one-third (33 1/3 ) percent of the occupied dwelling units in the city within twelve (12) months after commencing construction, and shall be capable of delivering service to an additional thirty-three and one-third (33 1/3 ) percent of the occupied dwelling units in the city in each succeeding twelve-month period thereafter or such lesser periods as shall be specified in the franchise. Failure of the grantee to commence construction within eight (8) months of the date of acceptance of the franchise shall be grounds for revocation of the franchise. For the purpose of <cite path="7-113">this section</cite>, construction shall be deemed to have commenced when the first strand cable has been attached to a pole or the first underground trench has been opened.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Franchise bids shall include a timetable showing the percentage of occupied dwelling units and locations within the city that will be capable of receiving cable television service each year of construction. The timetable shall be incorporated into the franchise and shall be enforceable as to the grantee under the provisions of this chapter.</text>
+        <text>Franchise bids shall include a timetable showing the percentage of occupied dwelling units and locations within the city that will be capable of receiving cable television service each year of construction. The timetable shall be incorporated into the franchise and shall be enforceable as to the grantee under the provisions of <cite path="7">this chapter</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1201,7 +1201,7 @@
         <text>Every three (3) months after the start of construction, the grantee shall furnish the city a report on progress of construction until complete. The report shall include a map that clearly defines the areas wherein service is available.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-68</annotation>
+        <annotation type="History">Code 1971, <cite path="52-68">§ 52-68</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VI, § 8), 1-28-82</annotation>
       </annotations>
     </section>
@@ -1214,18 +1214,18 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The grantee shall not permit the installation of any special terminal equipment in any subscriber's premises that will permit transmission from the subscriber's premises of two-way services utilizing aural, visual or digital signals without first obtaining written authorization of the subscriber as provided in subsection (a).</text>
+        <text>The grantee shall not permit the installation of any special terminal equipment in any subscriber's premises that will permit transmission from the subscriber's premises of two-way services utilizing aural, visual or digital signals without first obtaining written authorization of the subscriber as provided in <cite path="7-114|(a)">subsection (a)</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>The grantee or any of its agents or employees shall not without the specific written authorization of the subscriber involved as provided in subsection (a) sell or otherwise make available to any party any list which identifies the viewing habits or responses of individual subscribers; provided that no such authorization shall be valid for a period of time in excess of one (1) year.</text>
+        <text>The grantee or any of its agents or employees shall not without the specific written authorization of the subscriber involved as provided in <cite path="7-114|(a)">subsection (a)</cite> sell or otherwise make available to any party any list which identifies the viewing habits or responses of individual subscribers; provided that no such authorization shall be valid for a period of time in excess of one (1) year.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Notwithstanding any other remedies provided for in this chapter or otherwise available under law, the city shall have the power to impose a monetary penalty up to five hundred dollars ($500.00) per day, per household, if the grantee violates any provisions of this section. Each offense shall be deemed to be a separate violation of this section.</text>
+        <text>Notwithstanding any other remedies provided for in <cite path="7">this chapter</cite> or otherwise available under law, the city shall have the power to impose a monetary penalty up to five hundred dollars ($500.00) per day, per household, if the grantee violates any provisions of <cite path="7-114">this section</cite>. Each offense shall be deemed to be a separate violation of <cite path="7-114">this section</cite>.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-69</annotation>
+        <annotation type="History">Code 1971, <cite path="52-69">§ 52-69</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VI, § 9), 1-28-82</annotation>
       </annotations>
     </section>
@@ -1234,7 +1234,7 @@
       <heading>Prohibition from engaging in radio and television sales or service.</heading>
       <text>The grantee, its subsidiaries and affiliates are specifically prohibited, directly or indirectly, from engaging in the sale or leasing of television receivers, radio receivers, or television or radio parts, except such parts and accessories required for any type of cable connections, such as converters and connection plugs and accessories, individually or with any person, anywhere in the city, whether or not for a fee or a charge, and is further prohibited from engaging in any type of repair service to television receivers or radio receivers.</text>
       <annotations>
-        <annotation type="History">Code 1971, § 52-70</annotation>
+        <annotation type="History">Code 1971, <cite path="52-70">§ 52-70</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VI, § 10), 1-28-82</annotation>
       </annotations>
     </section>
@@ -1266,7 +1266,7 @@
         <text>The city shall make every reasonable effort to cooperate with the franchising authorities in contiguous communities and with the grantee in order to provide cable television service in areas outside the city.</text>
       </para>
       <annotations>
-        <annotation type="History">Code 1971, § 52-71</annotation>
+        <annotation type="History">Code 1971, <cite path="52-71">§ 52-71</cite></annotation>
         <annotation type="History">Ord. No. 7864-A, § 1(Art. VI, § 11), 1-28-82</annotation>
       </annotations>
     </section>
@@ -1277,9 +1277,9 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>VI</num>
+    <num path-omit="true">VI</num>
     <heading>RESERVED</heading>
-    <annotation type="Editor's Notes" dest="container">2 <strong>Editor's note—</strong> Ord. No. 2007-75, § 1, adopted March 29, 2007, repealed Art. VI, §§ 7-131-7-136, which pertained to the cable advisory committee. See also the Code Comparative Table.</annotation>
+    <annotation type="Editor's Notes" dest="container">2 <strong>Editor's note—</strong> Ord. No. 2007-75, § 1, adopted March 29, 2007, repealed Art. VI, §<cite path="7-131">§ 7-131</cite>-7-136, which pertained to the cable advisory committee. See also the Code Comparative Table.</annotation>
     <section>
       <num>7-131-7-135</num>
       <heading>Reserved.</heading>

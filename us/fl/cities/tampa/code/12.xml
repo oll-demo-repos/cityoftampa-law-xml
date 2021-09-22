@@ -9,12 +9,12 @@
   <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Civil rights, F.S. Ch. 760 et seq.</annotation>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>I</num>
+    <num path-omit="true">I</num>
     <heading>IN GENERAL</heading>
     <section>
       <num>12-1</num>
       <heading>Title.</heading>
-      <text>This chapter shall be known and may be cited as the "City of Tampa Human Rights Ordinance."</text>
+      <text><cite path="12">This chapter</cite> shall be known and may be cited as the "City of Tampa Human Rights Ordinance."</text>
       <annotations>
         <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
       </annotations>
@@ -22,13 +22,13 @@
     <section>
       <num>12-2</num>
       <heading>Definitions.</heading>
-      <text>For the purpose of this chapter, unless given a different meaning under an article of this chapter, certain abbreviations, terms, phrases, words and their derivatives shall have the following meanings:</text>
-      <text><em>Administrator</em> means that person appointed pursuant to section 12-4.</text>
-      <text><em>Board</em> means the Tampa Human Rights Board created by this chapter.</text>
+      <text>For the purpose of <cite path="12">this chapter</cite>, unless given a different meaning under an article of <cite path="12">this chapter</cite>, certain abbreviations, terms, phrases, words and their derivatives shall have the following meanings:</text>
+      <text><em>Administrator</em> means that person appointed pursuant to <cite path="12-4">section 12-4</cite>.</text>
+      <text><em>Board</em> means the Tampa Human Rights Board created by <cite path="12">this chapter</cite>.</text>
       <text><em>Conciliation</em> means the attempted resolution of issues raised by a complaint, or by the investigation of such complaint, through informal negotiations involving the aggrieved person, the respondent, and the administrator.</text>
       <text><em>Conciliation agreement</em> means a written agreement setting forth the resolution of the issues in conciliation.</text>
-      <text><em>Disability</em> is used interchangeably with the term "handicap" and shall have the same meaning as "handicap" in chapter 12 of this Code or in section 802(h) of the Fair Housing Act (42 USC 3602(h)), "individual with a disability" in section 7(8)(B) of the Rehabilitation Act of 1973 (29 USC 706(8)(B), and "disability" in section 3(2) of the Americans with Disabilities Act (ADA) (42 USC 12102(2)), except that, for purposes of the ADA, the exceptions to the definitions of the terms "disability" and "qualified individual with a disability" shall be those as stated in section 1630.3 of the ADA regulations (29 CFR 1630.3), as now or hereafter revised, which are hereby adopted and incorporated as fully as if set out at length herein.</text>
-      <text><em>Discriminatory practice</em> means an act that is unlawful and prohibited under the provisions of this chapter.</text>
+      <text><em>Disability</em> is used interchangeably with the term "handicap" and shall have the same meaning as "handicap" in chapter 12 of <cite>this Code</cite> or in section 802(h) of the Fair Housing Act (42 USC 3602(h)), "individual with a disability" in section 7(8)(B) of the Rehabilitation Act of 1973 (29 USC 706(8)(B), and "disability" in section 3(2) of the Americans with Disabilities Act (ADA) (42 USC 12102(2)), except that, for purposes of the ADA, the exceptions to the definitions of the terms "disability" and "qualified individual with a disability" shall be those as stated in section 1630.3 of the ADA regulations (29 CFR 1630.3), as now or hereafter revised, which are hereby adopted and incorporated as fully as if set out at length herein.</text>
+      <text><em>Discriminatory practice</em> means an act that is unlawful and prohibited under the provisions of <cite path="12">this chapter</cite>.</text>
       <text><em>Familial status</em> means one (1) or more individuals, who have not attained the age of eighteen (18) years, being domiciled with:</text>
       <para>
         <num>(1)</num>
@@ -41,7 +41,7 @@
       <text>The protections afforded against discrimination on the basis of familial status shall apply to any person who is pregnant or is in the process of securing legal custody of any individual who has not attained the age of eighteen (18) years.</text>
       <text><em>Family</em> includes a single individual.</text>
       <text><em>Gender identity</em> or <em>expression</em> means the inner sense of being a specific gender, gender-related identity, appearance, expression and behavior of an individual, regardless of the individual's assigned sex at birth.</text>
-      <text><em>Hearing officer</em> means an employee of the Division of Administrative Hearings within the State of Florida, Department of Administration, employed to conduct hearings pursuant to F.S. chapter 120, or other person selected by the administrator to conduct a hearing pursuant to this chapter from a pool of hearing officers, who are members of the Florida Bar, appointed by the mayor and approved by the city council for a term not to exceed two (2) years. The hearing officers shall not be entitled to compensation; however, they shall receive reimbursement for parking in city garages and for mileage for any hearing-related business. Such reimbursement shall be consistent with city policy.</text>
+      <text><em>Hearing officer</em> means an employee of the Division of Administrative Hearings within the State of Florida, Department of Administration, employed to conduct hearings pursuant to F.S. chapter 120, or other person selected by the administrator to conduct a hearing pursuant to <cite path="12">this chapter</cite> from a pool of hearing officers, who are members of the Florida Bar, appointed by the mayor and approved by the city council for a term not to exceed two (2) years. The hearing officers shall not be entitled to compensation; however, they shall receive reimbursement for parking in city garages and for mileage for any hearing-related business. Such reimbursement shall be consistent with city policy.</text>
       <text><em>Marital status</em> means the state of being unmarried, married, or separated, as defined by state law. The term "unmarried" includes persons who are single, divorced or widowed.</text>
       <text><em>Quorum</em> means a majority of the members of the Tampa Human Rights Board.</text>
       <text><em>Religion</em> includes all aspects of religious observance, practice and belief.</text>
@@ -58,7 +58,7 @@
     <section>
       <num>12-3</num>
       <heading>Subpoenas; discovery.</heading>
-      <text>The board created by this chapter may issue subpoenas and order discovery in aid of investigations and hearings as required under the provisions of this chapter. Such subpoenas and discovery may be ordered to the same extent and subject to the same limitations as subpoenas and discovery in a civil action under the Florida Rules of Civil Procedure. The requesting party shall be responsible for service of any subpoena.</text>
+      <text>The board created by <cite path="12">this chapter</cite> may issue subpoenas and order discovery in aid of investigations and hearings as required under the provisions of <cite path="12">this chapter</cite>. Such subpoenas and discovery may be ordered to the same extent and subject to the same limitations as subpoenas and discovery in a civil action under the Florida Rules of Civil Procedure. The requesting party shall be responsible for service of any subpoena.</text>
       <annotations>
         <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
         <annotation type="History">Ord. No. 93-146, § 1, 9-23-93</annotation>
@@ -69,30 +69,30 @@
       <heading>Administrative authority; powers and duties.</heading>
       <para>
         <num>(a)</num>
-        <text>The provisions of this chapter shall be administered and enforced by the official. For purposes of administration of the provisions of this chapter, the official's designee shall be the administrator, who shall be appointed by the official.</text>
+        <text>The provisions of <cite path="12">this chapter</cite> shall be administered and enforced by the official. For purposes of administration of the provisions of <cite path="12">this chapter</cite>, the official's designee shall be the administrator, who shall be appointed by the official.</text>
       </para>
       <para>
         <num>(b)</num>
         <text>The administrator's powers and duties include the following:</text>
         <para>
           <num>(1)</num>
-          <text>Receive, initiate and investigate written complaints as provided by this chapter relative to alleged unlawful discriminatory practices;</text>
+          <text>Receive, initiate and investigate written complaints as provided by <cite path="12">this chapter</cite> relative to alleged unlawful discriminatory practices;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Upon receiving or filing a written complaint, make such investigations as provided by this chapter;</text>
+          <text>Upon receiving or filing a written complaint, make such investigations as provided by <cite path="12">this chapter</cite>;</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Endeavor to resolve complaints, filed pursuant to this chapter, through conciliation;</text>
+          <text>Endeavor to resolve complaints, filed pursuant to <cite path="12">this chapter</cite>, through conciliation;</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Cooperate with and render technical assistance to federal, state, local and other public and private agencies, organizations and institutions which are formulating or carrying on programs to prevent or eliminate the unlawful discriminatory practices covered by the provisions of this chapter;</text>
+          <text>Cooperate with and render technical assistance to federal, state, local and other public and private agencies, organizations and institutions which are formulating or carrying on programs to prevent or eliminate the unlawful discriminatory practices covered by the provisions of <cite path="12">this chapter</cite>;</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Conduct educational and public information activities that are designed to promote the policy of this chapter.</text>
+          <text>Conduct educational and public information activities that are designed to promote the policy of <cite path="12">this chapter</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -133,11 +133,11 @@
         <text><em>Powers and duties.</em> The powers and duties of the board shall be:</text>
         <para>
           <num>(1)</num>
-          <text>To receive and initiate complaints alleging any violation of this chapter for investigation by the administrator;</text>
+          <text>To receive and initiate complaints alleging any violation of <cite path="12">this chapter</cite> for investigation by the administrator;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>To adopt, promulgate, amend and rescind rules and regulations for the operation of the board and to effectuate the policies of this chapter;</text>
+          <text>To adopt, promulgate, amend and rescind rules and regulations for the operation of the board and to effectuate the policies of <cite path="12">this chapter</cite>;</text>
         </para>
         <para>
           <num>(3)</num>
@@ -145,7 +145,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Any other powers and duties provided elsewhere in this chapter.</text>
+          <text>Any other powers and duties provided elsewhere in <cite path="12">this chapter</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -162,11 +162,11 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>II</num>
+    <num path-omit="true">II</num>
     <heading>EMPLOYMENT DISCRIMINATION</heading>
     <container>
       <prefix>DIVISION</prefix>
-      <num>1</num>
+      <num path-omit="true">1</num>
       <heading>GENERALLY</heading>
       <section>
         <num>12-16</num>
@@ -236,7 +236,7 @@
         <text><em>Person</em> includes one (1) or more individuals, corporations, partnerships, associations, labor unions, legal representatives mutual companies, joint-stock companies, trusts, unincorporated organizations, trustees, trustees in cases under title 11 of the United States Code, receivers, and fiduciaries.</text>
         <text><em>Religion</em> includes all aspects of religious observance, practice and belief, unless an employer demonstrates that such employer is unable to reasonably accommodate to an employee's or prospective employee's religious observance or practice without undue hardship on the conduct of the employer's business.</text>
         <text><em>Respondent</em> means an employer, employment agency, labor organization, joint labor-management committee controlling apprenticeship or other training or retraining program, including an on-the-job training program, or other person or entity accused in a complaint of a discriminatory practice.</text>
-        <text><em>Sex</em> includes the terms "sex" or "because of sex" or "on the basis of sex" include, but are not limited to, because of or on the basis of pregnancy, childbirth or related medical conditions; and women affected by pregnancy, childbirth, or related medical conditions shall be treated the same for all employment-related purposes, including receipt of benefits under fringe benefit programs, as other persons not so affected but similar in their ability or inability to work, and nothing in section 12-36(c) shall be interpreted to permit otherwise.</text>
+        <text><em>Sex</em> includes the terms "sex" or "because of sex" or "on the basis of sex" include, but are not limited to, because of or on the basis of pregnancy, childbirth or related medical conditions; and women affected by pregnancy, childbirth, or related medical conditions shall be treated the same for all employment-related purposes, including receipt of benefits under fringe benefit programs, as other persons not so affected but similar in their ability or inability to work, and nothing in <cite path="12-36|(c)">section 12-36(c)</cite> shall be interpreted to permit otherwise.</text>
         <text><em>Training program</em> includes any plan containing terms and conditions for qualification, recruitment, selection, employment, or training of employees to:</text>
         <para>
           <num>(1)</num>
@@ -255,7 +255,7 @@
       <section>
         <num>12-18</num>
         <heading>Same—ADA equal employment-related definitions adopted.</heading>
-        <text>Except for the definition of the term "employer" which shall be that as defined in section 12-17 of this Code, the definition of terms in section 1630.2 of the ADA regulations (29 CFR 1630.2), as now or hereafter revised, is hereby adopted and incorporated as fully as if set out at length herein.</text>
+        <text>Except for the definition of the term "employer" which shall be that as defined in <cite path="12-17">section 12-17</cite> of <cite>this Code</cite>, the definition of terms in section 1630.2 of the ADA regulations (29 CFR 1630.2), as now or hereafter revised, is hereby adopted and incorporated as fully as if set out at length herein.</text>
         <annotations>
           <annotation type="History">Ord. No. 96-201, § 4, 9-19-96</annotation>
         </annotations>
@@ -267,7 +267,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>2</num>
+      <num path-omit="true">2</num>
       <heading>UNLAWFUL PRACTICES; EXEMPTIONS</heading>
       <annotation type="Cross References" dest="container">2 <strong>Cross reference— </strong>Women and minority business enterprises, Ch. 26.5.</annotation>
       <section>
@@ -435,7 +435,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>3</num>
+      <num path-omit="true">3</num>
       <heading>ENFORCEMENT</heading>
       <section>
         <num>12-46</num>
@@ -446,7 +446,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Whenever a complaint is filed under this section by or on behalf of a person claiming to be aggrieved, or by the administrator, the administrator shall, not later than ten (10) days after such filing, serve on the respondent a notice of the complaint, including the date, place and circumstances of the alleged violation, may conduct a mediation and, failing at a resolution of the complaint, shall make an investigation of the complaint.</text>
+          <text>Whenever a complaint is filed under <cite path="12-46">this section</cite> by or on behalf of a person claiming to be aggrieved, or by the administrator, the administrator shall, not later than ten (10) days after such filing, serve on the respondent a notice of the complaint, including the date, place and circumstances of the alleged violation, may conduct a mediation and, failing at a resolution of the complaint, shall make an investigation of the complaint.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -511,7 +511,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>In the event that the administrator fails to conciliate, or the administrator and the hearing officer fail to take final action on, any complaint under this section within one hundred eighty (180) days of filing sixty (60) days if the complaint is for age discrimination), an aggrieved person may bring a civil action against the respondent named in the complaint in any court of competent jurisdiction. The commencement of such action shall divest the administrator and the hearing officer of jurisdiction of such complaint, except that the administrator may intervene as a matter of right.</text>
+          <text>In the event that the administrator fails to conciliate, or the administrator and the hearing officer fail to take final action on, any complaint under <cite path="12-48">this section</cite> within one hundred eighty (180) days of filing sixty (60) days if the complaint is for age discrimination), an aggrieved person may bring a civil action against the respondent named in the complaint in any court of competent jurisdiction. The commencement of such action shall divest the administrator and the hearing officer of jurisdiction of such complaint, except that the administrator may intervene as a matter of right.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
@@ -529,11 +529,11 @@
           </text>
           <para>
             <num>(1)</num>
-            <text>When a person claiming to be aggrieved requests, in writing, that a notice of right to sue on the complaint be issued, the administrator shall promptly issue such notice as described in subsection (e) to all parties, at any time after the expiration of one hundred eighty (180) days from the date of filing of the complaint with the administrator, or in the case of a complaint filed by the administrator, one hundred eighty (180) days after the filing of the complaint (60 days in both instances if the complaint is for age discrimination).</text>
+            <text>When a person claiming to be aggrieved requests, in writing, that a notice of right to sue on the complaint be issued, the administrator shall promptly issue such notice as described in <cite path="12-49|(e)">subsection (e)</cite> to all parties, at any time after the expiration of one hundred eighty (180) days from the date of filing of the complaint with the administrator, or in the case of a complaint filed by the administrator, one hundred eighty (180) days after the filing of the complaint (60 days in both instances if the complaint is for age discrimination).</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>When a person claiming to be aggrieved requests, in writing, that a notice of right to sue on the complaint be issued, the administrator may issue such notice as described in subsection (e) with copies to all parties, at any time prior to the expiration of one hundred eighty (180) days from the date of filing the complaint with the administrator (60 days if the complaint is for age discrimination); provided, that the administrator has determined that it is probable that the administrator will be unable to complete the administrative processing of the complaint within one hundred eighty (180) days from the filing of the complaint (60 days if the complaint is for age discrimination) and has attached a written certificate to that effect.</text>
+            <text>When a person claiming to be aggrieved requests, in writing, that a notice of right to sue on the complaint be issued, the administrator may issue such notice as described in <cite path="12-49|(e)">subsection (e)</cite> with copies to all parties, at any time prior to the expiration of one hundred eighty (180) days from the date of filing the complaint with the administrator (60 days if the complaint is for age discrimination); provided, that the administrator has determined that it is probable that the administrator will be unable to complete the administrative processing of the complaint within one hundred eighty (180) days from the filing of the complaint (60 days if the complaint is for age discrimination) and has attached a written certificate to that effect.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -551,7 +551,7 @@
           </text>
           <para>
             <num>(1)</num>
-            <text>Where the administrator has found reasonable cause to believe that this article has been violated, has been unable to obtain voluntary compliance with this article, and where the administrator has decided not to bring a civil action against the respondent, it will issue a notice of right to sue on the complaint as described in subsection (e) to:</text>
+            <text>Where the administrator has found reasonable cause to believe that this article has been violated, has been unable to obtain voluntary compliance with this article, and where the administrator has decided not to bring a civil action against the respondent, it will issue a notice of right to sue on the complaint as described in <cite path="12-49|(e)">subsection (e)</cite> to:</text>
             <para>
               <num>a.</num>
               <text>The person claiming to be aggrieved; or,</text>
@@ -567,7 +567,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Where the administrator has dismissed a charge pursuant to section 12-48, the administrator shall issue a notice of right to sue as described in subsection (e) to:</text>
+            <text>Where the administrator has dismissed a charge pursuant to <cite path="12-48">section 12-48</cite>, the administrator shall issue a notice of right to sue as described in <cite path="12-49|(e)">subsection (e)</cite> to:</text>
             <para>
               <num>a.</num>
               <text>The person claiming to be aggrieved; or,</text>
@@ -616,7 +616,7 @@
         <heading>Civil action by aggrieved person or city attorney.</heading>
         <para>
           <num>(a)</num>
-          <text>In the case of a civil action commenced pursuant to sections 12-48(e) or (f), or section 12-49, if the court finds that the respondent has intentionally engaged in or is intentionally engaging in an unlawful public accommodation practice alleged in the complaint, the court may enjoin the respondent from engaging in such unlawful public accommodation practice, and order such affirmative action and relief as may be appropriate, which may include, but is not limited to:</text>
+          <text>In the case of a civil action commenced pursuant to sections 12-48(e) or (f), or <cite path="12-49">section 12-49</cite>, if the court finds that the respondent has intentionally engaged in or is intentionally engaging in an unlawful public accommodation practice alleged in the complaint, the court may enjoin the respondent from engaging in such unlawful public accommodation practice, and order such affirmative action and relief as may be appropriate, which may include, but is not limited to:</text>
           <para>
             <num>(1)</num>
             <text>Admission or restoration of individuals to a public accommodation;</text>
@@ -674,7 +674,7 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>III</num>
+    <num path-omit="true">III</num>
     <heading>DISCRIMINATION IN PUBLIC ACCOMMODATIONS</heading>
     <section>
       <num>12-61</num>
@@ -795,7 +795,7 @@
     <section>
       <num>12-68</num>
       <heading>Enforcement.</heading>
-      <text>The enforcement provisions for employment discrimination prescribed in sections 12-46 through 12-51 of this Code are hereby adopted and expressly made applicable to public accommodations discrimination as fully as if set out at length herein, except as amended [by Ord. No. 2004-73].</text>
+      <text>The enforcement provisions for employment discrimination prescribed in sections 12-46 through 12-51 of <cite>this Code</cite> are hereby adopted and expressly made applicable to public accommodations discrimination as fully as if set out at length herein, except as amended [by Ord. No. 2004-73].</text>
       <text>Secs. 12-69, 12-70. - Reserved.</text>
       <annotations>
         <annotation type="History">Ord. No. 2004-73, § 1, 3-18-04</annotation>
@@ -804,11 +804,11 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>IV</num>
+    <num path-omit="true">IV</num>
     <heading>DISCRIMINATION IN HOUSING</heading>
     <container>
       <prefix>DIVISION</prefix>
-      <num>1</num>
+      <num path-omit="true">1</num>
       <heading>GENERALLY</heading>
       <section>
         <num>12-71</num>
@@ -875,7 +875,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Any other person or entity identified in the course of investigation and notified as required with respect to respondents so identified under section 12-111(c).</text>
+          <text>Any other person or entity identified in the course of investigation and notified as required with respect to respondents so identified under <cite path="12-111|(c)">section 12-111(c)</cite>.</text>
         </para>
         <text><em>Sale</em> includes any contract to sell, exchange, convey, transfer or assign legal or equitable title to or a beneficial interest in dwelling.</text>
         <annotations>
@@ -890,12 +890,12 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>2</num>
+      <num path-omit="true">2</num>
       <heading>UNLAWFUL PRACTICES</heading>
       <section>
         <num>12-81</num>
         <heading>Sale or rental.</heading>
-        <text>Except as provided in section 12-101, it is an unlawful discriminatory practice for any person:</text>
+        <text>Except as provided in <cite path="12-101">section 12-101</cite>, it is an unlawful discriminatory practice for any person:</text>
         <para>
           <num>(1)</num>
           <text>To refuse to sell or rent after the making of a bona fide offer, or to refuse to negotiate for the sale or rental of, or otherwise make unavailable or deny, a dwelling to any person because of race, color, religion, national origin, sex, sexual orientation, gender identity or expression, age, disability, familial status, or marital status.</text>
@@ -925,7 +925,7 @@
       <section>
         <num>12-82</num>
         <heading>Sale or rental to disabled persons.</heading>
-        <text>Except as provided in section 12-101, it is an unlawful discriminatory practice for any person:</text>
+        <text>Except as provided in <cite path="12-101">section 12-101</cite>, it is an unlawful discriminatory practice for any person:</text>
         <para>
           <num>(1)</num>
           <text>To discriminate in the sale or rental, or to otherwise make unavailable or deny, a dwelling to any buyer or renter because of a disability of:</text>
@@ -960,7 +960,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>For purposes of this section, discrimination includes:</text>
+          <text>For purposes of <cite path="12-82">this section</cite>, discrimination includes:</text>
           <para>
             <num>a.</num>
             <text>A refusal to permit, at the expense of the disabled person, reasonable modifications of existing premises occupied or to be occupied by such person if such modifications may be necessary to afford such person full enjoyment of the premises, except that, in the case of a rental, the landlord may, where it is reasonable to do so, condition permission for a modification on the renter agreeing to restore the interior of the premises to the condition that existed before the modification, reasonable wear and tear excepted;</text>
@@ -1012,7 +1012,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Nothing in this section requires that a dwelling be made available to an individual whose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical damage to the property of others.</text>
+          <text>Nothing in <cite path="12-82">this section</cite> requires that a dwelling be made available to an individual whose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical damage to the property of others.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
@@ -1028,7 +1028,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>As used in this section, the term "residential real estate-related transaction" means any of the following:</text>
+          <text>As used in <cite path="12-83">this section</cite>, the term "residential real estate-related transaction" means any of the following:</text>
           <para>
             <num>(1)</num>
             <text>The making or purchasing of loans or providing other financial assistance:</text>
@@ -1077,7 +1077,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>3</num>
+      <num path-omit="true">3</num>
       <heading>EXEMPTIONS</heading>
       <section>
         <num>12-101</num>
@@ -1088,7 +1088,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Nothing in sections 12-81 or 12-82, other than subsection (3) of section 12-81, shall apply to:</text>
+          <text>Nothing in sections 12-81 or 12-82, other than <cite path="12-81|(3)">subsection (3) of section 12-81</cite>, shall apply to:</text>
           <para>
             <num>(1)</num>
             <text>Any single-family house sold or rented by an owner; provided, that such private individual owner does not own more than three (3) such single-family houses at any one time; provided further, that in the case of the sale of any such single-family house by a private individual owner not residing in such house at the time of such sale or who was not the most recent resident of such house prior to such sale, the exemption granted by this subsection shall apply only with respect to one (1) such sale within any twenty-four-month period; provided further, that such bona fide private individual owner does not own any interest in, nor is there owned or reserved on such owner's behalf, under any express or voluntary agreement, title to or any right to all or a portion of the proceeds from the sale or rental of more than three (3) such single-family houses at any one time; provided further, that the sale or rental of any such single-family house shall be excepted from the application of this article only if such house is sold or rented:</text>
@@ -1098,7 +1098,7 @@
             </para>
             <para>
               <num>b.</num>
-              <text>Without the publication, posting or mailing, after notice, of any advertisement or written notice in violation of subsection (3) of section 12-81; but nothing in this proviso shall prohibit the use of attorneys, escrow agents, abstractors, title companies, and other such professional assistance as necessary to perfect or transfer the title; or</text>
+              <text>Without the publication, posting or mailing, after notice, of any advertisement or written notice in violation of <cite path="12-81|(3)">subsection (3) of section 12-81</cite>; but nothing in this proviso shall prohibit the use of attorneys, escrow agents, abstractors, title companies, and other such professional assistance as necessary to perfect or transfer the title; or</text>
             </para>
           </para>
           <para>
@@ -1108,7 +1108,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>For the purposes of subsection (b) of this section, a person shall be deemed to be in the business of selling or renting dwellings if such person:</text>
+          <text>For the purposes of <cite path="12-101|(b)">subsection (b)</cite> of <cite path="12-101">this section</cite>, a person shall be deemed to be in the business of selling or renting dwellings if such person:</text>
           <para>
             <num>(1)</num>
             <text>Has, within the preceding twelve (12) months, participated as principal in three (3) or more transactions involving the sale or rental of any dwelling or any interest therein; or</text>
@@ -1127,7 +1127,7 @@
           <text>No provision in this article regarding familial status shall apply with respect to housing for older persons.</text>
           <para>
             <num>(1)</num>
-            <text>As used in this section, "housing for older persons" means housing:</text>
+            <text>As used in <cite path="12-101">this section</cite>, "housing for older persons" means housing:</text>
             <para>
               <num>a.</num>
               <text>Provided under any state or federal program that the Secretary of Housing and Urban Development (secretary) determines is specifically designed and operated to assist elderly persons, as defined in the state or federal program; or</text>
@@ -1199,7 +1199,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>4</num>
+      <num path-omit="true">4</num>
       <heading>ENFORCEMENT</heading>
       <section>
         <num>12-111</num>
@@ -1226,7 +1226,7 @@
             </para>
             <para>
               <num>b.</num>
-              <text>The administrator shall, not later than ten (10) days after such filing or the identification of an additional respondent under subsection (c), serve on the respondent a notice identifying the alleged discriminatory housing practice and advising such respondent of the procedural rights and obligations of respondents under this article, together with a copy of the original complaint;</text>
+              <text>The administrator shall, not later than ten (10) days after such filing or the identification of an additional respondent under <cite path="12-111|(c)">subsection (c)</cite>, serve on the respondent a notice identifying the alleged discriminatory housing practice and advising such respondent of the procedural rights and obligations of respondents under this article, together with a copy of the original complaint;</text>
             </para>
             <para>
               <num>c.</num>
@@ -1267,11 +1267,11 @@
           </text>
           <para>
             <num>(1)</num>
-            <text>A person who is not named as a respondent in a complaint, but who is identified as a respondent in the course of investigation, may be joined as an additional or substitute respondent upon written notice, under subsection (a), to such person, from the administrator.</text>
+            <text>A person who is not named as a respondent in a complaint, but who is identified as a respondent in the course of investigation, may be joined as an additional or substitute respondent upon written notice, under <cite path="12-111|(a)">subsection (a)</cite>, to such person, from the administrator.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Such notice, in addition to meeting the requirements of subsection (a), shall explain the basis for the administrator's belief that the person to whom the notice is addressed is properly joined as a respondent.</text>
+            <text>Such notice, in addition to meeting the requirements of <cite path="12-111|(a)">subsection (a)</cite>, shall explain the basis for the administrator's belief that the person to whom the notice is addressed is properly joined as a respondent.</text>
           </para>
         </para>
         <para>
@@ -1307,7 +1307,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Notwithstanding subsection (1), the administrator shall make available to the aggrieved person and the respondent, at any time, upon request following completion of the administrator's investigation, the final investigative report relating to that investigation and other information derived from the investigation, provided the release of such other information derived from the investigation does not place an excessive burden on the complainant that might discourage the filing of complaints.</text>
+            <text>Notwithstanding <cite path="12-111|(1)">subsection (1)</cite>, the administrator shall make available to the aggrieved person and the respondent, at any time, upon request following completion of the administrator's investigation, the final investigative report relating to that investigation and other information derived from the investigation, provided the release of such other information derived from the investigation does not place an excessive burden on the complainant that might discourage the filing of complaints.</text>
           </para>
         </para>
         <para>
@@ -1329,12 +1329,12 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>The commencement of a civil action under this subsection does not affect the initiation or continuation of administrative proceedings under this section and section 12-112.</text>
+            <text>The commencement of a civil action under this subsection does not affect the initiation or continuation of administrative proceedings under <cite path="12-111">this section</cite> and <cite path="12-112">section 12-112</cite>.</text>
           </para>
         </para>
         <para>
           <num>(g)</num>
-          <text><em>Investigative report.</em> At the end of each investigation under this section, the administrator shall prepare a final investigative report containing:</text>
+          <text><em>Investigative report.</em> At the end of each investigation under <cite path="12-111">this section</cite>, the administrator shall prepare a final investigative report containing:</text>
           <para>
             <num>(1)</num>
             <text>The names and dates of contacts with witnesses;</text>
@@ -1372,11 +1372,11 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>If the administrator determines that reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, the administrator shall, except as provided in paragraph (4) of this subsection, immediately issue a charge on behalf of the aggrieved person, for further proceedings under section 12-112.</text>
+            <text>If the administrator determines that reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, the administrator shall, except as provided in paragraph (4) of this subsection, immediately issue a charge on behalf of the aggrieved person, for further proceedings under <cite path="12-112">section 12-112</cite>.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>If the administrator determines that the matter involves the legality of a state or local zoning or other land use law or ordinance, the administrator shall immediately refer the matter to the city attorney for appropriate action under section 12-114(c), instead of issuing a charge.</text>
+            <text>If the administrator determines that the matter involves the legality of a state or local zoning or other land use law or ordinance, the administrator shall immediately refer the matter to the city attorney for appropriate action under <cite path="12-114|(c)">section 12-114(c)</cite>, instead of issuing a charge.</text>
           </para>
         </para>
         <para>
@@ -1397,7 +1397,7 @@
         </para>
         <para>
           <num>(j)</num>
-          <text><em>Service of copies of charge.</em> Within twenty (20) days after the administrator issues a charge under this section, the administrator shall cause a copy thereof, together with information as to how to make an election under section 12-112(a) and the effect of such an election, to be served:</text>
+          <text><em>Service of copies of charge.</em> Within twenty (20) days after the administrator issues a charge under <cite path="12-111">this section</cite>, the administrator shall cause a copy thereof, together with information as to how to make an election under <cite path="12-112|(a)">section 12-112(a)</cite> and the effect of such an election, to be served:</text>
           <para>
             <num>(1)</num>
             <text>On each respondent named in such charge, together with a notice of opportunity for a hearing at a time and place specified in the notice, unless that election is made; and</text>
@@ -1413,7 +1413,7 @@
         </para>
         <para>
           <num>(l)</num>
-          <text><em>Pending civil trial.</em> The administrator may not issue a charge under this section regarding an alleged discriminatory housing practice after the beginning of the trial of a civil action commenced by the aggrieved party under federal or state law, seeking relief with respect to that discriminatory housing practice.</text>
+          <text><em>Pending civil trial.</em> The administrator may not issue a charge under <cite path="12-111">this section</cite> regarding an alleged discriminatory housing practice after the beginning of the trial of a civil action commenced by the aggrieved party under federal or state law, seeking relief with respect to that discriminatory housing practice.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
@@ -1424,7 +1424,7 @@
         <heading>Enforcement by administrator.</heading>
         <para>
           <num>(a)</num>
-          <text><em>Election of judicial determination.</em> When a charge is filed under section 12-111, a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action under subsection (b) in lieu of a hearing under subsection (c). The election must be made not later than twenty (20) days after the receipt by the electing person of service under section 12-111(j) or, in the case of the administrator, not later than twenty (20) days after such service. The person making such election shall give notice of doing so to the administrator and to all other complainants and respondents to whom the charge relates.</text>
+          <text><em>Election of judicial determination.</em> When a charge is filed under <cite path="12-111">section 12-111</cite>, a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action under <cite path="12-112|(b)">subsection (b)</cite> in lieu of a hearing under <cite path="12-112|(c)">subsection (c)</cite>. The election must be made not later than twenty (20) days after the receipt by the electing person of service under section 12-111(j) or, in the case of the administrator, not later than twenty (20) days after such service. The person making such election shall give notice of doing so to the administrator and to all other complainants and respondents to whom the charge relates.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1433,7 +1433,7 @@
           </text>
           <para>
             <num>(1)</num>
-            <text>If an election is made under subsection (a), the administrator shall authorize, and not later than thirty (30) days after the election is made, the city attorney shall commence and maintain, a civil action on behalf of the aggrieved person in a court of competent jurisdiction seeking relief as provided by this article, and state and/or federal law.</text>
+            <text>If an election is made under <cite path="12-112|(a)">subsection (a)</cite>, the administrator shall authorize, and not later than thirty (30) days after the election is made, the city attorney shall commence and maintain, a civil action on behalf of the aggrieved person in a court of competent jurisdiction seeking relief as provided by this article, and state and/or federal law.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1441,7 +1441,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>In a civil action under this subsection, if the court finds that a discriminatory housing practice has occurred or is about to occur, the court may grant as relief any relief which a court could grant with respect to such discriminatory housing practice in a civil action under section 12-113. Any relief so granted that would accrue to an aggrieved person in a civil action commenced by that aggrieved person under section 12-113 shall also accrue to that aggrieved person in a civil action under this subsection. If monetary relief is sought for the benefit of an aggrieved person who does not intervene in the civil action, the court shall not award such relief if that aggrieved person has not complied with discovery orders entered by the court.</text>
+            <text>In a civil action under this subsection, if the court finds that a discriminatory housing practice has occurred or is about to occur, the court may grant as relief any relief which a court could grant with respect to such discriminatory housing practice in a civil action under <cite path="12-113">section 12-113</cite>. Any relief so granted that would accrue to an aggrieved person in a civil action commenced by that aggrieved person under <cite path="12-113">section 12-113</cite> shall also accrue to that aggrieved person in a civil action under this subsection. If monetary relief is sought for the benefit of an aggrieved person who does not intervene in the civil action, the court shall not award such relief if that aggrieved person has not complied with discovery orders entered by the court.</text>
           </para>
         </para>
         <para>
@@ -1451,7 +1451,7 @@
           </text>
           <para>
             <num>(1)</num>
-            <text>If a timely election is not made under subsection (a) with respect to a charge filed under section 12-111, the administrator shall provide an opportunity for a hearing, on the record, on the charge.</text>
+            <text>If a timely election is not made under <cite path="12-112|(a)">subsection (a)</cite> with respect to a charge filed under <cite path="12-111">section 12-111</cite>, the administrator shall provide an opportunity for a hearing, on the record, on the charge.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1459,11 +1459,11 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>The hearing officer shall commence the hearing under this section no later than one hundred twenty (120) days following the issuance of the charge, unless it is impracticable to do. If the hearing officer is unable to commence the hearing within one hundred twenty (120) days after the issuance of the charge, the hearing officer shall notify the administrator, the aggrieved person on whose behalf the charge was filed, and the respondent in writing of the reasons for not doing so.</text>
+            <text>The hearing officer shall commence the hearing under <cite path="12-112">this section</cite> no later than one hundred twenty (120) days following the issuance of the charge, unless it is impracticable to do. If the hearing officer is unable to commence the hearing within one hundred twenty (120) days after the issuance of the charge, the hearing officer shall notify the administrator, the aggrieved person on whose behalf the charge was filed, and the respondent in writing of the reasons for not doing so.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>The hearing officer shall make findings of fact and conclusions of law within sixty (60) days after the end of the hearing under this section, unless it is impracticable to do so. If the hearing officer is unable to make findings of fact and conclusions of law within such period, or any succeeding sixty-day period thereafter, the hearing officer shall notify the administrator, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.</text>
+            <text>The hearing officer shall make findings of fact and conclusions of law within sixty (60) days after the end of the hearing under <cite path="12-112">this section</cite>, unless it is impracticable to do so. If the hearing officer is unable to make findings of fact and conclusions of law within such period, or any succeeding sixty-day period thereafter, the hearing officer shall notify the administrator, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.</text>
           </para>
           <para>
             <num>(5)</num>
@@ -1471,11 +1471,11 @@
           </para>
           <para>
             <num>(6)</num>
-            <text>Any resolution of a charge before a final order under this section shall require the consent of the aggrieved person on whose behalf the charge is issued.</text>
+            <text>Any resolution of a charge before a final order under <cite path="12-112">this section</cite> shall require the consent of the aggrieved person on whose behalf the charge is issued.</text>
           </para>
           <para>
             <num>(7)</num>
-            <text>A hearing officer may not continue a hearing under this section regarding an alleged discriminatory housing practice after the beginning of the trial of a civil action commenced by the aggrieved party under federal or state law, seeking relief with respect to that discriminatory housing practice.</text>
+            <text>A hearing officer may not continue a hearing under <cite path="12-112">this section</cite> regarding an alleged discriminatory housing practice after the beginning of the trial of a civil action commenced by the aggrieved party under federal or state law, seeking relief with respect to that discriminatory housing practice.</text>
           </para>
         </para>
         <para>
@@ -1505,11 +1505,11 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>In the case of an order against a respondent whom another order was issued within the preceding five (5) years under this section, the administrator shall send a copy of each such order to the city attorney.</text>
+            <text>In the case of an order against a respondent whom another order was issued within the preceding five (5) years under <cite path="12-112">this section</cite>, the administrator shall send a copy of each such order to the city attorney.</text>
           </para>
           <para>
             <num>(5)</num>
-            <text>The relief provided for under this section are applicable regardless of whether the administrator or an aggrieved person initiated the investigation under this article.</text>
+            <text>The relief provided for under <cite path="12-112">this section</cite> are applicable regardless of whether the administrator or an aggrieved person initiated the investigation under this article.</text>
           </para>
           <para>
             <num>(6)</num>
@@ -1523,16 +1523,16 @@
           </text>
           <para>
             <num>(1)</num>
-            <text>The administrator may review any finding, conclusion, or order issued by a hearing officer under this section. Such review shall be completed not later than thirty (30) days after the finding, conclusion, or order is so issued; otherwise the finding, conclusion, or order becomes final.</text>
+            <text>The administrator may review any finding, conclusion, or order issued by a hearing officer under <cite path="12-112">this section</cite>. Such review shall be completed not later than thirty (30) days after the finding, conclusion, or order is so issued; otherwise the finding, conclusion, or order becomes final.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>The administrator shall cause the findings of fact and conclusions of law made with respect to any final order for relief under this section, together with a copy of such order, to be served on each aggrieved person and each respondent in the proceeding.</text>
+            <text>The administrator shall cause the findings of fact and conclusions of law made with respect to any final order for relief under <cite path="12-112">this section</cite>, together with a copy of such order, to be served on each aggrieved person and each respondent in the proceeding.</text>
           </para>
         </para>
         <para>
           <num>(f)</num>
-          <text><em>Judicial review.</em> Any party aggrieved by a final order for relief under this section granting or denying in whole or in part the relief sought, may petition for a review of such order in a court of competent jurisdiction. Such review shall be limited to a review of the administrator's and hearing officer's written documents expressing their action and the record of the proceedings conducted by the hearing officer under this section. A reviewing court may modify, revoke or remand the final order only upon a finding that such order is not supported by substantial competent evidence and/or the proceedings conducted did not comply with the essential requirements of law. Costs or fees may not be assessed against the administrator or the city in any appeal from a final order issued under this section. Unless specifically ordered by the court, the commencement of an appeal does not suspend or stay an order of the administrator.</text>
+          <text><em>Judicial review.</em> Any party aggrieved by a final order for relief under <cite path="12-112">this section</cite> granting or denying in whole or in part the relief sought, may petition for a review of such order in a court of competent jurisdiction. Such review shall be limited to a review of the administrator's and hearing officer's written documents expressing their action and the record of the proceedings conducted by the hearing officer under <cite path="12-112">this section</cite>. A reviewing court may modify, revoke or remand the final order only upon a finding that such order is not supported by substantial competent evidence and/or the proceedings conducted did not comply with the essential requirements of law. Costs or fees may not be assessed against the administrator or the city in any appeal from a final order issued under <cite path="12-112">this section</cite>. Unless specifically ordered by the court, the commencement of an appeal does not suspend or stay an order of the administrator.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -1541,7 +1541,7 @@
           </text>
           <para>
             <num>(1)</num>
-            <text>The administrator, or any person entitled to relief under a hearing officer's order, may seek enforcement of a final order issued under this section by filing a petition for enforcement, in a court of competent jurisdiction, praying that the final order be enforced and for appropriate temporary or permanent relief, or restraining order. A court considering such petition shall grant it unless there is a showing by the respondent, based upon the record of the proceedings which were conducted under this section, that the order is not supported by substantial competent evidence and/or the proceedings conducted did not comply with the substantial requirements of law.</text>
+            <text>The administrator, or any person entitled to relief under a hearing officer's order, may seek enforcement of a final order issued under <cite path="12-112">this section</cite> by filing a petition for enforcement, in a court of competent jurisdiction, praying that the final order be enforced and for appropriate temporary or permanent relief, or restraining order. A court considering such petition shall grant it unless there is a showing by the respondent, based upon the record of the proceedings which were conducted under <cite path="12-112">this section</cite>, that the order is not supported by substantial competent evidence and/or the proceedings conducted did not comply with the substantial requirements of law.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1550,7 +1550,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text><em>Relief which a court may grant; fines.</em> Upon the filing a petition under subsection (f) or (g), the court may:</text>
+          <text><em>Relief which a court may grant; fines.</em> Upon the filing a petition under <cite path="12-112|(f)">subsection (f)</cite> or (g), the court may:</text>
           <para>
             <num>(1)</num>
             <text>Grant to the petitioner, or any other party, such temporary or permanent relief, restraining order, or other order as the court deems just and proper;</text>
@@ -1583,7 +1583,7 @@
         </para>
         <para>
           <num>(i)</num>
-          <text><em>Intervention.</em> Any party to the proceeding before the hearing officer may intervene in a civil action, regarding the final order from such proceeding, brought pursuant to this section.</text>
+          <text><em>Intervention.</em> Any party to the proceeding before the hearing officer may intervene in a civil action, regarding the final order from such proceeding, brought pursuant to <cite path="12-112">this section</cite>.</text>
         </para>
         <para>
           <num>(j)</num>
@@ -1608,7 +1608,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>An aggrieved person may commence a civil action under this subsection whether or not a complaint has been filed under section 12-111(a) and without regard to the status of any such complaint, but if the administrator has obtained a conciliation agreement with the consent of an aggrieved person, no action may be filed under this subsection by such aggrieved person with respect to the alleged discriminatory housing practice which forms the basis for such complaint except for the purpose of enforcing the terms of such an agreement.</text>
+            <text>An aggrieved person may commence a civil action under this subsection whether or not a complaint has been filed under <cite path="12-111|(a)">section 12-111(a)</cite> and without regard to the status of any such complaint, but if the administrator has obtained a conciliation agreement with the consent of an aggrieved person, no action may be filed under this subsection by such aggrieved person with respect to the alleged discriminatory housing practice which forms the basis for such complaint except for the purpose of enforcing the terms of such an agreement.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -1617,15 +1617,15 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><em>Relief which a court may grant.</em> In a civil action under this section, if the court finds that a discriminatory housing practice has occurred or is about to occur, the court may award to the plaintiff actual and punitive damages, and subject to subsection (c), may grant as relief, as the court deems appropriate, any permanent or temporary injunction, temporary restraining order, reasonable attorney's fees and costs, or other order (including an order enjoining the defendant from engaging in such practice or ordering such affirmative action as may be deemed appropriate).</text>
+          <text><em>Relief which a court may grant.</em> In a civil action under <cite path="12-113">this section</cite>, if the court finds that a discriminatory housing practice has occurred or is about to occur, the court may award to the plaintiff actual and punitive damages, and subject to <cite path="12-113|(c)">subsection (c)</cite>, may grant as relief, as the court deems appropriate, any permanent or temporary injunction, temporary restraining order, reasonable attorney's fees and costs, or other order (including an order enjoining the defendant from engaging in such practice or ordering such affirmative action as may be deemed appropriate).</text>
         </para>
         <para>
           <num>(c)</num>
-          <text><em>Effect on certain sales, encumbrances, and rentals.</em> Relief granted under this section shall not affect any contract, sale, encumbrance, or lease consummated before the granting of such relief and involving a bona fide purchaser, encumbrancer, or tenant, without actual notice of the filing of a complaint with the administrator or civil action under this article.</text>
+          <text><em>Effect on certain sales, encumbrances, and rentals.</em> Relief granted under <cite path="12-113">this section</cite> shall not affect any contract, sale, encumbrance, or lease consummated before the granting of such relief and involving a bona fide purchaser, encumbrancer, or tenant, without actual notice of the filing of a complaint with the administrator or civil action under this article.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text><em>Intervention by city attorney.</em> Upon timely application, the city attorney may intervene in such civil action, if the city attorney certifies that the case is of general public importance. Upon such intervention, the city attorney may obtain such relief as would be available to the city attorney under section 12-114(d) in a civil action to which such section applies.</text>
+          <text><em>Intervention by city attorney.</em> Upon timely application, the city attorney may intervene in such civil action, if the city attorney certifies that the case is of general public importance. Upon such intervention, the city attorney may obtain such relief as would be available to the city attorney under <cite path="12-114|(d)">section 12-114(d)</cite> in a civil action to which such section applies.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
@@ -1645,7 +1645,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>For the purposes of this section, "reasonable cause" shall be based upon sufficiently trustworthy information which would lead an impartial observer to a belief that a person or persons is engaged in the actions described in paragraph (1).</text>
+            <text>For the purposes of <cite path="12-114">this section</cite>, "reasonable cause" shall be based upon sufficiently trustworthy information which would lead an impartial observer to a belief that a person or persons is engaged in the actions described in paragraph (1).</text>
           </para>
           <para>
             <num>(3)</num>
@@ -1677,7 +1677,7 @@
           </text>
           <para>
             <num>(1)</num>
-            <text>The city attorney may commence a civil action in a court of competent jurisdiction for appropriate relief with respect to a discriminatory housing practice referred to the city attorney by the administrator under section 12-111(h)(4).</text>
+            <text>The city attorney may commence a civil action in a court of competent jurisdiction for appropriate relief with respect to a discriminatory housing practice referred to the city attorney by the administrator under <cite path="12-111|(h)|(4)">section 12-111(h)(4)</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1710,11 +1710,11 @@
         </para>
         <para>
           <num>(e)</num>
-          <text><em>Enforcement of subpoenas.</em> The city attorney, on behalf of the board, may enforce a subpoena issued under this chapter in appropriate proceedings pursuant to law.</text>
+          <text><em>Enforcement of subpoenas.</em> The city attorney, on behalf of the board, may enforce a subpoena issued under <cite path="12">this chapter</cite> in appropriate proceedings pursuant to law.</text>
         </para>
         <para>
           <num>(f)</num>
-          <text><em>Intervention in civil actions.</em> Upon timely application, any person may intervene in a civil action commenced by the city attorney under subsections (a), (b) or (c) which involves an alleged discriminatory housing practice with respect to which such person is an aggrieved person or a conciliation agreement to which such person is a party. The court may grant such appropriate relief to any such intervening party as is authorized to be granted to a plaintiff in a civil action under section 12-113.</text>
+          <text><em>Intervention in civil actions.</em> Upon timely application, any person may intervene in a civil action commenced by the city attorney under subsections (a), (b) or (c) which involves an alleged discriminatory housing practice with respect to which such person is an aggrieved person or a conciliation agreement to which such person is a party. The court may grant such appropriate relief to any such intervening party as is authorized to be granted to a plaintiff in a civil action under <cite path="12-113">section 12-113</cite>.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -1733,13 +1733,13 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>V</num>
+    <num path-omit="true">V</num>
     <heading>DOMESTIC PARTNERSHIP REGISTRY</heading>
     <section>
       <num>12-120</num>
       <heading>Definitions.</heading>
       <text>For purposes of this article:</text>
-      <text><em>Affidavit of domestic partnership</em> means a sworn form under penalty of perjury, which certifies that two (2) domestic partners meet the registration requirements as described in section 12-121.</text>
+      <text><em>Affidavit of domestic partnership</em> means a sworn form under penalty of perjury, which certifies that two (2) domestic partners meet the registration requirements as described in <cite path="12-121">section 12-121</cite>.</text>
       <text><em>Clerk</em> means the Hillsborough County Clerk of the Circuit Court or such other person or office approved by the city council to administer the domestic partnership registry.</text>
       <text><em>Dependent</em> is a person who resides within the household of a registered domestic partnership and is:</text>
       <para>
@@ -1754,7 +1754,7 @@
         <num>(3)</num>
         <text>A ward of a registered domestic partner as determined in a guardianship or other legal proceeding.</text>
       </para>
-      <text><em>Domestic partners</em> means only two (2) adults who are parties to a domestic partnership and who meet the requisites for a domestic partnership as established pursuant to section 12-121.</text>
+      <text><em>Domestic partners</em> means only two (2) adults who are parties to a domestic partnership and who meet the requisites for a domestic partnership as established pursuant to <cite path="12-121">section 12-121</cite>.</text>
       <text><em>Health care facility</em> includes, but is not limited to, hospitals, nursing homes, hospice care facilities, convalescent facilities; walk-in clinics, doctor's offices, mental health care facilities and any other short-term or long-term health care facilities located within Hillsborough County.</text>
       <text><em>Jointly responsible</em> means each domestic partner mutually agrees to provide for the other partner's basic needs while the domestic partnership is in effect, except that partners need not contribute equally or jointly to said basic needs such as food and shelter.</text>
       <text><em>Mutual residence</em> means a residence shared by the registered domestic partners; it is not necessary that the legal right to possess the place of residence be in both of their names. Two (2) people may share a mutual residence even if one or both have additional places to live. Registered domestic partners do not cease to share a mutual residence if one leaves the shared place but intends to return.</text>
@@ -1862,11 +1862,11 @@
       <text>To the extent not superseded by federal, state, or other city law or ordinance, or contrary to rights conferred by contract or separate legal instrument, registered domestic partners shall have the following rights:</text>
       <para>
         <num>(a)</num>
-        <text><em>Health care facility visitation.</em> All health care facilities operating within the county shall honor the registered domestic partnership documentation issued pursuant to this Code as evidence of the partnership and shall allow a registered domestic partner visitation as provided under federal law. A dependent of a registered domestic partner shall have the same visitation rights as a patient's child.</text>
+        <text><em>Health care facility visitation.</em> All health care facilities operating within the county shall honor the registered domestic partnership documentation issued pursuant to <cite>this Code</cite> as evidence of the partnership and shall allow a registered domestic partner visitation as provided under federal law. A dependent of a registered domestic partner shall have the same visitation rights as a patient's child.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text><em>Health care decisions.</em> This section pertains to decisions concerning both physical and mental health. Registry as a domestic partner shall be considered to be written direction by each partner designating the other to make health care decisions for their incapacitated partner, and shall authorize each partner to act as the other's healthcare surrogate as provided in F.S. ch. 765, and otherwise as provided by federal law. Further, no person designated as a health care surrogate shall be denied or otherwise defeated in serving as a health care surrogate based solely upon his or her status as the domestic partner of the partner on whose behalf health care decisions are to be made. Any statutory form, including but not limited to, a living will or health care surrogate designation in the form prescribed by F.S. ch. 765, that is properly executed after the date of registration which contains conflicting designations shall control over the designations by virtue of the registration.</text>
+        <text><em>Health care decisions.</em><cite path="12-124">This section</cite> pertains to decisions concerning both physical and mental health. Registry as a domestic partner shall be considered to be written direction by each partner designating the other to make health care decisions for their incapacitated partner, and shall authorize each partner to act as the other's healthcare surrogate as provided in F.S. ch. 765, and otherwise as provided by federal law. Further, no person designated as a health care surrogate shall be denied or otherwise defeated in serving as a health care surrogate based solely upon his or her status as the domestic partner of the partner on whose behalf health care decisions are to be made. Any statutory form, including but not limited to, a living will or health care surrogate designation in the form prescribed by F.S. ch. 765, that is properly executed after the date of registration which contains conflicting designations shall control over the designations by virtue of the registration.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1878,7 +1878,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text><em>Pre-need guardian designation.</em> A person who is a party to a registered domestic partnership, pursuant to section 12-121 above, shall have the same right as any other individual to be designated as a preneed guardian pursuant to F.S. ch. 744, and to serve in such capacity in the event of his or her domestic partner's incapacity. A domestic partner shall not be denied or otherwise be defeated in serving as the plenary guardian of his or her domestic partner or the partner's property under the provisions of F.S. ch. 744, to the extent that the incapacitated partner has not executed a valid preneed guardian designation, based solely upon his or her status as the domestic partner of the incapacitated partner.</text>
+        <text><em>Pre-need guardian designation.</em> A person who is a party to a registered domestic partnership, pursuant to <cite path="12-121">section 12-121</cite> above, shall have the same right as any other individual to be designated as a preneed guardian pursuant to F.S. ch. 744, and to serve in such capacity in the event of his or her domestic partner's incapacity. A domestic partner shall not be denied or otherwise be defeated in serving as the plenary guardian of his or her domestic partner or the partner's property under the provisions of F.S. ch. 744, to the extent that the incapacitated partner has not executed a valid preneed guardian designation, based solely upon his or her status as the domestic partner of the incapacitated partner.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -1908,7 +1908,7 @@
     <section>
       <num>12-126</num>
       <heading>Enforcement.</heading>
-      <text>A registered domestic partner may enforce the rights under section 12-124 by filing a private judicial action against a person or entity in any court of competent jurisdiction for declaratory relief, injunctive relief, or both.</text>
+      <text>A registered domestic partner may enforce the rights under <cite path="12-124">section 12-124</cite> by filing a private judicial action against a person or entity in any court of competent jurisdiction for declaratory relief, injunctive relief, or both.</text>
       <annotations>
         <annotation type="History">Ord. No. 2012-37, § 8, 4-5-2012</annotation>
         <annotation type="History">Ord. No. 2012-115, § 3, 10-18-2012</annotation>
@@ -1925,9 +1925,9 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>VI</num>
+    <num path-omit="true">VI</num>
     <heading>CRIMINAL HISTORY SCREENING PRACTICES</heading>
-    <annotation type="Editor's Notes" dest="container">3 <strong>Editor's note—</strong> Ord. No. 2013-3, §§ 2-5, adopted January 10, 2013, set out provisions intended for use as §§ 12-127-12-130. For purposes of clarity, and at the editor's discretion, these provisions have been included as §§ 12-128-12-131.</annotation>
+    <annotation type="Editor's Notes" dest="container">3 <strong>Editor's note—</strong> Ord. No. 2013-3, §<cite path="2-5">§ 2-5</cite>, adopted January 10, 2013, set out provisions intended for use as §<cite path="12-127">§ 12-127</cite>-12-130. For purposes of clarity, and at the editor's discretion, these provisions have been included as §<cite path="12-128">§ 12-128</cite>-12-131.</annotation>
     <section>
       <num>12-128</num>
       <heading>Definitions.</heading>
@@ -1995,7 +1995,7 @@
     <section>
       <num>12-131</num>
       <heading>Implementation.</heading>
-      <text>The director of human resources will have ninety (90) days from the effective date of this ordinance to develop and implement any policies necessary to ensure full compliance with this section.</text>
+      <text>The director of human resources will have ninety (90) days from the effective date of this ordinance to develop and implement any policies necessary to ensure full compliance with <cite path="12-131">this section</cite>.</text>
       <annotations>
         <annotation type="History">Ord. No. 2013-3, § 5, 1-10-2013</annotation>
       </annotations>

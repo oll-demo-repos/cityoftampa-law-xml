@@ -3,20 +3,20 @@
   <prefix>Chapter</prefix>
   <num>6</num>
   <heading>BUSINESS REGULATION</heading>
-  <annotation type="Cross References" dest="container">1 <strong>Cross reference— </strong>Occupational license taxes, § 24-101 et seq.</annotation>
+  <annotation type="Cross References" dest="container">1 <strong>Cross reference— </strong>Occupational license taxes, <cite path="24-101">§ 24-101</cite> et seq.</annotation>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>I</num>
+    <num path-omit="true">I</num>
     <heading>ADMINISTRATIVE PROVISIONS</heading>
     <annotation type="Cross References" dest="container">2 <strong>Cross reference— </strong>Administration, Ch. 2.</annotation>
     <container>
       <prefix>DIVISION</prefix>
-      <num>1</num>
+      <num path-omit="true">1</num>
       <heading>GENERAL PROVISIONS; ADMINISTRATIVE AUTHORITY</heading>
       <section>
         <num>6-1</num>
         <heading>Title.</heading>
-        <text>This chapter shall be known and may be cited as the "City of Tampa Business Regulation Ordinance."</text>
+        <text><cite path="6">This chapter</cite> shall be known and may be cited as the "City of Tampa Business Regulation Ordinance."</text>
         <annotations>
           <annotation type="History">Ord. No. 89-227, § 1(7-1), 9-28-89</annotation>
         </annotations>
@@ -24,7 +24,7 @@
       <section>
         <num>6-2</num>
         <heading>Purpose.</heading>
-        <text>The purpose of this chapter is to protect the health, safety and welfare of the general public through the administration and regulation of certain businesses.</text>
+        <text>The purpose of <cite path="6">this chapter</cite> is to protect the health, safety and welfare of the general public through the administration and regulation of certain businesses.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-227, § 1(7-2), 9-28-89</annotation>
         </annotations>
@@ -32,7 +32,7 @@
       <section>
         <num>6-3</num>
         <heading>Applicability.</heading>
-        <text>Unless otherwise expressly exempted by law, the provisions of this chapter shall apply to all regulated businesses within the corporate limits of the city.</text>
+        <text>Unless otherwise expressly exempted by law, the provisions of <cite path="6">this chapter</cite> shall apply to all regulated businesses within the corporate limits of the city.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-227, § 1(7-3), 9-28-89</annotation>
         </annotations>
@@ -40,7 +40,7 @@
       <section>
         <num>6-4</num>
         <heading>Definitions.</heading>
-        <text>For the purposes of this chapter, the following words are defined:</text>
+        <text>For the purposes of <cite path="6">this chapter</cite>, the following words are defined:</text>
         <text><em>Amusement arcade</em> means a business establishment, open to the general public, whose primary business is the use by the general public of coin- or token-operated pinball machines, video games or other similar amusement machines.</text>
         <text><em>Blood donor center</em> means a business which meets the definition of a blood donor center in the city zoning ordinance.</text>
         <text><em>Business</em> means any commercial activity in which any goods, services or real property are offered for sale.</text>
@@ -64,14 +64,14 @@
         <text><em>Off-premises canvassing</em> means the distribution of information by a person for purposes of soliciting business or customers in the Ybor City Historic District on publicly owned property or public right-of-way in connection with a business.</text>
         <text><em>OPC</em> means off-premises canvassing.</text>
         <text><em>Patron</em> means any person who receives a bath at a bathhouse, as applicable, under such circumstances that it is reasonably expected he will pay money or give other consideration therefor.</text>
-        <text><em>Permit holder</em> means the person to whom a permit has been issued authorizing performance of a specific activity for which a permit is required by this chapter.</text>
+        <text><em>Permit holder</em> means the person to whom a permit has been issued authorizing performance of a specific activity for which a permit is required by <cite path="6">this chapter</cite>.</text>
         <text><em>Primary business</em> means, at a given premises, that which is provided the majority of floor space within the confines of the establishment or which provides a majority of the gross revenue of the establishment.</text>
         <text><em>Regulated business</em> means a secondhand dealer and secondary metals recycler as defined by F.S. Ch. 538, as now enacted or hereafter amended; swap lot; swap meet; flea market; amusement arcade; temporary help agency; blood donor center; skating rink; business or individual advertising on the private property of another by means of handbills, and any adult use as defined in the zoning code.</text>
         <text><em>Sidewalk</em> means that portion of street adjacent to the curblines or the lateral lines of a roadway and the adjacent property lines, intended for use of pedestrians.</text>
         <text><em>Skating rink</em> means a business establishment, open to the general public, whose primary business is the use for consideration thereof of an area for ice or roller skating.</text>
         <text><em>Street</em> means a dedicated and accepted right-of-way (including sidewalks) maintained by the city, county or the state and providing access to adjacent property, excluding alleys; or a dedicated right-of-way maintained by a private entity.</text>
         <text><em>Temporary help agency</em> means any business, corporation, or partnership of any kind which, for a monetary consideration, is primarily engaged in supplying workers from a pool of potential employees located on its premises and directly dispatches these employees to another corporation, partnership or business of any kind or to a private individual, on a temporary basis, whether the employees are to work full time or part time; provided that this definition shall not apply to agencies which provide professional employees, who are licensed and regulated by the state, to other businesses on a temporary basis.</text>
-        <text><em>Ybor City Historic District</em> for purposes of this chapter means the area as defined in Chapter 27 of the City Code.</text>
+        <text><em>Ybor City Historic District</em> for purposes of <cite path="6">this chapter</cite> means the area as defined in Chapter 27 of the City Code.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-227, § 1(7-4), 9-28-89</annotation>
           <annotation type="History">Ord. No. 97-186, §§ 1, 2, 9-18-97</annotation>
@@ -79,26 +79,26 @@
           <annotation type="History">Ord. No. 98-66, § 1, 3-26-98</annotation>
           <annotation type="History">Ord. No. 2000-258, § 1, 9-28-00</annotation>
           <annotation type="History">Ord. No. 2018-1, § 1, 1-11-18</annotation>
-          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, § 1-2.</annotation>
+          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
         </annotations>
       </section>
       <section>
         <num>6-5</num>
         <heading>Administrative authority.</heading>
-        <text>The provisions of this chapter shall be administered and enforced by the official or his designee.</text>
+        <text>The provisions of <cite path="6">this chapter</cite> shall be administered and enforced by the official or his designee.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-227, § 1(7-5), 9-28-89</annotation>
           <annotation type="History">Ord. No. 90-179, § 1, 7-19-90</annotation>
-          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Administrative authority of the official, § 1-13; delegation of administrative authority, § 1-14.</annotation>
+          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Administrative authority of the official, <cite path="1-13">§ 1-13</cite>; delegation of administrative authority, <cite path="1-14">§ 1-14</cite>.</annotation>
         </annotations>
       </section>
       <section>
         <num>6-6</num>
         <heading>Inspections.</heading>
-        <text>All businesses regulated by this chapter shall be subject to inspection by the city. The official may require documents, records or information necessary to effect approval of the conduct of such businesses.</text>
+        <text>All businesses regulated by <cite path="6">this chapter</cite> shall be subject to inspection by the city. The official may require documents, records or information necessary to effect approval of the conduct of such businesses.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-227, § 1(7-6), 9-28-89</annotation>
-          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Inspections, § 1-27.</annotation>
+          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Inspections, <cite path="1-27">§ 1-27</cite>.</annotation>
         </annotations>
       </section>
       <section>
@@ -108,13 +108,13 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>2</num>
+      <num path-omit="true">2</num>
       <heading>APPLICATIONS, DOCUMENTS AND PERMITS</heading>
       <section>
         <num>6-26-6-28</num>
         <heading>Reserved.</heading>
         <annotations>
-          <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Section 2 of Ord. No. 90-179, adopted July 19, 1990, repealed §§ 6-26-6-28, requiring a business permit, derived from Ord. No. 89-227, § 1(7-21)—(7-23), adopted Sept. 28, 1989.</annotation>
+          <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Section 2 of Ord. No. 90-179, adopted July 19, 1990, repealed §<cite path="6-26">§ 6-26</cite>-6-28, requiring a business permit, derived from Ord. No. 89-227, § 1(7-21)—(7-23), adopted Sept. 28, 1989.</annotation>
         </annotations>
       </section>
       <section>
@@ -160,14 +160,14 @@
         <heading>Same—Issuance; denial.</heading>
         <para>
           <num>(a)</num>
-          <text>The official shall approve a business operating permit application and issue a business operating permit, or deny such application, within thirty (30) days of the receipt of the application and all required submittals as provided in section 6-30.</text>
+          <text>The official shall approve a business operating permit application and issue a business operating permit, or deny such application, within thirty (30) days of the receipt of the application and all required submittals as provided in <cite path="6-30">section 6-30</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
           <text>An application for a business operating permit shall be denied if:</text>
           <para>
             <num>(1)</num>
-            <text>The applicant has failed to comply with any of the submission requirements contained in section 6-30;</text>
+            <text>The applicant has failed to comply with any of the submission requirements contained in <cite path="6-30">section 6-30</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -188,7 +188,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>In the event an application for a business operating permit is denied by the official pursuant to this section, the applicant may appeal such denial by appropriate action to an appropriate civil court.</text>
+          <text>In the event an application for a business operating permit is denied by the official pursuant to <cite path="6-31">this section</cite>, the applicant may appeal such denial by appropriate action to an appropriate civil court.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 89-227, § 1(7-26), 9-28-89</annotation>
@@ -198,7 +198,7 @@
       <section>
         <num>6-32</num>
         <heading>Same—Failure to obtain.</heading>
-        <text>Any person who shall commence operation of a regulated business before obtaining a business operating permit therefor shall pay double the application fee prescribed for that business. The payment of the double fee shall not preclude nor be deemed a substitute for prosecution as provided for elsewhere in this Code.</text>
+        <text>Any person who shall commence operation of a regulated business before obtaining a business operating permit therefor shall pay double the application fee prescribed for that business. The payment of the double fee shall not preclude nor be deemed a substitute for prosecution as provided for elsewhere in <cite>this Code</cite>.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-227, § 1(7-27), 9-28-89</annotation>
         </annotations>
@@ -230,7 +230,7 @@
       <section>
         <num>6-36</num>
         <heading>Same—Issuance does not set aside other requirements.</heading>
-        <text>The issuance of a business operating permit does not set aside, waive or replace any other provisions of this Code or any other laws, ordinances, statutes or regulations of any governmental body or agency having lawful jurisdiction.</text>
+        <text>The issuance of a business operating permit does not set aside, waive or replace any other provisions of <cite>this Code</cite> or any other laws, ordinances, statutes or regulations of any governmental body or agency having lawful jurisdiction.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-227, § 1(7-31), 9-28-89</annotation>
         </annotations>
@@ -262,7 +262,7 @@
       <section>
         <num>6-39</num>
         <heading>Posting of permit.</heading>
-        <text>Each and every owner or operator required by this chapter to be permitted shall post and at all times display the business operating permit in its business establishment.</text>
+        <text>Each and every owner or operator required by <cite path="6">this chapter</cite> to be permitted shall post and at all times display the business operating permit in its business establishment.</text>
         <annotations>
           <annotation type="History">Ord. No. 89-227, § 1(7-34), 9-28-89</annotation>
         </annotations>
@@ -271,18 +271,18 @@
         <num>6-40-6-65</num>
         <heading>Reserved.</heading>
         <annotations>
-          <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2018-1, § 2, adopted January 11, 2018, repealed §§ 6-40-6-46, which pertained to bath technician's permit required; application; issuance; denial; term; report of employment changes; transfer and derived from Ord. No. 89-227, § 1(7-35-7-41), 9-28-89.</annotation>
+          <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2018-1, § 2, adopted January 11, 2018, repealed §<cite path="6-40">§ 6-40</cite>-6-46, which pertained to bath technician's permit required; application; issuance; denial; term; report of employment changes; transfer and derived from Ord. No. 89-227, § 1(7-35-7-41), 9-28-89.</annotation>
         </annotations>
       </section>
     </container>
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>II</num>
+    <num path-omit="true">II</num>
     <heading>SANCTIONS AND APPEALS</heading>
     <container>
       <prefix>DIVISION</prefix>
-      <num>1</num>
+      <num path-omit="true">1</num>
       <heading>GENERALLY</heading>
       <section>
         <num>6-66-6-75</num>
@@ -291,7 +291,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>2</num>
+      <num path-omit="true">2</num>
       <heading>VIOLATIONS</heading>
       <section>
         <num>6-76</num>
@@ -311,7 +311,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The permittee fails to pay the business license tax prescribed in this Code; or</text>
+          <text>The permittee fails to pay the business license tax prescribed in <cite>this Code</cite>; or</text>
         </para>
         <para>
           <num>(5)</num>
@@ -326,7 +326,7 @@
         <heading>Hearing; notification.</heading>
         <para>
           <num>(a)</num>
-          <text>Upon reasonable suspicion of the existence of one (1) or more grounds for revocation as set out in section 6-76, the official shall set a time and place for an administrative hearing to decide the matter.</text>
+          <text>Upon reasonable suspicion of the existence of one (1) or more grounds for revocation as set out in <cite path="6-76">section 6-76</cite>, the official shall set a time and place for an administrative hearing to decide the matter.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -352,11 +352,11 @@
   </container>
   <container>
     <prefix>ARTICLE</prefix>
-    <num>III</num>
+    <num path-omit="true">III</num>
     <heading>SPECIFIC REGULATIONS AND REQUIREMENTS</heading>
     <container>
       <prefix>DIVISION</prefix>
-      <num>1</num>
+      <num path-omit="true">1</num>
       <heading>GENERALLY</heading>
       <section>
         <num>6-106-6-125</num>
@@ -365,7 +365,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>2</num>
+      <num path-omit="true">2</num>
       <heading>TEMPORARY HELP AGENCIES</heading>
       <section>
         <num>6-126</num>
@@ -382,7 +382,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>3</num>
+      <num path-omit="true">3</num>
       <heading>ADULT USES—SPECIAL CABARETS, MASSAGE PARLORS, ESCORT SERVICES, LIVE MODEL STUDIOS, ADULT BOOKSTORES</heading>
       <section>
         <num>6-141</num>
@@ -411,14 +411,14 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>4</num>
+      <num path-omit="true">4</num>
       <heading>BATHHOUSES</heading>
-      <annotation type="Editor's Notes" dest="container">3 <strong>Editor's note—</strong> Ord. No. 2018-1, §§ 4-24, adopted January 11, 2018, amended division 4 in its entirety to read as herein set out. Former division 4, §§ 6-156-6-160, pertained to similar subject matter, and derived from Ord. No. 89-227, § 1(7-91-7-95), 9-28-89.</annotation>
+      <annotation type="Editor's Notes" dest="container">3 <strong>Editor's note—</strong> Ord. No. 2018-1, §<cite path="4-24">§ 4-24</cite>, adopted January 11, 2018, amended division 4 in its entirety to read as herein set out. Former division 4, §<cite path="6-156">§ 6-156</cite>-6-160, pertained to similar subject matter, and derived from Ord. No. 89-227, § 1(7-91-7-95), 9-28-89.</annotation>
       <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Massage practice, F.S. Ch. 480; power of municipality to regulate massage, F.S. § 480.052; public swimming and bathing facilities, F.S. Ch. 514.</annotation>
       <section>
         <num>6-156</num>
         <heading>Definitions.</heading>
-        <text>The following words, terms and phrases, when used in this division, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:</text>
+        <text>The following words, terms and phrases, when used in this division, shall have the meanings ascribed to them in <cite path="6-156">this section</cite>, except where the context clearly indicates a different meaning:</text>
         <text><em>Apply, applies, applying, applied or application</em> means to place or put upon another individual, with or without direct physical contact, by way of physically touching, spraying, or using a sponge, cloth, brush, or other device.</text>
         <text><em>Bath</em> means any intentional washing, rinsing, wiping, or scrubbing of the structure of the living human torso through the application of water or other liquid for the sole purpose of cleansing.</text>
         <text><em>Bathhouse</em> means any establishment in the City of Tampa having a business where a bath is applied by a bath technician, or where any establishment engages in or carries on or permits to be engaged in or carried on any portion of the applying of a bath to another individual, provided that nothing contained in this definition shall be construed to include a legally operating hospital, nursing home, assisted/congregate living facility, home health care, medical clinic, physician, surgeon, physical therapist, chiropractor, osteopath, naturopath, or podiatrist.</text>
@@ -440,7 +440,7 @@
       <section>
         <num>6-157</num>
         <heading>Administrative and enforcement authority.</heading>
-        <text>This division shall be administered by the PDD with the assistance of the Tampa Police Department and the department of neighborhood empowerment. Enforcement of this division shall be the joint responsibility of the PDD, Tampa Police Department, and the department of neighborhood empowerment. Administrative enforcement of this division shall be by the PDD. Violations brought under the authority of section 1-6, punishable by imprisonment and/or a fine of up to five hundred dollars ($500.00), are to be enforced by the Tampa Police Department. Violations brought in front of a code enforcement board or magistrate shall be enforced by the department of neighborhood empowerment.</text>
+        <text>This division shall be administered by the PDD with the assistance of the Tampa Police Department and the department of neighborhood empowerment. Enforcement of this division shall be the joint responsibility of the PDD, Tampa Police Department, and the department of neighborhood empowerment. Administrative enforcement of this division shall be by the PDD. Violations brought under the authority of <cite path="1-6">section 1-6</cite>, punishable by imprisonment and/or a fine of up to five hundred dollars ($500.00), are to be enforced by the Tampa Police Department. Violations brought in front of a code enforcement board or magistrate shall be enforced by the department of neighborhood empowerment.</text>
         <annotations>
           <annotation type="History">Ord. No. 2018-1, § 5, 1-11-18</annotation>
         </annotations>
@@ -490,7 +490,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><em>Permit types; application requirements.</em> All applications for permits required under this division shall be obtained from the PDD, who shall administer the permitting process with the assistance of the Tampa Police Department and the department of neighborhood empowerment, as needed. Any application that does not include the minimum submittal requirements of this section, and does not pay the required fee, as set forth in section 6-158, shall not be accepted by the city.</text>
+          <text><em>Permit types; application requirements.</em> All applications for permits required under this division shall be obtained from the PDD, who shall administer the permitting process with the assistance of the Tampa Police Department and the department of neighborhood empowerment, as needed. Any application that does not include the minimum submittal requirements of <cite path="6-159">this section</cite>, and does not pay the required fee, as set forth in <cite path="6-158">section 6-158</cite>, shall not be accepted by the city.</text>
           <para>
             <num>(1)</num>
             <text>
@@ -535,7 +535,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text><em>Bathhouse permit.</em> An application for a bathhouse shall be made by an operator, and the application shall include the following information for each person defined as an operator, pursuant to section 6-156:</text>
+            <text><em>Bathhouse permit.</em> An application for a bathhouse shall be made by an operator, and the application shall include the following information for each person defined as an operator, pursuant to <cite path="6-156">section 6-156</cite>:</text>
             <para>
               <num>a.</num>
               <text>A copy of a valid photographic identity card issued by a governmental agency which provides the applicant's(s') date of birth and identity (U.S. Passport, State identification card or driver's license);</text>
@@ -664,7 +664,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text><em>Compliance with minimum standards.</em> A bathhouse permit application shall meet and adhere to the minimum standards set forth in section 6-162.</text>
+            <text><em>Compliance with minimum standards.</em> A bathhouse permit application shall meet and adhere to the minimum standards set forth in <cite path="6-162">section 6-162</cite>.</text>
           </para>
           <para>
             <num>(4)</num>
@@ -729,7 +729,7 @@
             </para>
             <para>
               <num>c.</num>
-              <text>Pre-permit inspection. The Tampa Police Department shall conduct a pre-inspection of the bathhouse in coordination with the applicant to ensure the bathhouse is prepared to meet the minimum standards for bathhouses as established under this division (refer to section 6-162);</text>
+              <text>Pre-permit inspection. The Tampa Police Department shall conduct a pre-inspection of the bathhouse in coordination with the applicant to ensure the bathhouse is prepared to meet the minimum standards for bathhouses as established under this division (refer to <cite path="6-162">section 6-162</cite>);</text>
             </para>
             <para>
               <num>d.</num>
@@ -795,11 +795,11 @@
                 </para>
                 <para>
                   <num>ii.</num>
-                  <text>The application does not meet the requirements of this section;</text>
+                  <text>The application does not meet the requirements of <cite path="6-159.1">this section</cite>;</text>
                 </para>
                 <para>
                   <num>iii.</num>
-                  <text>The location does not meet the minimum standards set forth in sec. 6-162, based on findings of the pre-permit inspection;</text>
+                  <text>The location does not meet the minimum standards set forth in <cite path="6-162">sec. 6-162</cite>, based on findings of the pre-permit inspection;</text>
                 </para>
                 <para>
                   <num>iv.</num>
@@ -852,7 +852,7 @@
       <section>
         <num>6-159.4</num>
         <heading>Renewal of permits.</heading>
-        <text>Permits issued under this division shall expire each calendar year, in accordance with section 6-159.3. Unless otherwise prohibited, an applicant may apply for renewal of a permit, for the next calendar year, which commences on October 1 of each calendar year. Applications for renewal will be processed in the same manner, including payment of fees) as new applications (refer to section 6-159.1).</text>
+        <text>Permits issued under this division shall expire each calendar year, in accordance with <cite path="6-159.3">section 6-159.3</cite>. Unless otherwise prohibited, an applicant may apply for renewal of a permit, for the next calendar year, which commences on October 1 of each calendar year. Applications for renewal will be processed in the same manner, including payment of fees) as new applications (refer to <cite path="6-159.1">section 6-159.1</cite>).</text>
         <annotations>
           <annotation type="History">Ord. No. 2018-1, § 11, 1-11-18</annotation>
         </annotations>
@@ -881,11 +881,11 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Any bath technician who seeks to modify the list of bathhouses stated on an approved/issued permit shall notify PDD in accordance with the time frame described in this section. Said bath technician shall also be required to obtain, with payment of applicable fee, a new, updated bath technician permit card from PDD in a timely manner.</text>
+            <text>Any bath technician who seeks to modify the list of bathhouses stated on an approved/issued permit shall notify PDD in accordance with the time frame described in <cite path="6-159.5">this section</cite>. Said bath technician shall also be required to obtain, with payment of applicable fee, a new, updated bath technician permit card from PDD in a timely manner.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>Any modifications described above, which are not reported to the PDD in a timely manner, may be grounds for suspension or revocation of a permit, subject to the provisions set forth in section 6-160.</text>
+            <text>Any modifications described above, which are not reported to the PDD in a timely manner, may be grounds for suspension or revocation of a permit, subject to the provisions set forth in <cite path="6-160">section 6-160</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -985,7 +985,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>When the PDD revokes a permit, the revocation will continue for one (1) year, and the permittee may not be issued any bathhouse permit for one (1) year from the date revocation became final. If, subsequent to revocation, the PDD finds that the basis for the revocation action has been corrected or abated, the applicant may be granted a permit if at least ninety (90) days have elapsed since the date the revocation became final. If the permit was revoked under subsection (b)(4) hereof, an applicant may not be granted another permit until the appropriate number of years has elapsed in accordance with this division.</text>
+            <text>When the PDD revokes a permit, the revocation will continue for one (1) year, and the permittee may not be issued any bathhouse permit for one (1) year from the date revocation became final. If, subsequent to revocation, the PDD finds that the basis for the revocation action has been corrected or abated, the applicant may be granted a permit if at least ninety (90) days have elapsed since the date the revocation became final. If the permit was revoked under <cite path="6-160|(b)|(4)">subsection (b)(4)</cite> hereof, an applicant may not be granted another permit until the appropriate number of years has elapsed in accordance with this division.</text>
           </para>
         </para>
         <annotations>
@@ -997,7 +997,7 @@
         <heading>Appeals.</heading>
         <para>
           <num>(a)</num>
-          <text>If the PDD denies a permit, the PDD shall notify the applicant in writing, with the reason(s) for denial included. Any appeal of such denial shall be subject to section 1-19 of the City Code.</text>
+          <text>If the PDD denies a permit, the PDD shall notify the applicant in writing, with the reason(s) for denial included. Any appeal of such denial shall be subject to <cite path="1-19">section 1-19</cite> of the City Code.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1008,7 +1008,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>If a written request is filed under subsection (a) hereof with the city clerk within the ten (10) calendar days, the city council shall consider the request. Within thirty (30) days from the date the written request is received, the city council shall set a date for the hearing.</text>
+            <text>If a written request is filed under <cite path="6-161|(a)">subsection (a)</cite> hereof with the city clerk within the ten (10) calendar days, the city council shall consider the request. Within thirty (30) days from the date the written request is received, the city council shall set a date for the hearing.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -1106,7 +1106,7 @@
       <section>
         <num>6-163</num>
         <heading>Advertising restrictions.</heading>
-        <text>No bathhouse granted a permit under provisions of this chapter shall place, publish or distribute or cause to be placed, published or distributed any advertising matter that depicts any portion of the human body that would reasonably suggest to prospective patrons that any service is available other than those services as described in the definition of "bath," nor shall any bathhouse indicate in the text of such advertising that any service is available other than those services described in the definition of "bath."</text>
+        <text>No bathhouse granted a permit under provisions of <cite path="6">this chapter</cite> shall place, publish or distribute or cause to be placed, published or distributed any advertising matter that depicts any portion of the human body that would reasonably suggest to prospective patrons that any service is available other than those services as described in the definition of "bath," nor shall any bathhouse indicate in the text of such advertising that any service is available other than those services described in the definition of "bath."</text>
         <annotations>
           <annotation type="History">Ord. No. 2018-1, § 18, 1-11-18</annotation>
         </annotations>
@@ -1114,7 +1114,7 @@
       <section>
         <num>6-164</num>
         <heading>Duty to report unlawful activity.</heading>
-        <text>Operators, bathhouse managers, employees, and bath technicians shall immediately report to the Tampa Police Department by calling the non-emergency line upon learning of any violation of or attempted violation or solicitation to commit any violation of an "unlawful activity" to include any of the following criminal offenses: prostitution, human trafficking, battery, indecent exposure, or any prohibited activities as described in section 6-166. If a patron commits the unlawful activity, the patron shall be identified using the daily register and the Tampa Police Department shall be provided the identification of the patron.</text>
+        <text>Operators, bathhouse managers, employees, and bath technicians shall immediately report to the Tampa Police Department by calling the non-emergency line upon learning of any violation of or attempted violation or solicitation to commit any violation of an "unlawful activity" to include any of the following criminal offenses: prostitution, human trafficking, battery, indecent exposure, or any prohibited activities as described in <cite path="6-166">section 6-166</cite>. If a patron commits the unlawful activity, the patron shall be identified using the daily register and the Tampa Police Department shall be provided the identification of the patron.</text>
         <annotations>
           <annotation type="History">Ord. No. 2018-1, § 20, 1-11-18</annotation>
         </annotations>
@@ -1148,7 +1148,7 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>It is unlawful for an operator to operate a bathhouse in violation of any of the minimum standards required under section 6-162 or to allow an employee to perform any duties or functions of the business in violation of the minimum standards.</text>
+          <text>It is unlawful for an operator to operate a bathhouse in violation of any of the minimum standards required under <cite path="6-162">section 6-162</cite> or to allow an employee to perform any duties or functions of the business in violation of the minimum standards.</text>
         </para>
         <para>
           <num>(h)</num>
@@ -1184,11 +1184,11 @@
         </para>
         <para>
           <num>(k)</num>
-          <text>It is unlawful for an operator to knowingly fail to report unlawful activity as required under section 6-164.</text>
+          <text>It is unlawful for an operator to knowingly fail to report unlawful activity as required under <cite path="6-164">section 6-164</cite>.</text>
         </para>
         <para>
           <num>(l)</num>
-          <text>Whoever commits any violation of this section or aids, abets, counsels, hires, or otherwise procures any violation of this section to be committed, and such violation is committed or is attempted to be committed, is a principal and may be charged and punished in violation of the section, whether or not he or she is actually or constructively present at the commission of the violation. It shall be prima facie evidence that an operator is a principal if the operator had knowledge violations of this section had previously occurred at the bathhouse, even if the specific violation was not known. A bathhouse operator may rebut the prima facie evidence with evidence which shows the operator made efforts to mitigate or abate future violations.</text>
+          <text>Whoever commits any violation of <cite path="6-165">this section</cite> or aids, abets, counsels, hires, or otherwise procures any violation of <cite path="6-165">this section</cite> to be committed, and such violation is committed or is attempted to be committed, is a principal and may be charged and punished in violation of the section, whether or not he or she is actually or constructively present at the commission of the violation. It shall be prima facie evidence that an operator is a principal if the operator had knowledge violations of <cite path="6-165">this section</cite> had previously occurred at the bathhouse, even if the specific violation was not known. A bathhouse operator may rebut the prima facie evidence with evidence which shows the operator made efforts to mitigate or abate future violations.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 2018-1, § 21, 1-11-18</annotation>
@@ -1207,7 +1207,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Violations of section 6-165 of this division shall be punished in accordance with section 1-6 and be punishable by a fine not to exceed five hundred dollars ($500.00) per violation or imprisonment not to exceed sixty (60) days, or both such fine and imprisonment.</text>
+          <text>Violations of <cite path="6-165">section 6-165</cite> of this division shall be punished in accordance with <cite path="1-6">section 1-6</cite> and be punishable by a fine not to exceed five hundred dollars ($500.00) per violation or imprisonment not to exceed sixty (60) days, or both such fine and imprisonment.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1256,7 +1256,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>6</num>
+      <num path-omit="true">6</num>
       <heading>HANDBILL DISTRIBUTION</heading>
       <annotation type="Editor's Notes" dest="container">5 <strong>Editor's note—</strong> Ord. No. 97-213, § 5, adopted Oct. 16, 1997, amended the Code by adding the title of a new Div. 6 to read as herein set out. See the Code Comparative Table.</annotation>
       <section>
@@ -1272,7 +1272,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Any violation shall be punished as provided in Tampa Code section 1-6.</text>
+          <text>Any violation shall be punished as provided in Tampa Code <cite path="1-6">section 1-6</cite>.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 97-186, § 5, 9-18-97</annotation>
@@ -1288,7 +1288,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Any violation shall be punished as provided in Tampa Code section 1-6.</text>
+          <text>Any violation shall be punished as provided in Tampa Code <cite path="1-6">section 1-6</cite>.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 97-186, § 6, 9-18-97</annotation>
@@ -1303,7 +1303,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>7</num>
+      <num path-omit="true">7</num>
       <heading>DANCE HALLS</heading>
       <section>
         <num>6-180</num>
@@ -1375,7 +1375,7 @@
       <section>
         <num>6-181</num>
         <heading>Definitions.</heading>
-        <text>[For the purposes of this division, certain terms shall have the meanings ascribed to them in this section, unless the context clearly indicates otherwise.]</text>
+        <text>[For the purposes of this division, certain terms shall have the meanings ascribed to them in <cite path="6-181">this section</cite>, unless the context clearly indicates otherwise.]</text>
         <text><em>Adult dance hall</em> means any dance hall whose patrons or admittees are eighteen (18) years of age or older.</text>
         <text><em>Conviction</em> or <em>convicted</em> means the finding of guilt for a violation of a municipal or county ordinance or state or federal law, adjudication withheld on such a finding of guilt, an adjudication of guilt on any plea of guilty or nolo contendere or the forfeiture of a bond or bail when charged with a violation of a municipal or county ordinance or state or federal law.</text>
         <text><em>Dance hall</em> means any place, area or property operated as open to the public which:</text>
@@ -1414,7 +1414,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>An adult use establishment (special cabaret or adult entertainment establishment), as defined in Chapter 27, lawfully established, existing, permitted and licensed under the provisions of this Code, during such hours of the day as said establishment is being lawfully and principally operated as an adult use.</text>
+          <text>An adult use establishment (special cabaret or adult entertainment establishment), as defined in Chapter 27, lawfully established, existing, permitted and licensed under the provisions of <cite>this Code</cite>, during such hours of the day as said establishment is being lawfully and principally operated as an adult use.</text>
         </para>
         <text><em>Dance hall regulations</em> means the regulations set forth in this division.</text>
         <text><em>Juvenile dance hall</em> means any dance hall whose patrons or admittees are seventeen (17) years of age or younger.</text>
@@ -1443,7 +1443,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>A person who wishes to operate a dance hall shall sign the application for a permit as applicant. If a person who wishes to operate a dance hall is other than an individual, each individual who has a twenty (20) percent or greater interest in the business must sign the application for a permit as an applicant. Each applicant must meet the requirements of section 6-183, and each applicant shall be considered a permittee if a permit is granted.</text>
+          <text>A person who wishes to operate a dance hall shall sign the application for a permit as applicant. If a person who wishes to operate a dance hall is other than an individual, each individual who has a twenty (20) percent or greater interest in the business must sign the application for a permit as an applicant. Each applicant must meet the requirements of <cite path="6-183">section 6-183</cite>, and each applicant shall be considered a permittee if a permit is granted.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
@@ -1515,19 +1515,19 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The fact that a conviction is being appealed has no effect on the disqualifications of the applicant under subsection (a) above.</text>
+          <text>The fact that a conviction is being appealed has no effect on the disqualifications of the applicant under <cite path="6-183|(a)">subsection (a)</cite> above.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>An applicant who has been convicted of an offense listed in subsection (a)(6)a. may qualify for a dance hall permit only when the time period required by subsection (a)(6)b. has elapsed.</text>
+          <text>An applicant who has been convicted of an offense listed in <cite path="6-183|(a)|(6)">subsection (a)(6)</cite>a. may qualify for a dance hall permit only when the time period required by <cite path="6-183|(a)|(6)">subsection (a)(6)</cite>b. has elapsed.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>The application shall be reviewed by the police department, the fire department and the department of business and community services for compliance with the provisions of this section. Review shall be conducted by the fire department and department of business and community services within thirty (30) days from the receipt of the application by the chief of police, and their comments forwarded to the chief of police for consideration in issuance of the permit in accordance with the provisions hereof.</text>
+          <text>The application shall be reviewed by the police department, the fire department and the department of business and community services for compliance with the provisions of <cite path="6-183">this section</cite>. Review shall be conducted by the fire department and department of business and community services within thirty (30) days from the receipt of the application by the chief of police, and their comments forwarded to the chief of police for consideration in issuance of the permit in accordance with the provisions hereof.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>The chief of police, upon approving issuance of a dance hall permit, shall send to the applicant, by certified mail, return receipt requested, written notice of that action and state where the applicant must pay the permit fee and obtain the permit. The chief of police's approval of the issuance of a permit does not authorize the applicant to operate a dance hall until the applicant has paid all fees required by this chapter and obtained possession of the permit.</text>
+          <text>The chief of police, upon approving issuance of a dance hall permit, shall send to the applicant, by certified mail, return receipt requested, written notice of that action and state where the applicant must pay the permit fee and obtain the permit. The chief of police's approval of the issuance of a permit does not authorize the applicant to operate a dance hall until the applicant has paid all fees required by <cite path="6">this chapter</cite> and obtained possession of the permit.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -1544,7 +1544,7 @@
       <section>
         <num>6-184</num>
         <heading>Fees.</heading>
-        <text>The city council may, by resolution, establish non-refundable fees for the city to review the contents of a dance hall permit application and for each permit issued under the terms of this chapter.</text>
+        <text>The city council may, by resolution, establish non-refundable fees for the city to review the contents of a dance hall permit application and for each permit issued under the terms of <cite path="6">this chapter</cite>.</text>
         <annotations>
           <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
@@ -1666,7 +1666,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The person designated as the dance hall supervisor shall comply with the requirements set forth in section 6-183(a)(6)a. and b. for applicants.</text>
+          <text>The person designated as the dance hall supervisor shall comply with the requirements set forth in <cite path="6-183|(a)|(6)">section 6-183(a)(6)</cite>a. and b. for applicants.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1696,7 +1696,7 @@
         <heading>Expiration of permit.</heading>
         <para>
           <num>(a)</num>
-          <text>A permit for a dance hall expires one (1) year from the date of issuance. A permit may be renewed only by making application as provided in section 6-182. Application for renewal should be made at least sixty (60) days before the expiration date, and when made less than sixty (60) days before the expiration date, the expiration of the permit will not be affected by the pendency of the application.</text>
+          <text>A permit for a dance hall expires one (1) year from the date of issuance. A permit may be renewed only by making application as provided in <cite path="6-182">section 6-182</cite>. Application for renewal should be made at least sixty (60) days before the expiration date, and when made less than sixty (60) days before the expiration date, the expiration of the permit will not be affected by the pendency of the application.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1743,7 +1743,7 @@
         <heading>Revocation.</heading>
         <para>
           <num>(a)</num>
-          <text>The chief of police shall revoke a permit if a cause of suspension under section 6-193 occurs and the permit has been previously suspended within the preceding twelve (12) months.</text>
+          <text>The chief of police shall revoke a permit if a cause of suspension under <cite path="6-193">section 6-193</cite> occurs and the permit has been previously suspended within the preceding twelve (12) months.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1765,7 +1765,7 @@
             <text>A permittee has been:</text>
             <para>
               <num>a.</num>
-              <text>Convicted of an offense listed in section 6-183(a)(6)a. for which the time period required in section 6-183(a)(6)b. has not elapsed; or</text>
+              <text>Convicted of an offense listed in <cite path="6-183|(a)|(6)">section 6-183(a)(6)</cite>a. for which the time period required in <cite path="6-183|(a)|(6)">section 6-183(a)(6)</cite>b. has not elapsed; or</text>
             </para>
             <para>
               <num>b.</num>
@@ -1774,7 +1774,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>While an employee of the dance hall, and while on the permitted premises, a person has committed an offense listed in section 6-183(a)(6)a., for which a conviction has been obtained, two (2) or more times within a twelve-month period.</text>
+            <text>While an employee of the dance hall, and while on the permitted premises, a person has committed an offense listed in <cite path="6-183|(a)|(6)">section 6-183(a)(6)</cite>a., for which a conviction has been obtained, two (2) or more times within a twelve-month period.</text>
           </para>
         </para>
         <para>
@@ -1783,7 +1783,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>When the chief of police revokes a permit, the revocation will continue for one (1) year, and the permittee may not be issued any dance hall permit for one (1) year from the date revocation became final. If, subsequent to revocation, the chief of police finds that the basis for the revocation action has been corrected or abated, the applicant may be granted a permit if at least ninety (90) days have elapsed since the date the revocation became final. If the permit was revoked under subsection (b)(4) hereof, an applicant may not be granted another permit until the appropriate number of years required under section 6-183(a)(6)b. has elapsed.</text>
+          <text>When the chief of police revokes a permit, the revocation will continue for one (1) year, and the permittee may not be issued any dance hall permit for one (1) year from the date revocation became final. If, subsequent to revocation, the chief of police finds that the basis for the revocation action has been corrected or abated, the applicant may be granted a permit if at least ninety (90) days have elapsed since the date the revocation became final. If the permit was revoked under <cite path="6-194|(b)|(4)">subsection (b)(4)</cite> hereof, an applicant may not be granted another permit until the appropriate number of years required under <cite path="6-183|(a)|(6)">section 6-183(a)(6)</cite>b. has elapsed.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
@@ -1799,7 +1799,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If a written request is filed under subsection (a) hereof with the city clerk within the ten (10) day limit, the city council shall consider the request. The city clerk shall set a date for the hearing within thirty (30) days from the date the written request is received.</text>
+          <text>If a written request is filed under <cite path="6-195|(a)">subsection (a)</cite> hereof with the city clerk within the ten (10) day limit, the city council shall consider the request. The city clerk shall set a date for the hearing within thirty (30) days from the date the written request is received.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1831,7 +1831,7 @@
         <text>A person who operates or causes to be operated a dance hall without a valid permit or in violation of any provision of this division shall be subject to the following penalties and/or remedies:</text>
         <para>
           <num>(1)</num>
-          <text>Violations of this division may be punished as provided in City of Tampa Code Section 1-6.</text>
+          <text>Violations of this division may be punished as provided in <cite>City of Tampa Code</cite> <cite path="1-6">Section 1-6</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1839,7 +1839,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>In addition to the penalties and remedies above, the city may institute any appropriate action or proceedings to prevent, restrain, correct or abate a violation of this chapter, as provided by law.</text>
+          <text>In addition to the penalties and remedies above, the city may institute any appropriate action or proceedings to prevent, restrain, correct or abate a violation of <cite path="6">this chapter</cite>, as provided by law.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
@@ -1860,7 +1860,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>8</num>
+      <num path-omit="true">8</num>
       <heading>OFF-PREMISES CANVASSING IN THE YBOR CITY HISTORIC DISTRICT</heading>
       <section>
         <num>6-210</num>
@@ -2027,11 +2027,11 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>A permit holder may operate on a sidewalk so long as he or she remains within the area defined herein as a corner or street corner which shall not include the areas defined in section 6-213. No permit holder shall operate on the street or other portion of the public right-of-way not expressly permitted in this division.</text>
+            <text>A permit holder may operate on a sidewalk so long as he or she remains within the area defined herein as a corner or street corner which shall not include the areas defined in <cite path="6-213">section 6-213</cite>. No permit holder shall operate on the street or other portion of the public right-of-way not expressly permitted in this division.</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>Whenever a permit holder engages in permitted OPC on a right-of-way expressly permitted in this division, the permit holder shall remain at least ten (10) feet away from any right-of-way prohibited in section 6-213.</text>
+            <text>Whenever a permit holder engages in permitted OPC on a right-of-way expressly permitted in this division, the permit holder shall remain at least ten (10) feet away from any right-of-way prohibited in <cite path="6-213">section 6-213</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -2044,11 +2044,11 @@
         <text>Any person who engages in conduct in violation of Division 8, Off-Premises Canvassing shall be subject to any one (1) of the following penalties, for each such violation:</text>
         <para>
           <num>(1)</num>
-          <text>Violations of Division 8 may be punished as provided in the City of Tampa Code Section 1-6, General Penalty.</text>
+          <text>Violations of Division 8 may be punished as provided in the <cite>City of Tampa Code</cite> <cite path="1-6">Section 1-6</cite>, General Penalty.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The city may institute any appropriate action or proceeding to prevent, retrain, correct or abate a violation of this section, as provided by law.</text>
+          <text>The city may institute any appropriate action or proceeding to prevent, retrain, correct or abate a violation of <cite path="6-215">this section</cite>, as provided by law.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2065,7 +2065,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>9</num>
+      <num path-omit="true">9</num>
       <heading>IMMOBILIZATION OF VEHICLES ON PRIVATE PROPERTY</heading>
       <section>
         <num>6-230</num>
@@ -2076,7 +2076,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><em>Applicability and exemptions.</em> Any person who utilizes any vehicle immobilization method for unauthorized vehicles parked on private property shall comply with the regulations set forth hereinbelow. Provided however, this section shall not apply to the following:</text>
+          <text><em>Applicability and exemptions.</em> Any person who utilizes any vehicle immobilization method for unauthorized vehicles parked on private property shall comply with the regulations set forth hereinbelow. Provided however, <cite path="6-230">this section</cite> shall not apply to the following:</text>
           <para>
             <num>(1)</num>
             <text>Towing of vehicles; or</text>
@@ -2105,7 +2105,7 @@
       <section>
         <num>6-231</num>
         <heading>Definitions.</heading>
-        <text>The following words, terms and phrases, when used in this division shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:</text>
+        <text>The following words, terms and phrases, when used in this division shall have the meanings ascribed to them in <cite path="6-231">this section</cite>, except where the context clearly indicates a different meaning:</text>
         <text><em>Immobilization, immobilize</em> or <em>immobilizing,</em> also known as boot or booting shall mean the act of placing, on a parked vehicle, a "boot" or other device which causes a vehicle to be immobile or prohibits its usual manner of movement or otherwise disables a vehicle from operation.</text>
         <text><em>Immobilization contractor</em> shall mean any person or firm authorized by the owner, lessee, or controller of real property to engage in the business of immobilization of unauthorized vehicles parked on private property of such owner, lessee or controller, their agents, or employees.</text>
         <text><em>Immobilization service(s)</em> shall include any person, company, corporation or other entity, whether licensed or not, who engages in or owns or operates a business which engages, in whole or in part, in the immobilization or booting of vehicles on private property.</text>
@@ -2134,7 +2134,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text><em>Business license tax/occupational license.</em> No immobilization service shall engage in the business of immobilization of unauthorized vehicles parked on private property unless such immobilization service shall first obtain a business license tax receipt or an "occupational license" in accordance with the provisions set forth in Chapter 24 of this Code.</text>
+            <text><em>Business license tax/occupational license.</em> No immobilization service shall engage in the business of immobilization of unauthorized vehicles parked on private property unless such immobilization service shall first obtain a business license tax receipt or an "occupational license" in accordance with the provisions set forth in Chapter 24 of <cite>this Code</cite>.</text>
           </para>
         </para>
         <para>
@@ -2206,7 +2206,7 @@
           <text><em>Immobilization criteria.</em> No person shall immobilize an unauthorized vehicle which is parked on private property, unless such immobilization is in accordance with the following requirements:</text>
           <para>
             <num>(1)</num>
-            <text>The vehicle is parked in an unauthorized manner and a sign was posted in accordance with subsection 6-233(b) below;</text>
+            <text>The vehicle is parked in an unauthorized manner and a sign was posted in accordance with sub<cite path="6-233|(b)">section 6-233(b)</cite> below;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -2313,7 +2313,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><em>Penalties.</em> Any violation of this section shall be punished in accordance with section 1-6 of the City of Tampa Code.</text>
+          <text><em>Penalties.</em> Any violation of <cite path="6-234">this section</cite> shall be punished in accordance with <cite path="1-6">section 1-6</cite> of the City of Tampa Code.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2334,7 +2334,7 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>10</num>
+      <num path-omit="true">10</num>
       <heading>SHOPPING CARTS</heading>
       <section>
         <num>6-244</num>
@@ -2403,7 +2403,7 @@
         <text>A person who violates any provision of this division shall be subject to the following penalties and/or remedies:</text>
         <para>
           <num>(1)</num>
-          <text>Violations of this division may be punished as provided in City of Tampa Code Section 1-6.</text>
+          <text>Violations of this division may be punished as provided in <cite>City of Tampa Code</cite> <cite path="1-6">Section 1-6</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2411,7 +2411,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>In addition to the penalties and remedies above, the city may institute any appropriate action or proceedings to prevent, restrain, correct or abate a violation of this chapter, as provided by law.</text>
+          <text>In addition to the penalties and remedies above, the city may institute any appropriate action or proceedings to prevent, restrain, correct or abate a violation of <cite path="6">this chapter</cite>, as provided by law.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. No. 2002-254, § 1, 11-21-02</annotation>
@@ -2424,13 +2424,13 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>11</num>
+      <num path-omit="true">11</num>
       <heading>PAIN MANAGEMENT CLINICS</heading>
-      <annotation type="Editor's Notes" dest="container">6 <strong>Editor's note—</strong> Ord. No. 2010-79, §§ 1-9, adopted July 15, 2010, repealed the former Div. 11, §§ 6-255-6-262, and enacted a new Div. 11 as set out herein. The former Div. 11 pertained to similar subject matter and derived from Ord. No. 2010-59, §§ 2-9, 5-20-2010. See also the Code Comparative Table.</annotation>
+      <annotation type="Editor's Notes" dest="container">6 <strong>Editor's note—</strong> Ord. No. 2010-79, §<cite path="1-9">§ 1-9</cite>, adopted July 15, 2010, repealed the former Div. 11, §<cite path="6-255">§ 6-255</cite>-6-262, and enacted a new Div. 11 as set out herein. The former Div. 11 pertained to similar subject matter and derived from Ord. No. 2010-59, §<cite path="2-9">§ 2-9</cite>, 5-20-2010. See also the Code Comparative Table.</annotation>
       <section>
         <num>6-255</num>
         <heading>Definitions.</heading>
-        <text>[The following words, terms and phrases, when used in this division, shall have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:]</text>
+        <text>[The following words, terms and phrases, when used in this division, shall have the meanings ascribed to them in <cite path="6-255">this section</cite>, except where the context clearly indicates a different meaning:]</text>
         <text><em>Chronic nonmalignant pain</em> means pain unrelated to cancer which persists beyond the usual course of the disease or injury that is the cause of the pain for more than ninety (90) days after surgery.</text>
         <text><em>Conviction</em> or <em>convicted</em> means the finding of guilt for a violation of a municipal or county ordinance or state or federal law, adjudication withheld on such a finding of guilt, an adjudication of guilt on any plea of guilty or nolo contendere or the forfeiture of a bond or bail when charged with a violation of a municipal or county ordinance or state or federal law.</text>
         <text><em>Pain management clinic</em> means a privately owned clinic, facility or medical office that advertised in any medium for any type of pain management services and/or employs one (1) or more physicians who are primarily engaged in the treatment of pain. For the purposes of this Division 11, a physician shall be considered primarily engaged in the treatment of pain by prescribing or dispensing controlled substance medication when the majority of the patients seen are prescribed or dispensed controlled substance medication for the treatment of chronic nonmalignant pain. Registration with the Florida Department of Heath pursuant to F.S. § 458.309(4), (5) and (6) or F.S. § 459.005(3), (4) and (5) shall be prima facie evidence of operating as a pain management clinic pursuant to this definition. Expressly exempted from this definition are hospitals, nursing homes, ambulatory surgical care centers, hospice or intermediate care facilities for the disabled, or clinics which are affiliated with an accredited medical school at which training is provided for medical students, residents or fellows.</text>
@@ -2452,7 +2452,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>A separate permit is required for each pain management clinic location. A person who seeks to operate a pain management clinic and the person who is the property owner for property on which the pain management clinic is located shall sign the application for a permit as an applicant(s). At least one (1) applicant shall be the medical director of the pain management clinic. The applicant(s) shall be fully responsible for compliance with this section and each applicant shall be considered a permittee upon the grant of a permit pursuant to this Division 11.</text>
+          <text>A separate permit is required for each pain management clinic location. A person who seeks to operate a pain management clinic and the person who is the property owner for property on which the pain management clinic is located shall sign the application for a permit as an applicant(s). At least one (1) applicant shall be the medical director of the pain management clinic. The applicant(s) shall be fully responsible for compliance with <cite path="6-256">this section</cite> and each applicant shall be considered a permittee upon the grant of a permit pursuant to this Division 11.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2512,7 +2512,7 @@
             </para>
             <para>
               <num>d.</num>
-              <text>A written determination by the zoning administrator that property in which the pain management clinic is located or seeks to locate complies with all current applicable provisions of the Land Development Code, including but not limited to all required parking requirements for a clinic use (as defined in Chapter 27, City of Tampa Code of Ordinances).</text>
+              <text>A written determination by the zoning administrator that property in which the pain management clinic is located or seeks to locate complies with all current applicable provisions of the Land Development Code, including but not limited to all required parking requirements for a clinic use (as defined in Chapter 27, <cite>City of Tampa Code</cite> of Ordinances).</text>
             </para>
             <para>
               <num>e.</num>
@@ -2616,7 +2616,7 @@
             </para>
             <para>
               <num>c.</num>
-              <text>The fact that a conviction is being appealed has no effect on the disqualifications of the applicant under subsection (a) above.</text>
+              <text>The fact that a conviction is being appealed has no effect on the disqualifications of the applicant under <cite path="6-257|(a)">subsection (a)</cite> above.</text>
             </para>
           </para>
         </para>
@@ -2675,7 +2675,7 @@
       <section>
         <num>6-259</num>
         <heading>Fees.</heading>
-        <text>The Tampa City Council shall, by resolution, establish non-refundable fees for the city to review the pain management clinic permit application and for each permit issued under the terms of this chapter.</text>
+        <text>The Tampa City Council shall, by resolution, establish non-refundable fees for the city to review the pain management clinic permit application and for each permit issued under the terms of <cite path="6">this chapter</cite>.</text>
         <annotations>
           <annotation type="History">Ord. No. 2010-79, § 6, 7-15-2010</annotation>
         </annotations>
@@ -2713,14 +2713,14 @@
       <section>
         <num>6-262</num>
         <heading>Penalties and remedies.</heading>
-        <text>Any person who operates or causes to be operated a pain management clinic without a valid permit or in violation of any provision of this section shall be subject to the following penalties and/or remedies:</text>
+        <text>Any person who operates or causes to be operated a pain management clinic without a valid permit or in violation of any provision of <cite path="6-262">this section</cite> shall be subject to the following penalties and/or remedies:</text>
         <para>
           <num>(1)</num>
-          <text>Violations of this section may be punished as provided in City of Tampa Code section 1-6.</text>
+          <text>Violations of <cite path="6-262">this section</cite> may be punished as provided in <cite>City of Tampa Code</cite> <cite path="1-6">section 1-6</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>A violation of any provision of this section will be deemed an irreparable and irreversible violation which will result in immediate violation.</text>
+          <text>A violation of any provision of <cite path="6-262">this section</cite> will be deemed an irreparable and irreversible violation which will result in immediate violation.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2728,7 +2728,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>In addition to the penalties and remedies above, the city may institute any appropriate action or proceedings to prevent, restrain, correct or abate a violation of this chapter, as provided by law.</text>
+          <text>In addition to the penalties and remedies above, the city may institute any appropriate action or proceedings to prevent, restrain, correct or abate a violation of <cite path="6">this chapter</cite>, as provided by law.</text>
         </para>
         <text>Secs. 6-263, 6-264. - Reserved.</text>
         <annotations>
@@ -2738,9 +2738,9 @@
     </container>
     <container>
       <prefix>DIVISION</prefix>
-      <num>12</num>
+      <num path-omit="true">12</num>
       <heading>RESERVED</heading>
-      <annotation type="Editor's Notes" dest="container">7 <strong>Editor's note—</strong> Ord. No. 2015-75, § 1, adopted July 16, 2015, repealed § 6-265, which pertained to newspaper street sales allowed and derived from Ord. No. 2011-128, § 1, 10-20-2011.</annotation>
+      <annotation type="Editor's Notes" dest="container">7 <strong>Editor's note—</strong> Ord. No. 2015-75, § 1, adopted July 16, 2015, repealed <cite path="6-265">§ 6-265</cite>, which pertained to newspaper street sales allowed and derived from Ord. No. 2011-128, § 1, 10-20-2011.</annotation>
       <section>
         <num>6-265</num>
         <heading>Reserved.</heading>
