@@ -14,4 +14,8 @@
     </canonical-urls>
   </meta>
   <xi:include href="./us/fl/cities/tampa/code/index.xml"/>
+  <collection name="us/fl/cities/tampa/ordinances">
+    <heading>Ordinances</heading>
+    <xi:include href="./us/fl/cities/tampa/ordinances/2020/index.xml"/>
+  </collection>
 </library>
