@@ -20,7 +20,7 @@
         <heading>Title.</heading>
         <text><cite path="11">This chapter</cite> shall be known and may be cited as the "City of Tampa Fire Prevention Ordinance."</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-1), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-1), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -28,7 +28,7 @@
         <heading>Purpose.</heading>
         <text>The purpose of <cite path="11">this chapter</cite> is to protect the health, safety and welfare of the general public through the administration of the city's fire prevention and protection program.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-2), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-2), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -53,8 +53,8 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-3), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2008-88, § 1, 5-20-08</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-3), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2008-88" path="§1">Ord. No. 2008-88, § 1, 5-20-08</annotation>
         </annotations>
       </section>
       <section>
@@ -92,8 +92,8 @@
         <text><em>Substantial completion</em> means the construction work has been sufficiently completed in accordance with the applicable city, state and federal codes so that the owner can occupy or utilize the project for the use for which it is intended.</text>
         <text><em>Value</em> means job cost.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-4), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 90-87, § 1, 3-22-90</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-4), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 90-87" path="§1">Ord. No. 90-87, § 1, 3-22-90</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
         </annotations>
       </section>
@@ -102,7 +102,7 @@
         <heading>Administrative authority.</heading>
         <text>The provisions of <cite path="11">this chapter</cite> shall be administered and enforced by the official. For purposes of administration of the provisions of <cite path="11">this chapter</cite>, the official's designee shall be the fire marshal.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-5), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-5), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Administrative authority of the official, <cite path="1-13">§ 1-13</cite>; delegation of administrative authority, <cite path="1-14">§ 1-14</cite>.</annotation>
         </annotations>
       </section>
@@ -111,7 +111,7 @@
         <heading>Alternate materials and methods of construction.</heading>
         <text>The provisions of <cite path="11">this chapter</cite> are not intended to prevent the use of any material or method of construction not specifically prescribed by <cite path="11">this chapter</cite>, provided any such alternate has been approved by the official. The official shall approve any such alternate, provided he finds that the alternate for the purpose intended is at least the equivalent of that prescribed in <cite path="11">this chapter</cite> in quality, strength, effectiveness, fire resistance, durability and safety. The official shall require that sufficient evidence or proof be submitted to substantiate any claim made regarding the alternate. If these criteria are not met, the official shall deny the request.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-6), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-6), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -119,8 +119,8 @@
         <heading>Fire marshal's authority to make arrests.</heading>
         <text>The Fire Marshal and his designated representatives shall have power to make arrests for the violation of the provisions of <cite path="11">this chapter</cite> or any city ordinances relating to fire prevention, fire control or the abatement of fire hazards. In the investigation of fires, bombings, or any attempt of fires or bombings or any related offenses, the Fire Marshal and his designated representatives shall have the same authority as police officers, including the right to bear arms. This authority shall be regulated by the Fire Marshal.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-7), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2009-68, § 1, 4-30-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-7), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-68" path="§1">Ord. No. 2009-68, § 1, 4-30-09</annotation>
         </annotations>
       </section>
       <section>
@@ -128,7 +128,7 @@
         <heading>Investigation of fires.</heading>
         <text>The Fire Marshal and his designated representatives shall investigate the origin, cause, and circumstances of every fire of explosion occurring within the jurisdiction of the city, which is of suspicious nature or which involves loss of life or injury to person or by which property has been destroyed or damaged or an attempt has been made to destroy property, or cause loss of life or injury. Where it has been determined through such investigation that the fire is of a criminal nature, it shall be the responsibility of the Fire Marshal or his designated representative to conduct further investigation to determine who is criminally responsible, to develop a case for presentation to the State Attorney, and arrest those for whom probable cause has been established that a criminal act has been committed.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2009-68, § 2, 4-30-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-68" path="§2">Ord. No. 2009-68, § 2, 4-30-09</annotation>
         </annotations>
       </section>
       <section>
@@ -152,7 +152,7 @@
           <text>The order, sequence and prerequisite for making applications for service shall be as designated by the official.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-41), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-41), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -160,7 +160,7 @@
         <heading>Fire code compliance inspections.</heading>
         <text>All commercial establishments, including residential structures of three (3) or more dwelling units, are subject to periodic fire code compliance inspections. The inspections are to be conducted for the purpose of determining compliance with fire safety codes applicable to the use and location of commercial establishments and facilities. An inspection fee as established by city council resolution is due and payable upon the first inspection of an establishment within any one (1) fiscal-year period of the city, and a reinspection fee as set by city council resolution is due and payable for each reinspection done to verify that required corrections have been made.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-42), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-42), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Inspections generally, <cite path="1-27">§ 1-27</cite>.</annotation>
         </annotations>
       </section>
@@ -169,7 +169,7 @@
         <heading>Testing requirements.</heading>
         <text>For the purpose of testing objects or materials for compliance with applicable Code sections when required, the applicable test must be performed by a nationally recognized fire research laboratory.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-43), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-43), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -186,7 +186,7 @@
         <heading>Fees—City council to establish.</heading>
         <text>The city council shall have the authority to set fees by resolution.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-51), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-51), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -226,8 +226,8 @@
           <text>Administrative fees.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-52), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 98-3, § 1, 1-8-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-52), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-3" path="§1">Ord. No. 98-3, § 1, 1-8-98</annotation>
         </annotations>
       </section>
       <section>
@@ -419,7 +419,7 @@
           <text><em>Other permits.</em> Other permits as described in the Standard Fire Prevention Code hereinafter adopted are required as set forth in such standard code. The official shall determine to whom such permits may be issued and shall specify the work or activity permitted thereby.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-53), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-53), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -434,7 +434,7 @@
           <text><em>Insurance.</em> Proof of liability insurance, with the city as an additional insured, in the amount of one million dollars ($1,000,000.00), issued by an insurer licensed to do business in the state, is a prerequisite for the issuance of blasting and fireworks display permits. The official may require a higher dollar limit if he finds that, due to the location or nature of the permitted event, such higher limit would be in the city's or the public's interest. The official may require similar insurance for other events or activities requiring his approval when, due to the circumstances, nature or location of the event or activity, it is in the city's and the public's interest to do so.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-54), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-54), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -478,7 +478,7 @@
           <text>Payment of the permit fee was not effected due to insufficient funds or any other reason.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-55), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-55), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -486,7 +486,7 @@
         <heading>Same—Nontransferability.</heading>
         <text>No permit required by <cite path="11">this chapter</cite> shall be transferable from the permittee to another, and the issuance of a permit for certain work shall not preclude the issuance of a subsequent permit for the same work or for the completion of the work.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-56), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-56), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -494,7 +494,7 @@
         <heading>Inspections; other approvals.</heading>
         <text>Activities regulated by <cite path="11">this chapter</cite> shall be subject at all times to inspection by the city. The official may require documents, drawings or certificates necessary to effect approval of such work.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-57), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-57), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Inspections generally, <cite path="1-27">§ 1-27</cite>.</annotation>
         </annotations>
       </section>
@@ -503,7 +503,7 @@
         <heading>Approval of fire marshal—Required for the location and manner of development of all installations involving the manufacture, processing or storage of flammable liquids, liquefied petroleum gases or explosives and blasting agents.</heading>
         <text>After December 20, 1966, all installations involving the manufacture, processing or storage of flammable liquids, liquefied petroleum gases or explosives and blasting agents shall be permitted only in such locations and in such manner of development as are expressly approved by the fire marshal. In approving or disapproving any such installations, the fire marshal shall be governed by the regulations, purposes and intent of the fire prevention code. In granting approval of any such installation, the fire marshal may impose such conditions as may be reasonably necessary to carry out the intent of the fire prevention code and to promote the public health, safety and general welfare of the city. Application for approval shall be made in accordance with procedures and forms as established and made available by the fire marshal. In the event of disapproval, the fire marshal shall furnish the applicant with the written reasons therefor within a reasonable period of time.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-58), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-58), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -511,7 +511,7 @@
         <heading>Same—Exceptions.</heading>
         <text>The approval of the fire marshal, as set forth in <cite path="11-53">section 11-53</cite>, shall not be necessary with respect to the location of installations for the storage of flammable liquids for airport and related airport uses at Tampa International Airport, and such installations for the storage of flammable liquids for airport and related airport uses at the airport, including aboveground tanks, are hereby specifically authorized, any other sections or provisions of <cite>this Code</cite> to the contrary notwithstanding; provided, however, that such installations shall comply with all the requirements set forth in section 902 of the Standard Fire Prevention Code.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-59), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-59), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -519,7 +519,7 @@
         <heading>Failure to obtain permit.</heading>
         <text>Any person who shall commence any work regulated by <cite path="11">this chapter</cite> without first obtaining a permit therefor shall, if subsequently permitted to obtain a permit, pay double the permit fee prescribed for the work and any other administrative fees or fines as set forth by <cite path="11">this chapter</cite>. <cite path="11-55">This section</cite> shall not apply to emergency work when failure to commence the same immediately would clearly have placed life or property in imminent danger, but in all such cases a permit must be obtained as soon as it is practicable, and if there is any unreasonable delay in obtaining such permit, a double fee shall be charged. The payment of a double fee shall not preclude nor be deemed a substitute for prosecution for commencing work without first obtaining a permit.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-60), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-60), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -547,8 +547,8 @@
           <text>A governmental or public facility which does not comply with the provisions in this subsection will not be exempted from the provisions in <cite path="11-56|(a)">subsection (a)</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-61), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 90-87, § 2, 3-22-90</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-61), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 90-87" path="§2">Ord. No. 90-87, § 2, 3-22-90</annotation>
         </annotations>
       </section>
       <section>
@@ -579,7 +579,7 @@
         <heading>Stop work and emergency orders.</heading>
         <text>Upon notice from the official, work on any system that is being done contrary to the provisions of <cite path="11">this chapter</cite> or in a dangerous or unsafe manner shall immediately cease. Such notice shall be in writing and shall be given to the owner of the property, his agent or the person doing the work or posted at the job site and shall state the conditions under which work may be resumed. Where an emergency exists, verbal notice by the official shall be sufficient to require the stoppage of work.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-71), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-71), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -598,7 +598,7 @@
           <text>If the official shall find any building, structure, building system, building component or work upon or within any premises so dangerous as to place persons or property in imminent danger of injury or damage so that an emergency is created, the official shall forthwith order such work to cease, shall disconnect such component from the service lines or order the appropriate utility company serving such premises to disconnect the same from its service lines or both. The owner, agent, occupant or person responsible for the maintenance thereof shall have the right of appeal in accordance with <cite path="11">this chapter</cite>, but the dependency of any such appeal shall not stay or supersede the action of the official. It shall be unlawful for any person to reconnect such building system or component until the same has been made safe and written authorization has been obtained from the official or until his action has been reversed by the unified construction trades board.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-72), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-72), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Unsafe buildings, work and nonconforming structures, <cite path="5-228">§ 5-228</cite>; certain structures declared public nuisance, <cite path="19-48">§ 19-48</cite>.</annotation>
           <annotation type="Cross References" dest="container"><strong>Related law reference—</strong>Dangerous and unsafe buildings, Art. VI.</annotation>
         </annotations>
@@ -608,7 +608,7 @@
         <heading>Interfering with, obstructing firemen, emergency workers.</heading>
         <text>It is unlawful for any person to interfere with, oppose, attack, threaten or delay firemen or other emergency workers in the discharge of their duties pursuant to the laws and ordinances of this city. It shall also be unlawful for any person to interfere with or deny access to any equipment or facilities used by firemen or emergency workers in the discharge of their duties pursuant to the laws and ordinances of this city.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-73), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-73), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -630,7 +630,7 @@
         <heading>Technical standards may be established.</heading>
         <text>The official may establish technical standards setting forth administrative guidelines governing the enforcement of <cite path="11">this chapter</cite>, requirements not specifically addressed in <cite path="11">this chapter</cite> but necessary to the effective pursuit of the purpose of <cite path="11">this chapter</cite> and any other information needed for the uniform and orderly administration of <cite path="11">this chapter</cite>. Such standards are to be published in a technical manual, which manual shall be on file in the office of the city clerk at least seven (7) days prior to adoption thereof and shall be made available to the public for inspection and for duplication at cost.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-111), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-111), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Requirements not covered by Code may be required by the official, <cite path="1-17">§ 1-17</cite>.</annotation>
         </annotations>
       </section>
@@ -648,7 +648,7 @@
         <heading>Fire limits established.</heading>
         <text>The fire district limits of the city are hereby established as designated upon the map on file in the office of the city clerk, such map being designated and described as the "Building Code Fire Limits Atlas Map," and such map and all notations, references or other information shown thereon shall be as much a part of <cite path="11-136">this section</cite> as if such information set forth on such map were fully described and set out herein.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-121), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-121), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -657,9 +657,9 @@
         <text>The city adopts by reference and incorporates into <cite>this Code</cite> as though fully set out herein, that certain code, as it may from time to time be amended, known as the Florida Fire Prevention Code. The Florida Fire Prevention Code includes and incorporates by reference, as a part thereof, the National Fire Protection Association Uniform Fire Code, NFPA 1, and the Life Safety Code, NFPA 101.</text>
         <text>Secs. 11-138, 11-139. - Reserved.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-234, § 2(14-122), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 95-178, § 1, 9-7-95</annotation>
-          <annotation type="History">Ord. No. 2007-246, § 1, 12-6-07</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-122), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-178" path="§1">Ord. No. 95-178, § 1, 9-7-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2007-246" path="§1">Ord. No. 2007-246, § 1, 12-6-07</annotation>
           <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2007-246, § 2, adopted Dec. 6, 2007, repealed §<cite path="11-138">§ 11-138</cite> and 11-139, which pertained to Life Safety Code adopted and Standard Fire Prevention Code adopted; amended. See also the Code Comparative Table.</annotation>
         </annotations>
       </section>

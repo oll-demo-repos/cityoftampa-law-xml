@@ -18,7 +18,7 @@
         <heading>Title.</heading>
         <text><cite path="6">This chapter</cite> shall be known and may be cited as the "City of Tampa Business Regulation Ordinance."</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-1), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-1), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -26,7 +26,7 @@
         <heading>Purpose.</heading>
         <text>The purpose of <cite path="6">this chapter</cite> is to protect the health, safety and welfare of the general public through the administration and regulation of certain businesses.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-2), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-2), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -34,7 +34,7 @@
         <heading>Applicability.</heading>
         <text>Unless otherwise expressly exempted by law, the provisions of <cite path="6">this chapter</cite> shall apply to all regulated businesses within the corporate limits of the city.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-3), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-3), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -73,12 +73,12 @@
         <text><em>Temporary help agency</em> means any business, corporation, or partnership of any kind which, for a monetary consideration, is primarily engaged in supplying workers from a pool of potential employees located on its premises and directly dispatches these employees to another corporation, partnership or business of any kind or to a private individual, on a temporary basis, whether the employees are to work full time or part time; provided that this definition shall not apply to agencies which provide professional employees, who are licensed and regulated by the state, to other businesses on a temporary basis.</text>
         <text><em>Ybor City Historic District</em> for purposes of <cite path="6">this chapter</cite> means the area as defined in Chapter 27 of the City Code.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-4), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 97-186, §§ 1, 2, 9-18-97</annotation>
-          <annotation type="History">Ord. No. 97-213, §§ 2, 3, 10-16-97</annotation>
-          <annotation type="History">Ord. No. 98-66, § 1, 3-26-98</annotation>
-          <annotation type="History">Ord. No. 2000-258, § 1, 9-28-00</annotation>
-          <annotation type="History">Ord. No. 2018-1, § 1, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-4), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-186" path="§1,2">Ord. No. 97-186, §§ 1, 2, 9-18-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-213" path="§2,3">Ord. No. 97-213, §§ 2, 3, 10-16-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-66" path="§1">Ord. No. 98-66, § 1, 3-26-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-258" path="§1">Ord. No. 2000-258, § 1, 9-28-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§1">Ord. No. 2018-1, § 1, 1-11-18</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
         </annotations>
       </section>
@@ -87,8 +87,8 @@
         <heading>Administrative authority.</heading>
         <text>The provisions of <cite path="6">this chapter</cite> shall be administered and enforced by the official or his designee.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-5), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 90-179, § 1, 7-19-90</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-5), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 90-179" path="§1">Ord. No. 90-179, § 1, 7-19-90</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Administrative authority of the official, <cite path="1-13">§ 1-13</cite>; delegation of administrative authority, <cite path="1-14">§ 1-14</cite>.</annotation>
         </annotations>
       </section>
@@ -97,7 +97,7 @@
         <heading>Inspections.</heading>
         <text>All businesses regulated by <cite path="6">this chapter</cite> shall be subject to inspection by the city. The official may require documents, records or information necessary to effect approval of the conduct of such businesses.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-6), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-6), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Inspections, <cite path="1-27">§ 1-27</cite>.</annotation>
         </annotations>
       </section>
@@ -122,8 +122,8 @@
         <heading>Business operating permit—When required.</heading>
         <text>It is unlawful for any person to engage in a regulated business without a current business operating permit issued by the city. Each day of operation without such permit shall constitute a separate offense. Each location requires a separate business operating permit.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-24), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 90-179, § 3, 7-19-90</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-24), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 90-179" path="§3">Ord. No. 90-179, § 3, 7-19-90</annotation>
         </annotations>
       </section>
       <section>
@@ -151,8 +151,8 @@
           <text>A certified statement, signed by the applicant, that all information submitted to the official is true and correct.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-25), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 90-179, § 3, 7-19-90</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-25), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 90-179" path="§3">Ord. No. 90-179, § 3, 7-19-90</annotation>
         </annotations>
       </section>
       <section>
@@ -191,8 +191,8 @@
           <text>In the event an application for a business operating permit is denied by the official pursuant to <cite path="6-31">this section</cite>, the applicant may appeal such denial by appropriate action to an appropriate civil court.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-26), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 90-179, § 3, 7-19-90</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-26), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 90-179" path="§3">Ord. No. 90-179, § 3, 7-19-90</annotation>
         </annotations>
       </section>
       <section>
@@ -200,7 +200,7 @@
         <heading>Same—Failure to obtain.</heading>
         <text>Any person who shall commence operation of a regulated business before obtaining a business operating permit therefor shall pay double the application fee prescribed for that business. The payment of the double fee shall not preclude nor be deemed a substitute for prosecution as provided for elsewhere in <cite>this Code</cite>.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-27), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-27), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -208,7 +208,7 @@
         <heading>Same—Not transferable.</heading>
         <text>A business operating permit is not transferable from one (1) location to another, from one (1) business type to another, from one (1) owner to another, or from one (1) ownership type (i.e. proprietorship, partnership, corporation) to another. Under any of the above circumstances, application must be made as if for a new business operating permit.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-28), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-28), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -216,7 +216,7 @@
         <heading>Same—Expiration.</heading>
         <text>Any business operating permit issued by the city in the previous twelve (12) months shall expire on September thirtieth of each year. Applications for renewal shall be processed by the official upon payment of the required fee.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-29), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-29), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -224,7 +224,7 @@
         <heading>Same—Termination.</heading>
         <text>Any change of ownership or management shall terminate the business operating permit and shall require a new application and a new business operating permit and conformance with all the requirements of this division pertaining to an original business operating permit.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-30), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-30), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -232,7 +232,7 @@
         <heading>Same—Issuance does not set aside other requirements.</heading>
         <text>The issuance of a business operating permit does not set aside, waive or replace any other provisions of <cite>this Code</cite> or any other laws, ordinances, statutes or regulations of any governmental body or agency having lawful jurisdiction.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-31), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-31), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -240,7 +240,7 @@
         <heading>Fees—Authority to establish.</heading>
         <text>The city council shall have the authority to set fees by resolution.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-32), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-32), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -256,7 +256,7 @@
           <text>Business operating permit renewal application.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-33), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-33), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -264,7 +264,7 @@
         <heading>Posting of permit.</heading>
         <text>Each and every owner or operator required by <cite path="6">this chapter</cite> to be permitted shall post and at all times display the business operating permit in its business establishment.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-34), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-34), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -318,7 +318,7 @@
           <text>The permittee or owner, agent or employee of the business has a conviction involving an ordinance or law related to the conduct of the permitted business.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-51), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-51), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -341,7 +341,7 @@
           <text>The decision of the official is final, and it is unlawful for the permittee or any other person to continue operation of the subject business if the business operating permit has been revoked or to operate the business during a period of suspension.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-52), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-52), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -372,7 +372,7 @@
         <heading>Minors prohibited.</heading>
         <text>It is unlawful for persons under eighteen (18) years of age to be present on the premises of a temporary help agency.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-71), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-71), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -401,7 +401,7 @@
           <text>Has not been convicted in the last ten (10) years in this state or any other state or the United States of soliciting for prostitution, pandering, letting premises for prostitution, keeping a disorderly place, dealing in or possession of drugs, dealing in or possessing controlled substances or of any other crime of a similar nature however designated; if the applicant is a corporation, that no officer of that corporation has been convicted of such a crime within such period.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-227, § 1(7-81), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-227" path="§1">Ord. No. 89-227, § 1(7-81), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -434,7 +434,7 @@
         <text><em>Sexual or genital parts</em> means the genitals, pubic area, buttocks, anus or perineum of any person, the vulva or, with regard to the breast of a female, that portion of the breast below the top of the nipple or the pigmented portion adjacent thereto, otherwise defined as areola.</text>
         <text><em>Torso</em> means the trunk of the human body or the main part of the human body not including the head, arms, and legs, but includes the pelvic region and buttocks.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 4, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§4">Ord. No. 2018-1, § 4, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -442,7 +442,7 @@
         <heading>Administrative and enforcement authority.</heading>
         <text>This division shall be administered by the PDD with the assistance of the Tampa Police Department and the department of neighborhood empowerment. Enforcement of this division shall be the joint responsibility of the PDD, Tampa Police Department, and the department of neighborhood empowerment. Administrative enforcement of this division shall be by the PDD. Violations brought under the authority of <cite path="1-6">section 1-6</cite>, punishable by imprisonment and/or a fine of up to five hundred dollars ($500.00), are to be enforced by the Tampa Police Department. Violations brought in front of a code enforcement board or magistrate shall be enforced by the department of neighborhood empowerment.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 5, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§5">Ord. No. 2018-1, § 5, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -470,7 +470,7 @@
           <text>Fee for replacement of lost/damaged (c) or (d).</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 6, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§6">Ord. No. 2018-1, § 6, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -587,7 +587,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 7, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§7">Ord. No. 2018-1, § 7, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -819,7 +819,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 8, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§8">Ord. No. 2018-1, § 8, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -838,7 +838,7 @@
           <text>A bath technician permit card must be worn on the outside of the bath technician's clothing at all times, when the technician is on the premises, and a copy shall be posted at all times, in the designated permit area, for any bath technician who is on the premises.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 9, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§9">Ord. No. 2018-1, § 9, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -846,7 +846,7 @@
         <heading>Term of permits.</heading>
         <text>Unless suspended or revoked, each permit issued pursuant to this division shall be effective until September 30 of each calendar year.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 10, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§10">Ord. No. 2018-1, § 10, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -854,7 +854,7 @@
         <heading>Renewal of permits.</heading>
         <text>Permits issued under this division shall expire each calendar year, in accordance with <cite path="6-159.3">section 6-159.3</cite>. Unless otherwise prohibited, an applicant may apply for renewal of a permit, for the next calendar year, which commences on October 1 of each calendar year. Applications for renewal will be processed in the same manner, including payment of fees) as new applications (refer to <cite path="6-159.1">section 6-159.1</cite>).</text>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 11, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§11">Ord. No. 2018-1, § 11, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -889,7 +889,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 12, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§12">Ord. No. 2018-1, § 12, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -897,7 +897,7 @@
         <heading>Transfer of permits.</heading>
         <text>No permit shall be transferable, separate or divisible, and such authority as a permit confers shall be conferred only on the permittee named therein.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 13, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§13">Ord. No. 2018-1, § 13, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -912,7 +912,7 @@
           <text>No person who operates a bathhouse or a person designated as a bathhouse manager or assistant manager shall refuse to allow such inspection of the premises of a bathhouse, as authorized above, by a representative of the city.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 14, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§14">Ord. No. 2018-1, § 14, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -989,7 +989,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 15, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§15">Ord. No. 2018-1, § 15, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -1024,7 +1024,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 16, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§16">Ord. No. 2018-1, § 16, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -1100,7 +1100,7 @@
           <text>Human trafficking signage as described under sections 36-373(b) through (e), Hillsborough County Code of Ordinances, as amended, shall be displayed in a conspicuous location that is clearly visible to the public and employees of the bathhouse.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 17, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§17">Ord. No. 2018-1, § 17, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -1108,7 +1108,7 @@
         <heading>Advertising restrictions.</heading>
         <text>No bathhouse granted a permit under provisions of <cite path="6">this chapter</cite> shall place, publish or distribute or cause to be placed, published or distributed any advertising matter that depicts any portion of the human body that would reasonably suggest to prospective patrons that any service is available other than those services as described in the definition of "bath," nor shall any bathhouse indicate in the text of such advertising that any service is available other than those services described in the definition of "bath."</text>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 18, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§18">Ord. No. 2018-1, § 18, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -1116,7 +1116,7 @@
         <heading>Duty to report unlawful activity.</heading>
         <text>Operators, bathhouse managers, employees, and bath technicians shall immediately report to the Tampa Police Department by calling the non-emergency line upon learning of any violation of or attempted violation or solicitation to commit any violation of an "unlawful activity" to include any of the following criminal offenses: prostitution, human trafficking, battery, indecent exposure, or any prohibited activities as described in <cite path="6-166">section 6-166</cite>. If a patron commits the unlawful activity, the patron shall be identified using the daily register and the Tampa Police Department shall be provided the identification of the patron.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 20, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§20">Ord. No. 2018-1, § 20, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -1191,7 +1191,7 @@
           <text>Whoever commits any violation of <cite path="6-165">this section</cite> or aids, abets, counsels, hires, or otherwise procures any violation of <cite path="6-165">this section</cite> to be committed, and such violation is committed or is attempted to be committed, is a principal and may be charged and punished in violation of the section, whether or not he or she is actually or constructively present at the commission of the violation. It shall be prima facie evidence that an operator is a principal if the operator had knowledge violations of <cite path="6-165">this section</cite> had previously occurred at the bathhouse, even if the specific violation was not known. A bathhouse operator may rebut the prima facie evidence with evidence which shows the operator made efforts to mitigate or abate future violations.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 21, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§21">Ord. No. 2018-1, § 21, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -1226,7 +1226,7 @@
           <text>Unless otherwise prohibited by law, nothing herein shall limit the ability to seek alternative enforcement methods to include administrative, civil, criminal, or quasi-criminal sanctions for a single violation.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 23, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§23">Ord. No. 2018-1, § 23, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -1246,7 +1246,7 @@
           <text>Utilizing any other action or enforcement method allowable by law.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2018-1, § 24, 1-11-18</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-1" path="§24">Ord. No. 2018-1, § 24, 1-11-18</annotation>
         </annotations>
       </section>
       <section>
@@ -1275,8 +1275,8 @@
           <text>Any violation shall be punished as provided in Tampa Code <cite path="1-6">section 1-6</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 97-186, § 5, 9-18-97</annotation>
-          <annotation type="History">Ord. No. 97-213, § 6, 10-16-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-186" path="§5">Ord. No. 97-186, § 5, 9-18-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-213" path="§6">Ord. No. 97-213, § 6, 10-16-97</annotation>
         </annotations>
       </section>
       <section>
@@ -1291,9 +1291,9 @@
           <text>Any violation shall be punished as provided in Tampa Code <cite path="1-6">section 1-6</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 97-186, § 6, 9-18-97</annotation>
-          <annotation type="History">Ord. No. 97-213, § 7, 10-16-97</annotation>
-          <annotation type="History">Ord. No. 98-54, § 1, 3-5-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-186" path="§6">Ord. No. 97-186, § 6, 9-18-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-213" path="§7">Ord. No. 97-213, § 7, 10-16-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-54" path="§1">Ord. No. 98-54, § 1, 3-5-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1369,7 +1369,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1423,7 +1423,7 @@
         <text><em>Permittee</em> means a person in whose name a permit to operate a dance hall has been issued, as well as the individual listed as an applicant on the application for a dance hall permit.</text>
         <text><em>Person</em> means an individual, partnership, corporation, association, or legal entity.</text>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1446,7 +1446,7 @@
           <text>A person who wishes to operate a dance hall shall sign the application for a permit as applicant. If a person who wishes to operate a dance hall is other than an individual, each individual who has a twenty (20) percent or greater interest in the business must sign the application for a permit as an applicant. Each applicant must meet the requirements of <cite path="6-183">section 6-183</cite>, and each applicant shall be considered a permittee if a permit is granted.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1538,7 +1538,7 @@
           <text>The permit must be posted in a conspicuous place at or near the entrance to the dance hall so that it may be easily read at any time.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1546,7 +1546,7 @@
         <heading>Fees.</heading>
         <text>The city council may, by resolution, establish non-refundable fees for the city to review the contents of a dance hall permit application and for each permit issued under the terms of <cite path="6">this chapter</cite>.</text>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1569,7 +1569,7 @@
           <text>No permittee of an adult dance hall shall maintain or operate the premises without posting a sign at each entrance to the business that reads: "It is unlawful for any person under eighteen (18) years of age to enter this premises without a parent or guardian."</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1608,7 +1608,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1623,7 +1623,7 @@
           <text>No person shall operate an adult dance hall during any hours other than 1:00 p.m. to 3:00 a.m. of the following day.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1646,7 +1646,7 @@
           <text><em>Fire.</em> No person shall operate a dance hall in violation of any applicable provisions of Chapter 11, Fire Prevention and Protection.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1654,7 +1654,7 @@
         <heading>Land Development Code.</heading>
         <text>No person shall operate a dance hall in violation of any applicable provisions of the Land Development Code, as defined in Chapter 17.5 .</text>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1673,7 +1673,7 @@
           <text>The person designated dance hall supervisor shall remain on the premises of the dance hall during all hours of operation and until thirty (30) minutes after closing to ensure that the operation is conducted in accordance with all dance hall regulations hereof.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1688,7 +1688,7 @@
           <text>No person who operates a dance hall or a person designated as the dance hall supervisor shall refuse to permit a lawful inspection of the premises of a dance hall by a representative of the City of Tampa at any time it is open for business or occupied.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1703,7 +1703,7 @@
           <text>If the chief of police denies renewal of a permit, the applicant may not be issued any dance hall permit for one (1) year from the date denial becomes final. If, subsequent to denial, the chief of police finds that the basis for denial of the renewal permit has been corrected or abated, the applicant may be granted a permit if at least ninety (90) days have elapsed since the date denial became final.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1735,7 +1735,7 @@
           <text>Knowingly permitted the possession, consumption, or sale of an alcoholic beverage on the premises of a dance hall.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1786,7 +1786,7 @@
           <text>When the chief of police revokes a permit, the revocation will continue for one (1) year, and the permittee may not be issued any dance hall permit for one (1) year from the date revocation became final. If, subsequent to revocation, the chief of police finds that the basis for the revocation action has been corrected or abated, the applicant may be granted a permit if at least ninety (90) days have elapsed since the date the revocation became final. If the permit was revoked under <cite path="6-194|(b)|(4)">subsection (b)(4)</cite> hereof, an applicant may not be granted another permit until the appropriate number of years required under <cite path="6-183|(a)|(6)">section 6-183(a)(6)</cite>b. has elapsed.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1814,7 +1814,7 @@
           <text>If the city council denies the appeal, the aggrieved party may not re-apply until at least twelve (12) months have elapsed since the date of the council's action.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1822,7 +1822,7 @@
         <heading>Transfer of permit.</heading>
         <text>A permittee shall not transfer a permit to another person, nor shall a permittee operate a dance hall under the authority of a permit at any place other than the address designated in the application.</text>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1842,7 +1842,7 @@
           <text>In addition to the penalties and remedies above, the city may institute any appropriate action or proceedings to prevent, restrain, correct or abate a violation of <cite path="6">this chapter</cite>, as provided by law.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1850,7 +1850,7 @@
         <heading>Severability.</heading>
         <text>If any term, provision, section, or subsection of this division is found to be unconstitutional by a court of law, said term, provision, section or subsection may be stricken and the remaining terms, provisions, parts, sections and subsections shall remain in full force and effect.</text>
         <annotations>
-          <annotation type="History">Ord. No. 98-164, § 1, 7-16-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-164" path="§1">Ord. No. 98-164, § 1, 7-16-98</annotation>
         </annotations>
       </section>
       <section>
@@ -1918,7 +1918,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2000-258, § 2, 9-28-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-258" path="§2">Ord. No. 2000-258, § 2, 9-28-00</annotation>
         </annotations>
       </section>
       <section>
@@ -1945,7 +1945,7 @@
           <text>Upon receipt of a complete application, the business tax division shall verify that the business has a current business tax receipt and, if so, shall issue said permit.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2000-258, § 2, 9-28-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-258" path="§2">Ord. No. 2000-258, § 2, 9-28-00</annotation>
         </annotations>
       </section>
       <section>
@@ -1968,7 +1968,7 @@
           <text>No more than four (4) permits may be issued per business per year.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2000-258, § 2, 9-28-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-258" path="§2">Ord. No. 2000-258, § 2, 9-28-00</annotation>
         </annotations>
       </section>
       <section>
@@ -1992,7 +1992,7 @@
           <text>Street of Sixth (6th) Avenue between the eastern boundary of the Street of Sixteenth (16th) and western boundary of the Street of Fifteenth (15th) Street.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2000-258, § 2, 9-28-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-258" path="§2">Ord. No. 2000-258, § 2, 9-28-00</annotation>
         </annotations>
       </section>
       <section>
@@ -2035,7 +2035,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2000-258, § 2, 9-28-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-258" path="§2">Ord. No. 2000-258, § 2, 9-28-00</annotation>
         </annotations>
       </section>
       <section>
@@ -2055,7 +2055,7 @@
           <text>Each instance of OPC in violation of this Division 8 shall constitute a separate offense for purposes of the penalties and remedies specified herein.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2000-258, § 2, 9-28-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-258" path="§2">Ord. No. 2000-258, § 2, 9-28-00</annotation>
         </annotations>
       </section>
       <section>
@@ -2099,7 +2099,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2001-129, § 1, 6-14-01</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2001-129" path="§1">Ord. No. 2001-129, § 1, 6-14-01</annotation>
         </annotations>
       </section>
       <section>
@@ -2114,7 +2114,7 @@
         <text><em>Property owner</em> means that person who exercises dominion and control over private real property, including but not limited to legal titleholder, lessee, designated representative of a condominium association or any person authorized to exercise or share dominion and control over private real property. However, "property owner" shall not mean nor be included in the term "business enterprise".</text>
         <text><em>Recover</em> means to take possession of a vehicle and its contents and to exercise control and supervision over the vehicle.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2001-129, § 1, 6-14-01</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2001-129" path="§1">Ord. No. 2001-129, § 1, 6-14-01</annotation>
         </annotations>
       </section>
       <section>
@@ -2195,7 +2195,7 @@
           <text><em>Identification.</em> All employees or agents of every immobilization service or immobilization contractor, and every person who immobilizes a vehicle shall wear identification tags, or uniforms with identification, stating the full name of the immobilization service, if any, and the name of the employee or agent. Said identification shall be prominently displayed on the front left side of the employee's or agent's shirt. All immobilization service vehicles shall display the name (or name of joint venture or individual owner or other entity ownership) on the driver and passenger side of the vehicle in letters at least three (3) inches high, and the address (or address of joint venture, or individual owner or other entity ownership) and telephone number of the immobilization service shall be displayed on the driver and passenger side of the vehicle in letters at least one (1) inch high.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2001-129, § 1, 6-14-01</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2001-129" path="§1">Ord. No. 2001-129, § 1, 6-14-01</annotation>
         </annotations>
       </section>
       <section>
@@ -2300,7 +2300,7 @@
           <text><em>Towing/removal requirements.</em> An immobilized vehicle shall not remain immobilized on private property for more than twenty-four (24) hours. After such period of time has expired, the vehicle shall be released from the steel boot and may be towed or removed pursuant to this article, and no fee shall be assessed for release of the immobilization device.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2001-129, § 1, 6-14-01</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2001-129" path="§1">Ord. No. 2001-129, § 1, 6-14-01</annotation>
         </annotations>
       </section>
       <section>
@@ -2324,7 +2324,7 @@
           <text><em>Disclaimer of immobilization methods.</em> The imposition of the vehicle immobilization regulations set forth herein are solely intended for the public's protection from vehicle immobilization without adequate notice. Nothing herein shall be construed as authorization or permission to immobilize vehicles on private parking lots open to the public. Any person immobilizing vehicles on private parking lots open to the public shall be subject to whatever legal remedies the owner of the vehicle may have.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2001-129, § 1, 6-14-01</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2001-129" path="§1">Ord. No. 2001-129, § 1, 6-14-01</annotation>
         </annotations>
       </section>
       <section>
@@ -2341,7 +2341,7 @@
         <heading>Definitions.</heading>
         <text><em>Shopping cart.</em> As defined in F.S. § 506.502, means a basket mounted on wheels or a similar device which is generally used in a retail establishment by a customer for the purpose of transportation of goods of any kind.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2002-254, § 1, 11-21-02</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-254" path="§1">Ord. No. 2002-254, § 1, 11-21-02</annotation>
         </annotations>
       </section>
       <section>
@@ -2366,7 +2366,7 @@
           <text>Name, including the name of a contact person, address and telephone number of the company implementing the retrieval plan, if other than retail establishment.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2002-254, § 1, 11-21-02</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-254" path="§1">Ord. No. 2002-254, § 1, 11-21-02</annotation>
         </annotations>
       </section>
       <section>
@@ -2377,7 +2377,7 @@
         <text>If the plan is approved or approved with modifications, the plan shall be implemented no later than thirty (30) days after approval.</text>
         <text>If the plan is rejected, the retail establishment shall modify the plan to address the deficiencies and resubmit it to the city no later than thirty (30) days after the date of its rejection.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2002-254, § 1, 11-21-02</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-254" path="§1">Ord. No. 2002-254, § 1, 11-21-02</annotation>
         </annotations>
       </section>
       <section>
@@ -2385,7 +2385,7 @@
         <heading>Identification of shopping carts.</heading>
         <text>Within sixty (60) days of the effective date of this division (November 21, 2002), each retail establishment that utilizes shopping carts in the operation of its business shall affix on each shopping cart, and maintain thereon, information identifying the name, address and telephone number to call for shopping cart retrieval.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2002-254, § 1, 11-21-02</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-254" path="§1">Ord. No. 2002-254, § 1, 11-21-02</annotation>
         </annotations>
       </section>
       <section>
@@ -2394,7 +2394,7 @@
         <text>Within sixty (60) days of the effective date of this division (November 21, 2002), each retail sales establishment that utilizes shopping carts in the operation of its business shall post a minimum of two (2) signs not less than one and one-half (1½) feet by three (3) feet in conspicuous locations on the inside of the retail sales establishment building and a minimum of two (2) signs not less than one and one-half (1½) feet by three (3) feet in conspicuous locations on the outside of the retail sales establishment building. Such signs shall state the following:</text>
         <text>"NOTICE — It is a violation of Section 506.513, Florida Statutes to remove a shopping cart, without written authorization, from its owner or from the premises or parking area of any retail establishment."</text>
         <annotations>
-          <annotation type="History">Ord. No. 2002-254, § 1, 11-21-02</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-254" path="§1">Ord. No. 2002-254, § 1, 11-21-02</annotation>
         </annotations>
       </section>
       <section>
@@ -2414,7 +2414,7 @@
           <text>In addition to the penalties and remedies above, the city may institute any appropriate action or proceedings to prevent, restrain, correct or abate a violation of <cite path="6">this chapter</cite>, as provided by law.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2002-254, § 1, 11-21-02</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-254" path="§1">Ord. No. 2002-254, § 1, 11-21-02</annotation>
         </annotations>
       </section>
       <section>
@@ -2440,7 +2440,7 @@
         <text><em>Permittee</em> means a person in whose name a permit to operate a pain management clinic has been issued, as well as all individuals listed as an applicant on the application for a permit for a pain management clinic.</text>
         <text><em>Person</em> means an individual, partnership, corporation, association, or legal entity. Any individual with any partial or whole ownership of any partnership, corporation, association or legal entity shall also be included in this definition.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2010-79, § 2, 7-15-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-79" path="§2">Ord. No. 2010-79, § 2, 7-15-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -2545,8 +2545,8 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2010-79, § 3, 7-15-2010</annotation>
-          <annotation type="History">Ord. No. 2010-101, § 1, 8-26-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-79" path="§3">Ord. No. 2010-79, § 3, 7-15-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-101" path="§1">Ord. No. 2010-101, § 1, 8-26-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -2621,7 +2621,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2010-79, § 4, 7-15-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-79" path="§4">Ord. No. 2010-79, § 4, 7-15-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -2668,8 +2668,8 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2010-79, § 5, 7-15-2010</annotation>
-          <annotation type="History">Ord. No. 2010-101, § 2, 8-26-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-79" path="§5">Ord. No. 2010-79, § 5, 7-15-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-101" path="§2">Ord. No. 2010-101, § 2, 8-26-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -2677,7 +2677,7 @@
         <heading>Fees.</heading>
         <text>The Tampa City Council shall, by resolution, establish non-refundable fees for the city to review the pain management clinic permit application and for each permit issued under the terms of <cite path="6">this chapter</cite>.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2010-79, § 6, 7-15-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-79" path="§6">Ord. No. 2010-79, § 6, 7-15-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -2692,7 +2692,7 @@
           <text>No person who operates a pain management clinic shall refuse to permit a lawful inspection of the premises by a representative of the City of Tampa at any time it is open for business or occupied.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2010-79, § 7, 7-15-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-79" path="§7">Ord. No. 2010-79, § 7, 7-15-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -2707,7 +2707,7 @@
           <text>If a permit or renewal for a pain management clinic is denied the applicant may not be issued a pain management clinic permit for one (1) year from the date denial becomes final, unless the basis for denial has been corrected or abated.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2010-79, § 8, 7-15-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-79" path="§8">Ord. No. 2010-79, § 8, 7-15-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -2732,7 +2732,7 @@
         </para>
         <text>Secs. 6-263, 6-264. - Reserved.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2010-79, § 9, 7-15-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-79" path="§9">Ord. No. 2010-79, § 9, 7-15-2010</annotation>
         </annotations>
       </section>
     </container>

@@ -13,7 +13,7 @@
       <heading>Title.</heading>
       <text><cite path="14">This chapter</cite> shall be known and may be cited as the "City of Tampa Offenses Ordinance."</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-1), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-1), 9-28-89</annotation>
       </annotations>
     </section>
     <section>
@@ -21,7 +21,7 @@
       <heading>Purpose.</heading>
       <text>The purpose of <cite path="14">this chapter</cite> is to protect the health, safety and welfare of the general public through the application and enforcement of the provisions in <cite path="14">this chapter</cite>.</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-2), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-2), 9-28-89</annotation>
       </annotations>
     </section>
     <section>
@@ -29,7 +29,7 @@
       <heading>Applicability.</heading>
       <text>The provisions of <cite path="14">this chapter</cite> apply throughout the corporate limits of the city.</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-3), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-3), 9-28-89</annotation>
       </annotations>
     </section>
     <section>
@@ -37,7 +37,7 @@
       <heading>Adoption of state criminal offenses and noncriminal violations.</heading>
       <text>It is unlawful for any person to commit, within the limits of the city, any act which is recognized by the laws of the state as a criminal offense or noncriminal violation, and the commission of such acts shall be punishable as provided by state law.</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-4), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-4), 9-28-89</annotation>
         <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Misdemeanor defined, F.S. §§ 775.08, 775.081; punishment for misdemeanors, F.S. §§ 775.082, 775.083.</annotation>
       </annotations>
     </section>
@@ -61,8 +61,8 @@
         <text>Pursuant to F.S. § 938.15 (2005), all funds collected under <cite path="14-5">this section</cite> shall be remitted by the clerk of the circuit court to the city's director of revenue and finance and expended for criminal justice education degree programs and training courses, including basic recruit training, for city police officers and support personnel.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-5), 9-28-89</annotation>
-        <annotation type="History">Ord. No. 2006-171, § 1, 7-27-06</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-5), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-171" path="§1">Ord. No. 2006-171, § 1, 7-27-06</annotation>
         <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Establishment of criminal justice training programs, <cite path="18-4">§ 18-4</cite>.</annotation>
       </annotations>
     </section>
@@ -71,7 +71,7 @@
       <heading>Disposition of civil penalties received pursuant to court assessments regarding certain traffic infractions.</heading>
       <text>The clerk of the circuit court of the thirteenth judicial circuit in and for the county is hereby authorized and directed to collect all civil penalties assessed pursuant to the provisions of F.S. Ch. 318, where such penalties result from violations of the law which have occurred within the city limits, and to remit same to the city's director of revenue and finance. These funds shall be earmarked for criminal justice education and training, including basic training of members of the police department, part-time law enforcement officers, auxiliary officers and support personnel. Use and expenditure of such funds shall be in accordance with the education and training programs for law enforcement personnel as established in Chapter 18 of <cite>this Code</cite> and in accordance with F.S. § 943.25(13). Further, such funds may be used to fund a municipal school crossing guard program as established in Chapter 18 of <cite>this Code</cite> and for any other lawful purpose.</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-6), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-6), 9-28-89</annotation>
         <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Establishment of criminal justice training programs and school crossing guard program, <cite path="18-4">§ 18-4</cite>.</annotation>
       </annotations>
     </section>
@@ -91,7 +91,7 @@
         <text>It is unlawful for any person to willfully fail to appear at or within the time and at the place specified in a summons or citation after promising in writing to do so.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-7), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-7), 9-28-89</annotation>
       </annotations>
     </section>
     <section>
@@ -106,7 +106,7 @@
         <text>Fees may be charged for false alarms as provided in <cite path="14-278">section 14-278</cite> of <cite path="14">this chapter</cite>.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-8), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-8), 9-28-89</annotation>
       </annotations>
     </section>
     <section>
@@ -206,7 +206,7 @@
           <text>Any person violating the provisions of <cite path="14-28">this section</cite> shall, upon conviction, be punished as provided in Tampa Code <cite path="1-6">Section 1-6</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 98-166, § 1, 7-30-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-166" path="§1">Ord. No. 98-166, § 1, 7-30-98</annotation>
         </annotations>
       </section>
       <section>
@@ -354,7 +354,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2004-275, § 1, 11-18-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-275" path="§1">Ord. No. 2004-275, § 1, 11-18-04</annotation>
         </annotations>
       </section>
       <section>
@@ -421,8 +421,8 @@
         </para>
         <text>Secs. 14-31, 14-32. - Reserved.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2011-152, § 1, 12-15-2011</annotation>
-          <annotation type="History">Ord. No. 2016-81, § 1, 6-2-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-152" path="§1">Ord. No. 2011-152, § 1, 12-15-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-81" path="§1">Ord. No. 2016-81, § 1, 6-2-2016</annotation>
         </annotations>
       </section>
       <section>
@@ -441,7 +441,7 @@
           <text>Violations of <cite path="14-33">this section</cite> shall be punished as provided in Tampa Code <cite path="1-6">section 1-6</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2011-130, § 1, 10-20-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-130" path="§1">Ord. No. 2011-130, § 1, 10-20-2011</annotation>
         </annotations>
       </section>
       <section>
@@ -459,7 +459,7 @@
         <heading>Assemblies obstructing streets and sidewalks.</heading>
         <text>All persons are hereby prohibited from gathering and standing in groups upon the streets, avenues and sidewalks of the city in such a manner as to obstruct the free passage of persons or vehicles upon the sidewalks or streets of the city.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-21), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-21), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Streets and sidewalks, Ch. 22; transportation, Ch. 25.</annotation>
         </annotations>
       </section>
@@ -487,8 +487,8 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-23), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2012-149, § 1, 12-20-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-23), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-149" path="§1">Ord. No. 2012-149, § 1, 12-20-2012</annotation>
         </annotations>
       </section>
       <section>
@@ -496,7 +496,7 @@
         <heading>Tacks, broken glass, etc., on sidewalks or public places.</heading>
         <text>It is unlawful for any person to throw upon any of the sidewalks or crosswalks or upon the steps of any public or other building which the public may enter any tacks, broken glass or other sharp or pointed materials or substances which might puncture or injure the tire of any bicycle or other vehicle or injure the feet of humans or animals.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-23), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-23), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Streets and sidewalks, Ch. 22; transportation, Ch. 25.</annotation>
           <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Injurious substances prohibited, F.S. § 316.2035.</annotation>
         </annotations>
@@ -506,7 +506,7 @@
         <heading>Reports on wounds by violence, drowning.</heading>
         <text>All physicians, surgeons, public and private hospitals and clinics and ambulance drivers in the city shall report to the city police department all cases of drowning, knife and gunshot wounds, wounds that could have been caused by an act of violence, wounds where the victim is subsequently admitted to any hospital or clinic and all other wounds indicating personal violence and violations of law coming to the knowledge of and/or treated by such physicians or surgeons or received by such hospitals, clinics or ambulance drivers. The required report shall be made immediately after the physician, surgeon, hospital, clinic or ambulance driver shall become aware of the condition, by telephone, messenger or in person, and shall include the name, age, gender, race and address of the person so injured.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-24), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-24), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Duty to report deaths or wounds, F.S. §§ 406.12, 790.24.</annotation>
         </annotations>
       </section>
@@ -526,7 +526,7 @@
           <text>It is unlawful for a wrecker or tow car operator or the business establishment maintained by the wrecker or tow car operator incident to his wrecker service to have in his place of business, tow car or wrecker any equipment capable of monitoring messages or signals or frequencies assigned to the police department or other agency as provided in F.S. § 843.16.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-25), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-25), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Establishment of wrecker rotation list and system, <cite path="18-5">§ 18-5</cite>.</annotation>
         </annotations>
       </section>
@@ -554,8 +554,8 @@
           <text>Violations of <cite path="14-46">this section</cite> shall be punishable as provided in Tampa Code <cite path="1-6">section 1-6</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2013-95, § 1, 7-18-13</annotation>
-          <annotation type="History">Ord. No. 2016-162, § 1, 11-3-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-95" path="§1">Ord. No. 2013-95, § 1, 7-18-13</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-162" path="§1">Ord. No. 2016-162, § 1, 11-3-2016</annotation>
           <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2013-95, § 1, adopted July 18, 2013, amended <cite path="14-46">section 14-46</cite> in its entirety to read as herein set out. Former <cite path="14-46">§ 14-46</cite>, pertained to threatening, intimidating or harassing behavior for purposes of solicitation, and derived from Ord. No. 93-110, § 1, 8-5-93.</annotation>
         </annotations>
       </section>
@@ -571,7 +571,7 @@
           <text>Violations of <cite path="14-47">this section</cite> shall be punishable as provided in Tampa Code <cite path="1-6">section 1-6</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 93-111, § 1, 8-5-93</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 93-111" path="§1">Ord. No. 93-111, § 1, 8-5-93</annotation>
         </annotations>
       </section>
       <section>
@@ -597,7 +597,7 @@
           <text>The provisions of this ordinance shall not apply to persons engaged in picking up or transporting empty bottles for recycling or disposal nor to persons taking part in litter control campaigns.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2002-34, § 1, 1-24-02</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-34" path="§1">Ord. No. 2002-34, § 1, 1-24-02</annotation>
         </annotations>
       </section>
       <section>
@@ -660,7 +660,7 @@
           <text>Violations of <cite path="14-50">this section</cite> shall be punishable as provided in Tampa Code <cite path="1-6">section 1-6</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2013-96, § 1, 7-18-2013</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-96" path="§1">Ord. No. 2013-96, § 1, 7-18-2013</annotation>
         </annotations>
       </section>
       <section>
@@ -707,7 +707,7 @@
           <text>Violations of <cite path="14-51">this section</cite> shall be punishable as provided in Tampa Code <cite path="1-6">section 1-6</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2013-96, § 2, 7-18-2013</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-96" path="§2">Ord. No. 2013-96, § 2, 7-18-2013</annotation>
         </annotations>
       </section>
       <section>
@@ -758,7 +758,7 @@
           <text>Violations of <cite path="14-52">this section</cite> shall be punishable as provided in Tampa Code <cite path="1-6">section 1-6</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2013-96, § 3, 7-18-2013</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-96" path="§3">Ord. No. 2013-96, § 3, 7-18-2013</annotation>
         </annotations>
       </section>
       <section>
@@ -922,7 +922,7 @@
           <text>Abandoned and lost property is regulated and may be removed pursuant to F.S. § 705.101 et seq.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2013-96, § 4, 7-18-2013</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-96" path="§4">Ord. No. 2013-96, § 4, 7-18-2013</annotation>
         </annotations>
       </section>
       <section>
@@ -957,7 +957,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2014-85, § 1, 9-18-2014</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2014-85" path="§1">Ord. No. 2014-85, § 1, 9-18-2014</annotation>
         </annotations>
       </section>
       <section>
@@ -1029,7 +1029,7 @@
           <text><em>Penalties.</em> Penalties for violation of any subsection of this ordinance shall be as specified by the applicable provision of F.S. Ch. 318.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2017-161, § 1, 11-16-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-161" path="§1">Ord. No. 2017-161, § 1, 11-16-2017</annotation>
           <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2017-161, § 1, adopted November 16, 2017, set out provisions intended for use as 14-50. For purposes of clarity, and at the editor's discretion, these provisions have been included as 14-55.</annotation>
         </annotations>
       </section>
@@ -1048,7 +1048,7 @@
         <heading>Hypodermic syringes or hypodermic syringe needles.</heading>
         <text>It is unlawful for any person to abandon or discard in the city any hypodermic syringe or hypodermic syringe needle which has not been first rendered permanently unusable as a hypodermic syringe or hypodermic syringe needle before abandoning or discarding the same.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-42), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-42), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Drug abuse prevention and control, F.S. Ch. 893.</annotation>
         </annotations>
       </section>
@@ -1098,7 +1098,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2016-44, § 1, 3-17-16</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-44" path="§1">Ord. No. 2016-44, § 1, 3-17-16</annotation>
         </annotations>
       </section>
       <section>
@@ -1122,8 +1122,8 @@
           <text>All owners and/or operators of any parcel of land used for parking in the Ybor City Historic District (as said area is defined in Chapter 27 hereof) shall post a sign in accordance with the provisions of <cite path="14-64|(a)">subsection (a)</cite> above.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 93-93, § 1, 7-15-93</annotation>
-          <annotation type="History">Ord. No. 2002-207, § 1, 9-19-02</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 93-93" path="§1">Ord. No. 93-93, § 1, 7-15-93</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-207" path="§1">Ord. No. 2002-207, § 1, 9-19-02</annotation>
         </annotations>
       </section>
       <section>
@@ -1131,7 +1131,7 @@
         <heading>Precursor acts to illicit drug activity ordinance.</heading>
         <text>(a) <em>Title.</em> The provisions of sections 14-65 through 14-72 shall be known as the "precursor acts to illicit drug activity ordinance."</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-37, § 1, 2-6-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-37" path="§1">Ord. No. 2003-37, § 1, 2-6-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1198,7 +1198,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-37, § 1, 2-6-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-37" path="§1">Ord. No. 2003-37, § 1, 2-6-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1208,7 +1208,7 @@
         <text><em>Illicit drug activity</em> means to engage in the sale, distribution, delivery, purchase, or use of controlled substances in violation of F.S. Ch. 893, Florida Comprehensive Drug Abuse Prevention and Control Act.</text>
         <text><em>Repeatedly</em> means to commit the same act two (2) or more times in a one (1) hour period of time.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-37, § 1, 2-6-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-37" path="§1">Ord. No. 2003-37, § 1, 2-6-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1243,7 +1243,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-37, § 1, 2-6-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-37" path="§1">Ord. No. 2003-37, § 1, 2-6-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1294,7 +1294,7 @@
           <text>Upon adoption of these regulations, and within one (1) month following the end of each calendar year thereafter, the Tampa Police Department shall conduct a statistical analyses relating to illicit drug activity. Said statistical analysis shall include, but is not limited to, the number of calls for service related to illicit drug activity within each grid per year. ("Grid" means a geographic area designated by the Tampa Police Department which is utilized for purposes of assigning patrol areas, crime reporting and statistical analysis.)</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-37, § 1, 2-6-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-37" path="§1">Ord. No. 2003-37, § 1, 2-6-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1314,7 +1314,7 @@
           <text>Individuals lawfully engaged in the operation of a valet parking service, and not otherwise engaged in illicit drug activity.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-37, § 1, 2-6-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-37" path="§1">Ord. No. 2003-37, § 1, 2-6-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1322,7 +1322,7 @@
         <heading>Ordinance supplemental to statutory prohibitions.</heading>
         <text>These regulations are intended to be supplemental to the provisions of F.S. Ch. 893, Florida Comprehensive Drug Abuse Prevention and Control Act, which makes unlawful the sale, manufacture, delivery or possession of a controlled substance. Therefore, nothing in these regulations shall preclude the prosecution of a suspect for a violation of F.S. Ch. 893 or for any other offenses, or for a violation of these regulations in conjunction with any violation of Florida Statute.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-37, § 1, 2-6-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-37" path="§1">Ord. No. 2003-37, § 1, 2-6-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1330,7 +1330,7 @@
         <heading>Severability.</heading>
         <text>If any section, subsection, sentence, clause, phrase, or portion of these regulations are for any reason held invalid or unconstitutional by any court of competent jurisdiction, that part shall be deemed a separate, distinct, and independent provision, and may be severed from the remainder of these regulations, and that holding and severance of said language shall not affect the validity of the remaining portions of these regulations.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-37, § 1, 2-6-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-37" path="§1">Ord. No. 2003-37, § 1, 2-6-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1338,7 +1338,7 @@
         <heading>Penalties.</heading>
         <text>A violation of any provision of these regulations may be punishable in accordance with <cite>City of Tampa Code</cite> <cite path="1-6">section 1-6</cite> and <cite path="1-6.1">section 1-6.1</cite>.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-37, § 1, 2-6-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-37" path="§1">Ord. No. 2003-37, § 1, 2-6-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1464,7 +1464,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2013-52, § 1, 4-18-2013</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-52" path="§1">Ord. No. 2013-52, § 1, 4-18-2013</annotation>
         </annotations>
       </section>
       <section>
@@ -1489,7 +1489,7 @@
         <heading>Violation attempt.</heading>
         <text>Whoever attempts to commit an offense prohibited by this division and in such attempt does any act toward the commission of such offense, but fails in the perpetration or is intercepted or prevented in the execution of the same, commits the offense of violation attempt.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-62), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-62), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -1497,7 +1497,7 @@
         <heading>Giving information concerning prohibited acts, etc.</heading>
         <text>It is unlawful for any person to give information about or direct any other person to any house or place for immoral purposes or to any immoral person, whether the communication be by word of mouth, direct or by telephone or in writing, within the limits of the city.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-63), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-63), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -1505,7 +1505,7 @@
         <heading>Immoral services.</heading>
         <text>It is unlawful for any person to employ or provide the services of a person for immoral purposes.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-64), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-64), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -1606,7 +1606,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 99-96, s</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 99-96">Ord. No. 99-96, s</annotation>
           <annotation type="History">1, 4-29-99</annotation>
         </annotations>
       </section>
@@ -1648,7 +1648,7 @@
           <text>The provisions contained in <cite path="14-96">this section</cite> shall not apply to the exhibition, presentation, showing or performance of any play, ballet, drama, tableau, production or motion picture in any theater, concert hall, museum, school or other similar establishment which is devoted to such presentation as a form of expression, as differentiated from commercial or business promotion or exploitation of nudity for the purpose of advertising, promoting, selling or serving products or services or otherwise advancing the economic welfare of a commercial or business enterprise.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-76), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-76), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -1691,7 +1691,7 @@
           <text>If at any time the license of an establishment is revoked pursuant to <cite path="14-97|(d)">subsection (d)</cite>, at least six (6) months shall elapse before another license may be issued to the same establishment, and such license may be issued only after a public hearing on same is held before the city council.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-77), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-77), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Alcoholic beverages, Ch. 3.</annotation>
         </annotations>
       </section>
@@ -1710,7 +1710,7 @@
         <heading>Blank cartridge pistols, tear gas pistols and ammunition.</heading>
         <text>It is unlawful for any person to sell, offer for sale, give or have in his possession within the city any blank cartridge pistol or other like device made exclusively for the purpose of firing or discharging any blank cartridge; provided that <cite path="14-111">this section</cite> shall not apply to the sale, possession or discharge of any pistol or other like device designed to use .22 caliber crimped blanks and/or .22 caliber tear gas cartridges.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-89), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-89), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -1725,8 +1725,8 @@
           <text>For purposes of <cite path="14-112">this section</cite>, airgun or BB gun means any device designed or intended to expel a BB, pellet or similar metallic projectile by means of compressed air or other compressed gas or the action of a spring, not including any nailgun or any firearm as defined in F.S. § 790.001.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-90), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2011-97, § 1, 8-25-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-90), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-97" path="§1">Ord. No. 2011-97, § 1, 8-25-2011</annotation>
           <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Discharging firearms in public, F.S. § 790.15; use of BB guns, F.S. § 790.22.</annotation>
         </annotations>
       </section>
@@ -1751,7 +1751,7 @@
           <text>For purposes of <cite path="14-131|(a)">subsection (a)</cite>, a certified copy of a judgment of conviction for the same violation shall be deemed prima facie evidence of the prior conviction.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-96), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-96), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -1769,7 +1769,7 @@
         <heading>Cruising control ordinance.</heading>
         <text>This division shall be known, and may be referred to, as the "City of Tampa Cruising Control Ordinance."</text>
         <annotations>
-          <annotation type="History">Ord. No. 95-42, § 1, 3-2-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-42" path="§1">Ord. No. 95-42, § 1, 3-2-95</annotation>
         </annotations>
       </section>
       <section>
@@ -1813,7 +1813,7 @@
           <text><em>Restricted area.</em> Those streets or roadways designated by the city traffic engineer or his/her designee as a "No Cruising Area" and that are within that area of the City of Tampa bounded on the north by Columbus Drive, on the south by Adamo Drive, on the west by Nebraska Avenue, and on the east by 22nd Street.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 95-42, § 1, 3-2-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-42" path="§1">Ord. No. 95-42, § 1, 3-2-95</annotation>
         </annotations>
       </section>
       <section>
@@ -1821,7 +1821,7 @@
         <heading>Cruising prohibited.</heading>
         <text>No person shall engage in unnecessary repetitive driving, also known as "Cruising" as defined herein, while operating a motor vehicle, and no owner of a motor vehicle shall permit another to engage in cruising while operating a motor vehicle under his or her care, custody and control, after notice as described in <cite path="14-141">section 14-141</cite> hereinbelow.</text>
         <annotations>
-          <annotation type="History">Ord. No. 95-42, § 1, 3-2-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-42" path="§1">Ord. No. 95-42, § 1, 3-2-95</annotation>
         </annotations>
       </section>
       <section>
@@ -1836,7 +1836,7 @@
           <text>At the time a motor vehicle is stopped to give the notice described in <cite path="14-141">this section</cite>, and at the time a motor vehicle is stopped after giving of such notice, and prior to issuing a uniform traffic citation to the operator of the motor vehicle, the officer shall afford the operator or a passenger in the motor vehicle an opportunity to explain his or her conduct. No person shall be convicted for violating <cite path="14-140">Section 14-140</cite> or F.S. § 316.074(1), if it appears at trial that the explanation given was true and disclosed a lawful purpose. Refusal by the person to explain his or her conduct to the officer shall not be deemed an element of the offense or evidence establishing probable cause that the person has violated <cite path="14-141">this section</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 95-42, § 1, 3-2-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-42" path="§1">Ord. No. 95-42, § 1, 3-2-95</annotation>
         </annotations>
       </section>
       <section>
@@ -1844,7 +1844,7 @@
         <heading>Enforcement.</heading>
         <text>The operation of a motor vehicle past the same traffic control point where a posted official traffic control device prohibits cruising, after issuance of the notice described herein, constitutes a violation of <cite path="14-140">section 14-140</cite>, as well as F.S. § 316.074(1). A uniform traffic citation for violation of F.S. § 316.074(1), shall be issued to the actual operator of the motor vehicle at the time the offense occurs. It shall be immaterial whether the operator at the time the offense occurs actually operated the motor vehicle each time it passed the traffic control point.</text>
         <annotations>
-          <annotation type="History">Ord. No. 95-42, § 1, 3-2-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-42" path="§1">Ord. No. 95-42, § 1, 3-2-95</annotation>
         </annotations>
       </section>
       <section>
@@ -1852,7 +1852,7 @@
         <heading>Penalties.</heading>
         <text>All penalties for the violation of <cite path="14-140">section 14-140</cite> or F.S. § 316.074(1), shall be in accordance with the provisions of Chapter 316 and 318, Florida Statutes.</text>
         <annotations>
-          <annotation type="History">Ord. No. 95-42, § 1, 3-2-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-42" path="§1">Ord. No. 95-42, § 1, 3-2-95</annotation>
         </annotations>
       </section>
       <section>
@@ -1868,7 +1868,7 @@
           <text>Any licensed public transportation vehicle, vehicle for hire, or any other vehicle utilized for business or commercial purposes, when actually operated for such purposes.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 95-42, § 1, 3-2-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-42" path="§1">Ord. No. 95-42, § 1, 3-2-95</annotation>
         </annotations>
       </section>
       <section>
@@ -1876,7 +1876,7 @@
         <heading>Designation of streets.</heading>
         <text>The city traffic engineer or his/her designee is authorized to designate a public street or roadway as a designated street or "No cruising area" based upon a prior determination that a state of congested traffic has been demonstrated to occur during the restricted hours. Such designation shall include any portion of the street or roadway within which the congested traffic condition is demonstrated to exist. Upon the designation of a street or roadway as a designated street or "no cruising area," the city traffic engineer or his/her designee shall post or cause to be posted official traffic control devices providing notice to the public, and shall establish one (1) or more traffic control points to identify the vehicles being operated upon the designated street.</text>
         <annotations>
-          <annotation type="History">Ord. No. 95-42, § 1, 3-2-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-42" path="§1">Ord. No. 95-42, § 1, 3-2-95</annotation>
         </annotations>
       </section>
     </container>
@@ -1932,7 +1932,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 99-265, § 1, 12-2-99</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 99-265" path="§1">Ord. No. 99-265, § 1, 12-2-99</annotation>
         </annotations>
       </section>
       <section>
@@ -2016,7 +2016,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 99-265, § 1, 12-2-99</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 99-265" path="§1">Ord. No. 99-265, § 1, 12-2-99</annotation>
         </annotations>
       </section>
       <section>
@@ -2039,7 +2039,7 @@
           <text>No person who owns or operates an adult use shall knowingly, or with reason to know, permit, suffer or allow any violation of <cite path="14-148|(a)">subsection (a)</cite> above.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 99-265, § 1, 12-2-99</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 99-265" path="§1">Ord. No. 99-265, § 1, 12-2-99</annotation>
         </annotations>
       </section>
       <section>
@@ -2059,7 +2059,7 @@
           <text><em>Specified sexual activities</em> are defined as human genitals in a state of sexual stimulation or arousal, acts of cunnilingus, fellation, masturbation, sexual intercourse, sodomy, whether actual or simulated and/or fondling or other erotic touching of human genitals, pubic region, buttocks or female breasts. For definitions of any other words used herein refer to <cite>City of Tampa Code</cite>, including <cite path="14-147">Section 14-147</cite>.]"</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2000-270, § 2, 10-5-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-270" path="§2">Ord. No. 2000-270, § 2, 10-5-00</annotation>
         </annotations>
       </section>
       <section>
@@ -2067,8 +2067,8 @@
         <heading>Penalties.</heading>
         <text>Any person who intentionally engages in violation of this division shall be subject to the provisions and penalties set forth in <cite path="1-6">section 1-6</cite> of <cite>this Code</cite>, for each such violation.</text>
         <annotations>
-          <annotation type="History">Ord. No. 99-265, § 1, 12-2-99</annotation>
-          <annotation type="History">Ord. No. 2000-270, § 1, 10-5-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 99-265" path="§1">Ord. No. 99-265, § 1, 12-2-99</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-270" path="§1">Ord. No. 2000-270, § 1, 10-5-00</annotation>
         </annotations>
       </section>
     </container>
@@ -2163,9 +2163,9 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2012-122, § 2, 11-1-2012</annotation>
-          <annotation type="History">Ord. No. 2013-54, § 1, 5-2-2013</annotation>
-          <annotation type="History">Ord. No. 2016-199, § 1, 12-15-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-122" path="§2">Ord. No. 2012-122, § 2, 11-1-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-54" path="§1">Ord. No. 2013-54, § 1, 5-2-2013</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-199" path="§1">Ord. No. 2016-199, § 1, 12-15-2016</annotation>
         </annotations>
       </section>
       <section>
@@ -2218,7 +2218,7 @@
           <text>There may be additional conditions imposed by the City of Tampa related to the ability to sell alcohol from a particular location. Such conditions are contained in the ordinance approving the location, and all attached exhibits.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2012-122, § 3, 11-1-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-122" path="§3">Ord. No. 2012-122, § 3, 11-1-2012</annotation>
         </annotations>
       </section>
       <section>
@@ -2269,8 +2269,8 @@
           <text>A violation of <cite path="14-150.1.2">this section</cite> is deemed an irreparable or irreversible violation and may result in an immediate citation.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2012-122, § 4, 11-1-2012</annotation>
-          <annotation type="History">Ord. No. 2014-112, § 1, 11-6-2014</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-122" path="§4">Ord. No. 2012-122, § 4, 11-1-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2014-112" path="§1">Ord. No. 2014-112, § 1, 11-6-2014</annotation>
         </annotations>
       </section>
       <section>
@@ -2385,10 +2385,10 @@
           <text>Alcoholic beverages may be consumed and possessed in the Riverwalk Open Container Area, as defined in <cite path="14-150.1.9">section 14-150.1.9</cite>, as long as the consumption or possession is in compliance with that section.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2012-122, § 5, 11-1-2012</annotation>
-          <annotation type="History">Ord. No. 2013-94, § 1, 7-18-2013</annotation>
-          <annotation type="History">Ord. No. 2014-112, § 2, 11-6-2014</annotation>
-          <annotation type="History">Ord. No. 2016-156, § 1, 10-20-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-122" path="§5">Ord. No. 2012-122, § 5, 11-1-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-94" path="§1">Ord. No. 2013-94, § 1, 7-18-2013</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2014-112" path="§2">Ord. No. 2014-112, § 2, 11-6-2014</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-156" path="§1">Ord. No. 2016-156, § 1, 10-20-2016</annotation>
         </annotations>
       </section>
       <section>
@@ -2396,7 +2396,7 @@
         <heading>Consumption on premises zoned for only off-premises consumption prohibited; exception for wine tastings.</heading>
         <text>It is unlawful for any person to consume any alcoholic beverages on premises zoned to sell such alcoholic beverages only for consumption off the premises; provided, however, that a distributor or vendor of wines licensed by the Division of Alcoholic Beverages and Tobacco of the State of Florida, is authorized to conduct wine tastings upon any premises zoned for the sale of wine regardless of alcoholic content in sealed containers for consumption off the premises only (2-APS and 3-PS zoning classifications as defined in <cite path="3-30">section 3-30</cite> of <cite>this Code</cite>). Any such wine tasting shall be conducted without monetary charge or any other consideration whatsoever required for attendance or participation, and provided that the conduct of the wine tasting shall be limited to and directed toward the general public of the age of legal consumption.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2012-122, § 6, 11-1-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-122" path="§6">Ord. No. 2012-122, § 6, 11-1-2012</annotation>
         </annotations>
       </section>
       <section>
@@ -2404,7 +2404,7 @@
         <heading>Damaging signs prohibited.</heading>
         <text>It is unlawful for any person to deface, injure, willfully destroy or impair the usefulness of any sign posted under the terms of <cite path="14">this chapter</cite>.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2012-122, § 7, 11-1-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-122" path="§7">Ord. No. 2012-122, § 7, 11-1-2012</annotation>
         </annotations>
       </section>
       <section>
@@ -2432,8 +2432,8 @@
           <text>The penalty for violation of <cite path="14-150.1.6">this section</cite> shall be as provided for in <cite path="1-6">section 1-6</cite> of the <cite>City of Tampa Code</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2012-122, § 8, 11-1-2012</annotation>
-          <annotation type="History">Ord. No. 2014-112, § 3, 11-6-2014</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-122" path="§8">Ord. No. 2012-122, § 8, 11-1-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2014-112" path="§3">Ord. No. 2014-112, § 3, 11-6-2014</annotation>
         </annotations>
       </section>
       <section>
@@ -2441,7 +2441,7 @@
         <heading>Right of entry.</heading>
         <text>Any license issued by the city pursuant to <cite path="14">this chapter</cite> for a bottle club or clubhouse as defined in sections 3-110 and 3-120, respectively, shall hereby grant the right of inspection of the licensed premises to any law enforcement agency or the license tax division revenue officer, when such inspection is so considered essential for the betterment and preservation of the safety, health and morals of the citizens of the city.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2012-122, § 9, 11-1-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-122" path="§9">Ord. No. 2012-122, § 9, 11-1-2012</annotation>
         </annotations>
       </section>
       <section>
@@ -2449,7 +2449,7 @@
         <heading>Police reports.</heading>
         <text>The police department shall specially designate in its records police calls of drug-related activity at bars, lounges, taverns and other establishments zoned for the sale of alcoholic beverages where such calls are initiated by a person identifying himself as the owner or operator of such establishment. Reports requested by the city council of police calls made to a commercial establishment shall specially designate calls reporting drug activity made by the owner or operator of such establishment. A petition for zoning under <cite path="14">this chapter</cite> or any application pertaining to the provisions of <cite path="14">this chapter</cite> may be submitted to the Police Department of the City of Tampa by the city council or the division of land development coordination, for investigation. When so requested such investigation shall be conducted by the police department and a written report of such investigation and recommendation with respect thereto prepared by said department and filed with the city council and the division of land development coordination not less than twenty-four (24) hours prior to any hearing before the city council pertaining thereto. The copy of such written report filed with the division of land development coordination shall be available for inspection by the public, with priority access thereto available to the petitioner, applicant or representative thereof to whose petition or application such report relates.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2012-122, § 10, 11-1-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-122" path="§10">Ord. No. 2012-122, § 10, 11-1-2012</annotation>
         </annotations>
       </section>
       <section>
@@ -2528,8 +2528,8 @@
           <text><em>Alcoholic beverages purchased outside the Riverwalk Specialty Center not allowed in open containers in the Riverwalk Specialty Center.</em> Unless done in accordance with <cite path="14-150.1.9">this section</cite>, any open container or consumption of alcohol within the Riverwalk Specialty Center shall be unlawful and punishable in accordance with the appropriate laws.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2014-112, § 4, 11-6-2014</annotation>
-          <annotation type="History">Ord. No. 2017-167, § 1(Exh. A), 12-7-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2014-112" path="§4">Ord. No. 2014-112, § 4, 11-6-2014</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-167" path="§1">Ord. No. 2017-167, § 1(Exh. A), 12-7-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -2549,7 +2549,7 @@
       <heading>Purpose.</heading>
       <text>Chapter 14, article III is hereby enacted to protect, promote, and preserve the public health, safety, and welfare within the City of Tampa through the reduction, control, and prevention of unreasonably excessive noise. This article shall be referred to as the City of Tampa Noise Ordinance.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 3, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§3">Ord. No. 2016-125, § 3, 8-25-2016</annotation>
       </annotations>
     </section>
     <section>
@@ -2582,7 +2582,7 @@
       <text><em>Receiving property</em> means at or within the property line which is receiving sound from another property, but does not include public rights-of-way.</text>
       <text><em>Sound level</em> means a sound pressure level obtained using a signal to which standard weighting has been applied.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 4, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§4">Ord. No. 2016-125, § 4, 8-25-2016</annotation>
       </annotations>
     </section>
     <section>
@@ -2615,8 +2615,8 @@
         <text>Determining dBA or dBC under <cite path="14-153">this section</cite>. In determining the dBA or dBC sound level under <cite path="14-153">this section</cite>, a measurement within this area shall be taken from the property line of the property generating the sound, or from the individual lease boundary generating the sound in the case of property which has been subdivided by the execution of individual leases. The equivalent (L <sub>eq </sub>) decibel measurement taken at thirty (30) seconds shall not exceed the maximum levels set above.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 5, 8-25-2016</annotation>
-        <annotation type="History">Ord. No. 2018-104, § 2, 7-19-2018</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§5">Ord. No. 2016-125, § 5, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-104" path="§2">Ord. No. 2018-104, § 2, 7-19-2018</annotation>
       </annotations>
     </section>
     <section>
@@ -2685,8 +2685,8 @@
         <text><em>Prima facie evidence.</em> Between the hours of 10:00 p.m. and 7:00 a.m. it shall be prima facie evidence that the sound (whether recurrent, intermittent, or continuous) is unreasonably loud and raucous if the sound is plainly audible a minimum of one hundred (100) feet from the property line of the source of the sound at or within any receiving property.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 6, 8-25-2016</annotation>
-        <annotation type="History">Ord. No. 2017-13, § 1, 1-12-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§6">Ord. No. 2016-125, § 6, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-13" path="§1">Ord. No. 2017-13, § 1, 1-12-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -2704,7 +2704,7 @@
         <text><em>Vehicle</em> means any device or structure used for transporting any person(s) or thing(s) that is propelled by mechanized power, human power, or some combination of mechanized power and human power.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 7, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§7">Ord. No. 2016-125, § 7, 8-25-2016</annotation>
       </annotations>
     </section>
     <section>
@@ -2712,7 +2712,7 @@
       <heading>Placement of loudspeaker(s) on or above public right-of-way.</heading>
       <text>It shall be unlawful for any person(s) to place any stationary loudspeaker(s) on, or in the air space above, any public right-of-way within the City of Tampa without a permit pursuant to <cite path="22-8">section 22-8</cite>.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 8, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§8">Ord. No. 2016-125, § 8, 8-25-2016</annotation>
       </annotations>
     </section>
     <section>
@@ -2720,8 +2720,8 @@
       <heading>Unreasonably excessive noise declared a public nuisance.</heading>
       <text>Unreasonably excessive noise is declared a public nuisance. The prosecution of an offense under chapter 14, article III does not limit the city's right to abate the public nuisance pursuant to <cite path="14-293">section 14-293</cite>, or from seeking injunctive relief. The city attorney or his or her designee(s) may bring suit on behalf of the city against the person(s) responsible for causing or maintaining a public nuisance under this article. <cite path="14-157">This section</cite> shall not prohibit or otherwise restrict any person(s) from bringing suit against a public nuisance for unreasonably excessive noise. Relief may be granted according to the terms and conditions of F.S. § 60.05, or any other means provided by law.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 9, 8-25-2016</annotation>
-        <annotation type="History">Ord. No. 2017-13, § 2, 1-12-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§9">Ord. No. 2016-125, § 9, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-13" path="§2">Ord. No. 2017-13, § 2, 1-12-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -2769,7 +2769,7 @@
         <text>The use of equipment or machinery which generates sound levels in excess of the maximum dBA or dBC levels for excessive noise between the hours of 10:00 p.m. and 7:00 a.m., if such use of equipment or machinery is necessary in order to avoid personal injury to persons or physical damage to property.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 10, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§10">Ord. No. 2016-125, § 10, 8-25-2016</annotation>
       </annotations>
     </section>
     <section>
@@ -2801,8 +2801,8 @@
         <text><em>Alternative enforcement.</em> Nothing contained in chapter 14, article III shall limit enforcement of noise or alternative methods of enforcement as otherwise allowed by law or pursuant to the City of Tampa's Public Nuisance Abatement Board under <cite path="14-293">section 14-293</cite>.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 11, 8-25-2016</annotation>
-        <annotation type="History">Ord. No. 2017-13, § 3, 1-12-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§11">Ord. No. 2016-125, § 11, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-13" path="§3">Ord. No. 2017-13, § 3, 1-12-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -2810,7 +2810,7 @@
       <heading>Noise from industrial, manufacturing and processing.</heading>
       <text>The noise limitation standards for industrial, manufacturing and processing operations are contained in <cite path="27-282.7">section 27-282.7</cite>, <cite>City of Tampa Code</cite>.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 12, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§12">Ord. No. 2016-125, § 12, 8-25-2016</annotation>
       </annotations>
     </section>
     <section>
@@ -2818,7 +2818,7 @@
       <heading>Noise from construction.</heading>
       <text>The noise limitation standards for construction are contained in <cite path="5-301.2">section 5-301.2</cite>, <cite>City of Tampa Code</cite>.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 13, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§13">Ord. No. 2016-125, § 13, 8-25-2016</annotation>
       </annotations>
     </section>
     <section>
@@ -2826,7 +2826,7 @@
       <heading>Noise from material recovery facilities.</heading>
       <text>The noise limitation standards for material recovery facilities are contained in <cite path="27-282.21">section 27-282.21</cite>, <cite>City of Tampa Code</cite>.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 14, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§14">Ord. No. 2016-125, § 14, 8-25-2016</annotation>
       </annotations>
     </section>
     <section>
@@ -2834,7 +2834,7 @@
       <heading>Concurrent jurisdiction.</heading>
       <text>Other agencies with jurisdiction over noise in the City of Tampa shall have concurrent jurisdiction and any applicable rules and regulations established by such agencies shall remain in full force and effect.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2016-125, § 15, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§15">Ord. No. 2016-125, § 15, 8-25-2016</annotation>
       </annotations>
     </section>
     <section>
@@ -2859,7 +2859,7 @@
         <text>It is unlawful for any person to hunt, kill, maim or trap or in any manner attempt to kill, maim or trap or otherwise molest any domestic bird, song bird, migratory bird, wildfowl or waterfowl, except birds or fowl raised in captivity for human consumption, or to rob or otherwise molest the nests of birds nesting or located within the corporate limits of the city.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-115), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-115), 9-28-89</annotation>
       </annotations>
     </section>
     <section>
@@ -2880,7 +2880,7 @@
       <text>BAD DOG</text>
       <text>KEEP OUT</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-116), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-116), 9-28-89</annotation>
       </annotations>
     </section>
     <section>
@@ -2945,8 +2945,8 @@
       <text><em>Wake</em> means all changes in the vertical height of the water's surface caused by the passage of a vessel including, but not limited to, a vessel's bow wave, stern wake, or propeller wash.</text>
       <text><em>Watercraft</em> shall mean a vehicle, vessel, or craft designed to move across (or through) water.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 2, 4-5-2012</annotation>
-        <annotation type="History">Ord. No. 2018-72, § 2, 5-17-2018</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§2">Ord. No. 2012-38, § 2, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-72" path="§2">Ord. No. 2018-72, § 2, 5-17-2018</annotation>
       </annotations>
     </section>
     <section>
@@ -2954,45 +2954,49 @@
       <heading>Boating restricted areas established.</heading>
       <para>
         <num>(a)</num>
-        <text>The following boating restricted areas are established:</text>
+        <text>The following restricted or controlled zones are established:</text>
         <para>
           <num>(1)</num>
           <text><em>Idle speed no-wake zones.</em> The following areas are hereby designated as idle speed no wake zones within city waters:</text>
           <para>
             <num>a.</num>
-            <text>On the Seddon Channel, extending five hundred (500) feet to the north and south of the Marjorie Park Marina fuel pumps, as shown in Exhibit "HR-2" as Area 22 attached hereto and by reference made a part hereof.</text>
+            <text>On the Seddon Channel, beginning five hundred (500) feet south of the southern edge of the fuel dock at Marjorie Park Fueling Dock and ending five hundred (500) feet north of the northern edge of the fuel dock, as shown in Exhibit "A-1," the drawing dated March 25, 2003, and as delineated by Uniform Waterway Markers #1, #2, #3, and #4 in Exhibit "G-1," the Hillsborough River Waterway Marker List, dated March 17, 2003, attached hereto and by reference made parts hereof.</text>
           </para>
           <para>
             <num>b.</num>
-            <text>On the Hillsborough River, beginning from the southern edge of the Jean Street Marina and ending north at the Hillsborough River Dam, as shown in Exhibit "C-1," the drawing dated March 25, 2003, attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #22, #23, #24, #25, #26, #27, #28, #29, #30, and #31 in said Exhibit "G-1."</text>
+            <text>On the Hillsborough River, beginning five hundred (500) feet south of the southern edge of the public boat ramp at Rick's on the River Marina and ending five hundred (500) feet north of the boat ramp, as shown in Exhibit "B-1," the drawing dated March 25, 2003, attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #18 and #19 in said Exhibit "G-1."</text>
           </para>
           <para>
             <num>c.</num>
-            <text>Lying within six hundred (600) feet of the Old Tampa Bay in the vicinity of the Tampa Bayside Marina from the southerly shoreline of Rattlesnake Point Peninsula and from the westerly shoreline west of West Shore Boulevard, more particularly described in Exhibit "A," the legal description dated July 31, 2000, and in Exhibit "B", the drawing dated July 28, 2000, prepared by the Department of Business and Community Services of the City of Tampa, attached hereto and by reference made parts hereof.</text>
+            <text>On the Hillsborough River, beginning from the southern edge of the Jean Street Marina and ending north at the Hillsborough River Dam, as shown in Exhibit "C-1," the drawing dated March 25, 2003, attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #22, #23, #24, #25, #26, #27, #28, #29, #30, and #31 in said Exhibit "G-1."</text>
           </para>
           <para>
             <num>d.</num>
-            <text>On the Courtney Campbell Causeway, in the vicinity of the boat ramp, beginning five hundred (500) feet east of the edge of the easternmost dock and ending five hundred (500) feet west of the westernmost dock, as shown in Exhibit "CC-1", attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2, #3, #4, and #5 in Exhibit "CC-1A," attached hereto and by reference made a part hereof.</text>
+            <text>Lying within six hundred (600) feet of the Old Tampa Bay in the vicinity of the Tampa Bayside Marina from the southerly shoreline of Rattlesnake Point Peninsula and from the westerly shoreline west of West Shore Boulevard, more particularly described in Exhibit "A," the legal description dated July 31, 2000, and in Exhibit "B", the drawing dated July 28, 2000, prepared by the Department of Business and Community Services of the City of Tampa, attached hereto and by reference made parts hereof.</text>
           </para>
           <para>
             <num>e.</num>
-            <text>On Picnic Island, in the vicinity of the boat ramp, beginning at the pier on the southern edge and ending one hundred ten (110) feet north of the northern edge of the pier as shown in Exhibit "PI-1," attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1 and #2 in Exhibit "PI-1A," attached hereto and by reference made a part hereof.</text>
+            <text>On the Courtney Campbell Causeway, in the vicinity of the boat ramp, beginning five hundred (500) feet east of the edge of the easternmost dock and ending five hundred (500) feet west of the westernmost dock, as shown in Exhibit "CC-1", attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2, #3, #4, and #5 in Exhibit "CC-1A," attached hereto and by reference made a part hereof.</text>
           </para>
           <para>
             <num>f.</num>
-            <text>On the Davis Islands Park, in the vicinity of the east boat ramp, beginning ninety (90) feet from the northernmost edge of the north dock and ending one hundred thirty (130) feet from the southernmost edge of the south dock as shown in Exhibit "DI-1," attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2 and #3 in Exhibit "DI-1A," attached hereto and by reference made a part hereof.</text>
+            <text>On Picnic Island, in the vicinity of the boat ramp, beginning at the pier on the southern edge and ending one hundred ten (110) feet north of the northern edge of the pier as shown in Exhibit "PI-1," attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1 and #2 in Exhibit "PI-1A," attached hereto and by reference made a part hereof.</text>
           </para>
           <para>
             <num>g.</num>
-            <text>On the Gandy Boulevard, in the vicinity of the boat ramp, beginning from the eastern edge of the seawall and ending five hundred (500) feet from the westernmost boat ramp as shown in Exhibit "GBR-1," attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2 and #3 in Exhibit "GBR-1A," attached hereto and by reference made a part hereof.</text>
+            <text>On the Davis Islands Park, in the vicinity of the east boat ramp, beginning ninety (90) feet from the northernmost edge of the north dock and ending one hundred thirty (130) feet from the southernmost edge of the south dock as shown in Exhibit "DI-1," attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2 and #3 in Exhibit "DI-1A," attached hereto and by reference made a part hereof.</text>
           </para>
           <para>
             <num>h.</num>
-            <text>On Ballast Point, in the vicinity of Ballast Point Park and Pier, beginning at the boat ramp and ending five hundred (500) feet out into the water as shown in Exhibit "BP-1," attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2, and #3 in Exhibit "BP-1A," attached hereto and by reference made a part hereof.</text>
+            <text>On the Gandy Boulevard, in the vicinity of the boat ramp, beginning from the eastern edge of the seawall and ending five hundred (500) feet from the westernmost boat ramp as shown in Exhibit "GBR-1," attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2 and #3 in Exhibit "GBR-1A," attached hereto and by reference made a part hereof.</text>
           </para>
           <para>
             <num>i.</num>
-            <text>On the Hillsborough River, extending three hundred (300) feet to the north and south of the Lowry Park boat ramp, as shown in Exhibit "HR-5" as Area 26, attached hereto and by reference made a part hereof.</text>
+            <text>On Ballast Point, in the vicinity of Ballast Point Park and Pier, beginning at the boat ramp and ending five hundred (500) feet out into the water as shown in Exhibit "BP-1," attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2, and #3 in Exhibit "BP-1A," attached hereto and by reference made a part hereof.</text>
+          </para>
+          <para>
+            <num>j.</num>
+            <text>On the Hillsborough River, in the vicinity of Water Works Park, beginning at the southern point of the proposed dock and extending five hundred (500) feet to the south, and beginning on the northern point of the proposed dock and extending five hundred (500) feet to the north as shown in Exhibit "WW-1", attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #32 and #33 in said Exhibit "WW-1A".</text>
           </para>
         </para>
         <para>
@@ -3000,154 +3004,30 @@
           <text><em>Slow speed minimum wake zones.</em> The following areas are hereby designated as slow speed minimum wake zones within city waters:</text>
           <para>
             <num>a.</num>
-            <text>On Hillsborough River, beginning three hundred (300) feet south of the W. Columbus Drive bridge fender system and ending three hundred (300) feet north of the bridge fender system, as shown in Exhibit "HR-1" as Area 1, attached hereto and by reference made a part hereof.</text>
+            <text>On Seddon Channel, beginning at the northern edge of five hundred (500) feet north of the fuel dock at Marjorie Park Fueling Dock and ending at the Platt Street bridge; together with Garrison Channel, beginning from Harbour Island Boulevard (Franklin Street) bridge and ending five hundred (500) feet east of the public safety dock east of the Beneficial Drive bridge; and together with Bayshore Marina Channel, beginning at Hyde Park Avenue bridge and ending at the eastern edge of Bayshore Marina, as shown in Exhibit "D-1," the drawing dated March 25, 2003, attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #3, #4, #5, #6, #7, #8, #9, #10, #11, #12, and #13 in said Exhibit "G-1."</text>
           </para>
           <para>
             <num>b.</num>
-            <text>On the Hillsborough River, beginning five hundred (500) feet south of the southern edge of the public boat ramp at Rick's on the River Marina and ending five hundred (500) feet north of the boat ramp, as shown in Exhibit "HR-1" as Area 2, attached hereto and by reference made a part hereof.</text>
+            <text>On Hillsborough River, beginning at Platt Street bridge and ending three hundred (300) feet north of the Cass Street bridge, as shown in Exhibit "E-1," the drawing dated March 25, 2003, attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #13, #14, #15, #16, and #17 in said Exhibit "G-1."</text>
           </para>
           <para>
             <num>c.</num>
-            <text>On the Hillsborough River, three hundred (300) feet east and west of the bridge fender system of the North Boulevard Bridge, as shown in Exhibit "HR-1" as Area 3, attached hereto and by reference made a part hereof.</text>
+            <text>On Hillsborough River, beginning three hundred (300) feet south of the Hillsborough Avenue bridge and ending three hundred (300) feet north of the bridge, as shown in Exhibit "F-1," the drawing dated March 25, 2003, attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #20 and #21 in said Exhibit "G-1."</text>
           </para>
           <para>
             <num>d.</num>
-            <text>On the Hillsborough River, in the vicinity of Water Works Park, beginning at the southern point of the dock and extending five hundred (500) feet to the south, and beginning on the northern point of the existing dock and extending five hundred (500) feet to the north as shown in Exhibit "HR-1" as Area 4, attached hereto and by reference made a part hereof.</text>
+            <text>In Old Tampa Bay contiguous to the southern boundary of the existing no-wake zone described in <cite path="14-197|(a)|(2)">section 14-197(a)(2)</cite>d., extending eight thousand six hundred fifty (8,650) feet south in the waters out to and along the six-foot contour line from FMRI 2000 data to Port Tampa Drive, as shown in Exhibit "AA," the drawing dated February 5, 2003, which exhibit is attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2, #3, #4, #5, #6, #7, #8, #9, #10, #11, #12, #13,#14, #15, #16, #17 and #18 in said Exhibit "H-1."</text>
           </para>
           <para>
             <num>e.</num>
-            <text>On the Hillsborough River, three hundred (300) feet to the north and south of the bridge fender system of the Interstate 275 Bridge, also identified as the State Road 93 Bridge, as shown in Exhibit "HR-1" as Area 5, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>f.</num>
-            <text>On the Hillsborough River, three hundred (300) feet to the north and south of the bridge fender system of the Fortune Taylor Bridge, formerly known as the West Laurel Street Bridge, as shown in Exhibit "HR-1" as Area 6, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>g.</num>
-            <text>On the Hillsborough River, in the vicinity of the Julian B. Lane Riverfront Park within five hundred (500) feet to the north and south of the four (4) sixty-foot floating docks, as shown in Exhibit "HR-1" as Area 7, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>h.</num>
-            <text>On the Hillsborough River, three hundred (300) feet to the north and south of the bridge fender system of the West Cass Street Bridge, as shown in Exhibit "HR-1" as Area 8, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>i.</num>
-            <text>On the Hillsborough River, within five hundred (500) feet to the north and south of the Curtis Hixon Waterfront Park docks, as shown in Exhibit "HR-1" as Area 9, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>j.</num>
-            <text>On the Hillsborough River, three hundred (300) feet to the north and south of the Kennedy Boulevard Bridge structure with a vertical clearance of 13.75 feet at MHW, as shown in Exhibit "HR-2" as Area 10, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>k.</num>
-            <text>On the Hillsborough River, three hundred (300) feet to the north and south of the bridge fender system of the Brorein Street Bridge, as shown in Exhibit "HR-2" as Area 11, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>l.</num>
-            <text>On the Hillsborough River, three hundred (300) feet to the north and south of the bridge fender system of the Selmon Expressway Bridge, as shown in Exhibit "HR-2" as Area 12, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>m.</num>
-            <text>On the Hillsborough River, three hundred (300) feet to the north and south of the bridge fender system of the Platt Street Bridge, as shown in Exhibit "HR-2" as Area 13, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>n.</num>
-            <text>On the Hillsborough River, five hundred (500) feet to the north and south of the dock at Bayshore Boulevard, also identified as the dock for the Gasparilla Pirate Ship, as shown in Exhibit "HR-2" as Area 14, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>o.</num>
-            <text>On the Hillsborough River, three hundred (300) feet to the north and south of the bridge structure of the Davis Islands North Bridge with a vertical clearance of 9.8 feet at MHW, as shown in Exhibit "HR-2" as Area 15, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>p.</num>
-            <text>On the Hillsborough River, immediately contiguous to Hillsborough Bay, three hundred (300) feet to the north and south of the bridge structure of the Davis Islands Bridge South with a vertical clearance of 13.1 feet at MHW, as shown in Exhibit "HR-2" as Area 16, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>q.</num>
-            <text>On the Hillsborough River, five hundred (500) feet to the east and west of the docks at the Tampa Convention Center, as shown in Exhibit "HR-2" as Area 17, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>r.</num>
-            <text>On the Garrison Channel, three hundred (300) feet to the east and west of the bridge structure of the Franklin Street Bridge with a vertical clearance of 16.8 feet at MHW, as shown in Exhibit "HR-2" as Area 18, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>s.</num>
-            <text>On the Garrison Channel, five hundred (500) to the east and west of the Cotanchobee Park Canoe/Kayak Launch, as shown in Exhibit "HR-2" as Area 19, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>t.</num>
-            <text>On the Hillsborough River, three hundred (300) feet to the east and west of the bridge structure of the Beneficial Drive Bridge with a vertical clearance of 9.3 feet at MHW, as shown in Exhibit "HR-2" as Area 20, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>u.</num>
-            <text>On the Seddon Channel, five hundred (500) feet in all directions of the dock at Tampa General Hospital utilized for public safety, as shown in Exhibit "HR-2" as Area 21, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>v.</num>
-            <text>The following gap areas:</text>
-            <para>
-              <num>1.</num>
-              <text>On the Hillsborough River, the river area between the Columbus Drive Bridge and Rick's on the River, Gap "A"; and</text>
-            </para>
-            <para>
-              <num>2.</num>
-              <text>On the Hillsborough River, the river area between North Boulevard Bridge and Water Works Park, Gap "B"; and</text>
-            </para>
-            <para>
-              <num>3.</num>
-              <text>On the Hillsborough River, the river area between Julian B. Lane Riverfront Park and the Cass Street Bridge, Gap "C"; and</text>
-            </para>
-            <para>
-              <num>4.</num>
-              <text>On the Hillsborough River, the river area between Curtis Hixon Waterfront Park and the Kennedy Boulevard Bridge, Gap "D"; and</text>
-            </para>
-            <para>
-              <num>5.</num>
-              <text>On the Hillsborough River, the river area between the Kennedy Boulevard Bridge and the Brorein Street Bridge, Gap "E"; and</text>
-            </para>
-            <para>
-              <num>6.</num>
-              <text>On the Hillsborough River, the river area between the Bayshore Boulevard dock and the Davis Islands Bridge North, Gap "F"; and</text>
-            </para>
-            <para>
-              <num>7.</num>
-              <text>On the Garrison Channel, the area between the Franklin Street Bridge and the Cotanchobee Park Canoe/Kayak Launch, Gap "G"; and</text>
-            </para>
-            <para>
-              <num>8.</num>
-              <text>In the confluence area of the Hillsborough River, the Garrison Channel and the Seddon Channel between the Bayshore Boulevard docks, the Convention Center docks, and the Tampa General dock, Gap "H";</text>
-            </para>
-            <para>
-              <num>9.</num>
-              <text>In the confluence area of the Hillsborough River, the Garrison Channel and the Seddon Channel between the Convention Center docks and the Tampa General dock, Gap "I", as shown in Exhibits "HR-1" and HR-2" attached hereto and by reference made a part hereof.</text>
-            </para>
-          </para>
-          <para>
-            <num>w.</num>
-            <text>On Hillsborough River, beginning three hundred (300) feet south of the W. Dr. Martin Luther King Jr. Boulevard bridge fender system and ending three hundred (300) feet north of the bridge fender system, as shown in Exhibit "HR-3" as Area 23, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>x.</num>
-            <text>On Hillsborough River, beginning three hundred (300) feet south of the W. Hillsborough Avenue bridge fender system and ending three hundred (300) feet north of the bridge fender system, as shown in Exhibit "HR-4" as Area 24, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>y.</num>
-            <text>On the Hillsborough River, three hundred (300) feet to the north and south of the Sligh Avenue bridge structure with a vertical clearance of 11.8 feet at Mean High Water, as shown in Exhibit "HR-5" as Area 25, attached hereto and by reference made a part hereof.</text>
-          </para>
-          <para>
-            <num>z.</num>
-            <text>In Old Tampa Bay contiguous to the southern boundary of the existing no-wake zone described in <cite path="14-197|(a)|(2)">section 14-197(a)(2)</cite>d., extending eight thousand six hundred fifty (8,650) feet south in the waters out to and along the six-foot contour line from FMRI 2000 data to Port Tampa Drive, as shown in Exhibit "AA," the drawing dated February 5, 2003, which exhibit is attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2, #3, #4, #5, #6, #7, #8, #9, #10, #11, #12, #13, #14, #15, #16, #17 and #18 in said Exhibit "H-1."</text>
-          </para>
-          <para>
-            <num>aa.</num>
             <text>In the northeast corner of Old Tampa Bay, near the Bay Crest Channel, approximately five thousand (5,000) feet northwest from the Rocky Point peninsula, extending one thousand (1,000) feet due south and extending approximately one thousand one hundred (1,100) feet in a southwesterly direction to the north side of the existing Courtney Campbell Causeway channel, as shown in Exhibit "AA", which exhibit is attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2, #3, #4, #5, #6, #7, #8, #9, #10, #11, and #12 in said Exhibit "H-1."</text>
           </para>
           <para>
-            <num>bb.</num>
+            <num>f.</num>
             <text>On Davis Islands, in the vicinity of the Seaplane Basin, beginning and ending at the entrance located at the south side and including the entire basin as shown in Exhibit "DI-2," attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2, #3, and #4 in Exhibit "DI-2A," attached hereto and by reference made a part hereof.</text>
           </para>
           <para>
-            <num>cc.</num>
+            <num>g.</num>
             <text>On the Courtney Campbell Causeway, contiguous to the southern boundary of the existing vessel exclusion zone described in <cite path="14-197|(a)|(3)">section 14-197(a)(3)</cite>a., beginning at approximately two thousand (2,000) feet west of the far eastern end of Ben T. Davis Beach and ending approximately four thousand four hundred (4,400) feet southeast at a point approximately one thousand two hundred fifty (1,250) feet south of the southern most tip of Rocky Point as shown in Exhibit "RP-BSZ-1" attached hereto and by reference made a part hereof, and as delineated by Uniform Waterway Markers #1, #2, #3, #4, and #5 in Exhibit "RP-BSZ-1A" attached hereto and by reference made a part hereof.</text>
           </para>
         </para>
@@ -3217,10 +3097,9 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 3, 4-5-2012</annotation>
-        <annotation type="History">Ord. No. 2014-75, § 2, 8-28-2014</annotation>
-        <annotation type="History">Ord. No. 2017-124, § 2, 9-7-2017</annotation>
-        <annotation type="History">Ord. No. 2020-105, § 1, 10-15-2020</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§3">Ord. No. 2012-38, § 3, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2014-75" path="§2">Ord. No. 2014-75, § 2, 8-28-2014</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-124" path="§2">Ord. No. 2017-124, § 2, 9-7-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -3228,7 +3107,7 @@
       <heading>Waterskiing under bridges prohibited.</heading>
       <text>It is unlawful for any person to water ski or to be towed or pulled under any bridge or pier within the city.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 6, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§6">Ord. No. 2012-38, § 6, 4-5-2012</annotation>
         <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Water skis and aquaplanes regulated, F.S. § 327.37; skiing prohibited while under influence of liquor or drugs, F.S. § 327.38.</annotation>
       </annotations>
     </section>
@@ -3237,7 +3116,7 @@
       <heading>Bow riding prohibited.</heading>
       <text>It is unlawful for any person to ride and for the operator of any watercraft or vessel to allow any person to ride on the bow of the watercraft or vessel with that person's extremities hanging over the bow.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 7, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§7">Ord. No. 2012-38, § 7, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -3356,7 +3235,7 @@
         <text>Except for <cite path="14-200|(e)">subsection (e)</cite>, any violation of <cite path="14-200">this section</cite> shall be punished as provided in <cite path="1-6">section 1-6</cite> of this Code. Any person convicted of violating <cite path="14-200|(e)">subsection (e)</cite> is guilty of a misdemeanor of the second degree, punishable as provided in F.S. § 775.082 or § 775.083 as now enacted or hereafter amended.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 9, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§9">Ord. No. 2012-38, § 9, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -3371,7 +3250,7 @@
         <text>The periods of dangerously high water and flooding, as used in <cite path="14-201">this section</cite>, shall be from the time when the waters of the river in flood shall reach an elevation of more than twenty-one and one-half (21.5) feet, as measured at the city dam across the Hillsborough River, and shall continue until a period of at least thirty (30) days after the waters shall have receded and reached normal levels again.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 10, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§10">Ord. No. 2012-38, § 10, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -3379,7 +3258,7 @@
       <heading>Diving or jumping from publicly-owned bridges, docks, seawalls, or piers.</heading>
       <text>It is unlawful for any person to dive or jump from any publicly-owned bridge, dock, seawall, or pier within the city.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 11, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§11">Ord. No. 2012-38, § 11, 4-5-2012</annotation>
         <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Diving from publicly owned bridge, F.S. § 316.130(17).</annotation>
       </annotations>
     </section>
@@ -3388,7 +3267,7 @@
       <heading>Swimming in boat channels.</heading>
       <text>It is unlawful for any person to swim or wade in any boat channel or boating zone or within two hundred (200) feet of a boat ramp within the city.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 12, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§12">Ord. No. 2012-38, § 12, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -3396,7 +3275,7 @@
       <heading>Watercraft or vessels on retention ponds.</heading>
       <text>It is unlawful for any person to place or use any watercraft or vessel on any city retention pond without express written permission from the city.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 13, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§13">Ord. No. 2012-38, § 13, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -3404,7 +3283,7 @@
       <heading>Use of searchlights, horns and whistles.</heading>
       <text>The unnecessary use of searchlights, horns, whistles or bells on any vessel or watercraft within the corporate limits of the city is prohibited.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 16, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§16">Ord. No. 2012-38, § 16, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -3412,7 +3291,7 @@
       <heading>Blowing steam whistles.</heading>
       <text>It is unlawful for any person to blow or cause to be blown any steam whistle within the city limits, provided that nothing in <cite path="14-206">this section</cite> shall be construed to prevent any steamboat from blowing its whistles in accordance with the navigation laws of the United States or for the purpose of having the drawbridges across the Hillsborough River opened, and provided that <cite path="14-206">this section</cite> shall not be construed as to prevent the blowing of steam whistles of any sawmill or other manufacturing establishment between the hours of 5:00 a.m. and 6:00 p.m.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 17, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§17">Ord. No. 2012-38, § 17, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -3420,7 +3299,7 @@
       <heading>Certain devices upon vessels or watercraft prohibited.</heading>
       <text>It is unlawful for vessels or watercrafts within the limits of the city to contain devices which have no use other than to launch, cast, fire, fling, sling or toss any object which may cause injury to persons, property, or wildlife.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 18, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§18">Ord. No. 2012-38, § 18, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -3428,7 +3307,7 @@
       <heading>Transporting gasoline or fuel.</heading>
       <text>It is unlawful for any person to transport any gasoline or fuel to or from any watercraft, vessel or dock except by a pipeline or in an UL-approved closed container.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 19, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§19">Ord. No. 2012-38, § 19, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -3443,7 +3322,7 @@
         <text>The director of growth management or his or her designee may issue a permit authorizing all or any of the dredging operations prohibited by <cite path="14-209|(a)">subsection (a)</cite> in case of emergency, when it is necessary to prevent damage to property, or in other cases when, after investigation, it is determined that, because of the location of the dredging operations, the distance to occupied residences and the manner and method of operation proposed, the operation will not constitute a nuisance to residents in the vicinity.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 21, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§21">Ord. No. 2012-38, § 21, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -3694,7 +3573,7 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2012-38, § 23, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-38" path="§23">Ord. No. 2012-38, § 23, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -3702,7 +3581,7 @@
       <heading>Designation of public mooring fields.</heading>
       <text><em>Designation of public mooring fields.</em> Designated public mooring fields shall be subject to the rules, regulations and permitting procedures established by the city and such other local, state, or federal agencies with jurisdiction over such matters.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2018-72, § 3, 5-17-2018</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-72" path="§3">Ord. No. 2018-72, § 3, 5-17-2018</annotation>
       </annotations>
     </section>
     <section>
@@ -3767,7 +3646,7 @@
         <text><em>Repeat violation.</em> The officer does not have to issue a notice of violation prior to seeking the penalties as provided under sub-section (b)(4) if the officer determines that the person is in repeat violation of <cite path="14-212">section 14-212</cite>, pursuant to the definition provided in <cite path="14-196">section 14-196</cite>.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2018-72, § 4, 5-17-2018</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-72" path="§4">Ord. No. 2018-72, § 4, 5-17-2018</annotation>
       </annotations>
     </section>
     <section>
@@ -3799,7 +3678,7 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2018-72, § 5, 5-17-2018</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-72" path="§5">Ord. No. 2018-72, § 5, 5-17-2018</annotation>
       </annotations>
     </section>
     <section>
@@ -3863,7 +3742,7 @@
         <text><em>Exhaustion of administrative remedies.</em> Anyone contesting the legality of any removal, storage, and impoundment of any vessel pursuant to this article shall be deemed to have exhausted the administrative remedies under this article once an adjudication or finding has been made by a hearing officer as provided in <cite path="14-214">this section</cite>.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2018-72, § 6, 5-17-2018</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-72" path="§6">Ord. No. 2018-72, § 6, 5-17-2018</annotation>
       </annotations>
     </section>
     <section>
@@ -3871,7 +3750,7 @@
       <heading>Disposition of unrecovered impounded vessels.</heading>
       <text>If a vessel impounded pursuant to <cite path="14-213">section 14-213</cite> is not recovered and outstanding costs are not paid within ninety (90) days after the unlawfully anchored or moored live-aboard vessel is removed from the unlawful anchoring or mooring, then the vessel is considered abandoned. The city may impose a lien against the property of the owner of the vessel for the outstanding costs. The city may also dispose of the vessel in accordance with F.S. Ch. 705, or any amended or successor statute.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2018-72, § 7, 5-17-2018</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2018-72" path="§7">Ord. No. 2018-72, § 7, 5-17-2018</annotation>
       </annotations>
     </section>
     <section>
@@ -3893,7 +3772,7 @@
       <text><em>Navigable waters</em> means all portions of the navigable waters of Hillsborough Bay, Hillsborough River, Sparkman Bay, McKay Bay, the estuary, Hendry and Knight Channel, the main steamship channel and all other navigable waters lying within the corporate limits of the city extending to the high-water mark.</text>
       <text><em>Oil, petroleum, petroleum products</em> means oil, petroleum or petroleum products of any kind or in any form, including fuel oil, oil sludge and oil refuse.</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-176), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-176), 9-28-89</annotation>
         <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
       </annotations>
     </section>
@@ -3902,7 +3781,7 @@
       <heading>Dumping or discharging of oil—Into navigable waters.</heading>
       <text>It is unlawful for any person to place, throw, discharge or deposit or permit to be placed, discharged or deposited by any method or manner, either directly or indirectly, into or upon navigable waters within the corporate limits of the city any oil from any vessel using oil as fuel or from any dock, wharf or from the shoreline; provided that the provisions hereof shall not apply in case of emergency imperiling life or property or unavoidable accident, collision or standing or where the discharge of such oil may be permitted by regulations prescribed by the Secretary of Defense of the United States as provided in sections 434 to 437, inclusive, of the Oil Pollution Act of 1924.</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-177), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-177), 9-28-89</annotation>
       </annotations>
     </section>
     <section>
@@ -3910,7 +3789,7 @@
       <heading>Same—Into sewers.</heading>
       <text>It is unlawful for any person to place, throw or deposit or cause to be placed, discharged or deposited oil, petroleum or oil products in any sewer which empties into any navigable waters or any place in or near the bank or shore spaces of any such navigable waters in such place that the same may run or be washed into or upon such navigable waters.</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-178), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-178), 9-28-89</annotation>
         <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Protection of public drainage systems, <cite path="21-9">§ 21-9</cite>; sanitary sewers, <cite path="26-116">§ 26-116</cite> et seq.</annotation>
       </annotations>
     </section>
@@ -3919,7 +3798,7 @@
       <heading>Throwing or discharging trash, debris, etc., into navigable waters.</heading>
       <text>It is unlawful for any person to place, throw, discharge or deposit or cause, suffer or procure to be placed, thrown, discharged or deposited, either from or out of any ship, barge or other floating craft of any kind or from the shore, wharf, manufacturing establishment or mill of any kind, any trash, garbage, debris, acids, timber, logs, lumber or refuse matter of any kind or description whatsoever, other than that flowing from streets or sewers and passing therefrom in liquid state, into any navigable waters lying within the corporate limits of the city or into any tributary of any such navigable water from which the same shall flow or be washed into such navigable water. It is unlawful for any person to deposit or cause, suffer or procure to be deposited materials or matter of any such kind in any place on the bank of any navigable water or on the bank of any tributary of any navigable water where the same shall be liable to be washed into such navigable water, either by ordinary or high tide or by storms or floods or otherwise; provided that nothing contained in <cite path="14-239">this section</cite> shall extend to, apply to or prohibit the operation in connection with the improvement of navigable waters or construction of public works considered necessary and proper by the United States officers supervising such improvement or public work. Nothing contained in <cite path="14-239">this section</cite> shall extend to, apply to or prohibit the deposit of any materials upon permit issued by the Secretary of Defense of the United States nor shall <cite path="14-239">this section</cite> be construed as prohibiting or declaring that to be unlawful which is permissible in accordance with the provisions of U.S.C. Tit. 33 § 407 relating to navigation or navigable waters.</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-179), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-179), 9-28-89</annotation>
         <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Solid waste, <cite path="26-146">§ 26-146</cite> et seq.</annotation>
       </annotations>
     </section>
@@ -3928,7 +3807,7 @@
       <heading>Unlawful pumping of bilges or disposal of petroleum products.</heading>
       <text>It is unlawful for any person to pump the bilge of any watercraft into the waters of the Marjorie Park Yacht Basin or Bayshore Boulevard Yacht Basin or any canals, lakes or waterways within the city.</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-238, § 2(24-180), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-180), 9-28-89</annotation>
       </annotations>
     </section>
     <section>
@@ -3966,7 +3845,7 @@
         <text><em>Law enforcement officer</em> means the chief of police of the city or his designee.</text>
         <text><em>Residential premises</em> means any structure or combination of structures which serve as a dwelling unit, including single-family and multifamily units.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-186(A)), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-186(A)), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
         </annotations>
       </section>
@@ -3991,8 +3870,8 @@
           <text>The names, addresses and telephone numbers of no less than two (2) alternate persons to be notified to respond to an alarm activation if the owner or lessee can not be contacted.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-186(B)), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 91-114, § 9, 7-18-91</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-186(B)), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 91-114" path="§9">Ord. No. 91-114, § 9, 7-18-91</annotation>
         </annotations>
       </section>
       <section>
@@ -4041,9 +3920,9 @@
           <text><em>Preventative maintenance.</em> It shall be the responsibility of the owner or lessee of an alarm system to cause the necessary maintenance required to prevent false alarm activation.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-186(C)), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 91-114, § 10, 7-18-91</annotation>
-          <annotation type="History">Ord. No. 92-48, § 1, 4-2-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-186(C)), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 91-114" path="§10">Ord. No. 91-114, § 10, 7-18-91</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-48" path="§1">Ord. No. 92-48, § 1, 4-2-92</annotation>
         </annotations>
       </section>
       <section>
@@ -4051,7 +3930,7 @@
         <heading>Requirement to respond to premises when alarm activated.</heading>
         <text>Every person who owns, operates or leases an alarm system and who shall knowingly or purposefully fail to respond to report to his premises or facility after notification by the law enforcement officer of the activation of any alarm system, whether false or not, within one (1) hour of the notification shall be deemed in violation of this division.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-186(D)), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-186(D)), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -4059,7 +3938,7 @@
         <heading>Automatic dialing devices.</heading>
         <text>It is unlawful for any person to install, maintain, own, possess or operate any automatic dialing device alarm system regulated or programmed to make connection with any telephone number installed in any law enforcement facility, except to such telephone number determined and designated by the law enforcement officer. In addition thereto, the law enforcement officer may establish a reasonable fee to defray the installation and recurring charge for the special telephone equipment, to be paid by persons who shall program any automatic dialing device to the telephone number.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-186(E)), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-186(E)), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -4067,8 +3946,8 @@
         <heading>Right to a hearing.</heading>
         <text>Upon request of the person assessed a fee, a hearing may be held with the law enforcement officer to review the assessment. Such request must be made within fifteen (15) days of receipt of the notice of assessment. Evidence and testimony in opposition to such assessment may be presented at the hearing.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-238, § 2(24-186(F)), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 91-114, § 11, 7-18-91</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-186(F)), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 91-114" path="§11">Ord. No. 91-114, § 11, 7-18-91</annotation>
         </annotations>
       </section>
       <section>
@@ -4109,8 +3988,8 @@
         <text>The Public Nuisance Abatement Board shall elect its own chairman and vice-chairman and may conduct business with a quorum of four (4) members.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-70, § 4, 5-7-09</annotation>
-        <annotation type="History">Ord. No. 2017-105, § 1, 7-13-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-70" path="§4">Ord. No. 2009-70, § 4, 5-7-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-105" path="§1">Ord. No. 2017-105, § 1, 7-13-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -4128,8 +4007,8 @@
       <text><em>Recurring public nuisance conduct</em> means any single or multiple instance of the conduct described in <cite path="14-293|(c)">section 14-293(c)</cite> occurring during the effective term of an order entered by the Board.</text>
       <text><em>Respondent</em> means the owner, operator, and any other person against whom a complaint is brought pursuant to this article.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2009-70, § 5, 5-7-09</annotation>
-        <annotation type="History">Ord. No. 2017-105, § 2, 7-13-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-70" path="§5">Ord. No. 2009-70, § 5, 5-7-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-105" path="§2">Ord. No. 2017-105, § 2, 7-13-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -4295,10 +4174,10 @@
         <text>Issue orders having the force of law consistent with authority contained herein and in F.S. § 893.138.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-70, § 6, 5-7-09</annotation>
-        <annotation type="History">Ord. No. 2016-125, § 17, 8-25-2016</annotation>
-        <annotation type="History">Ord. No. 2017-13, § 4, 1-12-2017</annotation>
-        <annotation type="History">Ord. No. 2017-105, § 3, 7-13-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-70" path="§6">Ord. No. 2009-70, § 6, 5-7-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-125" path="§17">Ord. No. 2016-125, § 17, 8-25-2016</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-13" path="§4">Ord. No. 2017-13, § 4, 1-12-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-105" path="§3">Ord. No. 2017-105, § 3, 7-13-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -4364,8 +4243,8 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-70, § 7, 5-7-09</annotation>
-        <annotation type="History">Ord. No. 2017-105, § 4, 7-13-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-70" path="§7">Ord. No. 2009-70, § 7, 5-7-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-105" path="§4">Ord. No. 2017-105, § 4, 7-13-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -4455,8 +4334,8 @@
         <text>The Board may retain jurisdiction for one (1) year after the order's effective date to modify the order where just cause is found to exist.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-70, § 8, 5-7-09</annotation>
-        <annotation type="History">Ord. No. 2017-105, § 5, 7-13-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-70" path="§8">Ord. No. 2009-70, § 8, 5-7-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-105" path="§5">Ord. No. 2017-105, § 5, 7-13-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -4523,8 +4402,8 @@
         <text>As long as the Board maintains jurisdiction over the property, the Board may reduce or eliminate all fines that have accrued against the property and authorize the release of any outstanding liens placed by the city if the Board finds that the owner or the person in charge has taken appropriate corrective steps in good faith to minimize the public nuisance condition or in accordance with the Board's order.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-70, § 9, 5-7-09</annotation>
-        <annotation type="History">Ord. No. 2017-105, § 6, 7-13-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-70" path="§9">Ord. No. 2009-70, § 9, 5-7-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-105" path="§6">Ord. No. 2017-105, § 6, 7-13-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -4555,7 +4434,7 @@
         <text>An order entered under <cite path="14-295">section 14-295</cite> may be enforced pursuant to the procedures contained in F.S. § 120.69.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-70, § 10, 5-7-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-70" path="§10">Ord. No. 2009-70, § 10, 5-7-09</annotation>
       </annotations>
     </section>
     <section>
@@ -4563,7 +4442,7 @@
       <heading>Judicial review.</heading>
       <text>An order of the Board shall be subject to judicial review in the manner provided by law.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2009-70, § 11, 5-7-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-70" path="§11">Ord. No. 2009-70, § 11, 5-7-09</annotation>
       </annotations>
     </section>
     <section>
@@ -4578,7 +4457,7 @@
         <text>All powers and rights conferred by this article shall be in addition to and supplemental to those conferred by any other general or special laws governing public nuisances and shall be liberally construed to effectuate the purpose of this article.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-70, § 12, 5-7-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-70" path="§12">Ord. No. 2009-70, § 12, 5-7-09</annotation>
       </annotations>
     </section>
     <section>
@@ -4586,7 +4465,7 @@
       <heading>Severability.</heading>
       <text>If any section, paragraph, sentence, clause, phrase, or word of this article is for any reason held by the court to be unconstitutional, inoperative or void, such holding shall not affect the remainder of this article.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2009-70, § 13, 5-7-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-70" path="§13">Ord. No. 2009-70, § 13, 5-7-09</annotation>
       </annotations>
     </section>
   </container>
@@ -4606,7 +4485,7 @@
       <text><em>Slot machine:</em> Any mechanical or electrical contrivance, terminal that may or may not be capable of downloading slot games from a central server system, machine, or other device that, upon insertion of a coin, bill, ticket, token, or similar object or upon payment of any monetary consideration whatsoever, including the use of any electronic payment system, is available to play or operate, the play or operation of which, including any element of chance, may deliver or entitle the person or persons playing or operating the contrivance, terminal, machine, or other device to receive cash, billets, tickets, tokens, or electronic credits to be exchanged for cash or to receive merchandise or anything of value whatsoever, whether the payoff is made automatically from the machine or manually. Slot machines may use spinning reels, video displays, cathode ray tubes, microprocessors or other similar technology, and have as their object, the presentation or lining up, arrangement, or juxtaposition of symbols, alphanumeric signs, colors, or figures to determine a result or outcome.</text>
       <text>Nothing in this article is intended to conflict with the provisions of the Florida Constitution or F.S. Ch. 849, F.S. §§ 849.0935 and 849.094. In the event of a direct and express conflict between this Article and either the Florida Constitution or F.S. Ch. 849, then the provisions of the Florida Constitution or F.S. Ch. 849, as applicable, control.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2013-38, § 2, 3-21-2013</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-38" path="§2">Ord. No. 2013-38, § 2, 3-21-2013</annotation>
       </annotations>
     </section>
     <section>
@@ -4614,7 +4493,7 @@
       <heading>Legislative intent.</heading>
       <text>The intent of the City of Tampa in adopting this article is to broadly prohibit the possession and/or use of simulated gambling devices, including any related activity or behavior which can be reasonably construed to be the use of simulated gambling devices. Further, the City of Tampa, in prohibiting simulated gambling devices, in no way intends to approve the use of actual slot machines, other forms of casino gambling, or other types of gambling devices. In addition, this prohibition is aimed directly at devices that simulate gambling activity, regardless of whether the devices or the simulations in and of themselves constitute gambling. The interests of the citizens of the City of Tampa will be better served if the operation and use of simulated gambling devices is prohibited and existing devises are adequately regulated. This would ensure the limitation of the expanded operation and use of simulated gambling devices within the City of Tampa.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2013-38, § 3, 3-21-2013</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-38" path="§3">Ord. No. 2013-38, § 3, 3-21-2013</annotation>
       </annotations>
     </section>
     <section>
@@ -4622,7 +4501,7 @@
       <heading>Prohibition of simulated gambling devices.</heading>
       <text>It is unlawful within the City of Tampa for any person to design, develop, manage, supervise, maintain, provide, produce, possess or use a simulated gambling device. Each individual act to design, develop, manage, supervise, maintain, provide, produce, possess or use a simulated gambling device constitutes a separate violation of this article.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2013-38, § 4, 3-21-2013</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-38" path="§4">Ord. No. 2013-38, § 4, 3-21-2013</annotation>
       </annotations>
     </section>
     <section>
@@ -4665,7 +4544,7 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2013-38, § 5, 3-21-2013</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-38" path="§5">Ord. No. 2013-38, § 5, 3-21-2013</annotation>
       </annotations>
     </section>
     <section>
@@ -4716,7 +4595,7 @@
         <text>In the event that an existing establishment either fails to remain operational or fails to operate in a manner consistent with this <cite path="14-305">section 14-305</cite>, for more than sixty (60) days, then the existing establishment will be deemed abandoned and the continued operation of the premises will be deemed prohibited pursuant to <cite path="14-303">section 14-303</cite>.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2013-38, § 6, 3-21-2013</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-38" path="§6">Ord. No. 2013-38, § 6, 3-21-2013</annotation>
       </annotations>
     </section>
     <section>
@@ -4740,7 +4619,7 @@
         <text>Utilizing any other action or enforcement method allowable by law.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2013-38, § 7, 3-21-2013</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-38" path="§7">Ord. No. 2013-38, § 7, 3-21-2013</annotation>
       </annotations>
     </section>
   </container>
@@ -4753,7 +4632,7 @@
       <heading>Intent.</heading>
       <text>The intent of this ordinance is to protect the physical and psychological well-being of minors, including but not limited to lesbian, gay, bisexual, transgender and/or questioning youth, from exposure to the serious harms and risks caused by conversion therapy or reparative therapy by licensed providers, including but not limited to licensed therapists. These provisions are exercises of police power of the city for the public safety, health, and welfare; and its provisions shall be liberally construed to accomplish that purpose.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2017-47, § 3, 4-6-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-47" path="§3">Ord. No. 2017-47, § 3, 4-6-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -4763,7 +4642,7 @@
       <text><em>Minor</em> means any person less than eighteen (18) years of age.</text>
       <text><em>Provider</em> means any person who is licensed by the State of Florida to provide professional counseling, or who performs counseling as part of his or her professional training under F.S. chs. 456, 458, 459, 490 or 491, as such chapters may be amended, including but not limited to, medical practitioners, osteopathic practitioners, psychologists, psychotherapists, social workers, marriage and family therapists, and licensed counselors. A provider does not include members of the clergy who are acting in their roles as clergy or pastoral counselors and providing religious counseling to congregants, as long as they do not hold themselves out as operating pursuant to any of the aforementioned Florida Statutes licenses.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2017-47, § 4, 4-6-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-47" path="§4">Ord. No. 2017-47, § 4, 4-6-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -4771,7 +4650,7 @@
       <heading>Conversion therapy prohibited.</heading>
       <text>It shall be unlawful for any provider to practice conversion therapy efforts on any individual who is a minor regardless of whether the provider receives monetary compensation in exchange for such services.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2017-47, § 5, 4-6-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-47" path="§5">Ord. No. 2017-47, § 5, 4-6-2017</annotation>
       </annotations>
     </section>
     <section>
@@ -4798,7 +4677,7 @@
         <text>These penalties shall not preclude any other remedies available at law or in equity, including, injunctive relief in the circuit court.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2017-47, § 6, 4-6-2017</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-47" path="§6">Ord. No. 2017-47, § 6, 4-6-2017</annotation>
       </annotations>
     </section>
   </container>

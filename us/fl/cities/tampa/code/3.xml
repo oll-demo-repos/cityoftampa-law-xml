@@ -105,10 +105,10 @@
         <annotation><em>(4-PGC)</em>—Beer, wine and liquor for sale or consumption from mobile carts and temporary bars on a public golf course owned and/or operated by a public entity, having at least nine (9) holes and comprised of a minimum of thirty-five (35) acres of land. The 4-PGC is not subject to the provisions of <cite path="3-90">section 3-90</cite> and <cite path="3-70|(a)">section 3-70(a)</cite>.</annotation>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 99-229, § 1, 10-28-99</annotation>
-        <annotation type="History">Ord. No. 2006-208, § 2, 9-7-06</annotation>
-        <annotation type="History">Ord. No. 2006-229, § 1, 9-28-06</annotation>
-        <annotation type="History">Ord. No. 2007-19, § 1, 2-1-07</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 99-229" path="§1">Ord. No. 99-229, § 1, 10-28-99</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-208" path="§2">Ord. No. 2006-208, § 2, 9-7-06</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-229" path="§1">Ord. No. 2006-229, § 1, 9-28-06</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2007-19" path="§1">Ord. No. 2007-19, § 1, 2-1-07</annotation>
       </annotations>
     </section>
     <section>
@@ -259,7 +259,7 @@
         <text>Alcoholic beverages dispensed shall be deemed an integral part of the convention or trade show.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 99-229, § 1, 10-28-99</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 99-229" path="§1">Ord. No. 99-229, § 1, 10-28-99</annotation>
       </annotations>
     </section>
   </container>

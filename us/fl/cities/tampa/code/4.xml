@@ -15,8 +15,8 @@
       <text>The intent of <cite path="4">this chapter</cite> is to establish a policy for the city, in keeping with the vitality for which it is nationally recognized, and in order to enhance its aesthetic environment, to encourage private developers/owners of commercial properties to commission a piece of art for each new development or mall or structure or, in lieu thereof, to donate monies to the city for public art. The private developers/owners should be inspired to invest time, effort and money into the art displayed on their sites, recognizing that the art not only will become integral, lasting components of the cityscape but will be of intrinsic value to their developments. Further, the city, desiring to expand public experience and exposure to culture through various art forms and to enhance the appearance of public facilities and improve the environment of the city on behalf of its citizens, intends to provide for the incorporation of visual art in the design and construction of public facilities within the city.</text>
       <annotations>
         <annotation type="History">Code 1971, <cite path="55-1">§ 55-1</cite></annotation>
-        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
-        <annotation type="History">Ord. No. 2000-227, § 2, 8-31-00</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 8860-A" path="§1">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-227" path="§2">Ord. No. 2000-227, § 2, 8-31-00</annotation>
       </annotations>
     </section>
     <section>
@@ -38,8 +38,8 @@
       <text><em>Works of art</em> or <em>artworks</em> means tangible creations by artists exhibiting the highest quality of skill and aesthetic principles, including but not limited to paintings, sculptures, stained glass, statues, bas reliefs, engravings, carvings, frescoes, mobiles, murals, collages, mosaics, tapestries, photographs, drawings, monuments and fountains.</text>
       <annotations>
         <annotation type="History">Code 1971, <cite path="55-2">§ 55-2</cite></annotation>
-        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
-        <annotation type="History">Ord. No. 89-07, § 1(55-2), 1-5-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 8860-A" path="§1">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-07" path="§1">Ord. No. 89-07, § 1(55-2), 1-5-89</annotation>
         <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
       </annotations>
     </section>
@@ -67,8 +67,8 @@
         <text>The public art fund shall be used solely for the selection, commissioning, acquisition, installation, maintenance, administration and insurance of the works of art or in relation thereto; and such funds shall be administered by the mayor.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 89-07, § 2(55-3), 1-5-89</annotation>
-        <annotation type="History">Ord. No. 2000-227, § 3, 8-31-00</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-07" path="§2">Ord. No. 89-07, § 2(55-3), 1-5-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-227" path="§3">Ord. No. 2000-227, § 3, 8-31-00</annotation>
         <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Finance generally, <cite path="2-231">§ 2-231</cite> et seq.</annotation>
       </annotations>
     </section>
@@ -89,9 +89,9 @@
       </para>
       <annotations>
         <annotation type="History">Code 1971, <cite path="55-4">§ 55-4</cite></annotation>
-        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
-        <annotation type="History">Ord. No. 89-07, § 3(55-4), 1-5-89</annotation>
-        <annotation type="History">Ord. No. 2000-227, § 4, 8-31-00</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 8860-A" path="§1">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-07" path="§3">Ord. No. 89-07, § 3(55-4), 1-5-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-227" path="§4">Ord. No. 2000-227, § 4, 8-31-00</annotation>
         <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Finance generally, <cite path="2-231">§ 2-231</cite> et seq.</annotation>
       </annotations>
     </section>
@@ -119,8 +119,8 @@
         <text>Any building permit for construction or reconstruction of a commercial structure shall be reported to the public art committee.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 89-07, § 8(55-11), 1-5-89</annotation>
-        <annotation type="History">Ord. No. 2000-227, § 5, 8-31-00</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-07" path="§8">Ord. No. 89-07, § 8(55-11), 1-5-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-227" path="§5">Ord. No. 2000-227, § 5, 8-31-00</annotation>
       </annotations>
     </section>
     <section>
@@ -135,7 +135,7 @@
         <text>Artists, as a part of any contractual agreement with the city for the provision of a work of art, shall be required to submit to the public arts committee a "Maintenance and Inventory Sheet," including annual cost projections, which details the maintenance and ongoing care of the artwork.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 89-07, § 9(55-12), 1-5-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-07" path="§9">Ord. No. 89-07, § 9(55-12), 1-5-89</annotation>
       </annotations>
     </section>
     <section>
@@ -154,8 +154,8 @@
       <text>There is hereby established a committee to be known as the public art committee.</text>
       <annotations>
         <annotation type="History">Code 1971, <cite path="55-6">§ 55-6</cite></annotation>
-        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
-        <annotation type="History">Ord. No. 2000-227, § 7, 8-31-00</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 8860-A" path="§1">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-227" path="§7">Ord. No. 2000-227, § 7, 8-31-00</annotation>
       </annotations>
     </section>
     <section>
@@ -191,9 +191,9 @@
       </para>
       <annotations>
         <annotation type="History">Code 1971, <cite path="55-7">§ 55-7</cite></annotation>
-        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
-        <annotation type="History">Ord. No. 89-07, § 5(55-7), 1-5-89</annotation>
-        <annotation type="History">Ord. No. 2000-227, § 8, 8-31-00</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 8860-A" path="§1">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-07" path="§5">Ord. No. 89-07, § 5(55-7), 1-5-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-227" path="§8">Ord. No. 2000-227, § 8, 8-31-00</annotation>
       </annotations>
     </section>
     <section>
@@ -202,9 +202,9 @@
       <text>Members of the public art committee shall not be entitled to compensation; provided that all members shall receive reimbursement for parking in city garages and for mileage for any board-related business except travel to and from regularly scheduled and specially called board meetings. Such reimbursement shall be consistent with city policy.</text>
       <annotations>
         <annotation type="History">Code 1971, <cite path="55-8">§ 55-8</cite></annotation>
-        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
-        <annotation type="History">Ord. No. 9271-A, § 11, 5-29-86</annotation>
-        <annotation type="History">Ord. No. 2000-227, § 9, 8-31-00</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 8860-A" path="§1">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 9271-A" path="§11">Ord. No. 9271-A, § 11, 5-29-86</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-227" path="§9">Ord. No. 2000-227, § 9, 8-31-00</annotation>
       </annotations>
     </section>
     <section>
@@ -252,9 +252,9 @@
       </para>
       <annotations>
         <annotation type="History">Code 1971, <cite path="55-9">§ 55-9</cite></annotation>
-        <annotation type="History">Ord. No. 8860-A, § 1, 4-18-85</annotation>
-        <annotation type="History">Ord. No. 89-07, § 6(55-9), 1-5-89</annotation>
-        <annotation type="History">Ord. No. 2000-227, § 10, 8-31-00</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 8860-A" path="§1">Ord. No. 8860-A, § 1, 4-18-85</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-07" path="§6">Ord. No. 89-07, § 6(55-9), 1-5-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-227" path="§10">Ord. No. 2000-227, § 10, 8-31-00</annotation>
       </annotations>
     </section>
     <section>
@@ -298,8 +298,8 @@
         <text>The committee shall adopt rules and regulations, including the creation of subcommittees, to implement <cite path="4">this chapter</cite>.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 89-07, § 7(55-10), 1-5-89</annotation>
-        <annotation type="History">Ord. No. 2000-227, § 11, 8-31-00</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-07" path="§7">Ord. No. 89-07, § 7(55-10), 1-5-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-227" path="§11">Ord. No. 2000-227, § 11, 8-31-00</annotation>
       </annotations>
     </section>
   </container>

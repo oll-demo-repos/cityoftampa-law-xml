@@ -16,7 +16,7 @@
       <heading>Title.</heading>
       <text><cite path="12">This chapter</cite> shall be known and may be cited as the "City of Tampa Human Rights Ordinance."</text>
       <annotations>
-        <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
       </annotations>
     </section>
     <section>
@@ -48,11 +48,11 @@
       <text><em>Sex.</em> The terms "sex" or "because of sex" or "on the basis of sex" include, but are not limited to, because of or on the basis of pregnancy, childbirth or related medical conditions.</text>
       <text><em>Sexual orientation</em> means the condition of being heterosexual, homosexual, or bi-sexual or having a history of such identification. This definition is not intended to permit any practice prohibited by state or local law.</text>
       <annotations>
-        <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-        <annotation type="History">Ord. No. 96-201, §§ 1, 2, 9-19-96</annotation>
-        <annotation type="History">Ord. No. 96-252, § 1, 11-14-96</annotation>
-        <annotation type="History">Ord. No. 2009-166, § 1, 11-19-09</annotation>
-        <annotation type="History">Ord. No. 2013-65, § 1, 5-16-2013</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§1,2">Ord. No. 96-201, §§ 1, 2, 9-19-96</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-252" path="§1">Ord. No. 96-252, § 1, 11-14-96</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§1">Ord. No. 2009-166, § 1, 11-19-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-65" path="§1">Ord. No. 2013-65, § 1, 5-16-2013</annotation>
       </annotations>
     </section>
     <section>
@@ -60,8 +60,8 @@
       <heading>Subpoenas; discovery.</heading>
       <text>The board created by <cite path="12">this chapter</cite> may issue subpoenas and order discovery in aid of investigations and hearings as required under the provisions of <cite path="12">this chapter</cite>. Such subpoenas and discovery may be ordered to the same extent and subject to the same limitations as subpoenas and discovery in a civil action under the Florida Rules of Civil Procedure. The requesting party shall be responsible for service of any subpoena.</text>
       <annotations>
-        <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-        <annotation type="History">Ord. No. 93-146, § 1, 9-23-93</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 93-146" path="§1">Ord. No. 93-146, § 1, 9-23-93</annotation>
       </annotations>
     </section>
     <section>
@@ -96,7 +96,7 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
       </annotations>
     </section>
     <section>
@@ -149,10 +149,10 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-        <annotation type="History">Ord. No. 93-146, § 2, 9-23-93</annotation>
-        <annotation type="History">Ord. No. 96-252, § 2, 11-14-96</annotation>
-        <annotation type="History">Ord. No. 98-246, § 1, 11-5-98</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 93-146" path="§2">Ord. No. 93-146, § 2, 9-23-93</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-252" path="§2">Ord. No. 96-252, § 2, 11-14-96</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-246" path="§1">Ord. No. 98-246, § 1, 11-5-98</annotation>
       </annotations>
     </section>
     <section>
@@ -181,8 +181,8 @@
           <text>To secure for all individuals within the city the freedom from discrimination because of race, color, religion, national origin, sex, sexual orientation, gender identity or expression, age, handicap, familial status or marital status, in connection with employment, and thereby to promote the interests, rights and privileges of individuals within the city.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 2009-166, § 2, 11-19-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§2">Ord. No. 2009-166, § 2, 11-19-09</annotation>
         </annotations>
       </section>
       <section>
@@ -247,9 +247,9 @@
           <text>Offer a person, who is already either partially or wholly trained in a specified trade or occupation, an opportunity to advance after completion of a specified training program.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 96-201, § 3, 9-19-96</annotation>
-          <annotation type="History">Ord. No. 2010-2, § 1, 1-7-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§3">Ord. No. 96-201, § 3, 9-19-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-2" path="§1">Ord. No. 2010-2, § 1, 1-7-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -257,7 +257,7 @@
         <heading>Same—ADA equal employment-related definitions adopted.</heading>
         <text>Except for the definition of the term "employer" which shall be that as defined in <cite path="12-17">section 12-17</cite> of <cite>this Code</cite>, the definition of terms in section 1630.2 of the ADA regulations (29 CFR 1630.2), as now or hereafter revised, is hereby adopted and incorporated as fully as if set out at length herein.</text>
         <annotations>
-          <annotation type="History">Ord. No. 96-201, § 4, 9-19-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§4">Ord. No. 96-201, § 4, 9-19-96</annotation>
         </annotations>
       </section>
       <section>
@@ -342,9 +342,9 @@
           <text><em>Information gathering.</em> Except as permitted and required by regulations of the board or city, or by applicable federal or state law, it is an unlawful employment practice for an employer or employment agency to elicit information about an employee's race, color, religion, national origin, sex, sexual orientation, gender identity or expression, age, disability, familial status or marital status or to keep or disclose a record of such information for the purposes of effecting discrimination.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 2009-166, § 3, 11-19-09</annotation>
-          <annotation type="History">Ord. No. 2010-2, § 2, 1-7-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§3">Ord. No. 2009-166, § 3, 11-19-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-2" path="§2">Ord. No. 2010-2, § 2, 1-7-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -352,7 +352,7 @@
         <heading>Same—ADA unlawful employment-related practices adopted.</heading>
         <text>The unlawful employment practices in sections 1630.4 through 1630.13 of the ADA regulations (29 CFR 1630.4-1630.13), as now or hereafter revised, are hereby adopted and incorporated as fully as if set out at length herein.</text>
         <annotations>
-          <annotation type="History">Ord. No. 96-201, § 6, 9-19-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§6">Ord. No. 96-201, § 6, 9-19-96</annotation>
         </annotations>
       </section>
       <section>
@@ -360,7 +360,7 @@
         <heading>ADA unlawful employment-related defenses adopted.</heading>
         <text>The unlawful employment-related defenses in section 1630.15 of the regulations (29 CFR 1630.15), as now or hereafter revised, are hereby adopted and incorporated as fully as if set out at length herein.</text>
         <annotations>
-          <annotation type="History">Ord. No. 96-201, § 7, 9-19-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§7">Ord. No. 96-201, § 7, 9-19-96</annotation>
         </annotations>
       </section>
       <section>
@@ -368,7 +368,7 @@
         <heading>Adoption of ADA employment-related rules on permitted medical examinations, inquiries, and activities.</heading>
         <text>The employment-related medical examinations and inquiries specifically permitted in section 1630.14 of the ADA regulations (29 CFR 1630.14), and the employment-related specific activities permitted in section 1630.16 of the ADA regulations (29 CFR 1630.16), as now or hereafter revised, are hereby adopted and incorporated as fully as if set out at length herein.</text>
         <annotations>
-          <annotation type="History">Ord. No. 96-201, § 8, 9-19-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§8">Ord. No. 96-201, § 8, 9-19-96</annotation>
         </annotations>
       </section>
       <section>
@@ -423,9 +423,9 @@
           <text>The provisions in this article relating to sexual orientation and gender identity or expression shall not apply to any religious organization, association, society or any nonprofit charitable or educational institution or organization operated, supervised or controlled by or in conjunction with a religious organization, association or society.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 2009-166, § 3, 11-19-09</annotation>
-          <annotation type="History">Ord. No. 2010-2, § 3, 1-7-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§3">Ord. No. 2009-166, § 3, 11-19-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-2" path="§3">Ord. No. 2010-2, § 3, 1-7-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -457,9 +457,9 @@
           <text>All complaints filed with the administrator under this article, and all records and documents in the custody of the administrator, which relate to and identify a particular complainant or public accommodation shall be confidential and shall not be disclosed by the administrator, except to the parties or in the course of hearing or proceeding under this article. The restriction of this subsection shall not apply to any record or document which is part of the record of any hearing or court proceeding.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 96-201, § 10, 9-19-96</annotation>
-          <annotation type="History">Ord. No. 2004-73, § 1, 3-18-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§10">Ord. No. 96-201, § 10, 9-19-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-73" path="§1">Ord. No. 2004-73, § 1, 3-18-04</annotation>
         </annotations>
       </section>
       <section>
@@ -467,7 +467,7 @@
         <heading>Prompt judicial action.</heading>
         <text>Whenever a complaint is filed with the administrator and the administrator concludes on the basis of a preliminary investigation that prompt judicial action is necessary to carry out the purposes of this article, the administrator may request the city attorney to commence, and the city attorney may commence and maintain, an action for appropriate temporary or preliminary relief pending final disposition of such complaint.</text>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
         </annotations>
       </section>
       <section>
@@ -514,9 +514,9 @@
           <text>In the event that the administrator fails to conciliate, or the administrator and the hearing officer fail to take final action on, any complaint under <cite path="12-48">this section</cite> within one hundred eighty (180) days of filing sixty (60) days if the complaint is for age discrimination), an aggrieved person may bring a civil action against the respondent named in the complaint in any court of competent jurisdiction. The commencement of such action shall divest the administrator and the hearing officer of jurisdiction of such complaint, except that the administrator may intervene as a matter of right.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 96-201, § 11, 9-19-96</annotation>
-          <annotation type="History">Ord. No. 2004-73, § 1, 3-18-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§11">Ord. No. 96-201, § 11, 9-19-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-73" path="§1">Ord. No. 2004-73, § 1, 3-18-04</annotation>
         </annotations>
       </section>
       <section>
@@ -607,8 +607,8 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 96-201, § 12, 9-19-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§12">Ord. No. 96-201, § 12, 9-19-96</annotation>
         </annotations>
       </section>
       <section>
@@ -647,8 +647,8 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 2004-73, § 1, 3-18-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-73" path="§1">Ord. No. 2004-73, § 1, 3-18-04</annotation>
         </annotations>
       </section>
       <section>
@@ -663,7 +663,7 @@
           <text>Whenever the city attorney has reasonable cause to believe that any person or group of persons is engaged in a pattern or practice of resistance to the full enjoyment of any of the rights secured by this article, and that the pattern or practice is of such a nature as to deny the full exercise of the rights herein described, the city attorney may bring a civil action in a court of competent jurisdiction, the complaint or petition by the city attorney shall be accompanied by a certificate that, in the city attorney's opinion, the case is of general public importance.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
         </annotations>
       </section>
       <section>
@@ -689,10 +689,10 @@
         <text>To secure for all individuals within the city the freedom from discrimination because of race, color, religion, national origin, sex, sexual orientation, gender identity or expression, age, disability, familial status or marital status in connection with public accommodations, and thereby to promote the interests, rights and privileges of individuals within the city.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-        <annotation type="History">Ord. No. 2004-73, § 3, 3-18-04</annotation>
-        <annotation type="History">Ord. No. 2009-166, § 4, 11-19-09</annotation>
-        <annotation type="History">Ord. No. 2010-2, § 4, 1-7-2010</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-73" path="§3">Ord. No. 2004-73, § 3, 3-18-04</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§4">Ord. No. 2009-166, § 4, 11-19-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-2" path="§4">Ord. No. 2010-2, § 4, 1-7-2010</annotation>
       </annotations>
     </section>
     <section>
@@ -701,7 +701,7 @@
       <text>For the purpose of this article, certain abbreviations, terms, phrases, words and their derivatives shall have the following meanings:</text>
       <text><em>Public accommodation</em> shall include, but not be limited to, except as hereinafter specified, places or resorts of amusement; inns, hotels, motels and other establishments which provides lodging to transient guests; restaurants, cafeterias, lunchrooms, lunch counters, buffets and other facilities engaged in selling food or beverages; retail establishments; gasoline stations; theaters, motion picture houses, skating rinks, amusement parks, bowling alleys, golf courses, concert halls, gymnasiums, sports arenas, stadiums and other places of exhibition, recreation or entertainment; library or educational facilities supported in part or whole by public funds; public conveyances, including taxis, limousines and buses; barber and beauty shops; hospitals, laundries, swimming pools, nurseries, kindergartens, day-care centers and all establishments holding a license for the sale of alcoholic beverages issued by the Division of Alcoholic Beverages and Tobacco, Department of Business Regulation of the State of Florida. Such term shall not include any establishment, club or place of accommodation which is by its nature distinctly private.</text>
       <annotations>
-        <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
       </annotations>
     </section>
     <section>
@@ -709,7 +709,7 @@
       <heading>Same—ADA public accommodations-related definitions adopted.</heading>
       <text>The public accommodations-related definitions in section 36.104 of the ADA regulations (28 CFR 36.104), as now or hereafter revised, are hereby adopted and incorporated as fully as if set out at length herein.</text>
       <annotations>
-        <annotation type="History">Ord. No. 96-201, § 14, 9-19-96</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§14">Ord. No. 96-201, § 14, 9-19-96</annotation>
       </annotations>
     </section>
     <section>
@@ -733,10 +733,10 @@
         <text>To intimidate, threaten, coerce or interfere, or attempt to intimidate, threaten, coerce or interfere with any person in the exercise or enjoyment of, or on account of such person having aided or encouraged any other person in the exercise or enjoyment of, any right granted or protected by the provisions in this article.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-        <annotation type="History">Ord. No. 96-201, § 13, 9-19-96</annotation>
-        <annotation type="History">Ord. No. 2009-166, § 5, 11-19-09</annotation>
-        <annotation type="History">Ord. No. 2010-2, § 5, 1-7-2010</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§13">Ord. No. 96-201, § 13, 9-19-96</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§5">Ord. No. 2009-166, § 5, 11-19-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-2" path="§5">Ord. No. 2010-2, § 5, 1-7-2010</annotation>
       </annotations>
     </section>
     <section>
@@ -744,7 +744,7 @@
       <heading>Same—ADA public accommodations-related unlawful practices adopted.</heading>
       <text>The public accommodations-related unlawful practices in sections 36.201 through 36.212 (28 CFR 36.201-36.212) (the "general provisions"), and sections 36.301 through 36.310 (28 CFR 36.301-36.310) (the "specific provisions"), as now or hereafter revised, are hereby adopted and incorporated as fully as if set out at length herein. Where both specific and general provisions apply, the specific provisions, including the limitations on those provisions, control over the general provisions.</text>
       <annotations>
-        <annotation type="History">Ord. No. 96-201, § 15, 9-19-96</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§15">Ord. No. 96-201, § 15, 9-19-96</annotation>
       </annotations>
     </section>
     <section>
@@ -771,9 +771,9 @@
         <text>The provisions in this article relating to sexual orientation and gender identity or expression shall not apply to any religious organization, association, society or any nonprofit charitable or educational institution or organization operated, supervised or controlled by or in conjunction with a religious organization, association or society.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-        <annotation type="History">Ord. No. 96-201, § 13, 9-19-96</annotation>
-        <annotation type="History">Ord. No. 2009-166, § 6, 11-19-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§13">Ord. No. 96-201, § 13, 9-19-96</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§6">Ord. No. 2009-166, § 6, 11-19-09</annotation>
       </annotations>
     </section>
     <section>
@@ -788,8 +788,8 @@
         <text>Upon timely application, the city attorney may intervene in such civil action, if the city attorney certifies that the case is of general public importance.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-        <annotation type="History">Ord. No. 96-201, § 13, 9-19-96</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§13">Ord. No. 96-201, § 13, 9-19-96</annotation>
       </annotations>
     </section>
     <section>
@@ -798,7 +798,7 @@
       <text>The enforcement provisions for employment discrimination prescribed in sections 12-46 through 12-51 of <cite>this Code</cite> are hereby adopted and expressly made applicable to public accommodations discrimination as fully as if set out at length herein, except as amended [by Ord. No. 2004-73].</text>
       <text>Secs. 12-69, 12-70. - Reserved.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2004-73, § 1, 3-18-04</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-73" path="§1">Ord. No. 2004-73, § 1, 3-18-04</annotation>
       </annotations>
     </section>
   </container>
@@ -823,8 +823,8 @@
           <text>To secure for all individuals within the city the freedom from discrimination because of race, color, religion, national origin, sex, sexual orientation, gender identity or expression, age, handicap, familial status or marital status in connection with housing and public accommodations, and thereby to promote the interests, rights and privileges of individuals within the city.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 2009-166, § 7, 11-19-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§7">Ord. No. 2009-166, § 7, 11-19-09</annotation>
         </annotations>
       </section>
       <section>
@@ -879,8 +879,8 @@
         </para>
         <text><em>Sale</em> includes any contract to sell, exchange, convey, transfer or assign legal or equitable title to or a beneficial interest in dwelling.</text>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 2010-2, § 6, 1-7-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-2" path="§6">Ord. No. 2010-2, § 6, 1-7-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -917,9 +917,9 @@
           <text>For profit to induce or attempt to induce any person to sell or rent any dwelling by representations regarding the entry or prospective entry into the neighborhood of a person or persons of a particular race, color, religion, national origin, sex, sexual orientation, gender identity or expression, age, disability, familial status or marital status.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 2009-166, § 8, 11-19-09</annotation>
-          <annotation type="History">Ord. No. 2010-2, § 7, 1-7-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§8">Ord. No. 2009-166, § 8, 11-19-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-2" path="§7">Ord. No. 2010-2, § 7, 1-7-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -1015,8 +1015,8 @@
           <text>Nothing in <cite path="12-82">this section</cite> requires that a dwelling be made available to an individual whose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical damage to the property of others.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 2010-2, § 8, 1-7-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-2" path="§8">Ord. No. 2010-2, § 8, 1-7-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -1047,9 +1047,9 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 2009-166, § 9, 11-19-09</annotation>
-          <annotation type="History">Ord. No. 2010-2, § 9, 1-7-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§9">Ord. No. 2009-166, § 9, 11-19-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-2" path="§9">Ord. No. 2010-2, § 9, 1-7-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -1057,9 +1057,9 @@
         <heading>Brokerage services.</heading>
         <text>It is an unlawful discriminatory practice to deny any person access to or membership or participation in any multiple-listing service, real estate brokers' organization or other service, organization, or facility relating to the business of selling or renting dwellings, or to discriminate against a person in the terms or conditions of such access, membership, or participation, on account of race, color, religion, national origin, sexual orientation, gender identity or expression, age, disability, familial status or marital status.</text>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 2009-166, § 10, 11-19-09</annotation>
-          <annotation type="History">Ord. No. 2010-2, § 10, 1-7-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§10">Ord. No. 2009-166, § 10, 11-19-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-2" path="§10">Ord. No. 2010-2, § 10, 1-7-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -1067,7 +1067,7 @@
         <heading>Interference, coercion, or intimidation.</heading>
         <text>It is unlawful to coerce, intimidate, threaten, or interfere with any person in the exercise or enjoyment of, or on account of such person having exercised or enjoyed, or on account of such person having aided or encouraged any other person in the exercise or enjoyment of, any right granted or protected by the provisions in this article.</text>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
         </annotations>
       </section>
       <section>
@@ -1187,9 +1187,9 @@
           <text>Nothing in this article affects a requirement of nondiscrimination in any other state or federal law.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 2009-166, §§ 11, 12, 11-19-09</annotation>
-          <annotation type="History">Ord. No. 2010-2, § 11, 1-7-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-166" path="§11,12">Ord. No. 2009-166, §§ 11, 12, 11-19-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-2" path="§11">Ord. No. 2010-2, § 11, 1-7-2010</annotation>
         </annotations>
       </section>
       <section>
@@ -1416,7 +1416,7 @@
           <text><em>Pending civil trial.</em> The administrator may not issue a charge under <cite path="12-111">this section</cite> regarding an alleged discriminatory housing practice after the beginning of the trial of a civil action commenced by the aggrieved party under federal or state law, seeking relief with respect to that discriminatory housing practice.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
         </annotations>
       </section>
       <section>
@@ -1590,8 +1590,8 @@
           <text>The court shall award reasonable attorney's fees and costs to the city in any action in which the city prevails.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 96-201, § 17, 9-19-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§17">Ord. No. 96-201, § 17, 9-19-96</annotation>
         </annotations>
       </section>
       <section>
@@ -1628,7 +1628,7 @@
           <text><em>Intervention by city attorney.</em> Upon timely application, the city attorney may intervene in such civil action, if the city attorney certifies that the case is of general public importance. Upon such intervention, the city attorney may obtain such relief as would be available to the city attorney under <cite path="12-114|(d)">section 12-114(d)</cite> in a civil action to which such section applies.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
         </annotations>
       </section>
       <section>
@@ -1721,8 +1721,8 @@
           <text>The court shall award reasonable attorney's fees and costs to the city in any action which the city prevails.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-147, § 2, 9-10-92</annotation>
-          <annotation type="History">Ord. No. 96-201, § 18, 9-19-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-147" path="§2">Ord. No. 92-147, § 2, 9-10-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-201" path="§18">Ord. No. 96-201, § 18, 9-19-96</annotation>
         </annotations>
       </section>
       <section>
@@ -1759,8 +1759,8 @@
       <text><em>Jointly responsible</em> means each domestic partner mutually agrees to provide for the other partner's basic needs while the domestic partnership is in effect, except that partners need not contribute equally or jointly to said basic needs such as food and shelter.</text>
       <text><em>Mutual residence</em> means a residence shared by the registered domestic partners; it is not necessary that the legal right to possess the place of residence be in both of their names. Two (2) people may share a mutual residence even if one or both have additional places to live. Registered domestic partners do not cease to share a mutual residence if one leaves the shared place but intends to return.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-37, § 2, 4-5-2012</annotation>
-        <annotation type="History">Ord. No. 2015-23, § 1, 3-5-2015</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-37" path="§2">Ord. No. 2012-37, § 2, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2015-23" path="§1">Ord. No. 2015-23, § 1, 3-5-2015</annotation>
       </annotations>
     </section>
     <section>
@@ -1807,8 +1807,8 @@
         <text>Any partner to a domestic partnership may file an amendment with the clerk to reflect a change in his or her legal name or address. Amendments shall be signed by both members of the registered domestic partnership under oath.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2012-37, § 3, 4-5-2012</annotation>
-        <annotation type="History">Ord. No. 2015-23, § 2, 3-5-2015</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-37" path="§3">Ord. No. 2012-37, § 3, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2015-23" path="§2">Ord. No. 2015-23, § 2, 3-5-2015</annotation>
       </annotations>
     </section>
     <section>
@@ -1836,8 +1836,8 @@
         <text>The marrying, surviving or re-registering domestic partner(s) shall file an affidavit terminating the domestic partnership within ten (10) days of one of the occurrences listed in subsections (b)(1) through (3) above.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2012-37, § 4, 4-5-2012</annotation>
-        <annotation type="History">Ord. No. 2015-23, § 3, 3-5-2015</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-37" path="§4">Ord. No. 2012-37, § 4, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2015-23" path="§3">Ord. No. 2015-23, § 3, 3-5-2015</annotation>
       </annotations>
     </section>
     <section>
@@ -1852,8 +1852,8 @@
         <text>Hillsborough County, Florida, has established a domestic partnership registry law that is substantially similar to the City of Tampa's Domestic Partnership registry code provisions through passage of Ordinance No. 14-32, codified in Chapter 30, Article III of the Hillsborough County Code of Ordinances and Laws. Having been approved by the Tampa City Council, the filing officer for the Domestic Partnership Registry shall be the Hillsborough County Clerk of the Circuit Court. Persons interested in filing as domestic partners may continue to do so through the City Clerk to be registered county-wide with Hillsborough County.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2012-37, § 5, 4-5-2012</annotation>
-        <annotation type="History">Ord. No. 2015-23, § 4, 3-5-2015</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-37" path="§5">Ord. No. 2012-37, § 5, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2015-23" path="§4">Ord. No. 2015-23, § 4, 3-5-2015</annotation>
       </annotations>
     </section>
     <section>
@@ -1885,9 +1885,9 @@
         <text><em>Participation in education.</em> To the extent allowed by federal and state law, and in a manner consistent with any applicable court orders or valid agreements or contracts, a registered domestic partner shall have the same rights to participate in the education of a dependent of their registered domestic partnership as a biological parent to participate in the education of their child, in all educational facilities located within or under the jurisdiction provided herein. However, if a biological parent of a minor dependent, whose parental rights have not been terminated, objects to the participation of a non-biological registered domestic partner in education conferences or other dissemination of educational information, only the participation of the biological parents shall be allowed.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2012-37, § 6, 4-5-2012</annotation>
-        <annotation type="History">Ord. No. 2012-115, § 2, 10-18-2012</annotation>
-        <annotation type="History">Ord. No. 2015-23, § 5, 3-5-2015</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-37" path="§6">Ord. No. 2012-37, § 6, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-115" path="§2">Ord. No. 2012-115, § 2, 10-18-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2015-23" path="§5">Ord. No. 2015-23, § 5, 3-5-2015</annotation>
       </annotations>
     </section>
     <section>
@@ -1902,7 +1902,7 @@
         <text>Nothing in this article shall be construed as recognizing or treating a registered domestic partnership as a marriage.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2012-37, § 7, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-37" path="§7">Ord. No. 2012-37, § 7, 4-5-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -1910,8 +1910,8 @@
       <heading>Enforcement.</heading>
       <text>A registered domestic partner may enforce the rights under <cite path="12-124">section 12-124</cite> by filing a private judicial action against a person or entity in any court of competent jurisdiction for declaratory relief, injunctive relief, or both.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-37, § 8, 4-5-2012</annotation>
-        <annotation type="History">Ord. No. 2012-115, § 3, 10-18-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-37" path="§8">Ord. No. 2012-37, § 8, 4-5-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-115" path="§3">Ord. No. 2012-115, § 3, 10-18-2012</annotation>
       </annotations>
     </section>
     <section>
@@ -1919,7 +1919,7 @@
       <heading>Recognition of domestic partnerships registered in other jurisdictions.</heading>
       <text>All rights, privileges and benefits extended to domestic partnerships registered pursuant to this article shall also be extended to domestic partnerships registered pursuant to domestic partnership laws in other jurisdictions, so long as the registry documents issued by other jurisdictions comply with all applicable state and federal requirements. If a conflict occurs between jurisdictions, this article shall govern in the city.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2012-115, § 1, 10-18-2012</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-115" path="§1">Ord. No. 2012-115, § 1, 10-18-2012</annotation>
       </annotations>
     </section>
   </container>
@@ -1939,7 +1939,7 @@
       <text><em>Initial application for employment</em> means any document, whether in paper or electronic form, the City of Tampa requires an applicant to submit prior to being selected as a finalist for a position.</text>
       <text><em>Position</em> means the particular job with the City of Tampa sought by the applicant.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2013-3, § 2, 1-10-2013</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-3" path="§2">Ord. No. 2013-3, § 2, 1-10-2013</annotation>
       </annotations>
     </section>
     <section>
@@ -1966,7 +1966,7 @@
         <text>The City of Tampa's selection and hiring decisions are final and are not subject to appeal.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2013-3, § 3, 1-10-2013</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-3" path="§3">Ord. No. 2013-3, § 3, 1-10-2013</annotation>
       </annotations>
     </section>
     <section>
@@ -1989,7 +1989,7 @@
         <text>Nothing in this article creates a cause of action for any applicant with regard to hiring or selection for employment.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2013-3, § 4, 1-10-2013</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-3" path="§4">Ord. No. 2013-3, § 4, 1-10-2013</annotation>
       </annotations>
     </section>
     <section>
@@ -1997,7 +1997,7 @@
       <heading>Implementation.</heading>
       <text>The director of human resources will have ninety (90) days from the effective date of this ordinance to develop and implement any policies necessary to ensure full compliance with <cite path="12-131">this section</cite>.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2013-3, § 5, 1-10-2013</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2013-3" path="§5">Ord. No. 2013-3, § 5, 1-10-2013</annotation>
       </annotations>
     </section>
   </container>

@@ -16,7 +16,7 @@
       <heading>Title.</heading>
       <text><cite path="2">This chapter</cite> shall be known and may be cited as the "City of Tampa Administration Ordinance."</text>
       <annotations>
-        <annotation type="History">Ord. No. 89-222, § 2(2-1), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-1), 9-28-89</annotation>
       </annotations>
     </section>
     <section>
@@ -36,7 +36,7 @@
         <text>Such person shall have first obtained the written permission of the official and the city council.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 89-222, § 2(2-2), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-2), 9-28-89</annotation>
         <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Wrongful use of city's name, F.S. § 817.17.</annotation>
       </annotations>
     </section>
@@ -69,7 +69,7 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 89-222, § 2(2-3), 9-28-89</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-3), 9-28-89</annotation>
       </annotations>
     </section>
     <section>
@@ -116,7 +116,7 @@
           <text>Perform all such other duties as may be designated from time to time by ordinance.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-66), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-66), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -135,7 +135,7 @@
           <text>Each deputy city clerk so appointed shall take the oath as prescribed by law.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-67), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-67), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -153,8 +153,8 @@
         <heading>Short title; purpose.</heading>
         <text>This division shall be known and may be cited as the "City of Tampa Archives and Records Service." The declared purpose of these sections is to provide for the proper and efficient management of the public records of the city and for the operation of a central repository for the city's permanently valuable records.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-86), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 91-184, § 1, 9-26-91</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-86), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 91-184" path="§1">Ord. No. 91-184, § 1, 9-26-91</annotation>
         </annotations>
       </section>
       <section>
@@ -167,8 +167,8 @@
         <text><em>Maintenance of public records</em> means the creation, maintenance, protection, use and disposition of all public records of the city, including the establishment and maintenance of a system of filing and indexing public records.</text>
         <text><em>Public records</em> means all documents, papers, letters, maps, books, tapes, photographs, films, sound recordings or other materials, regardless of physical form or characteristics, made or received pursuant to law or ordinance or in connection with the transaction of official business by any officer or employee of the city; however, public records shall not be construed to mean those public records which are deemed by law to be confidential or which are prohibited from being inspected by the public or which shall be exempt from the provisions of this division or from the provisions of the state Public Records Act.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-87), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 91-184, § 2, 9-26-91</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-87), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 91-184" path="§2">Ord. No. 91-184, § 2, 9-26-91</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
         </annotations>
       </section>
@@ -178,8 +178,8 @@
         <text>All public records shall be the property of the city, and, in this regard, such records shall be delivered by outgoing officials and employees to their successors.</text>
         <text>Inactive records shall be transferred to the city records center. When such records are determined archival and accepted, the archives shall be considered the legal custodial site and the city clerk shall have disposal authority.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-88), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 91-184, § 3, 9-26-91</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-88), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 91-184" path="§3">Ord. No. 91-184, § 3, 9-26-91</annotation>
           <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Disposition of records at end of official's term, F.S. § 119.05.</annotation>
         </annotations>
       </section>
@@ -188,7 +188,7 @@
         <heading>Duties of officers and employees.</heading>
         <text>It shall be the duty of each officer and employee of the city to protect, preserve, store, transfer, destroy or otherwise dispose of, use and manage public records only in accordance with applicable federal, state or local law, or such rules as may be promulgated or approved by the city clerk.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-89), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-89), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -244,8 +244,8 @@
           <text>Conduct, as the city clerk deems necessary, such surveys, studies and investigations as will assist in promoting a proper and efficient records management program for the city, including information retrieval systems.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-90), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 91-184, §§ 4, 5, 9-26-91</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-90), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 91-184" path="§4,5">Ord. No. 91-184, §§ 4, 5, 9-26-91</annotation>
           <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Custodian designated, F.S. § 119.021.</annotation>
         </annotations>
       </section>
@@ -305,8 +305,8 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-91), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 91-184, §<cite path="6-8">§ 6-8</cite>, 9-26-91</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-91), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 91-184" path="§6-8">Ord. No. 91-184, §<cite path="6-8">§ 6-8</cite>, 9-26-91</annotation>
         </annotations>
       </section>
       <section>
@@ -329,7 +329,7 @@
           <text>The city clerk is authorized to promulgate rules and regulations not inconsistent with <cite path="2-47">this section</cite>, as may be necessary and proper to implement the objectives hereof.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-92), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-92), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -363,7 +363,7 @@
         <heading>Annual inventory.</heading>
         <text>During each fiscal year the director of finance shall cause to be conducted a physical count of all inventory and property. The method for conducting the count will be determined by the director of finance and will comply with accepted accounting procedures. A full and detailed list of all property will be prepared and submitted to the official. Upon receiving the official's approval, a copy will be filed with the city clerk.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-151), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-151), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -371,7 +371,7 @@
         <heading>Keeping regular books of accounts.</heading>
         <text>In addition to the duties prescribed by the Charter, the director of finance shall keep regular books of accounts of the city in which he shall enter all indebtedness of the city, and which shall at all times show the precise financial condition of the city, the amounts of bonds, orders, certificates, warrants or other evidence of outstanding indebtedness and the redemption of the same when redeemed.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-152), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-152), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -379,7 +379,7 @@
         <heading>Countersign all evidences of indebtedness of city.</heading>
         <text>The director of finance shall countersign all bonds, certificates or other evidences of indebtedness of the city, and no such bond, certificate or other evidence of indebtedness shall be valid unless countersigned by him.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-153), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-153), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -387,7 +387,7 @@
         <heading>Travel expense forms and regulations.</heading>
         <text>The director of finance shall provide forms for travel requests, expenses, reimbursements and mileage allowances, and prescribe such regulations as are necessary.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-154), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-154), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -402,7 +402,7 @@
           <text>The city is further given power to investigate or cause to be investigated, under its authority, all cases involving the remittance of revenues to the city as provided in <cite path="2-115|(a)">subsection (a)</cite> of <cite path="2-115">this section</cite> to determine from such investigation whether or not such revenues are remitted as required by this Code or applicable law, and the determination of the city in any case shall be prima facie valid and authentic in all courts in this state.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-155), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-155), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -421,7 +421,7 @@
           <text>Proposed changes in the content of the supplemental revenue and expenditure document that substantially deviate from the past practice and custom of the mayor and the council shall be approved by resolution of the city council prior to submission of the supplemental revenue and expenditure document pursuant to <cite path="2-116|(a)">subsection (a)</cite>, herein.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2009-139, § 1, 10-1-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-139" path="§1">Ord. No. 2009-139, § 1, 10-1-09</annotation>
         </annotations>
       </section>
       <section>
@@ -439,7 +439,7 @@
         <heading>Established; jurisdiction.</heading>
         <text>There is hereby established a department of convention facilities which shall have jurisdiction and cognizance over all activities relating to conventions and convention facilities in the city.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-171), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-171), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -447,7 +447,7 @@
         <heading>Director.</heading>
         <text>The head of the department of convention facilities shall be called the director of convention facilities. The director shall be appointed and confirmed as is provided in section 6.03 of the Charter. The director shall be responsible to the official for the management and operation of the department and shall keep all records and accounts of the department. Further, he shall have such other powers and duties as are prescribed by ordinance.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-172), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-172), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -471,8 +471,8 @@
           <text>Such other activities of a public nature as may be designated by the official.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-173), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 92-179, § 1, 11-12-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-173), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-179" path="§1">Ord. No. 92-179, § 1, 11-12-92</annotation>
         </annotations>
       </section>
       <section>
@@ -510,7 +510,7 @@
         <heading>Sureties of persons dealing with city to be licensed by state; premium of bonds of officials to be paid by city.</heading>
         <text>Whenever it may be necessary for any person to give or furnish to the city a bond for any purpose with surety, such surety shall be a surety or indemnity company licensed and authorized to do business with this state. Whenever such bond is an official bond of an officer or employee required by the Charter, the premium for such bond shall be paid by the city.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-561), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-561), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Charter reference— </strong>Bonds for officers and employees, § 6.04.</annotation>
         </annotations>
       </section>
@@ -530,7 +530,7 @@
           <text>It shall be unlawful for any person to fail to comply with or to violate the provisions of <cite path="2-232">this section</cite>. The failure of the official or the city council to cause the audit to be made as provided in <cite path="2-232">this section</cite> shall be grounds for recall of such officers.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-562), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-562), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Charter reference— </strong>Audits, § 7.11.</annotation>
           <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Financial management and reporting requirements, F.S. §§ 166.241(1), 218.30 et seq.</annotation>
         </annotations>
@@ -583,8 +583,8 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-563), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2006-100, § 1, 4-20-06</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-563), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-100" path="§1">Ord. No. 2006-100, § 1, 4-20-06</annotation>
         </annotations>
       </section>
       <section>
@@ -603,7 +603,7 @@
         <heading>Qualified institutions; duty of director of finance.</heading>
         <text>Only banks or savings associations meeting all of the requirements of the Florida Security for Public Deposits Act, F.S. Ch. 280, and designated by the state treasurer as a qualified public depository may be designated a city depository. The director of finance shall be responsible for ensuring the status of those banks and savings associations designated as city depositories, and, once this status is verified, he may deposit city funds without the formal requirement of a depository agreement. He shall require each depository bank receiving any money as provided in <cite path="2-256">this section</cite> to provide him with a safekeeping receipt for a certificate of deposit or securities or validated receipt for such funds which he shall carefully preserve and keep and make available for inspection as provided by law.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, § 2(2-581), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222" path="§2">Ord. No. 89-222, § 2(2-581), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -638,10 +638,10 @@
           <text>In the event of set-asides regarding the award of contracts for city purchases, awards and contracts to women and minority business enterprises (W/MBEs) as authorized by Chapter 26.5 of the <cite>City of Tampa Code</cite>, the competitive bidding requirement hereinabove set out shall be limited to the current list of certified W/MBEs.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 95-109, § 2, 5-25-95</annotation>
-          <annotation type="History">Ord. No. 96-168, § 1, 8-15-96</annotation>
-          <annotation type="History">Ord. No. 2000-151, § 1, 6-8-00</annotation>
-          <annotation type="History">Ord. No. 2002-1, § 1, 1-3-02</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-109" path="§2">Ord. No. 95-109, § 2, 5-25-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-168" path="§1">Ord. No. 96-168, § 1, 8-15-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-151" path="§1">Ord. No. 2000-151, § 1, 6-8-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-1" path="§1">Ord. No. 2002-1, § 1, 1-3-02</annotation>
         </annotations>
       </section>
       <section>
@@ -650,9 +650,9 @@
         <text>Public improvement contracts, being all contracts for the furnishing to the city of labor and materials for the construction, reconstruction, alteration, repair and/or maintenance of public improvements shall be handled by the operating department except that smaller projects estimated to cost less then one hundred thousand dollars ($100,000.00) may be handled by the director of purchasing subject to the competitive bidding procedures set forth in the manual described in <cite path="2-276">section 2-276</cite> above.</text>
         <text>All public improvement contracts requiring an expenditure of one hundred thousand dollars ($100,000.00) or more shall be handled by the operating departments and shall be made only upon a competitive bid basis after plans and specifications have been prepared, are on file in the operating departments and, upon recommendation of the mayor, have been approved by the city council.</text>
         <annotations>
-          <annotation type="History">Ord. No. 95-109, § 2, 5-25-95</annotation>
-          <annotation type="History">Ord. No. 2000-151, § 2, 6-8-00</annotation>
-          <annotation type="History">Ord. No. 2004-274, § 1, 11-18-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-109" path="§2">Ord. No. 95-109, § 2, 5-25-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-151" path="§2">Ord. No. 2000-151, § 2, 6-8-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-274" path="§1">Ord. No. 2004-274, § 1, 11-18-04</annotation>
         </annotations>
       </section>
       <section>
@@ -729,9 +729,9 @@
           <text>Nothing in <cite path="2-278">this section</cite> shall be construed as applying or relating to advertisements for bids or requests for qualifications for on-line procurements on projects, contracts, or purchases which, in whole or in part, involve the use of federal funds or bond money or which come under the city's women and minority business enterprises ordinance.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 95-109, § 3, 5-25-95</annotation>
-          <annotation type="History">Ord. No. 2000-151, § 3, 6-8-00</annotation>
-          <annotation type="History">Ord. No. 2002-1, § 2, 1-3-02</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-109" path="§3">Ord. No. 95-109, § 3, 5-25-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-151" path="§3">Ord. No. 2000-151, § 3, 6-8-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-1" path="§2">Ord. No. 2002-1, § 2, 1-3-02</annotation>
         </annotations>
       </section>
       <section>
@@ -739,7 +739,7 @@
         <heading>Approval of valid emergencies; competitive bidding and bond exemptions.</heading>
         <text>In case of valid emergencies for purchases or contracts as delineated in sections 2-276 and 2-277, the requirements of competitive bidding and the provision of an appropriate bond may be waived. The furnishing of labor and materials requiring an expenditure of less than fifty thousand dollars ($50,000.00) and of labor only regardless of the expenditure amount by be exempted from the requirement of an appropriate bond for public improvements and the maintenance of public facilities.</text>
         <annotations>
-          <annotation type="History">Ord. No. 95-109, § 4, 5-25-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-109" path="§4">Ord. No. 95-109, § 4, 5-25-95</annotation>
         </annotations>
       </section>
       <section>
@@ -747,8 +747,8 @@
         <heading>Certain work orders to be approved by city council.</heading>
         <text>Notwithstanding any other provisions of the <cite>City of Tampa Code</cite>, no work orders for the provision of professional services as defined in F.S. § 287.055, exceeding one hundred thousand dollars ($100,000.00) to any single provider or for any project shall be allowed or permitted with the city unless and until such work order shall first be approved by resolution passed by the city council.</text>
         <annotations>
-          <annotation type="History">Ord. No. 95-109, § 5, 5-25-95</annotation>
-          <annotation type="History">Ord. No. 2020-21, § 2, 2-20-2020</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-109" path="§5">Ord. No. 95-109, § 5, 5-25-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-21" path="§2">Ord. No. 2020-21, § 2, 2-20-2020</annotation>
         </annotations>
       </section>
       <section>
@@ -756,8 +756,8 @@
         <heading>On-line vendor (bidder) system.</heading>
         <text>The purchasing department maintains an on-line bidder system in the mainframe computer for all vendors (bidders) desiring to do business with the City of Tampa. To be placed in the computer system, vendors (bidders) must submit a completed vendor application to the purchasing department.</text>
         <annotations>
-          <annotation type="History">Ord. No. 96-168, § 2, 8-15-96</annotation>
-          <annotation type="History">Ord. No. 2003-288, § 1, 11-6-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-168" path="§2">Ord. No. 96-168, § 2, 8-15-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-288" path="§1">Ord. No. 2003-288, § 1, 11-6-03</annotation>
         </annotations>
       </section>
       <section>
@@ -958,8 +958,8 @@
           <text><em>Filing documents and computation of time.</em> All dates, time frames and deadlines shall be calculated as city business days. A city business day shall mean 8:00 a.m. to 5:00 p.m. Monday through Friday, with the exception of city holidays. In all instances any document required to be transmitted by a certain date must be received in the required office by 4:30 p.m. Postmark by the required date in [is] not sufficient. Transmittal by fax, email or other electronic means may be accepted. However, it shall be the responsibility of the party transmitting the documents(s) to ensure that the document(s) were received, and the transmitting party shall bear any risk of an interruption or failure in the electronic transmission.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2010-92, § 2, 7-29-2010</annotation>
-          <annotation type="History">Ord. No. 2012-67, § 2, 6-28-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-92" path="§2">Ord. No. 2010-92, § 2, 7-29-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-67" path="§2">Ord. No. 2012-67, § 2, 6-28-2012</annotation>
         </annotations>
       </section>
       <section>
@@ -1140,7 +1140,7 @@
           <text>The director of the purchasing department or other city representative designated by the mayor shall maintain a list of disqualified persons or disqualified entities and provide same to other city agencies and departments for the purpose of complying with <cite path="2-283">this section</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2004-134, § 1, 5-27-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-134" path="§1">Ord. No. 2004-134, § 1, 5-27-04</annotation>
         </annotations>
       </section>
       <section>
@@ -1148,7 +1148,7 @@
         <heading>Bidder's criminal history screening practices.</heading>
         <text>All competitive procurement methods utilized by the city shall contain a provision addressing whether the bidder has criminal history screening practices similar in nature to the practices contained in Chapter 12, Article VI, <cite>City of Tampa Code</cite> of Ordinances.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2015-49, § 1, 4-16-15</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2015-49" path="§1">Ord. No. 2015-49, § 1, 4-16-15</annotation>
         </annotations>
       </section>
       <section>
@@ -1190,8 +1190,8 @@
         <text>To effectuate emergency repairs to, or emergency restoration of, vital public utilities and facilities destroyed or damaged by natural or man-made disasters.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 91-188, § 2, 10-3-91</annotation>
-        <annotation type="History">Ord. No. 2009-96, § 8, 7-16-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 91-188" path="§2">Ord. No. 91-188, § 2, 10-3-91</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-96" path="§8">Ord. No. 2009-96, § 8, 7-16-09</annotation>
         <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2009-96, § 8, adopted July 16, 2009, changed the title of <cite path="2-401">§ 2-401</cite> from "Declaration of a state of local emergency; duration; alteration and rescission" to read as herein set out.</annotation>
       </annotations>
     </section>
@@ -1227,8 +1227,8 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-96, § 9, 7-16-09</annotation>
-        <annotation type="History">Ord. No. 2009-167, §§ 2, 3, 12-3-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-96" path="§9">Ord. No. 2009-96, § 9, 7-16-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-167" path="§2,3">Ord. No. 2009-167, §§ 2, 3, 12-3-09</annotation>
         <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2009-96, §§ 2 and 9, adopted July 16, 2009, repealed the former <cite path="2-402">§ 2-402</cite> and enacted a new <cite path="2-402">§ 2-402</cite> as set out herein. The former <cite path="2-402">§ 2-402</cite> pertained to emergency management powers of the mayor, and derived from Ord. No. 91-188, § 2, 10-3-91. See also the Code Comparative Table.</annotation>
       </annotations>
     </section>
@@ -1281,7 +1281,7 @@
         <text>Request emergency assistance and resources from higher levels of government, other local governments and/or other agencies, in accordance with the State of Florida Comprehensive Emergency Management Plan and/or the Statewide Mutual Aid Agreement and/or in accordance with the needs of the city and the resources available.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-96, § 10, 7-16-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-96" path="§10">Ord. No. 2009-96, § 10, 7-16-09</annotation>
         <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2009-96, §§ 3 and 10, adopted July 16, 2009, repealed the former <cite path="2-403">§ 2-403</cite> and enacted a new <cite path="2-403">§ 2-403</cite> as set out herein. The former <cite path="2-403">§ 2-403</cite> pertained to specific restrictions authorized and exemptions, and derived from Ord. No. 91-188, § 2, 10-3-91. See also the Code Comparative Table.</annotation>
       </annotations>
     </section>
@@ -1329,8 +1329,8 @@
         <text>The executive order of the mayor may exempt, from all or part of such restrictions, physicians, nurses and ambulance operators performing medical services, on-duty employees of hospitals and other medical facilities, on-duty military personnel, bona fide members of the news media, personnel of public utilities maintaining essential public services, city authorized or requested firemen, law enforcement officers and personnel and such other classes of persons as may be essential to the preservation of public order and immediately necessary to serve safety, health and welfare needs of the people within the city.</text>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-96, § 11, 7-16-09</annotation>
-        <annotation type="History">Ord. No. 2015-90, § 1, 8-27-2015</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-96" path="§11">Ord. No. 2009-96, § 11, 7-16-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2015-90" path="§1">Ord. No. 2015-90, § 1, 8-27-2015</annotation>
         <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2009-96, §§ 4 and 11, adopted July 16, 2009, repealed the former <cite path="2-404">§ 2-404</cite> and enacted a new <cite path="2-404">§ 2-404</cite> as set out herein. The former <cite path="2-404">§ 2-404</cite> pertained to evacuation levels established, and derived from Ord. No. 91-188, § 2, 10-3-91 and Ord. No. 93-92, § 1, 7-15-93. See also the Code Comparative Table.</annotation>
       </annotations>
     </section>
@@ -1339,7 +1339,7 @@
       <heading>Evacuation levels established; specific restrictions authorized.</heading>
       <text>The evacuation levels of the city are hereby established as designated upon the Hillsborough County Evacuation Map, 1993, as now or hereafter revised, on file or to be filed in the office of the city clerk; and such map and all notations, references or other information shown thereon shall be as much a part of <cite path="2-405">this section</cite> as if such information set forth on such map were fully described and set out herein.</text>
       <annotations>
-        <annotation type="History">Ord. No. 2009-96, § 12, 7-16-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-96" path="§12">Ord. No. 2009-96, § 12, 7-16-09</annotation>
         <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2009-96, §§ 5 and 12, adopted July 16, 2009, repealed the former <cite path="2-405">§ 2-405</cite> and enacted a new <cite path="2-405">§ 2-405</cite> as set out herein. The former <cite path="2-405">§ 2-405</cite> pertained to penalties, and derived from Ord. No. 91-188, § 2, 10-3-91. See also the Code Comparative Table.</annotation>
       </annotations>
     </section>
@@ -1376,7 +1376,7 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-96, § 13, 7-16-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-96" path="§13">Ord. No. 2009-96, § 13, 7-16-09</annotation>
       </annotations>
     </section>
     <section>
@@ -1408,7 +1408,7 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Ord. No. 2009-96, § 14, 7-16-09</annotation>
+        <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-96" path="§14">Ord. No. 2009-96, § 14, 7-16-09</annotation>
       </annotations>
     </section>
     <section>
@@ -1430,7 +1430,7 @@
         <heading>Title.</heading>
         <text>The provisions of this Article VIII shall be collectively referred to as "The <cite path="2-500">City of Tampa Ethics Code</cite>" or "city ethics code."</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1450,7 +1450,7 @@
         <text>• Educate city officers and employees to avoid the appearance of impropriety and violations of the city ethics code.</text>
         <text>• Through this comprehensive code and the above stated goals, the city will strive to elevate the level of ethics in local government, to provide honest and responsible service to the citizens of Tampa, and to maintain the confidence and trust of the public that this government serves.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1642,10 +1642,10 @@
         <text><em>Transact any business</em> means the purchase or sale by the city of specific goods or services for a consideration.</text>
         <text><em>Zoning employee</em> means any employee of the city who participates through decision, approval, recommendation or preparation of a zoning or land use matter or application.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-          <annotation type="History">Ord. No. 2004-110, § 1, 4-29-04</annotation>
-          <annotation type="History">Ord. No. 2006-21, § 1, 1-26-06</annotation>
-          <annotation type="History">Ord. No. 2016-161, § 2, 11-3-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-110" path="§1">Ord. No. 2004-110, § 1, 4-29-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-21" path="§1">Ord. No. 2006-21, § 1, 1-26-06</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-161" path="§2">Ord. No. 2016-161, § 2, 11-3-2016</annotation>
         </annotations>
       </section>
       <section>
@@ -1675,7 +1675,7 @@
           <text>Chapter 839 (Offenses by Public Officers and Employees).</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -1696,8 +1696,8 @@
           <heading>Prohibited incompatible non-city employment or private business entity.</heading>
           <text>[Jacksonville] No official or employee of the city shall have any other outside employment ("non-city employment") or controlling financial interest in any private business entity, if that non-city employment or private business entity, or compensation received as a result thereof, impairs, or could reasonably be expected to impair, his independence in judgment or performance of city duties.</text>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-            <annotation type="History">Ord. No. 2006-21, § 6, 1-26-06</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-21" path="§6">Ord. No. 2006-21, § 6, 1-26-06</annotation>
           </annotations>
         </section>
         <section>
@@ -1712,8 +1712,8 @@
           <text>• The nature and extent of any ownership interest in the business.</text>
           <text>[Jacksonville] For officers or employees currently employed by the city, the disclosure shall be filed within thirty (30) days from the effective date of this article. For officers or employees who become officers or employees after the effective date of this article, the disclosure shall be filed within thirty (30) days from the beginning date of his or her employment with the city. All officers or employees of the city shall file an updated disclosure form within thirty (30) days whenever any of the information required by the form changes.</text>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-            <annotation type="History">Ord. No. 2006-21, § 6, 1-26-06</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-21" path="§6">Ord. No. 2006-21, § 6, 1-26-06</annotation>
           </annotations>
         </section>
         <section>
@@ -1721,8 +1721,8 @@
           <heading>Approval required for non-city employment of or active participation in a private business entity by employees.</heading>
           <text>All employees must obtain prior written approval from his or her department director before accepting non-city employment or engaging in active participation in any private business entity. A copy of such written approval shall be filed with the city ethics officer. All current such activity shall be disclosed in writing to the department director within thirty (30) days of the effective date hereof. In determining the acceptability of such employment or activity, the department director shall review all factors relevant to the successful and fair operation of city business, including but not limited to, potential conflict with business hours, misuse of confidential information, or impairment of the performance of the city employee's duties and responsibilities. If the department director determines such non-city employment or engagement in a private business entity is prohibited, that decision shall be automatically appealed to the ethics commission for review. All department directors must obtain prior approval from the mayor before accepting non-city employment or actively participating in any business entity. The mere ownership of stock in a privately held or publicly traded company shall not constitute active participation in that business entity. Serving as an officer, director, or owning a controlling financial interest therein shall constitute active participation.</text>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-            <annotation type="History">Ord. No. 2006-21, §§ 2, 6, 1-26-06</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-21" path="§2,6">Ord. No. 2006-21, §§ 2, 6, 1-26-06</annotation>
           </annotations>
         </section>
         <section>
@@ -1746,7 +1746,7 @@
             <text>For purposes of <cite path="2-513">this section</cite>, a person, firm or corporation shall be deemed to be "proposing to have a contractual relation with the city" or to be "proposing to render services to the city" if such person, firm, or corporation has submitted a bid to the city for a city contract, has made a contractual offer to the city or has requested the city to reconsider entering a contractual relation with the person, firm or corporation.</text>
           </para>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           </annotations>
         </section>
       </container>
@@ -1774,8 +1774,8 @@
             <text>The city is directed to include language in all solicitations for city contracts advising employees of the applicable conflict of interest code provisions, the provisions of this ordinance, including the requirement to obtain an ethics commission opinion and make disclosure, and the right to seek a legal opinion from the State of Florida Ethic's Commission regarding the applicability of state law conflict of interest provisions.</text>
           </para>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-            <annotation type="History">Ord. No. 2006-21, § 3, 1-26-06</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-21" path="§3">Ord. No. 2006-21, § 3, 1-26-06</annotation>
           </annotations>
         </section>
         <section>
@@ -1787,8 +1787,8 @@
             <text><cite path="2-515">This section</cite> shall not prohibit an appointed officer or official from practicing in a particular profession or occupation when such practice by persons appointed to a public board is required by law or ordinance.</text>
           </para>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-            <annotation type="History">Ord. No. 2004-225, § 2, 9-30-04</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-225" path="§2">Ord. No. 2004-225, § 2, 9-30-04</annotation>
           </annotations>
         </section>
         <section>
@@ -1796,7 +1796,7 @@
           <heading>Prohibition against doing business with one's department or the city.</heading>
           <text>[F.S. § 112.313(3)] No official or employee of the city acting in his official capacity, shall directly or indirectly purchase, rent, or lease realty, goods, or services for his own department or public body from any business entity of which the official or employee, or the official's or employee's immediate family or close personal relation, or any combination of them, has a material interest. Nor shall an official or employee, acting in a private capacity, rent, lease, or sell any realty, goods or services to the official's or employee's public body or department.</text>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           </annotations>
         </section>
       </container>
@@ -1820,7 +1820,7 @@
             <text>[Jacksonville] No official or employee shall have any interest, financial or otherwise, direct or indirect, or engage in any business or activity or incur any obligation of any nature which is in substantial conflict with the proper discharge of his or her duties in the public interest.</text>
           </para>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           </annotations>
         </section>
         <section>
@@ -1855,7 +1855,7 @@
             <text>All the elected officers and appointed officers or employees who are elected or appointed subsequent to the effective date of this ethics code shall, within thirty (30) days of their election or appointment, submit an itemized list of real estate holdings as provided above.</text>
           </para>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           </annotations>
         </section>
       </container>
@@ -1892,8 +1892,8 @@
             </para>
           </para>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-            <annotation type="History">Ord. No. 2004-225, § 3, 9-30-04</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-225" path="§3">Ord. No. 2004-225, § 3, 9-30-04</annotation>
           </annotations>
         </section>
         <section>
@@ -1936,10 +1936,10 @@
             </para>
           </para>
           <annotations>
-            <annotation type="History">Ord. No. 89-222, sec. 2(2-665), 9-28-89</annotation>
-            <annotation type="History">Ord. No. 98-95, sec. 2.4-23-98</annotation>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-            <annotation type="History">Ord. No. 2004-225, § 4, 9-30-04</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222">Ord. No. 89-222, sec. 2(2-665), 9-28-89</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-95">Ord. No. 98-95, sec. 2.4-23-98</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-225" path="§4">Ord. No. 2004-225, § 4, 9-30-04</annotation>
           </annotations>
         </section>
         <section>
@@ -1951,7 +1951,7 @@
             <text>The failure of a contracting party to comply with the business ethics commitment shall render any contract between the contractor and the city voidable, and subject violators to debarment from future city contracts.</text>
           </para>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           </annotations>
         </section>
         <section>
@@ -1959,7 +1959,7 @@
           <heading>Prohibition against recommending business or professional services.</heading>
           <text>[Dade Co] No official or employee shall recommend the services of any lawyer or law firm, architect or architectural firm, public relations firm, or any other person or firm, professional or otherwise, to assist in any transaction involving the city or any of its agencies, provided that such recommendation may properly be made when required to be made by the duties of office and in advance at a public meeting attended by other city officials, officers or employees.</text>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           </annotations>
         </section>
         <section>
@@ -1967,7 +1967,7 @@
           <heading>Exemptions.</heading>
           <text>No official or employee shall be held in violation of any provision of the city ethics code if the total amount of a transaction or matter in the aggregate between a business entity and the city does not exceed five hundred dollars ($500.00) per calendar year.</text>
           <annotations>
-            <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           </annotations>
         </section>
         <section>
@@ -2215,8 +2215,8 @@
             <text><em>Effective date:</em><cite path="2-525">This section</cite> shall be effective upon becoming law. <cite path="2-525">This section</cite> shall apply to all transactions on or after the effective date, but shall not be construed to impair contracts effective and in force prior to the effective date.</text>
           </para>
           <annotations>
-            <annotation type="History">Ord. No. 2010-153, § 1, 10-21-2010</annotation>
-            <annotation type="History">Ord. No. 2012-8, § 1, 1-19-2012</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-153" path="§1">Ord. No. 2010-153, § 1, 10-21-2010</annotation>
+            <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-8" path="§1">Ord. No. 2012-8, § 1, 1-19-2012</annotation>
           </annotations>
         </section>
         <section>
@@ -2235,8 +2235,8 @@
         <text>[<cite>City of Tampa Code</cite>] No official or employee shall request, use or permit the use of any publicly owned or publicly supplied property, vehicle, equipment, material, labor or service for the personal convenience or the private advantage of himself or of any other person. This rule shall not be deemed to prohibit an official or employee from requesting or permitting the use of such publicly owned or publicly supplied property, vehicle, equipment, material, labor or service which it is the general practice to make available to the public at large or which is provided as a matter of stated public policy for the use of officials and employees in the conduct of official business.</text>
         <text>[Jacksonville] In addition to any other penalty provided by law, upon conviction and adjudication of guilt, he or she may also be fined in a sum equal to the value of the money or property embezzled or converted for a violation of <cite path="2-540">this section</cite>.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, sec. 2(2-662), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222">Ord. No. 89-222, sec. 2(2-662), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2245,7 +2245,7 @@
         <text>[Jacksonville] It is unlawful for any officer or employee of the city or any party who contracts with the city involved in the collection or disbursement of the revenues of the city to carry on any trade or business with the funds or debts or with any public property of the city, for any purpose other than official responsibilities.</text>
         <text>[Jacksonville] In addition to any other penalty provided by law, upon conviction and adjudication of guilt, he or she may also be fined in a sum equal to the value of the property traded for a violation of <cite path="2-541">this section</cite>.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2261,7 +2261,7 @@
           <text>To act as agent or attorney for anyone before any unit of government in connection with any proceedings, application, request for ruling or other determination, contract, claim, controversy, charge, accusation, arrest or other particular matter in which the city is a party or has a direct and substantial interest.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2269,8 +2269,8 @@
         <heading>Use of confidential information.</heading>
         <text>[<cite>City of Tampa Code</cite>] No official or employee shall use or permit the use of confidential information to advance the financial or personal interest of himself or any other person. [Dade Co] Further, no official or employee shall accept employment or engage in any business or professional activity in which he might reasonably be expected, required or induced to disclose confidential information.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, sec. 2(2-667), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222">Ord. No. 89-222, sec. 2(2-667), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2278,8 +2278,8 @@
         <heading>Impartiality.</heading>
         <text>[<cite>City of Tampa Code</cite>] No official or employee shall request, use or permit the use of any consideration, treatment, advantage or favor beyond that which it is the general practice to grant or make available to the public at large.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, sec. 2(2-661), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222">Ord. No. 89-222, sec. 2(2-661), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2287,7 +2287,7 @@
         <heading>Misuse of position.</heading>
         <text>[Jacksonville] It is unlawful for an officer or employee of the city to intentionally use his or her official position to secure, by coercion or threat or otherwise, a special privilege or exemption for himself, herself, or others, or to secure confidential information for any purpose other than official responsibilities.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2303,7 +2303,7 @@
           <text>Individuals shall not be selected for any position in the same department of which a relative serves as the department head or director or to the same division or section of the department of which the relative serves as the managerial, supervisory, or lead employee. Individuals who are relatives of the mayor's executive staff shall not be selected to any position in the city. Further, employees who hold a status prior to the relative's appointment or selection as a department director, manager, or supervisor, or who become related by marriage shall not be placed on any eligibility lists for promotion within that same department, division, or section as applicable and shall be placed in a different department, division, or section as soon as practicable.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2311,7 +2311,7 @@
         <heading>Prohibited activities relating to promotion or appointment.</heading>
         <text>[Jacksonville] It shall be unlawful for any person seeking employment to, or promotion in, the city to either directly or indirectly give, promise, render, or pay any money, service, or other valuable thing to any person for, or on account of, or in connection with or for the purpose of influencing or affecting their test, appointment, proposed appointment, promotion or proposed promotion.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2334,7 +2334,7 @@
           <text>All employees are discouraged from having close personal relationships with non-subordinate employees. All such relationships must be disclosed by both employees to the department director and may result in requiring that the employees work different shifts; transferring one (1) employee to another department; assigning one (1) of the employees to another facility, squad, or work unit; or other action determined to be appropriate by the city ethics officer.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2342,7 +2342,7 @@
         <heading>Product endorsements subject to approval by the mayor.</heading>
         <text>No City of Tampa public officer or employee shall publicly endorse or recommend any product, service, vendor, or person or entity, unless the mayor has issued prior written approval of such public endorsement or recommendation. This prohibition shall not apply to public endorsements or recommendations required to be made pursuant to statute, regulation, code, or the duties of office.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2004-110, § 2, 4-29-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-110" path="§2">Ord. No. 2004-110, § 2, 4-29-04</annotation>
         </annotations>
       </section>
       <section>
@@ -2359,7 +2359,7 @@
         <heading>Adoption of Florida Gift Law.</heading>
         <text>The city hereby adopts and incorporates by reference Florida's Gift Law (F.S. § 112.3148) as it may be amended from time to time. The following provisions applicable to certain city officials and employees are intended to be supplemental to the requirements of the Florida Gift Law.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2367,7 +2367,7 @@
         <heading>Prohibited receipt of gifts or charge of commissions for official transactions.</heading>
         <text>[Leon County and Jacksonville] It shall be unlawful for an officer or employee to charge, solicit, accept, be the beneficiary of or receive, directly or indirectly, any fee, commission, gift, gratuity, loan or other consideration for or in connection with any transaction or business done, performed or rendered in the course of his or her official duties or responsibilities, and which is intended, or can be reasonably inferred as intended to influence the performance of an official act.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2375,8 +2375,8 @@
         <heading>Prohibited gifts from parties doing business with the city.</heading>
         <text>No officer or employee of the city, excluding appointed officials, shall knowingly accept, directly or indirectly, from any person, company, firm or corporation to which any purchase order or contract is awarded, any rebate, gift, money or other consideration, with a value greater than one hundred dollars ($100.00), except when given for the use and benefit of the city, or except when given in public recognition of exemplary performance of official duties, subject to the limitations set forth below in <cite path="2-563">section 2-563</cite>, Prohibited offering/receipt of gifts from lobbyists.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-          <annotation type="History">Ord. No. 2004-110, § 3, 4-29-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-110" path="§3">Ord. No. 2004-110, § 3, 4-29-04</annotation>
         </annotations>
       </section>
       <section>
@@ -2396,7 +2396,7 @@
           <text>It is unlawful for a lobbyist, or principal or employer of a lobbyist, to knowingly offer a gift to an officer or employee of the city which would cause a violation of this ethics codes.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2405,7 +2405,7 @@
         <text>[Jacksonville] In addition to any reporting required pursuant to the Florida Gift Law, all elected and appointed officers, appointed employees, procurement employees, permitting employees, and zoning employees ("city reporting individuals") who receive a gift in excess of one hundred dollars ($100.00) shall report that gift in an annual statement to the city ethics officer in accordance with the requirements (and exceptions) and in the manner provided in F.S. § 112.3148.</text>
         <text>Provided however, where this ordinance requires a person to file a report and that person is not required to file a report pursuant to state law, the report shall be on a form which is substantially the same in content as that required by state law, and the form shall be submitted annually, by July 1, to the city ethics officer. Where this article requires a person to file a report and that person is required to file a report pursuant to state law, the report shall be on a form which is substantially the same in content as that required by state law, and the form shall be submitted annually, by July 1, to the city ethics officer in addition to the filing required by state law.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2417,7 +2417,7 @@
         <text>A person who is prohibited from paying an honorarium to an officer or employee but who provides an officer or employee or officer and employee and his or her spouse, with expenses related to an honorarium event, shall provide to the officer or employee, no later than sixty (60) days after the honorarium event, a statement listing the name and address of the person providing the expenses, a description of the expenses provided each day, and the total value of the expenses providing for the honorarium event.</text>
         <text>An officer or employee who receives payment or provision of expenses related to any honorarium event from a person who is prohibited from paying an honorarium to an officer or employee shall publicly disclose on an annual statement the name, address, and affiliation of the person paying or providing the expenses; the amount of the honorarium expenses; the date of the honorarium event; a description of the date of the expenses paid or provided on each day of the honorarium event; and the total value of the expenses provided to the officer and employee in connection with the honorarium event. The annual statement of honorarium expenses shall be filed by July 1st of each year for such expenses received during the previous calendar year. The officer or employee shall attach to the annual statement a copy of each statement received by him or her in accordance with <cite path="2-565|(d)">subsection (d)</cite> regarding honorarium expenses paid or provided during the calendar year for which the annual statement is filed. Such attached statement shall become a public record upon the filing of the annual report. The annual statement of an officer or employee shall be filed in compliance with state law. Where this ordinance requires a person to file a report and that person is not required to file a report pursuant to state law, the report shall be on a form which is substantially the same in content as that required by state law, and the form shall be submitted annually, by July 1, to the city ethics officer.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2457,8 +2457,8 @@
         </para>
         <annotations>
           <annotation type="Cross References" dest="container">[<cite>City of Tampa Code</cite>]</annotation>
-          <annotation type="History">Ord. No. 89-222, sec. 2(2-666), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222">Ord. No. 89-222, sec. 2(2-666), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2466,8 +2466,8 @@
         <heading>Disclosure of specified interests.</heading>
         <text>[<cite>City of Tampa Code</cite>] If any elected official is an officer, director, partner, proprietor, associate, or general agent (other than a resident agent solely for service of process) of, or owns a material interest in any business entity, he shall file a statement disclosing such facts not later than forty-five (45) days after becoming an elected official, or no later than forty-five (45) days after the acquisition of such position or material interest, or no later than forty-five (45) days after the effective date of <cite path="2-567">this section</cite>, as applicable. The disclosure statement shall give the name, address, and principal business activity of the business entity and shall state the position held with such business entity or the fact that a material interest is owned and the nature of such interest. The disclosure statement shall be made upon forms provided by the city and filed with the city ethics officer.</text>
         <annotations>
-          <annotation type="History">Ord. No. 98-256, sec. 2, 12-3-98</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-256">Ord. No. 98-256, sec. 2, 12-3-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2475,8 +2475,8 @@
         <heading>Disclosure of joint enterprise by city officials.</heading>
         <text>[<cite>City of Tampa Code</cite>] If any elected official has or enters into a joint enterprise as hereinabove defined with any other elected official or with any city employee, said elected official shall file a statement disclosing such fact no later than forty-five (45) days after becoming an elected official, or no later than forty-five (45) days after the date said elected official enters into the joint enterprise, or no later than forty-five (45) days after the effective date of <cite path="2-568">this section</cite>, as applicable. The disclosure statement shall be made upon forms provided by the city and the same shall be filed with the city ethics officer.</text>
         <annotations>
-          <annotation type="History">Ord. No. 98-256, sec. 2, 12-3-98</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 98-256">Ord. No. 98-256, sec. 2, 12-3-98</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2564,11 +2564,11 @@
           <text><em>Violations/penalties</em>. Violations of expenditure reporting shall be punishable as provided in <cite path="2-580|(b)">section 2-580(b)</cite>. The following shall apply to all other violations of this section. A first violation of the provisions of this section shall result in the issuance of a warning by the city ethics officer. A second violation within a period of twelve (12) months shall be punishable by a fine of two hundred fifty dollars ($250.00). If a third violation occurs within twelve (12) months, the violator shall be prohibited from lobbying for six (6) months. If a fourth violation occurs within twelve (12) months, the violator shall be prohibited from lobbying for one (1) year. The city ethics officer shall notify all affected personnel should a lobbyist be suspended under this subsection. If a lobbyist lobbies any affected personnel while under suspension, the city ethics officer shall impose a fine of five hundred dollars ($500.00). The validity of any action or determination of the city council or city employees, board or committee shall not be affected by the failure of any person to comply with the provisions of this section.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 97-153, sec. 1, 7-17-97</annotation>
-          <annotation type="History">Ord. No. 97-176, sec. 1, 8-28-97</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-          <annotation type="History">Ord. No. 2004-110, § 4, 4-29-04</annotation>
-          <annotation type="History">Ord. No. 2016-161, § 3, 11-3-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-153">Ord. No. 97-153, sec. 1, 7-17-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-176">Ord. No. 97-176, sec. 1, 8-28-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-110" path="§4">Ord. No. 2004-110, § 4, 4-29-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-161" path="§3">Ord. No. 2016-161, § 3, 11-3-2016</annotation>
         </annotations>
       </section>
       <section>
@@ -2595,9 +2595,9 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-139, §<cite path="1-4">§ 1-4</cite>, 6-15-89</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-          <annotation type="History">Ord. No. 2006-21, § 5, 1-26-06</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-139" path="§1-4">Ord. No. 89-139, §<cite path="1-4">§ 1-4</cite>, 6-15-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-21" path="§5">Ord. No. 2006-21, § 5, 1-26-06</annotation>
         </annotations>
       </section>
       <section>
@@ -2605,7 +2605,7 @@
         <heading>Reemployment of elected official.</heading>
         <text>[City Charter sec. 10.06] No former elected official shall hold any compensated appointed city office or employment until one (1) year after the expiration of the term for which he was elected.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2693,7 +2693,7 @@
           <annotation type="Cross References" dest="container">[Jacksonville; F.S. § 106.15(4)]</annotation>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2701,7 +2701,7 @@
         <heading>Campaign contributions in city owned buildings prohibited.</heading>
         <text>It is unlawful for a person to make or solicit or knowingly accept any campaign contribution in a building owned by the city. For purposes of <cite path="2-601">this section</cite>, "accept" means to receive a contribution by personal hand delivery from a contributor or his agent, and a solicitation shall be deemed to occur where the solicitor of the solicitation is located at the time of the solicitation. <cite path="2-601">This section</cite> shall not apply when a building owned by the city, or any portion thereof, is rented for the specific purpose of holding a campaign fundraiser. Nothing in <cite path="2-601">this section</cite> shall preclude voluntary contributions by a city officer or employee to the party or candidate of his or her choice provided the contribution does not occur in a city-owned building.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2720,7 +2720,7 @@
           <text>In accordance with City of Tampa Sign Code <cite path="27-289.6|(a)|(10)">section 27-289.6(a)(10)</cite>, as amended, all political campaign signs shall be removed within thirty (30) days after the election upon which the political sign is based.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2738,7 +2738,7 @@
         <heading>City ethics officer duties assigned.</heading>
         <text>The duties of the city ethics officer shall be assigned to the appropriate department(s) of the city, as designated by the mayor.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2758,7 +2758,7 @@
         <text>• Seek formal opinions from the ethics commission on interpretation of his or her duties or of <cite path="2-500">this Code</cite>; and</text>
         <text>• Accomplish other duties as requested by the mayor or city council.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2767,7 +2767,7 @@
         <text>The head of each department of the city shall assign an employee the duties of department ethics liaison with the concurrence of the city ethics officer. Appointment of additional personnel will be at the discretion of the mayor. Each department ethics liaison's duties are in addition to his or her principal operational role within the department.</text>
         <text>The head of the department shall communicate the selection of the department's ethics liaison to all employees in the department, while emphasizing his/her personal support for the person and the program. Employees should be encouraged to communicate directly with the city ethics officer on issues or questions that are ethics-related.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2781,7 +2781,7 @@
         <text>• Make recommendations for improvement in training to the city ethics officer.</text>
         <text>• Accomplish such other duties as are delegated by the city ethics officer, including participating in investigations of complaints as authorized by the city ethics officer.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           <annotation type="Cross References" dest="container">[Jacksonville]</annotation>
         </annotations>
       </section>
@@ -2818,7 +2818,7 @@
           <text>The programs shall include topics as determined necessary to explain the provisions of this article, Florida Statutes concerning ethics, and general ethics issues.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2842,7 +2842,7 @@
         </para>
         <annotations>
           <annotation type="Cross References" dest="container">[Palm Bch]</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2888,7 +2888,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2906,8 +2906,8 @@
         <heading>City of Tampa Ethics Commission; created; purpose.</heading>
         <text>There is hereby created and established the City of Tampa Ethics Commission to administer the <cite path="2-500">code of ethics for city officials</cite> and employees.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, sec. 2(2-646), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222">Ord. No. 89-222, sec. 2(2-646), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           <annotation type="Cross References" dest="container">[Dade County]</annotation>
         </annotations>
       </section>
@@ -2944,9 +2944,9 @@
           <text><em>Additional qualifications.</em> Each member of the ethics commission shall be a United States citizen, resident of the City of Tampa and shall be of outstanding reputation for integrity, responsibility and commitment to serving the community. The members of the ethics commission should be representative of the community-at-large and should reflect the racial, gender and ethnic make-up of the community. Prior to final selection of each member of the ethics commission, those persons empowered herein to appoint members shall meet and evaluate the qualifications of each person(s) under consideration to ensure that (a) that said person(s) is qualified to serve on the ethics commission and (b) that the membership of the ethics commission will be representative of the community-at-large and reflect the racial, gender and ethnic make-up of the community. Before entering upon the duties of office, each appointee on the ethics commission shall take the prescribed oath of office.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-          <annotation type="History">Ord. No. 2004-110, § 5, 4-29-04</annotation>
-          <annotation type="History">Ord. No. 2017-61, § 2, 4-20-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-110" path="§5">Ord. No. 2004-110, § 5, 4-29-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-61" path="§2">Ord. No. 2017-61, § 2, 4-20-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -2954,7 +2954,7 @@
         <heading>Term.</heading>
         <text>The members of the ethics commission shall serve staggered terms of four (4) years each, provided that of the original members, two (2) members shall be appointed for a term of two (2) years and three (3) shall be appointed for a term of four (4) years, and each member shall continue to serve until their successor has been appointed.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -2962,8 +2962,8 @@
         <heading>Vacancies.</heading>
         <text>A vacancy occurring during or at the expiration of a member's term on the ethics commission shall be filled as provided in <cite path="2-651">section 2-651</cite>, subsections (a) and (b).</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-          <annotation type="History">Ord. No. 2017-61, § 3, 4-20-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-61" path="§3">Ord. No. 2017-61, § 3, 4-20-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -2977,7 +2977,7 @@
         <text>• Allow his or her name to be used by a campaign in support of or against any candidate for city office or any city referendum or other city ballot question.</text>
         <text>Nothing herein shall preclude a member of the ethics commission from signing a petition in support of or against any referendum or other ballot question.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           <annotation type="Cross References" dest="container">[<cite>City of Tampa Code</cite>]</annotation>
         </annotations>
       </section>
@@ -2986,8 +2986,8 @@
         <heading>Organization; rules and regulations; swearing witnesses; keeping minutes.</heading>
         <text>The members of the ethics commission shall elect a chairman annually. The board may promulgate written rules and regulations to govern its proceedings and all hearings held before it. The board may conduct investigations upon complaints or information received by it and may swear witnesses. The board shall keep accurate and complete minutes of its business.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, sec. 2(2-651), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222">Ord. No. 89-222, sec. 2(2-651), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           <annotation type="Cross References" dest="container">[<cite>City of Tampa Code</cite>]</annotation>
         </annotations>
       </section>
@@ -2996,8 +2996,8 @@
         <heading>Compensation.</heading>
         <text>Members of the ethics commission shall not be entitled to compensation; however, all members shall receive reimbursement for parking in city garages and for mileage for any board-related business except travel to and from regularly scheduled and specially called board meetings. Such reimbursement shall be consistent with city policy.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, sec. 2(2-652), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222">Ord. No. 89-222, sec. 2(2-652), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           <annotation type="Cross References" dest="container">[Dade County]</annotation>
         </annotations>
       </section>
@@ -3006,7 +3006,7 @@
         <heading>Powers, duties and jurisdiction of ethics commission.</heading>
         <text>The ethics commission shall be empowered to review, interpret, render advisory opinions and letters of instruction and enforce this ethics code. Jurisdiction of the ethics commission shall automatically extend to elected officers, appointed officers, and employees and lobbyists, as defined herein, who are required to comply with <cite path="2-500">this code</cite> of ethics ordinance.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           <annotation type="Cross References" dest="container">[<cite>City of Tampa Code</cite>]</annotation>
         </annotations>
       </section>
@@ -3035,9 +3035,9 @@
           <text>In any case in which the ethics commission finds probable cause to believe a violation of criminal law has been committed by an alleged violator or where the ethics commission finds probable cause to believe that a complainant has committed perjury in regard to any document filed with or any testimony given before the ethics commission, it shall refer such evidence to the appropriate law enforcement agency for prosecution.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, sec. 2(2-668), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-          <annotation type="History">Ord. No. 2005-109, § 1, 4-28-05</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222">Ord. No. 89-222, sec. 2(2-668), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2005-109" path="§1">Ord. No. 2005-109, § 1, 4-28-05</annotation>
           <annotation type="Cross References" dest="container">[<cite>City of Tampa Code</cite>]</annotation>
         </annotations>
       </section>
@@ -3047,8 +3047,8 @@
         <text>If the ethics commission, pursuant to the provisions hereof, shall make a determination that the conduct of any official or employee is or was a violation of this ethics code, the ethics commission shall make a recommendation to the official, city council, or other appropriate body or person to institute appropriate action for correction or rectification of that conduct or for the censure, suspension or removal from office of the official or employee, and may recommend appropriate action to void any transaction with a public body or any determination made by a public body.</text>
         <text>The official, city council, or other public body or person taking such action may base any action it takes upon the written findings of fact, conclusions and determination of the ethics commission and shall institute such action they deem appropriate within sixty (60) days of the promulgation of the ethics commission's findings, conclusions, and determination.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-222, sec. 2(2-669), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-222">Ord. No. 89-222, sec. 2(2-669), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           <annotation type="Cross References" dest="container">[Jacksonville]</annotation>
         </annotations>
       </section>
@@ -3069,7 +3069,7 @@
           <text>The ethics commission shall assist in the preparation of materials and programs designed to assist persons in complying with the ethics laws. The ethics commission shall work with the city ethics officer in establishing, presenting, and expanding the city's ethics education program.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
           <annotation type="Cross References" dest="container">[Jacksonville]</annotation>
         </annotations>
       </section>
@@ -3107,8 +3107,8 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-          <annotation type="History">Ord. No. 2004-225, § 5, 9-30-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-225" path="§5">Ord. No. 2004-225, § 5, 9-30-04</annotation>
           <annotation type="Cross References" dest="container">[Jacksonville]</annotation>
         </annotations>
       </section>
@@ -3118,7 +3118,7 @@
         <text>The ethics commission may, on its own initiative, seek information and gather facts for the purpose of investigating any circumstance or situation of which the ethics commission may become aware that appears to violate or may potentially violate an acceptable standard of conduct for city officers and employees. If, as a result of such investigation, the ethics commission determines the need for remedial or preventative legislation, the ethics commission may make such recommendations to the city council as it deems appropriate.</text>
         <text>The services of other departments, boards and agencies of the city may be made available to the ethics commission at its request, subject to their ability and capacity to provide them. All city agencies shall cooperate with the ethics commission in the exercise of the ethics commission's responsibilities.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
         </annotations>
       </section>
       <section>
@@ -3126,8 +3126,8 @@
         <heading>Appeals.</heading>
         <text>Appeals from any decision of the ethics commission, with the exception of recommendations made pursuant to <cite path="2-661|(c)">section 2-661(c)</cite> herein, shall be to circuit court as provided by law.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
-          <annotation type="History">Ord. No. 2004-225, § 6, 9-30-04</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-255" path="§2,3">Ord. No. 2003-255, §§ 2, 3, 10-2-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2004-225" path="§6">Ord. No. 2004-225, § 6, 9-30-04</annotation>
         </annotations>
       </section>
       <section>
@@ -3155,7 +3155,7 @@
           <text>All words or terms used in this division, unless otherwise noted, shall have the same meaning as such words and terms have under the state Whistle-blower's Act, F.S. § 112.3187.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-155" path="§2">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
         </annotations>
       </section>
       <section>
@@ -3178,7 +3178,7 @@
           <text>If a person knows or has a good-faith belief that he or she possesses information that meets the criteria in <cite path="2-676|(a)">section 2-676(a)</cite>, that person may contact the ethics officer to confidentially disclose the information and request whistleblower status. To render the person eligible for whistleblower status, the disclosure must be made in a signed, written complaint to the ethics officer.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-155" path="§2">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
         </annotations>
       </section>
       <section>
@@ -3242,7 +3242,7 @@
           <text>If the ethics commission determines that the complainant should not be designated as a whistleblower, the report and findings shall be returned to the complainant with a statement as to why the complainant was not so designated, and with an explanation that the complainant cannot rely on the whistleblower protections in this division.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-155" path="§2">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
         </annotations>
       </section>
       <section>
@@ -3262,7 +3262,7 @@
           <text>Refusing to participate in another adverse personnel action as defined in <cite path="2-678">this section</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-155" path="§2">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
         </annotations>
       </section>
       <section>
@@ -3277,7 +3277,7 @@
           <text>A designated whistleblower may file an appeal of any adverse disciplinary action that he or she in good-faith believes resulted from retaliation under <cite path="2-679">section 2-679</cite>, pursuant to the disciplinary appeals methods available in the city's personnel policies.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-155" path="§2">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
         </annotations>
       </section>
       <section>
@@ -3285,7 +3285,7 @@
         <heading>Existing rights.</heading>
         <text>This division shall not be construed to diminish the rights, privileges or remedies of any employee under any other law or rule or under any collective bargaining agreement or employment contract; however, the election of remedies provided by F.S. § 447.401, shall also apply to complaints under this division.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-155" path="§2">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
         </annotations>
       </section>
       <section>
@@ -3293,7 +3293,7 @@
         <heading>Rules and procedures.</heading>
         <text>The ethics officer is authorized to promulgate such rules and procedures and written forms necessary to effectuate the intent of this division.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2016-155" path="§2">Ord. No. 2016-155, § 2, 10-20-2016</annotation>
         </annotations>
       </section>
     </container>

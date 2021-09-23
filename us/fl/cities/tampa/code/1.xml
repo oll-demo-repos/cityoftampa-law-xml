@@ -8,8 +8,8 @@
     <heading>How Code designated and cited.</heading>
     <text>The ordinances embraced in the following chapters and sections shall constitute, be designated and cited as the "<cite>City of Tampa Code</cite>."</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-1), 9-28-89</annotation>
-      <annotation type="History">Ord. No. 91-150, § 1, 8-29-91</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-1), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 91-150" path="§1">Ord. No. 91-150, § 1, 8-29-91</annotation>
       <annotation type="Cross References" dest="container"><strong>Charter reference— </strong>Codification authority, § 2.12.</annotation>
     </annotations>
   </section>
@@ -39,8 +39,8 @@
     <text><em>State.</em> The words "the state" or "this state" shall be construed to mean the State of Florida.</text>
     <text><em>Tense.</em> Words used in the present or past tense include the future as well as the present and past.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-2), 9-28-89</annotation>
-      <annotation type="History">Ord. No. 91-150, § 2, 8-29-91</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-2), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 91-150" path="§2">Ord. No. 91-150, § 2, 8-29-91</annotation>
       <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>For statutory definitions, see F.S. § 1.01.</annotation>
     </annotations>
   </section>
@@ -56,7 +56,7 @@
       <text>The official shall be the final authority as to the meaning and interpretation of any word or term in question.</text>
     </para>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-3), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-3), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -71,7 +71,7 @@
       <text>The repeal of an ordinance shall not affect any punishment or penalty incurred before the repeal took effect, nor any suit, prosecution or proceeding pending at the time of the repeal for an offense committed or cause of action arising under the ordinance repealed.</text>
     </para>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-4), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-4), 9-28-89</annotation>
       <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>No bill of attainder, ex post facto law or law impairing the obligation of contracts shall ever be passed, Fla. Const. art. I, § 10.</annotation>
     </annotations>
   </section>
@@ -80,7 +80,7 @@
     <heading>Code remedial.</heading>
     <text><cite>This Code</cite> is hereby declared to be remedial and shall be construed to secure the beneficial interests and purposes thereof, which are public safety, health, and general welfare.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-5), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-5), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -103,9 +103,9 @@
       <text><cite path="1-6">This section</cite> shall not apply to the failure of officers and employees of the city to perform municipal duties required by <cite>this Code</cite>.</text>
     </para>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-6), 9-28-89</annotation>
-      <annotation type="History">Ord. No. 2002-114, § 1, 5-30-02</annotation>
-      <annotation type="History">Ord. No. 2002-115, § 1, 5-30-02</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-6), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-114" path="§1">Ord. No. 2002-114, § 1, 5-30-02</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-115" path="§1">Ord. No. 2002-115, § 1, 5-30-02</annotation>
       <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Fines and forfeitures in county court payable to municipality, F.S. § 34.191; punishment for misdemeanor, F.S. §§ 775.082, 775.083.</annotation>
     </annotations>
   </section>
@@ -206,7 +206,7 @@
       <text>Ordinance to be interpreted in harmony with Florida Statutes Chapter 948. The provisions of <cite path="1-6.1">this section</cite> are to be applied in conformity with the decisions interpreting Florida Statutes Chapter 948.</text>
     </para>
     <annotations>
-      <annotation type="History">Ord. No. 2002-116, § 1, 5-30-02</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2002-116" path="§1">Ord. No. 2002-116, § 1, 5-30-02</annotation>
     </annotations>
   </section>
   <section>
@@ -214,7 +214,7 @@
     <heading>Catchlines and headings.</heading>
     <text>The catchlines of the several sections of <cite>this Code</cite>, printed in boldface type, and the chapter, article, division and subdivision headings are intended as mere catchwords to indicate the contents of the section, chapter, article, division or subdivision and shall not be deemed or taken to be titles of such section, chapter, article, division or subdivision or as any part of the section, chapter, article, division or subdivision, nor, unless expressly so provided, shall they be so deemed when any such section, chapter, article, division or subdivision, including the catchlines, are amended or reenacted.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-7), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-7), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -222,7 +222,7 @@
     <heading>History notes and references.</heading>
     <text>The history notes appearing in parentheses after each section and the editor's notes, Charter references, cross references, state law references, county law references and related law references scattered throughout the Code are for the benefit of the user of the Code and shall have no legal effect.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-8), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-8), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -249,8 +249,8 @@
       <text>All chapters, articles, divisions, subdivisions, sections or provisions desired to be repealed must be specifically repealed by chapter, article, division, subdivision or section number, as the case may be.</text>
     </para>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-9), 9-28-89</annotation>
-      <annotation type="History">Ord. No. 97-42, § 1, 2-20-97</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-9), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-42" path="§1">Ord. No. 97-42, § 1, 2-20-97</annotation>
     </annotations>
   </section>
   <section>
@@ -293,7 +293,7 @@
       </para>
     </para>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-10), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-10), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -301,7 +301,7 @@
     <heading>Severability of parts of Code.</heading>
     <text>The sections, paragraphs, sentences, clauses and phrases of <cite>this Code</cite> are severable, and if any phrase, clause, sentence, paragraph or section of <cite>this Code</cite> shall be declared unconstitutional by the valid judgment or decree of a court of competent jurisdiction, such unconstitutionality shall not affect any of the remaining phrases, clauses, sentences, paragraphs and sections of <cite>this Code</cite>.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-11), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-11), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -358,7 +358,7 @@
     </para>
     <text>all of which ordinances shall continue in full force and effect in the city as if set out fully in <cite>this Code</cite>.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-12), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-12), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -366,7 +366,7 @@
     <heading>Administrative authority.</heading>
     <text>The provisions of <cite>this Code</cite> shall be administered and enforced by the official.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-13), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-13), 9-28-89</annotation>
       <annotation type="Cross References" dest="container"><strong>Charter reference— </strong>Mayor's powers and duties, § 4.01.</annotation>
     </annotations>
   </section>
@@ -375,7 +375,7 @@
     <heading>Delegation of administrative authority.</heading>
     <text>The official may appoint officers, inspectors and assistant inspectors to assist in the administration and enforcement of the provisions of <cite>this Code</cite>. Any duty or act in <cite>this Code</cite> authorized or required of the official may be performed by any of his assistants or employees when authorized by the official. The official may designate representatives who shall have the power, duty and responsibility to administer and enforce the provisions of <cite>this Code</cite>.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-14), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-14), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -383,7 +383,7 @@
     <heading>Actions of the official considered cumulative.</heading>
     <text>Any action to be taken by the official pursuant to <cite>this Code</cite> in regard to the enforcement of any section hereof shall be considered cumulative and in addition to penalties and other remedies provided elsewhere.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-15), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-15), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -391,7 +391,7 @@
     <heading>Right of entry.</heading>
     <text>The official, in enforcing the provisions of <cite>this Code</cite>, shall have the right of entry upon real property and shall be immune from civil or criminal prosecution for trespass upon real property while in the discharge of his duties of enforcing the provisions of <cite>this Code</cite>. The same immunity shall inure to his authorized agents, assistants, employees, and contractors employed on behalf of the city in connection with such enforcement as provided by law.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-16), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-16), 9-28-89</annotation>
       <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Inspection warrants, F.S. § 933.20 et seq.</annotation>
     </annotations>
   </section>
@@ -400,7 +400,7 @@
     <heading>Requirements not covered by Code.</heading>
     <text>Any actions necessary to accomplish the purpose or intent of any of the provisions of <cite>this Code</cite> and not specifically covered by <cite>this Code</cite> may be required by the official.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-17), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-17), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -408,7 +408,7 @@
     <heading>Hearings by code enforcement board on violations.</heading>
     <text>Notwithstanding the provisions elsewhere in <cite>this Code</cite>, the official shall notify the secretary of the code enforcement board to cause an alleged violation to be heard by the code enforcement board as set forth in <cite>this Code</cite>.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-18), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-18), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -427,8 +427,8 @@
       <text>For purposes of <cite path="1-19">this section</cite>, ruling or order shall mean a final decision or resolution of a specific request or matter in controversy made by a duly authorized or empowered city official. Generalized decisions, billing statements, assessments, or policy adoptions, including but not limited to legal opinions by the city attorney's office, utility billings, and assessments of fines, costs or fees shall not be deemed rulings or orders as defined herein, and as such, are not subject to review under this provision of the City Code of Ordinances.</text>
     </para>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-19), 9-28-89</annotation>
-      <annotation type="History">Ord. No. 2008-196, § 1, 11-20-08</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-19), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2008-196" path="§1">Ord. No. 2008-196, § 1, 11-20-08</annotation>
       <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2008-196, § 1, adopted Nov. 20, 2008, changed the title of <cite path="1-19">§ 1-19</cite> from "Appeals; administrative hearing" to read as herein set out.</annotation>
     </annotations>
   </section>
@@ -522,7 +522,7 @@
       </para>
     </para>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-20), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-20), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -530,7 +530,7 @@
     <heading>Damage to city property.</heading>
     <text>It is unlawful for any person to maliciously, willfully or negligently break, damage, destroy or deface, tamper with or remove any city property.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-21), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-21), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -538,7 +538,7 @@
     <heading>Expenses incurred by city.</heading>
     <text>In addition to fees established elsewhere in <cite>this Code</cite>, any person who, as a result of any act or omission by that person, whether deliberate or otherwise, causes damage to any city equipment, material or property shall be responsible and make payment to the city for all expenses incurred to repair or replace such equipment, material or property.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-22), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-22), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -546,7 +546,7 @@
     <heading>Precaution against injury to children by contractors.</heading>
     <text>Contractors are under a duty to take such precautions as reasonably prudent persons would take to prevent injury to children.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-23), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-23), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -554,7 +554,7 @@
     <heading>Liens for nonpayment of charges.</heading>
     <text>If a person has failed to pay any charge levied by the city, the city shall have as security for the collection of such charge a lien upon such building and upon any premises, lot, piece, or parcel of land upon which such building may be situated. The unpaid amount shall constitute a lien when the payment becomes past due and shall remain a lien until paid in full. A notice of lien shall be recorded among the public records of the county which shall show the nature of the lien, the amount thereof, and an accurate description of the real property affected thereby. The city may proceed to foreclose such lien pursuant to the manner prescribed by law and shall be entitled to interest and all costs of collection, including attorneys' fees. Further, any attempt to collect fees by any other process shall not invalidate or waive the lien imposed hereby.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-24), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-24), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -581,7 +581,7 @@
       </para>
     </para>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-25), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-25), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -589,7 +589,7 @@
     <heading>Federal and state authority.</heading>
     <text>The provisions of <cite path="1">this chapter</cite> shall not be held to deprive any federal, state or county agency or any applicable governing body having jurisdiction of any power or authority which it legally possesses.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-26), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-26), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -597,7 +597,7 @@
     <heading>Inspections.</heading>
     <text>All installations, work, maintenance and improvements regulated by <cite>this Code</cite> shall be subject to inspection by the city. The official may require documents, drawings or certificates necessary to effect approval of such work.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-27), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-27), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -605,7 +605,7 @@
     <heading>Collection charges; interest.</heading>
     <text>Unless otherwise provided for in <cite>this Code</cite> or other applicable laws, whenever monies are legally due the city and such monies remain unpaid on the specified due date, the city may charge interest for each day of delinquency at the rate of eighteen (18) percent per annum or the maximum allowed by law, whichever is the lesser, for each day of delinquency, and a fee equal to the reasonable administrative costs associated with collecting such monies.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-28), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-28), 9-28-89</annotation>
     </annotations>
   </section>
   <section>
@@ -613,7 +613,7 @@
     <heading>Conflict of provisions.</heading>
     <text>In a conflict between the provisions of <cite path="1">this chapter</cite> and any other ordinance of the city which pertains to the same subject matter, the more stringent ordinance or provision shall prevail. In a conflict between the provisions of <cite path="1">this chapter</cite> and any other ordinance of the city which pertains to different subject matter, the city attorney's office shall determine, in accordance with the common law rules of construction, which provisions shall prevail.</text>
     <annotations>
-      <annotation type="History">Ord. No. 89-221, § 2(1-29), 9-28-89</annotation>
+      <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-221" path="§2">Ord. No. 89-221, § 2(1-29), 9-28-89</annotation>
     </annotations>
   </section>
 </container>

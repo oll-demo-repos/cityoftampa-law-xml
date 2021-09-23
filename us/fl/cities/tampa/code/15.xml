@@ -19,7 +19,7 @@
         <heading>Title.</heading>
         <text><cite path="15">This chapter</cite> shall be known and may be cited as the "City of Tampa Parking Ordinance."</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-1), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-1), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -27,7 +27,7 @@
         <heading>Applicability.</heading>
         <text>The provisions of <cite path="15">this chapter</cite> shall apply throughout the corporate limits of the city and to the use of parking-related property owned or operated by the city.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-2), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-2), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -38,7 +38,6 @@
         <text><em>Coin</em> means any coin, authorized for currency by the United States Government, required to be inserted in parking meters by city resolution or ordinance.</text>
         <text><em>Delinquent status</em> means a ticket where payment is past due and includes tickets that have not been paid, or for which a request for a parking violation hearing has not been made. A ticket which has been found to be in violation after a hearing shall be in delinquent status if not paid within the time period set. A violation set for a parking violation hearing which results in default shall immediately be in delinquent status. A ticket will remain in delinquent status until paid in full, unless dismissed or found not to be a violation.</text>
         <text><em>Director</em> means the director, or his or her designee, of the department referred to as the City of Tampa Logistics and Asset Management Department but shall include any department which may subsequently assume such duties.</text>
-        <text><em>Duly certified code enforcement officer</em> for purposes of <cite path="15">this chapter</cite> means any designated employee or agent of the city whose duty it is to enforce codes and ordinances enacted by the city and has been trained and certified to issue parking tickets pursuant to Florida law.</text>
         <text><em>Habitual parking status</em> means any vehicle bearing a license plate that has been issued five (5) or more parking tickets for any violation of <cite path="15">this chapter</cite> within the past three hundred sixty-five (365) calendar days.</text>
         <text><em>Hearing officer</em> means the code enforcement special magistrate assigned to hear parking violation hearings and challenges to parking ticket violations and immobilization of vehicles in accordance with the provisions of <cite path="15">this chapter</cite>.</text>
         <text><em>Non-motorized vehicle</em> means any vehicle which does not have an attached source of mechanical energy such as an engine in order to make it move, but has to be attached, drawn, pushed, or pulled in order for it to be moved. Non-motorized vehicles include, but are not limited to, travel trailers, watercraft, boats, and watercraft or boat trailers.</text>
@@ -58,14 +57,13 @@
         <text><em>Ticket</em> means a citation issued for a violation of the Code as described in <cite path="15">this chapter</cite>.</text>
         <text><em>Vehicle</em> means every device in, upon or by which any person or property is or may be transported or drawn upon any public street within the city, excepting devices moved by human power or used exclusively upon stationary rails or tracks.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-3), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 94-148, § 1, 8-4-94</annotation>
-          <annotation type="History">Ord. No. 2003-244, § 1, 9-18-03</annotation>
-          <annotation type="History">Ord. No. 2006-255, § 1, 10-19-06</annotation>
-          <annotation type="History">Ord. No. 2011-84, § 1, 7-14-2011</annotation>
-          <annotation type="History">Ord. No. 2017-90, § 2, 6-22-2017</annotation>
-          <annotation type="History">Ord. No. 2020-39, § 1, 6-4-2020</annotation>
-          <annotation type="History">Ord. No. 2020-96, § 2, 10-1-2020</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-3), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 94-148" path="§1">Ord. No. 94-148, § 1, 8-4-94</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-244" path="§1">Ord. No. 2003-244, § 1, 9-18-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-255" path="§1">Ord. No. 2006-255, § 1, 10-19-06</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§1">Ord. No. 2011-84, § 1, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§2">Ord. No. 2017-90, § 2, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§1">Ord. No. 2020-39, § 1, 6-4-2020</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
         </annotations>
       </section>
@@ -74,16 +72,8 @@
         <heading>Administrative authority.</heading>
         <text>The provisions of <cite path="15">this chapter</cite> shall be administered and enforced by the official. For the purpose of <cite path="15">this chapter</cite>, the official's designee shall be the director.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-4), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-4), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Administrative authority of the official, <cite path="1-13">§ 1-13</cite>; delegation of administrative authority, <cite path="1-14">§ 1-14</cite>.</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>15-4.5</num>
-        <heading>Authority to issue citations for parking tickets.</heading>
-        <text>Parking enforcement specialists, and police officers are authorized to issue parking tickets for violations of <cite path="15">this chapter</cite>. Duly certified code enforcement officers are authorized to issue parking tickets for violations of <cite path="15">this chapter</cite>, except for violations within the central business district as defined in chapter 27.</text>
-        <annotations>
-          <annotation type="History">Ord. No. 2020-96, § 3, 10-1-2020</annotation>
         </annotations>
       </section>
       <section>
@@ -91,8 +81,8 @@
         <heading>Installation of parking meters; duty of director to maintain; operation.</heading>
         <text>Parking meters shall be placed upon the curb in proximity to the individual parking spaces to be designated, and each of the parking meters, except pay stations, shall be set to show or display a signal indicating whether the space is or may be lawfully occupied. Each pay station shall produce a receipt indicating the lawful parking period. The director shall provide for the installation, control, operation and use of the parking meters provided for in <cite path="15">this chapter</cite> and shall maintain such meters in good workable condition. Each parking meter, except pay stations, shall be so set as to display a signal showing legal parking upon the actuation by the payment of authorized legal tender by manual or electronic means therein for a period of time conforming to the parking limit as determined by the director for the individual parking space. Pay stations shall be so set as to produce a receipt upon the actuation of payment of authorized legal tender and shall indicate the lawful parking period. Each meter shall by its device clearly set out and continue in operation from the time of actuation by payment until the expiration of the time fixed by the director as to the parking limit for the individual parking space. Each meter, except pay stations, shall also be so arranged that upon the expiration of the parking limit it will indicate by a proper signal that the lawful parking period has expired. Each pay station will produce a receipt indicating the time of expiration of the lawful parking period. One (1) parking meter may be used for the purpose of regulating or controlling parking for one (1) or more parking spaces in one (1) or more parking zones.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-5), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2011-84, § 2, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-5), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§2">Ord. No. 2011-84, § 2, 7-14-2011</annotation>
         </annotations>
       </section>
       <section>
@@ -100,7 +90,7 @@
         <heading>Parking meter zones.</heading>
         <text>Certain described parts of streets, city owned and/or operated off-street lots, garages or property and parks, beach and recreation areas or other property within the city limits may from time to time be designated by the director as parking meter zones. In such zones the director shall cause parking meters to be installed in accordance with the provisions of <cite path="15">this chapter</cite>.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-6), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-6), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -108,8 +98,8 @@
         <heading>Marking of parking spaces.</heading>
         <text>The director shall select and place lines or marks on the curb, property or on the street to designate a parking space for which a parking meter or space is to be used.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-7), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2011-84, § 3, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-7), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§3">Ord. No. 2011-84, § 3, 7-14-2011</annotation>
         </annotations>
       </section>
       <section>
@@ -126,7 +116,7 @@
         <heading>Fees—City council to establish.</heading>
         <text>The city council shall have the authority to set fees by resolution.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-21), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-21), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -178,9 +168,9 @@
           <text>Shuttle service to and from city owned or operated parking facility or property.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-22), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 90-217, § 1, 8-16-90</annotation>
-          <annotation type="History">Ord. No. 2006-255, § 2, 10-19-06</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-22), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 90-217" path="§1">Ord. No. 90-217, § 1, 8-16-90</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-255" path="§2">Ord. No. 2006-255, § 2, 10-19-06</annotation>
         </annotations>
       </section>
       <section>
@@ -237,10 +227,10 @@
           <text>It is unlawful to stop, stand or park in city owned or operated parking lots, garages or other properties that are reserved for monthly parking without properly displaying appropriate documentation of payment for parking privileges for the current period (hangtag, decal, etc.).</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-35), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 97-20, §§ 1, 2, 1-23-97</annotation>
-          <annotation type="History">Ord. No. 2009-71, § 2, 5-7-09</annotation>
-          <annotation type="History">Ord. No. 2011-84, § 4, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-35), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-20" path="§1,2">Ord. No. 97-20, §§ 1, 2, 1-23-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2009-71" path="§2">Ord. No. 2009-71, § 2, 5-7-09</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§4">Ord. No. 2011-84, § 4, 7-14-2011</annotation>
           <annotation type="Editor's Notes" dest="container"><strong>Editor's note— </strong>Ord. No. 2009-71, § 2, adopted May 7, 2009, changed the title of <cite path="15-41">§ 15-41</cite> from "Parking in city lots, garages and other property" to read as herein set out.</annotation>
         </annotations>
       </section>
@@ -249,9 +239,9 @@
         <heading>Parking within designated spaces.</heading>
         <text>Any vehicle stopped, standing or parked in or alongside a parking space as designated pursuant to <cite path="15">this chapter</cite> shall park within the lines or markings designating such parking space. It is unlawful to park any vehicle in any such way that the same shall not be within the area so designated by such lines, markings, or sign post that corresponds with the parking space. The front bumper of the vehicle must be even with the lines, markings, or sign post that corresponds with the parking space or in close proximity thereto without parking beyond the established post or sign.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-36), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2011-84, § 5, 7-14-2011</annotation>
-          <annotation type="History">Ord. No. 2014-16, § 1, 3-6-2014</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-36), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§5">Ord. No. 2011-84, § 5, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2014-16" path="§1">Ord. No. 2014-16, § 1, 3-6-2014</annotation>
         </annotations>
       </section>
       <section>
@@ -270,10 +260,10 @@
           <text>It is unlawful for any person to stop, stand or park a vehicle across the street from a driveway if the street width is twenty-five (25) feet or less except in metered spaces or otherwise marked spaces available for parking or to momentarily pick up or discharge a passenger.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-37), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2001-149, § 1, 7-19-01</annotation>
-          <annotation type="History">Ord. No. 2006-17, § 2, 1-12-06</annotation>
-          <annotation type="History">Ord. No. 2017-33, § 1, 3-2-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-37), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2001-149" path="§1">Ord. No. 2001-149, § 1, 7-19-01</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-17" path="§2">Ord. No. 2006-17, § 2, 1-12-06</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-33" path="§1">Ord. No. 2017-33, § 1, 3-2-2017</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Standing or parking vehicle across from or within ten feet of driveway, <cite path="25-194">§ 25-194</cite>.</annotation>
         </annotations>
       </section>
@@ -282,7 +272,7 @@
         <heading>Ten feet of roadway to remain open for vehicular traffic.</heading>
         <text>It is unlawful for any operator to stop, stand or park any vehicle upon a street, in a traffic lane, any alley or other city owned or operated property in such a manner or under such conditions as to leave available less than ten (10) feet of the width of the traffic lane or roadway for free movement of vehicular traffic, except that an operator may stop only during the actual loading or unloading of passengers or when necessary in obedience to traffic regulations or traffic signs or signals or a police officer.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-38), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-38), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -290,7 +280,7 @@
         <heading>Vehicles other than taxicabs, buses, etc., parking in designated stands.</heading>
         <text>It is unlawful for the operator of any vehicle other than a bus, taxicab or for-hire automobile to stop, stand or park in an officially designated bus, taxicab or for-hire automobile stand, except that the operator of any passenger vehicle may temporarily stop in any such stop or stand for the purpose of and while actually engaged in the loading or unloading of passengers.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-39), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-39), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -298,7 +288,7 @@
         <heading>Trucks occupying more than one parking space.</heading>
         <text>No truck, tractor truck or trailer shall occupy more than one (1) parking space where designated, except while loading or unloading and while all meters used have been properly activated and/or when proper parking permits have been obtained and except in cases of emergency.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-40), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-40), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -306,8 +296,8 @@
         <heading>Parking motor vehicles of eighty-six inches or more in width on certain streets prohibited.</heading>
         <text>No motor vehicle, as defined by Florida Statues as may be amended, of eighty-six (86) inches or more in overall width (not including mirrors) shall be parked on any street, alley, or city owned or operated property, other than for loading and unloading, if parked adjacent to property designated by Chapter 27 of <cite>this Code</cite> as a residential district. A written warning will be provided prior to the issuance of a ticket. After twelve (12) hours, if the motor vehicle is parked in any prohibited location, a ticket may be issued. Failure to move the motor vehicle in violation from streets, alleys, or city owned or operated property within two (2) hours after the issuance of a ticket shall subject the motor vehicle to immobilization and/or impoundment as provided under <cite path="15">this chapter</cite>.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-41), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2020-39, § 2, 6-4-2020</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-41), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§2">Ord. No. 2020-39, § 2, 6-4-2020</annotation>
         </annotations>
       </section>
       <section>
@@ -334,7 +324,7 @@
           <text>For the purpose of <cite path="15-48">this section</cite>, a "timing mechanism device" is a parking device which does not accept coinage and displays a signal for the amount of parking time allotted. Such device is actuated by the turning of a handle.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-42), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-42), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -342,7 +332,7 @@
         <heading>Parking vehicles on street for purposes of sale.</heading>
         <text>It is unlawful for any person to park any vehicle displayed for sale upon any city owned or operated lot, garage or other property or street.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-43), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-43), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -350,8 +340,8 @@
         <heading>Parking vehicles for primary purpose of vending, displaying or advertising goods, services or place of business.</heading>
         <text>It is unlawful for any person to stop, stand or park on any street or city owned or operated parking lot, garage or other property, any vehicle for the purpose of vending, displaying or advertising goods, services or any place of business.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-44), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 92-160, § 1, 10-1-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-44), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-160" path="§1">Ord. No. 92-160, § 1, 10-1-92</annotation>
         </annotations>
       </section>
       <section>
@@ -359,7 +349,7 @@
         <heading>Parking on city right-of-way.</heading>
         <text>It is unlawful to park in the right-of-way except in designated parking spaces or parking lanes. For the purposes of <cite path="15-51">this section</cite>, the term "right-of-way" shall have the definition provided in the city subdivision chapter.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-45), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-45), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -367,7 +357,7 @@
         <heading>Parking vehicles with altered or expired license tags.</heading>
         <text>It is unlawful for any vehicle to be stopped, standing or parked in any city owned or operated parking space, parking lot or other parking facility or property if such vehicle is not licensed in accordance with the laws of the state, if it displays a license tag that is expired or altered such that a person cannot reasonably discern the complete license tag number or if it does not display a valid license tag.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-46), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-46), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -489,7 +479,7 @@
           <text>A resident parking permit must be conspicuously affixed to the inside upper left corner of the back window of the motor vehicle. A three-day visitor parking permit must be conspicuously displayed on the inside of the front window of the motor vehicle. A three-day visitor parking permit will be valid only for the vehicle for which it is issued.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 92-160, § 2, 10-1-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-160" path="§2">Ord. No. 92-160, § 2, 10-1-92</annotation>
         </annotations>
       </section>
       <section>
@@ -502,15 +492,14 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>When investigating the possibility of a violation of <cite path="15-54">this section</cite>, a law enforcement officer, a duly certified code enforcement officer, or a parking enforcement specialist has the right to demand to be shown the vehicle registration, driver's license, or any state or other forms of identification of the operator or other person in charge of the motor vehicle or of the person eligible for such license plate, exemption permit, or temporary exemption parking permit. If such request is refused, the person refusing shall be issued a citation for a violation of this subsection. That person shall not be found guilty of violating this subsection if, prior to or at time of his court or hearing appearance, he produces in court or to the clerk of the court in which the charge is pending a vehicle registration, driver's license, or any state or other forms of identification which confirms that he is the same person to whom was issued the license plate, exemption parking permit, or temporary exemption parking permit used or displayed at the time of citation or that he is eligible for such license plate, exemption permit, or temporary exemption parking permit.</text>
+          <text>When investigating the possibility of a violation of <cite path="15-54">this section</cite>, a law enforcement officer or a parking enforcement specialist has the right to demand to be shown the vehicle registration, driver's license, or any state or other forms of identification of the operator or other person in charge of the motor vehicle or of the person eligible for such license plate, exemption permit, or temporary exemption parking permit. If such request is refused, the person refusing shall be issued a citation for a violation of this subsection. That person shall not be found guilty of violating this subsection if, prior to or at time of his court or hearing appearance, he produces in court or to the clerk of the court in which the charge is pending a vehicle registration, driver's license, or any state or other forms of identification which confirms that he is the same person to whom was issued the license plate, exemption parking permit, or temporary exemption parking permit used or displayed at the time of citation or that he is eligible for such license plate, exemption permit, or temporary exemption parking permit.</text>
         </para>
         <para>
           <num>(c)</num>
           <text>A law enforcement officer or a parking enforcement specialist has the right to confiscate a license plate, an exemption parking permit, or a temporary exemption parking permit issued to persons with disabilities when, based upon personal investigation, the officer or specialist has reasonable cause to believe that there is a violation of <cite path="15-54">this section</cite>. If the operator or other person in charge of the motor vehicle fails or refuses to surrender the license plate, exemption parking permit, or temporary exemption permit, that person shall be issued a citation for a violation of this subsection.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 95-225, § 1, 10-26-95</annotation>
-          <annotation type="History">Ord. No. 2020-96, § 4, 10-1-2020</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-225" path="§1">Ord. No. 95-225, § 1, 10-26-95</annotation>
         </annotations>
       </section>
       <section>
@@ -529,7 +518,7 @@
           <text>For any continuous parking in the same parking space, no more than one (1) offense under <cite path="15-55|(a)">subsection (a)</cite> of <cite path="15-55">this section</cite> and one (1) offense under <cite path="15-55|(b)">subsection (b)</cite> of <cite path="15-55">this section</cite> shall be deemed to have occurred on any one (1) date. In the case of any continuous parking in violation of <cite path="15-55|(a)">subsection (a)</cite> or <cite path="15-55|(b)">subsection (b)</cite> hereof covering parts of two (2) or more dates, one (1) offense under <cite path="15-55|(b)">subsection (b)</cite> shall be deemed to have occurred on each of such dates.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2003-244, § 2, 9-18-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-244" path="§2">Ord. No. 2003-244, § 2, 9-18-03</annotation>
         </annotations>
       </section>
       <section>
@@ -537,7 +526,7 @@
         <heading>Charging station parking.</heading>
         <text>No person shall park any vehicle in any parking space located in any city owned or operated parking garage or parking lot which is clearly marked as being reserved for the use of an electric vehicle charging station located within said parking garage or lot, unless such vehicle is actually using the electric vehicle charging station.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2011-84, § 6, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§6">Ord. No. 2011-84, § 6, 7-14-2011</annotation>
         </annotations>
       </section>
       <section>
@@ -578,14 +567,14 @@
           <text>8:00 a.m. to 8:00 p.m., Monday through Sunday, for all metered parking located in the Hyde Park Village, bound by S. Rome Street to the west, S. Oregon Street to the east, W. De Leon Street to the north and S. Dakota Avenue to the south.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-50), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 90-217, § 2, 8-16-90</annotation>
-          <annotation type="History">Ord. No. 95-260, § 1, 12-14-95</annotation>
-          <annotation type="History">Ord. No. 96-230, §<cite path="1-3">§ 1-3</cite>, 10-17-96</annotation>
-          <annotation type="History">Ord. No. 96-271, § 1, 12-19-96</annotation>
-          <annotation type="History">Ord. No. 97-70, § 1, 4-10-97</annotation>
-          <annotation type="History">Ord. No. 2011-84, § 8, 7-14-2011</annotation>
-          <annotation type="History">Ord. No. 2017-162, § 1, 11-16-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-50), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 90-217" path="§2">Ord. No. 90-217, § 2, 8-16-90</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 95-260" path="§1">Ord. No. 95-260, § 1, 12-14-95</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-230" path="§1-3">Ord. No. 96-230, §<cite path="1-3">§ 1-3</cite>, 10-17-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 96-271" path="§1">Ord. No. 96-271, § 1, 12-19-96</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-70" path="§1">Ord. No. 97-70, § 1, 4-10-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§8">Ord. No. 2011-84, § 8, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-162" path="§1">Ord. No. 2017-162, § 1, 11-16-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -612,13 +601,13 @@
           <text>When signs are erected giving notice of time limits, no person shall park a vehicle in any parking meter space and/or zone for a continuous period of time longer than that period of time designated by such signs. In order to enforce this provision no person shall roll the tires of a vehicle or attempt to remove the markings made by a parking enforcement specialist prior to removing the vehicle from the parking space.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-51), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 97-20, §§ 1, 3, 1-23-97</annotation>
-          <annotation type="History">Ord. No. 97-20, §§ 1, 3, 1-23-97</annotation>
-          <annotation type="History">Ord. No. 2000-64, § 1, 3-2-00</annotation>
-          <annotation type="History">Ord. No. 2003-244, § 3, 9-18-03</annotation>
-          <annotation type="History">Ord. No. 2011-84, § 9, 7-14-2011</annotation>
-          <annotation type="History">Ord. No. 2014-16, § 2, 3-6-2014</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-51), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-20" path="§1,3">Ord. No. 97-20, §§ 1, 3, 1-23-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 97-20" path="§1,3">Ord. No. 97-20, §§ 1, 3, 1-23-97</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2000-64" path="§1">Ord. No. 2000-64, § 1, 3-2-00</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-244" path="§3">Ord. No. 2003-244, § 3, 9-18-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§9">Ord. No. 2011-84, § 9, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2014-16" path="§2">Ord. No. 2014-16, § 2, 3-6-2014</annotation>
         </annotations>
       </section>
       <section>
@@ -626,7 +615,7 @@
         <heading>Depositing slugs, etc., in meters.</heading>
         <text>It is unlawful to deposit or cause to be deposited in any parking meter any slug, device, metallic or other substitute for a coin of the United States of America or to make any attempt thereof to defraud the city.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-52), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-52), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -634,7 +623,7 @@
         <heading>Defacing or injuring meters.</heading>
         <text>It is unlawful for any person to deface, injure, tamper with, open or willfully break, destroy or impair the usefulness of any parking meter installed under the terms of <cite path="15">this chapter</cite> or to attach to any meter or post any type of object or thing which may cause damage, concern or safety hazards.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-53), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-53), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Damage to city property, <cite path="1-21">§ 1-21</cite>.</annotation>
         </annotations>
       </section>
@@ -643,7 +632,7 @@
         <heading>Taxicabs, buses, etc., parking in parking meter areas.</heading>
         <text>All taxicabs, buses and motor vehicles for hire are hereby prohibited from parking at any place upon city owned or operated streets, lots, garages or other property known as "parking meter spaces" and at any place in those areas in which parking is restricted as to the length of time for such parking, except between the hours of 10:00 p.m. and 7:00 a.m.</text>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-54), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-54), 9-28-89</annotation>
         </annotations>
       </section>
       <section>
@@ -651,8 +640,8 @@
         <heading>Non-motorized vehicle parking prohibited.</heading>
         <text>Unless otherwise authorized in <cite>this Code</cite>, it shall be unlawful to park any non-motorized vehicle upon any street, alley, or city owned or operated property, other than for loading and unloading. A written warning will be provided prior to the issuance of a ticket. After twelve (12) hours, if the non-motorized vehicle is parked in any prohibited location, a ticket may be issued. Failure to move the non-motorized vehicle in violation from streets, alleys, or city owned or operated property within two (2) hours after the issuance of a ticket shall subject the non-motorized vehicle to immobilization and/or impoundment as provided under <cite path="15">this chapter</cite>.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 3, 6-22-2017</annotation>
-          <annotation type="History">Ord. No. 2020-39, § 3, 6-4-2020</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§3">Ord. No. 2017-90, § 3, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§3">Ord. No. 2020-39, § 3, 6-4-2020</annotation>
         </annotations>
       </section>
       <section>
@@ -700,9 +689,9 @@
           <text>The permit is to be renewed every three (3) months on the city quarterly schedule (January, April, July and October). The renewal request must be submitted fifteen (15) days prior to the expiration date on the permit.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-65), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2001-191, § 1, 8-16-01</annotation>
-          <annotation type="History">Ord. No. 2011-84, § 10, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-65), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2001-191" path="§1">Ord. No. 2001-191, § 1, 8-16-01</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§10">Ord. No. 2011-84, § 10, 7-14-2011</annotation>
         </annotations>
       </section>
       <section>
@@ -721,8 +710,8 @@
           <text>The permit is to be renewed every three (3) months on the city quarterly schedule (January, April, July and October). The renewal request must be submitted fifteen (15) days prior to the expiration date on the permit.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-66), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2011-84, § 11, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-66), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§11">Ord. No. 2011-84, § 11, 7-14-2011</annotation>
         </annotations>
       </section>
       <section>
@@ -753,9 +742,9 @@
           <text>The director may revoke any grant to temporarily reserve a parking meter space or to remove a parking meter, post or parking sign if the use of such grant violates, or conflicts with, any provision of <cite path="15">this chapter</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-67), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 92-160, § 4, 10-1-92</annotation>
-          <annotation type="History">Ord. No. 2011-84, § 12, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-67), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 92-160" path="§4">Ord. No. 92-160, § 4, 10-1-92</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§12">Ord. No. 2011-84, § 12, 7-14-2011</annotation>
         </annotations>
       </section>
       <section>
@@ -866,13 +855,13 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 89-247, § 2(39-68), 9-28-89</annotation>
-          <annotation type="History">Ord. No. 2006-255, § 3, 10-19-06</annotation>
-          <annotation type="History">Ord. No. 2007-235, § 1, 11-15-07</annotation>
-          <annotation type="History">Ord. No. 2008-202, § 1, 12-4-08</annotation>
-          <annotation type="History">Ord. No. 2010-130, § 1, 9-23-2010</annotation>
-          <annotation type="History">Ord. No. 2012-31, § 2, 3-15-2012</annotation>
-          <annotation type="History">Ord. No. 2012-87, § 1, 8-2-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-68), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-255" path="§3">Ord. No. 2006-255, § 3, 10-19-06</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2007-235" path="§1">Ord. No. 2007-235, § 1, 11-15-07</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2008-202" path="§1">Ord. No. 2008-202, § 1, 12-4-08</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2010-130" path="§1">Ord. No. 2010-130, § 1, 9-23-2010</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-31" path="§2">Ord. No. 2012-31, § 2, 3-15-2012</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2012-87" path="§1">Ord. No. 2012-87, § 1, 8-2-2012</annotation>
         </annotations>
       </section>
       <section>
@@ -939,8 +928,8 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2006-255, § 4, 10-19-06</annotation>
-          <annotation type="History">Ord. No. 2011-84, § 13, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-255" path="§4">Ord. No. 2006-255, § 4, 10-19-06</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§13">Ord. No. 2011-84, § 13, 7-14-2011</annotation>
         </annotations>
       </section>
       <section>
@@ -958,7 +947,7 @@
         <heading>Enforcement, in general.</heading>
         <text>Enforcement of parking violations, and impoundment and immobilization of vehicles as provided herein, serves a municipal purpose. Article VIII, section 2(b) of the Florida Constitution along with F.S. § 166.021, gives municipalities "home rule" powers. Article V, Section 1 of the Florida Constitution along with F.S. Ch. 162, empowers local governments to use local code enforcement boards or special magistrates. F.S. Ch. 316, provides the City with original jurisdiction over all streets and highways, except state roads, and allows for the placement of traffic control devices. In addition, F.S. Ch. 316, provides local jurisdictions with the authority to regulate specified activities on streets and highways to include, but not limited to parking and restricting the use of the streets. Municipalities are expressly authorized to regulate the parking of motor vehicles for any purpose with respect to streets, highways, or other property under the jurisdiction of the municipality. It is the intent of <cite path="15">this chapter</cite> to regulate and enforce the enumerated areas within which the city may control certain traffic movements or parking within the jurisdiction of the City of Tampa as provided under F.S. Ch. 316. F.S. Ch. 316, shall be supplemental to any provisions of <cite path="15">this chapter</cite>, but nothing herein shall be in conflict with F.S. Ch. 316. Unless otherwise specified, the regulation and disposition of violations of <cite path="15">this chapter</cite> shall be enforced by using a hearing officer as defined herein.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 6, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§6">Ord. No. 2017-90, § 6, 6-22-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -1022,7 +1011,7 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>A person who wishes to contest a ticket without being assessed additional penalties or costs for delinquency shall complete and submit a written request for a parking violation hearing which must be received by the parking division within fourteen (14) calendar days of the date of the violation. A request for a parking violation hearing shall be on the form prescribed by the parking division (LAM form PD01 or approved online form). Requests shall include a complete name and address of the person contesting the hearing, and if available, a phone number and e-mail address. A copy of the parking ticket must be included with the request for a hearing. Upon such request, a notice of hearing will be issued, confirming the time and date of the hearing. A copy of the person's driver's license and vehicle registration, or other document acceptable to the city attorney's office, will be necessary to set a parking violation hearing. All contested parking violation hearings shall be heard by a hearing officer. The parking division shall send a Notice of Hearing which states:</text>
+          <text>A person who wishes to contest a ticket without being assessed additional penalties or costs for delinquency shall complete and submit a written request for a parking violation hearing which must be received by the parking division within fourteen (14) calendar days of the date of the violation. A request for a parking violation hearing shall be on the form prescribed by the parking division (LAM form PD01 or approved online form). Requests shall include a complete name and address of the person contesting the hearing, and if available, a phone number and e-mail address. A copy of the parking ticket must be included with the request for a hearing. Upon such request, a notice of hearing will be issued, confirming the time and date of the hearing. A copy of the person's driver's license and vehicle registration will be necessary to set a parking violation hearing. All contested parking violation hearings shall be heard by a hearing officer. The parking division shall send a Notice of Hearing which states:</text>
           <para>
             <num>(1)</num>
             <text>The date, time, and location of a pre-scheduled parking violation hearing;</text>
@@ -1069,8 +1058,7 @@
           <text>Payment made pursuant to <cite path="15-121">this section</cite> may be made by authorized legal tender or other forms of payment approved by resolution upon the recommendation of the mayor and approved by the city council.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 7, 6-22-2017</annotation>
-          <annotation type="History">Ord. No. 2020-71, § 1, 9-3-2020</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§7">Ord. No. 2017-90, § 7, 6-22-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -1082,15 +1070,14 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>It is unlawful for any vehicle in violation of <cite path="15">this chapter</cite> to remain in any metered parking space for more than two (2) hours after a ticket has been issued for violation of any provision of <cite path="15">this chapter</cite>. For continuous parking beyond each two-hour period, a new offense shall be deemed to have occurred and a law enforcement officer, a duly certified code enforcement officer, or a parking enforcement specialist is authorized to issue an additional ticket for each subsequent two-hour period.</text>
+          <text>It is unlawful for any vehicle in violation of <cite path="15">this chapter</cite> to remain in any metered parking space for more than two (2) hours after a ticket has been issued for violation of any provision of <cite path="15">this chapter</cite>. For continuous parking beyond each two-hour period, a new offense shall be deemed to have occurred and the Tampa Police Department or the parking division is authorized to issue an additional ticket for each subsequent two-hour period.</text>
         </para>
         <para>
           <num>(c)</num>
           <text>It is unlawful to park a vehicle in violation of <cite path="15">this chapter</cite> which is in habitual parking status. A vehicle meeting the qualifications of habitual parking status commits an additional violation under this sub-section punishable by a penalty of one hundred dollars ($100.00) and shall be immediately immobilized, and if necessary impounded, as provided for under <cite path="15">this chapter</cite>.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 8, 6-22-2017</annotation>
-          <annotation type="History">Ord. No. 2020-96, § 5, 10-1-2020</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§8">Ord. No. 2017-90, § 8, 6-22-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -1165,7 +1152,7 @@
           <text>A finding of violation occurs when a parking ticket is paid, not contested after notice of violation, in default, or after a hearing by a hearing officer results in a finding of violation. All findings of violations are considered an adjudication on the merits.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 9, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§9">Ord. No. 2017-90, § 9, 6-22-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -1188,7 +1175,7 @@
           <text>Failure to pay outstanding penalties or costs after a finding of a violation at a hearing shall result in the ticket being in delinquent status if not paid within the time period allowed.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 10, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§10">Ord. No. 2017-90, § 10, 6-22-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -1231,8 +1218,8 @@
           <text>The city may send all penalties and costs owed under <cite path="15">this chapter</cite> to collections and where authorized by law, place a lien on real or personal property, to include liens for recovering, towing, or storing vehicles as authorized under F.S. § 713.78.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 11, 6-22-2017</annotation>
-          <annotation type="History">Ord. No. 2020-39, § 4, 6-4-2020</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§11">Ord. No. 2017-90, § 11, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§4">Ord. No. 2020-39, § 4, 6-4-2020</annotation>
         </annotations>
       </section>
       <section>
@@ -1251,7 +1238,7 @@
           <text>An owner may request a parking division review by following the same procedures as provided for parking division review under <cite path="15-121|(j)">section 15-121(j)</cite>. However, a parking division review for immobilization shall be made by the close of the next business day after the immobilization and the review shall be done prior to the end of the next business day following the request for a parking division review for immobilization. The director shall establish a procedure for the immediate removal of an immobilization device when a person pays all past due penalties and costs and an immobilization fee as established by resolution, and there are no more tickets in delinquent status.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 12, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§12">Ord. No. 2017-90, § 12, 6-22-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -1259,7 +1246,7 @@
         <heading>Removal of immobilizing device unlawful.</heading>
         <text>It is unlawful for any person to attempt or to remove, damage, destroy or tamper with an immobilizing device affixed to a vehicle by the city. A violation of <cite path="15-127">this section</cite> shall be punished in accordance with City Code <cite path="1-6">Section 1-6</cite>. Release of an immobilized vehicle will take place in accordance with <cite path="15-129">section 15-129</cite>.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 13, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§13">Ord. No. 2017-90, § 13, 6-22-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -1294,7 +1281,7 @@
           <text>A person who requests a post-immobilization hearing waives his or her right to pay the initial penalty and costs due as of the date of the immobilization unless a bond was posted. The hearing officer, after a hearing, shall make a determination as to whether an immobilization was done in accordance with <cite path="15">this chapter</cite>. If the hearing officer determines that the immobilization carried out by the city pursuant to <cite path="15">this chapter</cite> was not in accordance with the applicable ordinances, statutes and regulations, the aggrieved party shall be entitled to a reimbursement of any bond, fines, costs or penalties paid related to the contested immobilization or if the vehicle is still impounded, the vehicle shall be immediately released with a waiver of all fines, costs, and penalties.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 14, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§14">Ord. No. 2017-90, § 14, 6-22-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -1309,7 +1296,7 @@
           <text>A vehicle impounded under <cite path="15">this chapter</cite> may be released upon: payment of all parking penalties, costs, towing, storage, and administrative fees in accordance with F.S. § 713.78; or upon the posting of a cash or surety bond totaling all applicable amounts owed until the disposition of any hearing held in accordance with section F.S. § 713.78. A person who posts a bond under <cite path="15-129">this section</cite> and fails to file a complaint within the time period required under F.S. § 713.78 shall have waived his or her right to a hearing and the total amount of the posted bond shall be forfeited to the city.</text>
         </para>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 15, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§15">Ord. No. 2017-90, § 15, 6-22-2017</annotation>
         </annotations>
       </section>
       <section>
@@ -1317,7 +1304,7 @@
         <heading>Disposition of unrecovered impounded vehicles.</heading>
         <text>Vehicles impounded under <cite path="15">this chapter</cite> which are not recovered may be disposed of in accordance with F.S. § 713.78.</text>
         <annotations>
-          <annotation type="History">Ord. No. 2017-90, § 16, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§16">Ord. No. 2017-90, § 16, 6-22-2017</annotation>
         </annotations>
       </section>
     </container>
