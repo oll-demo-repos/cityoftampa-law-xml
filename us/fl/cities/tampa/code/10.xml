@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of Tampa, Fla., Code">
   <prefix>Chapter</prefix>
   <num>10</num>
   <heading>ELECTIONS</heading>
   <annotation type="Cross References" dest="container">1 <strong>Charter reference— </strong>Elections and vacancies, § 10.01.</annotation>
-  <annotation type="Cross References" dest="container">Related law reference—Elections, Art. VIII.</annotation>
+  <annotation type="Cross References" dest="container">Related law reference— Elections, Art. VIII.</annotation>
   <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Administration, Ch. 2; <cite path="2-500">code of ethics for city officials</cite> and employees, <cite path="2-326">§ 2-326</cite> et seq.; financial disclosure of elected officials, <cite path="2-332">§ 2-332</cite>.</annotation>
   <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>The Florida Election Code, F.S. Ch. 97 et seq.</annotation>
   <section>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of Tampa, Fla., Code">
   <prefix>Chapter</prefix>
   <num>15</num>
   <heading>PARKING</heading>
@@ -40,7 +40,7 @@
         <text><em>Director</em> means the director, or his or her designee, of the department referred to as the City of Tampa Logistics and Asset Management Department but shall include any department which may subsequently assume such duties.</text>
         <text><em>Habitual parking status</em> means any vehicle bearing a license plate that has been issued five (5) or more parking tickets for any violation of <cite path="15">this chapter</cite> within the past three hundred sixty-five (365) calendar days.</text>
         <text><em>Hearing officer</em> means the code enforcement special magistrate assigned to hear parking violation hearings and challenges to parking ticket violations and immobilization of vehicles in accordance with the provisions of <cite path="15">this chapter</cite>.</text>
-        <text><em>Non-motorized vehicle</em> means any vehicle which does not have an attached source of mechanical energy such as an engine in order to make it move, but has to be attached, drawn, pushed, or pulled in order for it to be moved. Non-motorized vehicles include, but are not limited to, travel trailers, watercraft, boats, and watercraft or boat trailers.</text>
+        <text><em>Non-motive vehicle</em> means any vehicle which does not have an attached source of mechanical energy such as an engine in order to make it move, but has to be attached, drawn, pushed, or pulled in order for it to be moved.</text>
         <text><em>Owner</em> means any person, firm, corporation, or association controlling any motor vehicle or mobile home by right of purchase, gift, lease, or otherwise as defined under F.S. § 320.01, as of the date of the violation. The owner of a vehicle bearing a license plate that has been issued a ticket shall be liable for payment of all penalties and costs.</text>
         <text><em>Park</em> or <em>parking</em> means the standing of a vehicle, whether occupied or not, otherwise than temporarily for the purpose of and while actually engaged in loading or unloading merchandise or passengers.</text>
         <text><em>Parking division</em> means the division referred to as the City of Tampa Logistics and Asset Management Parking Division, but shall include any division which may subsequently assume such duties.</text>
@@ -63,7 +63,6 @@
           <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-255" path="§1">Ord. No. 2006-255, § 1, 10-19-06</annotation>
           <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§1">Ord. No. 2011-84, § 1, 7-14-2011</annotation>
           <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§2">Ord. No. 2017-90, § 2, 6-22-2017</annotation>
-          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§1">Ord. No. 2020-39, § 1, 6-4-2020</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
         </annotations>
       </section>
@@ -165,7 +164,7 @@
         </para>
         <para>
           <num>(11)</num>
-          <text>Shuttle service to and from city owned or operated parking facility or property.</text>
+          <text>Shuttle service to and from city-owned or -operated parking facility or property.</text>
         </para>
         <annotations>
           <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-22), 9-28-89</annotation>
@@ -293,11 +292,10 @@
       </section>
       <section>
         <num>15-47</num>
-        <heading>Parking motor vehicles of eighty-six inches or more in width on certain streets prohibited.</heading>
-        <text>No motor vehicle, as defined by Florida Statues as may be amended, of eighty-six (86) inches or more in overall width (not including mirrors) shall be parked on any street, alley, or city owned or operated property, other than for loading and unloading, if parked adjacent to property designated by Chapter 27 of <cite>this Code</cite> as a residential district. A written warning will be provided prior to the issuance of a ticket. After twelve (12) hours, if the motor vehicle is parked in any prohibited location, a ticket may be issued. Failure to move the motor vehicle in violation from streets, alleys, or city owned or operated property within two (2) hours after the issuance of a ticket shall subject the motor vehicle to immobilization and/or impoundment as provided under <cite path="15">this chapter</cite>.</text>
+        <heading>Parking trucks over eighty inches wide on certain streets prohibited.</heading>
+        <text>No truck or tractor and truck of eighty (80) inches or more in overall width shall be parked on any of the streets of the city designated by Chapter 27 of <cite>this Code</cite> as a residential district.</text>
         <annotations>
           <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-41), 9-28-89</annotation>
-          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§2">Ord. No. 2020-39, § 2, 6-4-2020</annotation>
         </annotations>
       </section>
       <section>
@@ -637,11 +635,10 @@
       </section>
       <section>
         <num>15-86</num>
-        <heading>Non-motorized vehicle parking prohibited.</heading>
-        <text>Unless otherwise authorized in <cite>this Code</cite>, it shall be unlawful to park any non-motorized vehicle upon any street, alley, or city owned or operated property, other than for loading and unloading. A written warning will be provided prior to the issuance of a ticket. After twelve (12) hours, if the non-motorized vehicle is parked in any prohibited location, a ticket may be issued. Failure to move the non-motorized vehicle in violation from streets, alleys, or city owned or operated property within two (2) hours after the issuance of a ticket shall subject the non-motorized vehicle to immobilization and/or impoundment as provided under <cite path="15">this chapter</cite>.</text>
+        <heading>Non-motive vehicle parking prohibited.</heading>
+        <text>Unless otherwise authorized in <cite>this Code</cite>, it shall be unlawful to park any non-motive vehicle in a parking meter zone. Failure to move the violation from any and all parking meter zone spaces within two (2) hours after the issuance of a ticket shall subject the non-motive vehicle to immobilization and/or impoundment as provided under <cite path="15">this chapter</cite>.</text>
         <annotations>
           <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§3">Ord. No. 2017-90, § 3, 6-22-2017</annotation>
-          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§3">Ord. No. 2020-39, § 3, 6-4-2020</annotation>
         </annotations>
       </section>
       <section>
@@ -1194,20 +1191,16 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>A violation of <cite path="15-86">section 15-86</cite> exists, relating to non-motorized vehicles;</text>
+            <text>A violation of <cite path="15-86">section 15-86</cite> exists, relating to non-motive vehicles;</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>A violation of <cite path="15-47">section 15-47</cite>, relating to motor vehicles of eighty-six (86) inches or more in overall width;</text>
-          </para>
-          <para>
-            <num>(5)</num>
             <text>Otherwise authorized by Code or law to include F.S. Ch. 316, for violations of Florida's Uniform Traffic Control Laws.</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>In order to ensure the safety of the vehicle, a vehicle immobilized between the hours of 8:00 a.m. and 9:00 p.m. shall be impounded if the reason for the immobilization has not been resolved and the immobilization device has not been removed by 9:00 p.m. on the day of the immobilization. A vehicle immobilized between the hours of 9:00 p.m. and 8:00 a.m. may be immediately impounded. Violations of <cite path="15-86">section 15-86</cite>, relating to non-motorized vehicles, may be immediately impounded or immobilized for the purpose of immediate impoundment and shall not be released until any immobilization and impoundment penalties and costs are paid. Nothing herein shall prohibit a vehicle from being immobilized or impounded where otherwise authorized by Code or law.</text>
+          <text>In order to ensure the safety of the vehicle, a vehicle immobilized between the hours of 8:00 a.m. and 9:00 p.m. shall be impounded if the reason for the immobilization has not been resolved and the immobilization device has not been removed by 9:00 p.m. on the day of the immobilization. A vehicle immobilized between the hours of 9:00 p.m. and 8:00 a.m. may be immediately impounded. Violations of <cite path="15-86">section 15-86</cite>, relating to non-motive vehicles, may be immediately impounded or immobilized for the purpose of immediate impoundment and shall not be released until any immobilization and impoundment penalties and costs are paid. Nothing herein shall prohibit a vehicle from being immobilized or impounded where otherwise authorized by Code or law.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1219,7 +1212,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§11">Ord. No. 2017-90, § 11, 6-22-2017</annotation>
-          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§4">Ord. No. 2020-39, § 4, 6-4-2020</annotation>
         </annotations>
       </section>
       <section>

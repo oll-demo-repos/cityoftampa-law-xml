@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Tampa, Fla., Ord. No. 2020-39">
+  <num>2020-39</num>
+  <heading/>
+  <meta>
+    <stub/>
+    <effective>2020-06-04</effective>
+    <history>
+      <adopted>2020-06-04</adopted>
+    </history>
+    <citations>
+      <citation type="ord">City of Tampa, Fla., Ord. No. 2020-39</citation>
+    </citations>
+  </meta>
+  <section>
+    <num>2</num>
+    <codify:replace doc="City of Tampa, Fla., Code" path="15-47">
+      <section>
+        <num>15-47</num>
+        <heading>Parking motor vehicles of eighty-six inches or more in width on certain streets prohibited.</heading>
+        <text>No motor vehicle, as defined by Florida Statues as may be amended, of eighty-six (86) inches or more in overall width (not including mirrors) shall be parked on any street, alley, or city owned or operated property, other than for loading and unloading, if parked adjacent to property designated by Chapter 27 of <cite>this Code</cite> as a residential district. A written warning will be provided prior to the issuance of a ticket. After twelve (12) hours, if the motor vehicle is parked in any prohibited location, a ticket may be issued. Failure to move the motor vehicle in violation from streets, alleys, or city owned or operated property within two (2) hours after the issuance of a ticket shall subject the motor vehicle to immobilization and/or impoundment as provided under <cite path="15">this chapter</cite>.</text>
+        <annotations>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-41), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§2">Ord. No. 2020-39, § 2, 6-4-2020</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>4</num>
+    <codify:replace doc="City of Tampa, Fla., Code" path="15-125">
+      <section>
+        <num>15-125</num>
+        <heading>Additional penalties and enforcement to include immobilization, impoundment, and use of a collection agency.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The parking division, Tampa Police Department, or personnel as designated by the director are authorized to attach a device that is capable of immobilizing a vehicle as described in <cite path="15">this chapter</cite> when:</text>
+          <para>
+            <num>(1)</num>
+            <text>It is determined that the plate number attached to a vehicle or the owner of a vehicle owes one hundred ($100.00) dollars or more to the parking division as a result of tickets which are in delinquent status, according to the records of the parking division;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A violation of sub<cite path="15-122|(c)">section 15-122(c)</cite> exists, relating to habitual parking status;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A violation of <cite path="15-86">section 15-86</cite> exists, relating to non-motorized vehicles;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>A violation of <cite path="15-47">section 15-47</cite>, relating to motor vehicles of eighty-six (86) inches or more in overall width;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Otherwise authorized by Code or law to include F.S. Ch. 316, for violations of Florida's Uniform Traffic Control Laws.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In order to ensure the safety of the vehicle, a vehicle immobilized between the hours of 8:00 a.m. and 9:00 p.m. shall be impounded if the reason for the immobilization has not been resolved and the immobilization device has not been removed by 9:00 p.m. on the day of the immobilization. A vehicle immobilized between the hours of 9:00 p.m. and 8:00 a.m. may be immediately impounded. Violations of <cite path="15-86">section 15-86</cite>, relating to non-motorized vehicles, may be immediately impounded or immobilized for the purpose of immediate impoundment and shall not be released until any immobilization and impoundment penalties and costs are paid. Nothing herein shall prohibit a vehicle from being immobilized or impounded where otherwise authorized by Code or law.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The clerk of the circuit court and the county court, or the parking division shall supply the Florida Department of Highway Safety and Motor Vehicles with an electronic data file listing persons who have three (3) or more outstanding parking violations or who have any outstanding violations of F.S. § 316.1955. The provisions of F.S. § 320.03(8) shall apply to each person whose name appears on such lists.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The city may send all penalties and costs owed under <cite path="15">this chapter</cite> to collections and where authorized by law, place a lien on real or personal property, to include liens for recovering, towing, or storing vehicles as authorized under F.S. § 713.78.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§11">Ord. No. 2017-90, § 11, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§4">Ord. No. 2020-39, § 4, 6-4-2020</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>1</num>
+    <codify:replace doc="City of Tampa, Fla., Code" path="15-3">
+      <section>
+        <num>15-3</num>
+        <heading>Definitions.</heading>
+        <text>For the purpose of <cite path="15">this chapter</cite>, certain abbreviations, terms, phrases, words and their derivatives shall have the following meanings:</text>
+        <text><em>Calendar days</em> mean and include Saturdays, Sundays, and legal holidays. Thus, in computing any period of time prescribed or allowed by <cite path="15">this chapter</cite>, the day of the act, event or default from which the designated period of time begins to run shall not be included; however, the last day of the period so computed shall be included, even if it is a Saturday, Sunday or legal holiday, any provision of this Code to the contrary notwithstanding. If any period of time under <cite path="15">this chapter</cite> is sought to be complied with by means of mailing, the date of actual receipt of the mail by the parking division, not the date of posting, shall be deemed the date of compliance.</text>
+        <text><em>Coin</em> means any coin, authorized for currency by the United States Government, required to be inserted in parking meters by city resolution or ordinance.</text>
+        <text><em>Delinquent status</em> means a ticket where payment is past due and includes tickets that have not been paid, or for which a request for a parking violation hearing has not been made. A ticket which has been found to be in violation after a hearing shall be in delinquent status if not paid within the time period set. A violation set for a parking violation hearing which results in default shall immediately be in delinquent status. A ticket will remain in delinquent status until paid in full, unless dismissed or found not to be a violation.</text>
+        <text><em>Director</em> means the director, or his or her designee, of the department referred to as the City of Tampa Logistics and Asset Management Department but shall include any department which may subsequently assume such duties.</text>
+        <text><em>Habitual parking status</em> means any vehicle bearing a license plate that has been issued five (5) or more parking tickets for any violation of <cite path="15">this chapter</cite> within the past three hundred sixty-five (365) calendar days.</text>
+        <text><em>Hearing officer</em> means the code enforcement special magistrate assigned to hear parking violation hearings and challenges to parking ticket violations and immobilization of vehicles in accordance with the provisions of <cite path="15">this chapter</cite>.</text>
+        <text><em>Non-motorized vehicle</em> means any vehicle which does not have an attached source of mechanical energy such as an engine in order to make it move, but has to be attached, drawn, pushed, or pulled in order for it to be moved. Non-motorized vehicles include, but are not limited to, travel trailers, watercraft, boats, and watercraft or boat trailers.</text>
+        <text><em>Owner</em> means any person, firm, corporation, or association controlling any motor vehicle or mobile home by right of purchase, gift, lease, or otherwise as defined under F.S. § 320.01, as of the date of the violation. The owner of a vehicle bearing a license plate that has been issued a ticket shall be liable for payment of all penalties and costs.</text>
+        <text><em>Park</em> or <em>parking</em> means the standing of a vehicle, whether occupied or not, otherwise than temporarily for the purpose of and while actually engaged in loading or unloading merchandise or passengers.</text>
+        <text><em>Parking division</em> means the division referred to as the City of Tampa Logistics and Asset Management Parking Division, but shall include any division which may subsequently assume such duties.</text>
+        <text><em>Parking enforcement specialist</em> means a person designated as a parking enforcement specialist who has successfully completed a training program established and approved by the Florida Criminal Justice Standards and Training Commission.</text>
+        <text><em>Parking meter</em> means a mechanical or electronic timing device authorized by ordinance of this municipality to be used for the purpose of regulating or controlling parking and which is actuated by the payment of authorized legal tender by manual or electronic means.</text>
+        <text><em>Parking violation hearing</em> means a hearing by a hearing officer in which a driver or owner of a vehicle bearing a license plate that has been issued a ticket, or an owner of a vehicle who was issued a notice of default status may contest the issuance of a parking ticket or notice of default status. Parking violation hearings shall provide the opportunity for testimony and evidence to be presented and the rules of evidence shall be liberally construed to allow for the presentation of testimony and evidence. Parking violation hearings shall also be used by a person with standing to challenge the immobilization of a vehicle in a post-immobilization hearing.</text>
+        <text><em>Pay station</em> means a type of parking meter which is electronic and which parking time limits are designated on a receipt issued from the pay station.</text>
+        <text><em>Residential guest parking permit</em> means an identification pass affixed to a vehicle issued, temporarily, to a resident located within the residential parking permit only area by the city in accordance with the provisions of <cite path="15-3">this section</cite>.</text>
+        <text><em>Residential parking permit</em> shall mean an identification pass affixed to a vehicle issued to a resident or business located within the residential parking permit only area by the city in accordance with the provisions of <cite path="15-3">this section</cite>.</text>
+        <text><em>Residential parking permit only areas</em> shall mean those areas where the residential parking permit system is in effect. Such areas are designated in <cite path="15-104|(b)">section 15-104(b)</cite>.</text>
+        <text><em>Resident vehicle</em> shall mean a motor vehicle owned or leased by a person residing in the residential parking permit only area.</text>
+        <text><em>Stand</em> or <em>standing</em> means the halting of a vehicle, whether occupied or not, otherwise than temporarily for the purpose of and while actually engaged in receiving or discharging passengers.</text>
+        <text><em>Stop or stopping, when prohibited,</em> means any halting, even momentarily, of a vehicle, whether occupied or not, except when necessary to avoid conflict with other traffic or to comply with the direction of a law enforcement officer or traffic-control sign or signal.</text>
+        <text><em>Ticket</em> means a citation issued for a violation of the Code as described in <cite path="15">this chapter</cite>.</text>
+        <text><em>Vehicle</em> means every device in, upon or by which any person or property is or may be transported or drawn upon any public street within the city, excepting devices moved by human power or used exclusively upon stationary rails or tracks.</text>
+        <annotations>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-3), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 94-148" path="§1">Ord. No. 94-148, § 1, 8-4-94</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2003-244" path="§1">Ord. No. 2003-244, § 1, 9-18-03</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-255" path="§1">Ord. No. 2006-255, § 1, 10-19-06</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2011-84" path="§1">Ord. No. 2011-84, § 1, 7-14-2011</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§2">Ord. No. 2017-90, § 2, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§1">Ord. No. 2020-39, § 1, 6-4-2020</annotation>
+          <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Definitions and rules of construction generally, <cite path="1-2">§ 1-2</cite>.</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>3</num>
+    <codify:replace doc="City of Tampa, Fla., Code" path="15-86">
+      <section>
+        <num>15-86</num>
+        <heading>Non-motorized vehicle parking prohibited.</heading>
+        <text>Unless otherwise authorized in <cite>this Code</cite>, it shall be unlawful to park any non-motorized vehicle upon any street, alley, or city owned or operated property, other than for loading and unloading. A written warning will be provided prior to the issuance of a ticket. After twelve (12) hours, if the non-motorized vehicle is parked in any prohibited location, a ticket may be issued. Failure to move the non-motorized vehicle in violation from streets, alleys, or city owned or operated property within two (2) hours after the issuance of a ticket shall subject the non-motorized vehicle to immobilization and/or impoundment as provided under <cite path="15">this chapter</cite>.</text>
+        <annotations>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2017-90" path="§3">Ord. No. 2017-90, § 3, 6-22-2017</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2020-39" path="§3">Ord. No. 2020-39, § 3, 6-4-2020</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>~</num>
+    <codify:replace doc="City of Tampa, Fla., Code" path="15-27">
+      <section>
+        <num>15-27</num>
+        <heading>Same—Types enumerated.</heading>
+        <text>Fees may be charged for the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Use of a city owned or operated parking meter zone or space or other parking facility or property;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Late payments of fees for monthly parking in a city owned or operated parking facility or property;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Special parking permits;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Business parking permits;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Residential parking permits;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Guest residential parking permits;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Replacement of special parking permits, business parking permits residential parking permits and guest residential parking permits;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Adjustments to special parking permits, business parking permits, residential parking permits and guest residential parking permits and such as adjustments required by vehicle tag number changes;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Granted requests to reserve parking meter spaces or to remove parking meters or parking signs and reinstallation thereof;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Immobilization and impoundment of vehicles as provided for in <cite path="15">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Shuttle service to and from city owned or operated parking facility or property.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-247" path="§2">Ord. No. 89-247, § 2(39-22), 9-28-89</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 90-217" path="§1">Ord. No. 90-217, § 1, 8-16-90</annotation>
+          <annotation type="History" doc="City of Tampa, Fla., Ord. No. 2006-255" path="§2">Ord. No. 2006-255, § 2, 10-19-06</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+  </section>
+</document>

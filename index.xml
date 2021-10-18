@@ -12,6 +12,7 @@
       <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
       <html/>
     </canonical-urls>
+    <history-start>2020-02-20</history-start>
   </meta>
   <xi:include href="./us/fl/cities/tampa/code/index.xml"/>
   <collection name="us/fl/cities/tampa/ordinances">

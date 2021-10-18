@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of Tampa, Fla., Code">
   <prefix>Chapter</prefix>
   <num>11</num>
   <heading>FIRE PREVENTION AND PROTECTION</heading>
-  <annotation type="Cross References" dest="container">1 Related law references—Fire prevention and protection, Art. X; pension fund for firemen and policemen, Art. XVI.</annotation>
+  <annotation type="Cross References" dest="container">1 Related law references— Fire prevention and protection, Art. X; pension fund for firemen and policemen, Art. XVI.</annotation>
   <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Building and construction regulations, Ch. 5; alarm systems, <cite path="14-261">§ 14-261</cite> et seq.; use of fire hydrants for other than firefighting purposes, <cite path="26-93">§ 26-93</cite>; private fire protection systems generally, <cite path="26-94">§ 26-94</cite>; connection of fire protection systems, <cite path="26-95">§ 26-95</cite>; requirements for fire hydrants, <cite path="26-96">§ 26-96</cite>.</annotation>
   <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Fire prevention and control, F.S. Ch. 633; local fire chief authorized to enforce laws and rules of state fire marshal, F.S. § 633.121; manufacture, distribution and use of explosives, F.S. Ch. 552; sale of fireworks, F.S. Ch. 791.</annotation>
   <container>
@@ -600,7 +600,7 @@
         <annotations>
           <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-234" path="§2">Ord. No. 89-234, § 2(14-72), 9-28-89</annotation>
           <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Unsafe buildings, work and nonconforming structures, <cite path="5-228">§ 5-228</cite>; certain structures declared public nuisance, <cite path="19-48">§ 19-48</cite>.</annotation>
-          <annotation type="Cross References" dest="container"><strong>Related law reference—</strong>Dangerous and unsafe buildings, Art. VI.</annotation>
+          <annotation type="Cross References" dest="container"><strong>Related law reference—</strong> Dangerous and unsafe buildings, Art. VI.</annotation>
         </annotations>
       </section>
       <section>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of Tampa, Fla., Code">
   <prefix>Chapter</prefix>
   <num>14</num>
   <heading>OFFENSES</heading>
@@ -2055,7 +2055,7 @@
         <para>
           <num>(2)</num>
           <text>Any person from using bathroom facilities within an adult use so long as such use does not include the intentional touching of the specified anatomical areas of another person or such persons engaging in any specified sexual activity.</text>
-          <text>[<em>Specified anatomical areas</em> are defined as less than completely and opaquely covered human genitals or pubic region, buttocks, and/or female breasts below a point immediately above the top of the areola; and/or human male genitals in a discernibly turgid state, even if completely and opaquely covered.</text>
+          <text>[ <em>Specified anatomical areas</em> are defined as less than completely and opaquely covered human genitals or pubic region, buttocks, and/or female breasts below a point immediately above the top of the areola; and/or human male genitals in a discernibly turgid state, even if completely and opaquely covered.</text>
           <text><em>Specified sexual activities</em> are defined as human genitals in a state of sexual stimulation or arousal, acts of cunnilingus, fellation, masturbation, sexual intercourse, sodomy, whether actual or simulated and/or fondling or other erotic touching of human genitals, pubic region, buttocks or female breasts. For definitions of any other words used herein refer to <cite>City of Tampa Code</cite>, including <cite path="14-147">Section 14-147</cite>.]"</text>
         </para>
         <annotations>
@@ -2560,7 +2560,7 @@
       <text><em>dBC</em> means a C-weighted unit of sound level.</text>
       <text><em>Decibel</em> means a unit of measurement of sound pressure equal to 20 times the logarithm to the base 10 of the ratio of the pressure of the sound measured to the reference pressure, which is 20 micropascals (20 micronewtons per square meter).</text>
       <text><em>Emergency</em> means any occurrence or set of circumstances involving actual or imminent physical trauma or injury, natural resource damage, or property damage which demands immediate action.</text>
-      <text><em>L</em><sub><em>eq</em></sub><em>(equivalent sound pressure level)</em> means the constant sound level that, in a given situation and time period, conveys the same sound energy as the actual time-varying sound.</text>
+      <text><em>L </em><sub><em>eq </em></sub><em>(equivalent sound pressure level) </em>means the constant sound level that, in a given situation and time period, conveys the same sound energy as the actual time-varying sound.</text>
       <text><em>Loudspeaker</em> means a device that converts an electrical audio signal into a corresponding sound.</text>
       <text><em>Officer</em> means any designated employee or agent of the City of Tampa whose duty it is to enforce codes and ordinances enacted by the city and may include, but shall not be limited to, code inspectors, law enforcement officers, or fire safety inspectors.</text>
       <text><em>Person(s)</em> means to include, but is not limited to, any individual, natural person, firm, partnership, joint venture, syndicate or other group, or combination acting as a unit, association, corporation, estate, trust, business trust, trustee, executor, administrator, receiver, or other fiduciary, or other entity whatsoever or any combination of such, jointly and severally.</text>
@@ -2893,7 +2893,7 @@
     <num path-omit="true">V</num>
     <heading>BOATS, DOCKS AND WATERWAYS</heading>
     <annotation type="Editor's Notes" dest="container">10 <strong>Editor's note—</strong> Ord. No. 2012-38, §<cite path="2-23">§ 2-23</cite>, adopted April 4, 2012, amended article V in its entirety to read as herein set out. Former article V, §<cite path="14-196">§ 14-196</cite>-14-216, pertained to similar subject matter. See the Code Comparative Table for history.</annotation>
-    <annotation type="Cross References" dest="container">Related law references—Regulation of watercraft, § 2.03; Hillsborough County Port District and Tampa Port Authority, Laws of Fla., Ch. 84-447 (See Part C of Charter and Related Laws).</annotation>
+    <annotation type="Cross References" dest="container">Related law references— Regulation of watercraft, § 2.03; Hillsborough County Port District and Tampa Port Authority, Laws of Fla., Ch. 84-447 (See Part C of Charter and Related Laws).</annotation>
     <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Animals prohibited upon beach areas owned or operated by city, <cite path="16-7">§ 16-7</cite>; Ben T. Davis Municipal Beach, <cite path="16-66">§ 16-66</cite> et seq.; city yacht basins, <cite path="16-106">§ 16-106</cite> et seq.</annotation>
     <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Beach and shore preservation act, F.S. Ch. 161; tidal lands and bulkheads, F.S. § 253.12 et seq.; protection of ports and harbors, F.S. Ch. 309; Florida vessel registration and safety law, F.S. Ch. 327; local regulations qualified, F.S. § 327.60; conservation, F.S. Ch. 369 et seq.</annotation>
     <section>
@@ -3762,7 +3762,7 @@
     <prefix>ARTICLE</prefix>
     <num path-omit="true">VI</num>
     <heading>POLLUTION OF NAVIGABLE WATERS</heading>
-    <annotation type="Cross References" dest="container">11 Related law reference—Hillsborough River, Art. XXI, Div. 3.</annotation>
+    <annotation type="Cross References" dest="container">11 Related law reference— Hillsborough River, Art. XXI, Div. 3.</annotation>
     <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Placing litter in streams, etc., <cite path="19-53">§ 19-53</cite>; placing solid waste in streams, etc., <cite path="26-149">§ 26-149</cite>.</annotation>
     <annotation type="Cross References" dest="container"><strong>State Law reference— </strong>Environmental control, F.S. Ch. 403.</annotation>
     <section>
@@ -3790,7 +3790,7 @@
       <text>It is unlawful for any person to place, throw or deposit or cause to be placed, discharged or deposited oil, petroleum or oil products in any sewer which empties into any navigable waters or any place in or near the bank or shore spaces of any such navigable waters in such place that the same may run or be washed into or upon such navigable waters.</text>
       <annotations>
         <annotation type="History" doc="City of Tampa, Fla., Ord. No. 89-238" path="§2">Ord. No. 89-238, § 2(24-178), 9-28-89</annotation>
-        <annotation type="Cross References" dest="container"><strong>Cross reference— </strong>Protection of public drainage systems, <cite path="21-9">§ 21-9</cite>; sanitary sewers, <cite path="26-116">§ 26-116</cite> et seq.</annotation>
+        <annotation type="Cross References" dest="container"><strong>Cross reference—</strong> Protection of public drainage systems, <cite path="21-9">§ 21-9</cite>; sanitary sewers, <cite path="26-116">§ 26-116</cite> et seq.</annotation>
       </annotations>
     </section>
     <section>
@@ -3879,11 +3879,11 @@
         <heading>Response to false alarm; required reports; corrective action; fees and preventative maintenance.</heading>
         <para>
           <num>(a)</num>
-          <text>[<em>Responsibility for false alarm.</em>] For the purpose of this division, responsibility for a false alarm shall be borne by the owner or lessee of the alarm system or his employee, servant or agent occupying and/or controlling the premises at the time of the occurrence of a false alarm.</text>
+          <text>[ <em>Responsibility for false alarm.</em> ] For the purpose of this division, responsibility for a false alarm shall be borne by the owner or lessee of the alarm system or his employee, servant or agent occupying and/or controlling the premises at the time of the occurrence of a false alarm.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>[<em>Response; when.</em>] A response to a false alarm shall result when any police department personnel are dispatched to or otherwise learn of the activation of any alarm system.</text>
+          <text>[ <em>Response; when.</em> ] A response to a false alarm shall result when any police department personnel are dispatched to or otherwise learn of the activation of any alarm system.</text>
         </para>
         <para>
           <num>(c)</num>
